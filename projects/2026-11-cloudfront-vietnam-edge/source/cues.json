@@ -1,0 +1,409 @@
+{
+  "scenes": [
+    {
+      "id": "h1",
+      "band": "mid"
+    },
+    {
+      "id": "p1",
+      "in": "cut",
+      "at": {
+        "sentence": 4,
+        "word": "Bình"
+      },
+      "band": "mid"
+    },
+    {
+      "id": "s1",
+      "in": "cut",
+      "at": {
+        "sentence": 7,
+        "word": "Câu"
+      },
+      "band": "mid"
+    },
+    {
+      "id": "s2",
+      "in": "slide",
+      "at": {
+        "sentence": 10,
+        "word": "Khi"
+      },
+      "band": "mid"
+    },
+    {
+      "id": "h2",
+      "in": "cut",
+      "at": {
+        "sentence": 11,
+        "word": "Nếu"
+      },
+      "band": "mid"
+    },
+    {
+      "id": "m1",
+      "in": "cut",
+      "at": {
+        "sentence": 14,
+        "word": "Nhưng"
+      },
+      "band": "mid"
+    },
+    {
+      "id": "m2",
+      "in": "slide",
+      "at": {
+        "sentence": 17,
+        "word": "Nếu"
+      },
+      "band": "mid"
+    },
+    {
+      "id": "l1",
+      "in": "cut",
+      "at": {
+        "sentence": 20,
+        "word": "Tất"
+      },
+      "band": "mid"
+    },
+    {
+      "id": "r1",
+      "in": "cut",
+      "at": {
+        "sentence": 23,
+        "word": "Đó"
+      },
+      "band": "mid"
+    },
+    {
+      "id": "e1",
+      "in": "fade",
+      "at": {
+        "sentence": 25,
+        "word": "Góc"
+      },
+      "band": "mid"
+    }
+  ],
+  "beats": {
+    "h1-laptop": {
+      "sentence": 1,
+      "word": "Bạn"
+    },
+    "h1-req": {
+      "sentence": 1,
+      "word": "truy"
+    },
+    "h1-arc": {
+      "sentence": 1,
+      "word": "máy"
+    },
+    "h1-hcm": {
+      "sentence": 1,
+      "word": "Việt"
+    },
+    "h1-km": {
+      "sentence": 2,
+      "word": "mười"
+    },
+    "h1-q": {
+      "sentence": 3,
+      "word": "nhanh"
+    },
+    "p1-tile": {
+      "sentence": 4,
+      "word": "cáp"
+    },
+    "p1-route": {
+      "sentence": 4,
+      "word": "mạng"
+    },
+    "p1-hops": {
+      "sentence": 4,
+      "word": "qua"
+    },
+    "p1-chain": {
+      "sentence": 4,
+      "word": "dữ"
+    },
+    "p1-line": {
+      "sentence": 4,
+      "word": "tuyến"
+    },
+    "p1-gauge": {
+      "sentence": 5,
+      "word": "Khoảng"
+    },
+    "p1-needle": {
+      "sentence": 5,
+      "word": "trễ"
+    },
+    "s1-globe": {
+      "sentence": 7,
+      "word": "Câu"
+    },
+    "s1-edges": {
+      "sentence": 8,
+      "word": "phân"
+    },
+    "s1-logo": {
+      "sentence": 8,
+      "word": "CloudFront"
+    },
+    "s1-edgebox": {
+      "sentence": 8,
+      "word": "Edge"
+    },
+    "s1-han": {
+      "sentence": 9,
+      "word": "Hà"
+    },
+    "s1-lab-han": {
+      "sentence": 9,
+      "word": "Nội"
+    },
+    "s1-hcm": {
+      "sentence": 9,
+      "word": "Thành"
+    },
+    "s1-lab-hcm": {
+      "sentence": 9,
+      "word": "Minh"
+    },
+    "s2-zoom": {
+      "sentence": 10,
+      "word": "bạn"
+    },
+    "s2-rt-edge": {
+      "sentence": 10,
+      "word": "định"
+    },
+    "s2-rt-han": {
+      "sentence": 10,
+      "word": "đến"
+    },
+    "s2-rt-sgp": {
+      "sentence": 10,
+      "word": "phục"
+    },
+    "s2-user": {
+      "sentence": 10,
+      "word": "truy"
+    },
+    "s2-ehcm": {
+      "sentence": 10,
+      "word": "gần"
+    },
+    "s2-ehan": {
+      "sentence": 10,
+      "word": "thể"
+    },
+    "s2-esgp": {
+      "sentence": 10,
+      "word": "vụ"
+    },
+    "s2-chip": {
+      "sentence": 10,
+      "word": "request"
+    },
+    "s2-chain": {
+      "sentence": 10,
+      "word": "Edge"
+    },
+    "h2-shelf": {
+      "sentence": 11,
+      "word": "hình"
+    },
+    "h2-chip": {
+      "sentence": 11,
+      "word": "cache"
+    },
+    "h2-user": {
+      "sentence": 11,
+      "word": "Nếu"
+    },
+    "h2-ehcm": {
+      "sentence": 11,
+      "word": "lưu"
+    },
+    "h2-loop": {
+      "sentence": 12,
+      "word": "Cache"
+    },
+    "h2-hit": {
+      "sentence": 12,
+      "word": "Hit"
+    },
+    "h2-tick": {
+      "sentence": 13,
+      "word": "server"
+    },
+    "h2-cross": {
+      "sentence": 13,
+      "word": "server"
+    },
+    "m1-shelf": {
+      "sentence": 14,
+      "word": "nội"
+    },
+    "m1-chip": {
+      "sentence": 14,
+      "word": "chưa"
+    },
+    "m1-chain": {
+      "sentence": 14,
+      "word": "nếu"
+    },
+    "m1-pill": {
+      "sentence": 15,
+      "word": "Miss"
+    },
+    "m1-bypass": {
+      "sentence": 16,
+      "word": "Regional"
+    },
+    "m2-route": {
+      "sentence": 17,
+      "word": "gốc"
+    },
+    "m2-chain": {
+      "sentence": 17,
+      "word": "gửi"
+    },
+    "m2-hcm": {
+      "sentence": 18,
+      "word": "lưu"
+    },
+    "m2-fe": {
+      "sentence": 18,
+      "word": "cache"
+    },
+    "m2-fr": {
+      "sentence": 18,
+      "word": "nội"
+    },
+    "m2-next": {
+      "sentence": 19,
+      "word": "Những"
+    },
+    "m2-next-lines": {
+      "sentence": 19,
+      "word": "tiếp"
+    },
+    "l1-split": {
+      "sentence": 20,
+      "word": "Tất"
+    },
+    "l1-lc": {
+      "sentence": 21,
+      "word": "Ảnh"
+    },
+    "l1-c0": {
+      "sentence": 21,
+      "word": "Ảnh"
+    },
+    "l1-c1": {
+      "sentence": 21,
+      "word": "logo"
+    },
+    "l1-c2": {
+      "sentence": 21,
+      "word": "JavaScript"
+    },
+    "l1-lb": {
+      "sentence": 22,
+      "word": "backend"
+    },
+    "l1-r0": {
+      "sentence": 22,
+      "word": "tài"
+    },
+    "l1-r1": {
+      "sentence": 22,
+      "word": "giỏ"
+    },
+    "l1-r2": {
+      "sentence": 22,
+      "word": "thanh"
+    },
+    "l1-back-path": {
+      "sentence": 22,
+      "word": "đi"
+    },
+    "l1-chain": {
+      "sentence": 22,
+      "word": "phải"
+    },
+    "r1-arc": {
+      "sentence": 23,
+      "word": "thay"
+    },
+    "r1-edges": {
+      "sentence": 23,
+      "word": "gần"
+    },
+    "r1-hcm": {
+      "sentence": 23,
+      "word": "CDN"
+    },
+    "r1-han": {
+      "sentence": 23,
+      "word": "dùng"
+    },
+    "r1-thesis": {
+      "sentence": 23,
+      "word": "đưa"
+    },
+    "r1-ring": {
+      "sentence": 24,
+      "word": "Và"
+    },
+    "r1-logo": {
+      "sentence": 24,
+      "word": "CloudFront"
+    },
+    "r1-lbl": {
+      "sentence": 24,
+      "word": "Amazon"
+    },
+    "r1-tick": {
+      "sentence": 24,
+      "word": "nhanh"
+    },
+    "e1-logo": {
+      "sentence": 25,
+      "word": "Góc"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "h1-km",
+      "sound": "click"
+    },
+    {
+      "beat": "p1-gauge",
+      "sound": "pop"
+    },
+    {
+      "beat": "s1-logo",
+      "sound": "pop"
+    },
+    {
+      "beat": "s2-rt-edge",
+      "sound": "laser"
+    },
+    {
+      "beat": "h2-hit",
+      "sound": "pop"
+    },
+    {
+      "beat": "m1-pill",
+      "sound": "pop"
+    },
+    {
+      "beat": "r1-logo",
+      "sound": "pop"
+    }
+  ]
+}
