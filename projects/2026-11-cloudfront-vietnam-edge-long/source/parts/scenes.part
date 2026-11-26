@@ -1,0 +1,1000 @@
+      <div class="scene clip" id="sc-h1" data-start="@@start:h1@@" data-duration="@@dur:h1@@" data-track-index="1">
+        <div class="wrap" id="w-h1">
+<div class="label" id="h1-series" style="left:160px; top:80px; display:flex; align-items:center; gap:12px;"><img src="assets/logos/goc-nhin-dev-logo.png" alt="" style="width:40px;height:40px;object-fit:contain;"><img src="assets/logos/aws/cloudfront.svg" alt="" style="width:40px;height:40px;"><span>EP02</span></div>
+          <div class="shot" id="h1-browser" style="left:560px; top:170px; width:800px; height:460px; "><div style="height:64px; border-bottom:2px solid var(--line); display:flex; align-items:center; gap:14px; padding:0 24px;"><span style="width:18px;height:18px;border-radius:50%;background:#E5484D"></span><span style="width:18px;height:18px;border-radius:50%;background:#F5A524"></span><span style="width:18px;height:18px;border-radius:50%;background:#30A46C"></span><span style="flex:1; height:40px; border-radius:20px; background:var(--paper); font-size:40px; line-height:40px; padding-left:20px;">example.com</span></div></div>
+          <div class="label" id="h1-lbl-hcm" style="left:810px; top:661px; width:300px; text-align:center;">TP.HCM</div>
+          <svg class="ico" id="h1-cur" viewBox="0 0 24 24" style="position:absolute; left:1150px; top:430px; width:110px; height:110px;"><use href="#cursor"/></svg>
+          <div class="mapclip" id="h1-map" style="opacity:0;"><div class="cam" id="h1-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <svg class="routes" viewBox="0 0 1600 820" aria-hidden="true"><path id="h1-arc" class="solid" pathLength="1" style="stroke-dasharray:1 1" d="M377.3 512 Q800 -60 1224 307.7"/></svg>
+            <div class="pin " id="h1-p-hcm" style="left:377.3px; top:512px;"></div><div class="pin " id="h1-p-us" style="left:1224px; top:307.7px;"></div>
+          </div></div>
+          <div class="label" id="h1-km" style="left:770px; top:216px; width:380px; text-align:center;">12.000+ km</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-h2" data-start="@@start:h2@@" data-duration="@@dur:h2@@" data-track-index="1">
+        <div class="wrap" id="w-h2">
+          <div class="shot" id="h2-page" style="left:160px; top:80px; width:1600px; height:820px; padding:0; overflow:hidden;"><div style="height:84px; background:var(--surface); display:flex; align-items:center; padding:0 40px; font-size:40px; font-weight:800;">Cửa hàng</div><div id="h2-pg-body" style="position:relative; height:736px;"><div class="sub" id="h2-hdr" style="left:60px; top:50px; font-size:56px;">Sản phẩm mới</div><div id="h2-img0" style="position:absolute; left:60px; top:170px; width:440px; height:300px; border-radius:24px; background:var(--accent); opacity:0.85;"></div><div id="h2-img1" style="position:absolute; left:560px; top:170px; width:440px; height:300px; border-radius:24px; background:var(--accent); opacity:0.85;"></div><div id="h2-img2" style="position:absolute; left:1060px; top:170px; width:440px; height:300px; border-radius:24px; background:var(--accent); opacity:0.85;"></div><div id="h2-txt0" style="position:absolute; left:60px; top:520px; width:1000px; height:22px; border-radius:11px; background:#D7DBE2;"></div><div id="h2-txt1" style="position:absolute; left:60px; top:560px; width:880px; height:22px; border-radius:11px; background:#D7DBE2;"></div><div id="h2-txt2" style="position:absolute; left:60px; top:600px; width:760px; height:22px; border-radius:11px; background:#D7DBE2;"></div><div id="h2-txt3" style="position:absolute; left:60px; top:640px; width:640px; height:22px; border-radius:11px; background:#D7DBE2;"></div><div class="label" id="h2-buy" style="left:1290px; top:600px; width:240px; height:78px; text-align:center;">Mua</div></div></div>
+          <div id="h2-key" style="position:absolute; left:1100px; top:430px; width:260px; height:190px; border-radius:40px; background:var(--surface); box-shadow:0 18px 40px rgba(0,0,0,0.20); display:flex; align-items:center; justify-content:center; font-size:56px; font-weight:800; color:var(--ink);">Enter</div>
+          <div class="label" id="h2-clock" style="left:1410px; top:111px; width:300px; text-align:center;">Đang chạy</div>
+          <svg class="ico" id="h2-cur" viewBox="0 0 24 24" style="position:absolute; left:1000px; top:360px; width:120px; height:120px;"><use href="#cursor"/></svg>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-h3" data-start="@@start:h3@@" data-duration="@@dur:h3@@" data-track-index="1">
+        <div class="wrap" id="w-h3">
+          <div class="shot" id="h3-page" style="left:160px; top:80px; width:1600px; height:820px; padding:0; overflow:hidden;"><div style="height:84px; background:var(--surface); display:flex; align-items:center; padding:0 40px; font-size:40px; font-weight:800;">Cửa hàng</div><div style="position:relative; height:736px;"><div class="sub" style="left:60px; top:50px; font-size:56px;">Sản phẩm mới</div><div style="position:absolute; left:60px; top:170px; width:440px; height:300px; border-radius:24px; background:var(--accent); opacity:0.85;"></div><div style="position:absolute; left:560px; top:170px; width:440px; height:300px; border-radius:24px; background:var(--accent); opacity:0.85;"></div><div style="position:absolute; left:1060px; top:170px; width:440px; height:300px; border-radius:24px; background:var(--accent); opacity:0.85;"></div><div style="position:absolute; left:60px; top:520px; width:1000px; height:22px; border-radius:11px; background:#D7DBE2;"></div><div style="position:absolute; left:60px; top:560px; width:880px; height:22px; border-radius:11px; background:#D7DBE2;"></div><div style="position:absolute; left:60px; top:600px; width:760px; height:22px; border-radius:11px; background:#D7DBE2;"></div><div style="position:absolute; left:60px; top:640px; width:640px; height:22px; border-radius:11px; background:#D7DBE2;"></div></div></div>
+          <div class="mapclip" id="h3-map" style="opacity:0;"><div class="cam" id="h3-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <div class="pin " id="h3-p-hcm" style="left:377.3px; top:512px;"></div><div class="pin " id="h3-p-us" style="left:1224px; top:307.7px;"></div>
+            <div class="pin" id="h3-pkt" style="left:1206px; top:289.7px; width:36px; height:36px; margin:0; border-radius:10px; background:#FFFFFF; border:5px solid var(--accent);"></div>
+            <div class="pin" id="h3-ring" style="left:377.3px; top:512px; width:90px; height:90px; margin:-45px 0 0 -45px; background:transparent; border:6px solid var(--accent); box-shadow:none;"></div>
+          </div></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-h4" data-start="@@start:h4@@" data-duration="@@dur:h4@@" data-track-index="1">
+        <div class="wrap" id="w-h4">
+          <div class="mapclip" id="h4-map"><div class="cam" id="h4-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <svg class="routes" viewBox="0 0 1600 820" aria-hidden="true"><path id="h4-a1" class="solid" pathLength="1" style="stroke-dasharray:1 1" d="M377.3 512 Q800 -60 1224 307.7"/><path id="h4-a2" class="solid" pathLength="1" style="stroke-dasharray:1 1" d="M1224 307.7 Q800 -20 377.3 512"/><path id="h4-a3" class="solid" pathLength="1" style="stroke-dasharray:1 1" d="M377.3 512 Q700 20 1224 307.7"/><path id="h4-a4" class="solid" pathLength="1" style="stroke-dasharray:1 1" d="M1224 307.7 Q900 -110 377.3 512"/><path id="h4-a5" class="solid" pathLength="1" style="stroke-dasharray:1 1" d="M377.3 512 Q410 470 437 452"/></svg>
+            <div class="pin " id="h4-p-hcm" style="left:377.3px; top:512px;"></div><div class="pin " id="h4-p-us" style="left:1224px; top:307.7px;"></div><div class="pin sea" id="h4-q" style="left:437px; top:452px;"></div>
+          </div></div>
+          <div class="label" id="h4-c1" style="left:1460px; top:141px; width:200px; text-align:center;">×1</div><div class="label" id="h4-c2" style="left:1460px; top:141px; width:200px; text-align:center;">×2</div><div class="label" id="h4-c3" style="left:1460px; top:141px; width:200px; text-align:center;">×3</div>
+          <div class="tile" id="h4-img" style="left:300px; top:640px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-image"/></svg></div>
+          <div class="label" id="h4-q-lbl" style="left:900px; top:661px; width:120px; text-align:center;">?</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-h5" data-start="@@start:h5@@" data-duration="@@dur:h5@@" data-track-index="1">
+        <div class="wrap" id="w-h5">
+          <div class="mapclip" id="h5-map"><div class="cam" id="h5-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <svg class="routes" viewBox="0 0 1600 820" aria-hidden="true"><path id="h5-a1" class="solid" pathLength="1" style="stroke-dasharray:1 1" d="M420 250 Q800 120 377.3 512"/><path id="h5-a2" class="solid" pathLength="1" style="stroke-dasharray:1 1" d="M1390 300 Q1000 380 1040 420"/></svg>
+            <div class="pin " id="h5-n0" style="left:300px; top:260px;"></div><div class="pin " id="h5-n1" style="left:420px; top:250px;"></div><div class="pin " id="h5-n2" style="left:560px; top:380px;"></div><div class="pin " id="h5-n3" style="left:700px; top:300px;"></div><div class="pin " id="h5-n4" style="left:820px; top:470px;"></div><div class="pin " id="h5-n5" style="left:980px; top:380px;"></div><div class="pin " id="h5-n6" style="left:1100px; top:520px;"></div><div class="pin " id="h5-n7" style="left:1260px; top:470px;"></div><div class="pin " id="h5-n8" style="left:1390px; top:300px;"></div><div class="pin " id="h5-n9" style="left:600px; top:650px;"></div><div class="pin " id="h5-n10" style="left:900px; top:640px;"></div><div class="pin " id="h5-n11" style="left:1150px; top:640px;"></div><div class="pin " id="h5-n12" style="left:1300px; top:600px;"></div><div class="pin " id="h5-n13" style="left:1450px; top:460px;"></div><div class="pin " id="h5-n14" style="left:260px; top:520px;"></div><div class="pin " id="h5-n15" style="left:1010px; top:240px;"></div>
+          </div></div>
+          <div class="label" id="h5-q" style="left:880px; top:381px; width:160px; text-align:center;">?</div>
+          <div class="label" id="h5-cdn" style="left:800px; top:391px; width:320px; text-align:center;">CDN</div>
+          <div class="sub" id="h5-cdn-sub" style="left:660px; top:500px; width:600px; text-align:center; font-size:44px;">Content Delivery Network</div>
+          <div class="tile big" id="h5-cf" style="left:800px; top:200px;"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+          <div class="label" id="h5-cf-lbl" style="left:680px; top:621px; width:560px; text-align:center;">Amazon CloudFront</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c2o" data-start="@@start:c2o@@" data-duration="@@dur:c2o@@" data-track-index="1">
+        <div class="wrap" id="w-c2o">
+          <div class="num" id="c2o-num" style="left:160px; top:130px;">02</div>
+          <div class="tile big" id="c2o-ic" style="left:800px; top:120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-timer"/></svg></div>
+          <svg class="burst" id="c2o-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1100px; top:130px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c2o-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1500px; top:620px;"><use href="#art-mascot"/></svg>
+          <div class="h1 chap" id="c2o-t" style="top:470px;"><span class="bot">Độ trễ mạng</span></div>
+          <div class="label" id="c2o-lbl" style="left:700px; top:620px; width:520px; text-align:center;">Network Latency</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c2a" data-start="@@start:c2a@@" data-duration="@@dur:c2a@@" data-track-index="1">
+        <div class="wrap" id="w-c2a">
+          <div class="tile" id="c2a-br" style="left:268px; top:360px; width:184px; height:184px; border-radius:40px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:92px; height:92px;"><use href="#i-monitor"/></svg></div>
+          <div class="tile" id="c2a-srv" style="left:1468px; top:360px; width:184px; height:184px; border-radius:40px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:92px; height:92px;"><use href="#i-server"/></svg></div>
+          <div id="c2a-p1" style="position:absolute; left:470px; top:430px; width:36px; height:36px; border-radius:10px; background:var(--accent); box-shadow:0 8px 18px rgba(0,0,0,0.18);"></div>
+          <div id="c2a-p2" style="position:absolute; left:1460px; top:430px; width:36px; height:36px; border-radius:10px; background:#3B82F6; box-shadow:0 8px 18px rgba(0,0,0,0.18);"></div>
+          <div class="label" id="c2a-req" style="left:800px; top:351px; width:320px; text-align:center;">request</div>
+          <div class="label" id="c2a-res" style="left:790px; top:491px; width:340px; text-align:center;">response</div>
+          <svg class="ico" id="c2a-gear" viewBox="0 0 24 24" style="position:absolute; left:1540px; top:600px; width:110px; height:110px; stroke:var(--accent);"><use href="#i-cpu"/></svg>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c2b" data-start="@@start:c2b@@" data-duration="@@dur:c2b@@" data-track-index="1">
+        <div class="wrap" id="w-c2b">
+          <div class="tile" id="c2b-br" style="left:268px; top:360px; width:184px; height:184px; border-radius:40px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:92px; height:92px;"><use href="#i-monitor"/></svg></div>
+          <div class="tile" id="c2b-srv" style="left:1468px; top:360px; width:184px; height:184px; border-radius:40px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:92px; height:92px;"><use href="#i-server"/></svg></div>
+          <div id="c2b-ring" style="position:absolute; left:740px; top:190px; width:440px; height:440px; border-radius:50%; border:10px solid #F5B7B9; box-sizing:border-box;"></div>
+          <div class="tile big" id="c2b-clock" style="left:800px; top:250px;"><svg class="ico" id="c2b-hand" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-timer"/></svg></div>
+          <div class="label" id="c2b-lat" style="left:810px; top:91px; width:300px; text-align:center;">latency</div>
+          <div class="label" id="c2b-rtt" style="left:650px; top:701px; width:620px; text-align:center;">RTT · Round Trip Time</div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c2b-loop" pathLength="1" style="fill:none; stroke:var(--accent); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M452 500 Q960 40 1468 500"/><path id="c2b-back" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1468 560 Q960 980 452 560"/></svg>
+          <div id="c2b-p" style="position:absolute; left:1460px; top:472px; width:36px; height:36px; border-radius:10px; background:var(--accent); box-shadow:0 8px 18px rgba(0,0,0,0.18);"></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c2c" data-start="@@start:c2c@@" data-duration="@@dur:c2c@@" data-track-index="1">
+        <div class="wrap" id="w-c2c">
+          <div class="mapclip" id="c2c-map"><div class="cam" id="c2c-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <svg class="routes" viewBox="0 0 1600 820" aria-hidden="true"><path id="c2c-ruler" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M377.3 512 Q800.65 409.85 1224 307.7"/></svg>
+            <div class="pin " id="c2c-p-hcm" style="left:377.3px; top:512px;"></div><div class="pin " id="c2c-p-us" style="left:1224px; top:307.7px;"></div>
+          </div></div>
+          <div id="c2c-fib" style="position:absolute; left:160px; top:80px; width:1600px; height:820px; border-radius:28px; overflow:hidden; background:#0E1116; opacity:0;"><svg viewBox="0 0 1600 820" width="1600" height="820" aria-hidden="true" style="position:absolute; left:0; top:0;"><path d="M160 220 C 560 120, 1200 420, 1760 260" style="fill:none; stroke:var(--accent); stroke-width:4; opacity:0.35;"/><path d="M160 258 C 560 150, 1200 442, 1760 304" style="fill:none; stroke:#FFFFFF; stroke-width:2; opacity:0.44999999999999996;"/><path d="M160 296 C 560 180, 1200 464, 1760 348" style="fill:none; stroke:#FFFFFF; stroke-width:2; opacity:0.55;"/><path d="M160 334 C 560 210, 1200 486, 1760 392" style="fill:none; stroke:var(--accent); stroke-width:4; opacity:0.65;"/><path d="M160 372 C 560 240, 1200 508, 1760 436" style="fill:none; stroke:#FFFFFF; stroke-width:2; opacity:0.75;"/><path d="M160 410 C 560 270, 1200 530, 1760 480" style="fill:none; stroke:#FFFFFF; stroke-width:2; opacity:0.35;"/><path d="M160 448 C 560 300, 1200 552, 1760 524" style="fill:none; stroke:var(--accent); stroke-width:4; opacity:0.44999999999999996;"/><path d="M160 486 C 560 330, 1200 574, 1760 568" style="fill:none; stroke:#FFFFFF; stroke-width:2; opacity:0.55;"/><path d="M160 524 C 560 360, 1200 596, 1760 612" style="fill:none; stroke:#FFFFFF; stroke-width:2; opacity:0.65;"/><path d="M160 562 C 560 390, 1200 618, 1760 656" style="fill:none; stroke:var(--accent); stroke-width:4; opacity:0.75;"/><path d="M160 600 C 560 420, 1200 640, 1760 700" style="fill:none; stroke:#FFFFFF; stroke-width:2; opacity:0.35;"/><path d="M160 638 C 560 450, 1200 662, 1760 744" style="fill:none; stroke:#FFFFFF; stroke-width:2; opacity:0.44999999999999996;"/><path d="M160 676 C 560 480, 1200 684, 1760 788" style="fill:none; stroke:var(--accent); stroke-width:4; opacity:0.55;"/><path d="M160 714 C 560 510, 1200 706, 1760 832" style="fill:none; stroke:#FFFFFF; stroke-width:2; opacity:0.65;"/></svg></div>
+          <div id="c2c-sign" style="position:absolute; left:810px; top:260px; width:300px; height:300px; opacity:0;"><svg viewBox="0 0 200 200" width="300" height="300" aria-hidden="true"><circle cx="100" cy="100" r="88" fill="#FFFFFF" stroke="#E5484D" stroke-width="18"/><text x="100" y="134" font-size="92" font-weight="800" text-anchor="middle" fill="#14171C">∞</text><line x1="38" y1="162" x2="162" y2="38" stroke="#E5484D" stroke-width="16" stroke-linecap="round"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c2d" data-start="@@start:c2d@@" data-duration="@@dur:c2d@@" data-track-index="1">
+        <div class="wrap" id="w-c2d">
+          <div class="tile" id="c2d-n0" style="left:200px; top:320px; width:120px; height:120px; border-radius:30px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-router"/></svg></div><div class="tile" id="c2d-n1" style="left:375px; top:320px; width:120px; height:120px; border-radius:30px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-building-2"/></svg></div><div class="tile" id="c2d-n2" style="left:550px; top:320px; width:120px; height:120px; border-radius:30px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-network"/></svg></div><div class="tile" id="c2d-n3" style="left:725px; top:320px; width:120px; height:120px; border-radius:30px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-router"/></svg></div><div class="tile" id="c2d-n4" style="left:900px; top:320px; width:120px; height:120px; border-radius:30px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-building-2"/></svg></div><div class="tile" id="c2d-n5" style="left:1075px; top:320px; width:120px; height:120px; border-radius:30px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-network"/></svg></div><div class="tile" id="c2d-n6" style="left:1250px; top:320px; width:120px; height:120px; border-radius:30px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-router"/></svg></div><div class="tile" id="c2d-n7" style="left:1425px; top:320px; width:120px; height:120px; border-radius:30px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-building-2"/></svg></div><div class="tile" id="c2d-n8" style="left:1600px; top:320px; width:120px; height:120px; border-radius:30px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-globe"/></svg></div>
+          <div class="tile" id="c2d-r0" style="left:640px; top:620px; width:120px; height:120px; border-radius:30px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-router"/></svg></div><div class="tile" id="c2d-r1" style="left:900px; top:620px; width:120px; height:120px; border-radius:30px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-router"/></svg></div><div class="tile" id="c2d-r2" style="left:1160px; top:620px; width:120px; height:120px; border-radius:30px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-server"/></svg></div>
+          <div id="c2d-p1" style="position:absolute; left:242px; top:362px; width:36px; height:36px; border-radius:10px; background:var(--accent); box-shadow:0 8px 18px rgba(0,0,0,0.18);"></div>
+          <div id="c2d-p2" style="position:absolute; left:682px; top:662px; width:36px; height:36px; border-radius:10px; background:#3B82F6; box-shadow:0 8px 18px rgba(0,0,0,0.18);"></div>
+          <div class="label" id="c2d-l1" style="left:810px; top:191px; width:300px; text-align:center;">Đến Mỹ</div>
+          <div class="label" id="c2d-l2" style="left:750px; top:521px; width:420px; text-align:center;">Trong khu vực</div>
+          <div class="pin" id="c2d-ring" style="left:435px; top:380px; width:150px; height:150px; margin:-75px 0 0 -75px; background:transparent; border:6px solid var(--accent); box-shadow:none;"></div>
+          <div class="pin" id="c2d-usring" style="left:1660px; top:380px; width:150px; height:150px; margin:-75px 0 0 -75px; background:transparent; border:6px solid var(--accent); box-shadow:none;"></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c2e" data-start="@@start:c2e@@" data-duration="@@dur:c2e@@" data-track-index="1">
+        <div class="wrap" id="w-c2e">
+          <div id="c2e-axis" style="position:absolute; left:420px; top:180px; width:1320px; height:4px; background:var(--ink); transform-origin:0% 50%;"></div>
+          
+          <div class="label" id="c2e-lbl0" style="left:200px; top:231px; width:200px; text-align:center;">HTML</div>
+          <div id="c2e-g0" style="position:absolute; left:440px; top:240px; width:160px; height:60px; border-radius:12px; background:#D7DBE2;"></div>
+          <div class="c2e-red" id="c2e-r0" style="position:absolute; left:440px; top:240px; width:120px; height:60px; border-radius:12px; background:#E5484D; transform-origin:0% 50%;"></div>
+          <div class="label" id="c2e-lbl1" style="left:200px; top:331px; width:200px; text-align:center;">CSS</div>
+          <div id="c2e-g1" style="position:absolute; left:560px; top:340px; width:200px; height:60px; border-radius:12px; background:#D7DBE2;"></div>
+          <div class="c2e-red" id="c2e-r1" style="position:absolute; left:560px; top:340px; width:120px; height:60px; border-radius:12px; background:#E5484D; transform-origin:0% 50%;"></div>
+          <div class="label" id="c2e-lbl2" style="left:200px; top:431px; width:200px; text-align:center;">JS</div>
+          <div id="c2e-g2" style="position:absolute; left:740px; top:440px; width:260px; height:60px; border-radius:12px; background:#D7DBE2;"></div>
+          <div class="c2e-red" id="c2e-r2" style="position:absolute; left:740px; top:440px; width:120px; height:60px; border-radius:12px; background:#E5484D; transform-origin:0% 50%;"></div>
+          <div class="label" id="c2e-lbl3" style="left:200px; top:531px; width:200px; text-align:center;">IMG</div>
+          <div id="c2e-g3" style="position:absolute; left:820px; top:540px; width:300px; height:60px; border-radius:12px; background:#D7DBE2;"></div>
+          <div class="c2e-red" id="c2e-r3" style="position:absolute; left:820px; top:540px; width:120px; height:60px; border-radius:12px; background:#E5484D; transform-origin:0% 50%;"></div>
+          <div class="c2e-red" id="c2e-tot-r" style="position:absolute; left:440px; top:700px; width:120px; height:60px; border-radius:12px; background:#E5484D; transform-origin:0% 50%;"></div>
+          <div id="c2e-tot-g" style="position:absolute; left:560px; top:700px; width:1120px; height:60px; border-radius:12px; background:#8A8F98; transform-origin:0% 50%;"></div>
+          <div class="label" id="c2e-tlbl" style="left:200px; top:691px; width:200px; text-align:center;">Tổng</div>
+          <div class="tile" id="c2e-trao" style="left:1440px; top:180px; width:100px; height:100px; border-radius:22px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:50px; height:50px;"><use href="#i-arrow-right"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c2f" data-start="@@start:c2f@@" data-duration="@@dur:c2f@@" data-track-index="1">
+        <div class="wrap" id="w-c2f">
+          <div class="mapclip" id="c2f-map"><div class="cam" id="c2f-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <div class="tile" id="c2f-s0" style="position:absolute; left:278px; top:238px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s1" style="position:absolute; left:398px; top:228px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s2" style="position:absolute; left:538px; top:358px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s3" style="position:absolute; left:678px; top:278px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s4" style="position:absolute; left:798px; top:448px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s5" style="position:absolute; left:958px; top:358px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s6" style="position:absolute; left:1078px; top:498px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s7" style="position:absolute; left:1238px; top:448px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s8" style="position:absolute; left:1368px; top:278px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s9" style="position:absolute; left:578px; top:628px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s10" style="position:absolute; left:878px; top:618px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s11" style="position:absolute; left:1128px; top:618px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s12" style="position:absolute; left:1278px; top:578px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s13" style="position:absolute; left:1428px; top:438px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s14" style="position:absolute; left:238px; top:498px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div><div class="tile" id="c2f-s15" style="position:absolute; left:988px; top:218px; width:44px; height:44px; margin:0; border-radius:12px;"><img src="assets/logos/aws/server.svg" alt="" style="width:70%; height:70%;"></div>
+            <svg class="routes" viewBox="0 0 1600 820" aria-hidden="true"><path id="c2f-cable" pathLength="1" style="fill:none; stroke:var(--accent); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M300 260 Q900 560 1390 300"/><path id="c2f-cable2" pathLength="1" style="fill:none; stroke:var(--accent); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M560 380 Q700 120 1100 520"/></svg>
+          </div></div>
+          <div class="label" id="c2f-cdn" style="left:800px; top:401px; width:320px; text-align:center;">CDN</div>
+          <div class="tile" id="c2f-tick" style="left:1560px; top:620px; width:96px; height:96px; border-radius:21px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:48px; height:48px;"><use href="#i-check"/></svg></div>
+          <div class="tile" id="c2f-cab" style="left:300px; top:620px; width:96px; height:96px; border-radius:21px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:48px; height:48px;"><use href="#i-cable"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c3o" data-start="@@start:c3o@@" data-duration="@@dur:c3o@@" data-track-index="1">
+        <div class="wrap" id="w-c3o">
+          <div class="num" id="c3o-num" style="left:160px; top:130px;">03</div>
+          <div class="tile big" id="c3o-ic" style="left:800px; top:120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-network"/></svg></div>
+          <svg class="burst" id="c3o-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1100px; top:130px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c3o-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1500px; top:620px;"><use href="#art-mascot"/></svg>
+          <div class="h1 chap" id="c3o-t" style="top:470px;"><span class="bot">Internet nối thế giới</span></div>
+          
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c3a" data-start="@@start:c3a@@" data-duration="@@dur:c3a@@" data-track-index="1">
+        <div class="wrap" id="w-c3a"><div id="c3a-grp" style="position:absolute; inset:0;">
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c3a-l0" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M960 520 Q705 425 450 330"/><path id="c3a-l1" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M960 520 Q1215 425 1470 330"/><path id="c3a-l2" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M960 520 Q705 610 450 700"/><path id="c3a-l3" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M960 520 Q1215 610 1470 700"/></svg>
+          <div class="tile" id="c3a-c0" style="left:375px; top:255px; width:150px; height:150px; border-radius:38px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:75px; height:75px;"><use href="#i-wifi"/></svg></div><div class="label" id="c3a-lb0" style="left:300px; top:411px; width:300px; text-align:center;">ISP</div><div class="tile" id="c3a-c1" style="left:1395px; top:255px; width:150px; height:150px; border-radius:38px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:75px; height:75px;"><use href="#i-server"/></svg></div><div class="label" id="c3a-lb1" style="left:1320px; top:411px; width:300px; text-align:center;">Data center</div><div class="tile" id="c3a-c2" style="left:375px; top:625px; width:150px; height:150px; border-radius:38px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:75px; height:75px;"><use href="#i-building-2"/></svg></div><div class="label" id="c3a-lb2" style="left:300px; top:781px; width:300px; text-align:center;">Doanh nghiệp</div><div class="tile" id="c3a-c3" style="left:1395px; top:625px; width:150px; height:150px; border-radius:38px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:75px; height:75px;"><use href="#i-cloud"/></svg></div><div class="label" id="c3a-lb3" style="left:1320px; top:781px; width:300px; text-align:center;">Cloud</div>
+          <div class="tile" id="c3a-hub" style="left:880px; top:440px; width:160px; height:160px; border-radius:40px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:80px; height:80px;"><use href="#i-globe"/></svg></div>
+        </div></div>
+      </div>
+
+      <div class="scene clip" id="sc-c3b" data-start="@@start:c3b@@" data-duration="@@dur:c3b@@" data-track-index="1">
+        <div class="wrap" id="w-c3b">
+          <div class="mapclip" id="c3b-map"><div class="cam" id="c3b-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <svg class="routes" viewBox="0 0 1600 820" aria-hidden="true"><path id="c3b-a1" pathLength="1" style="fill:none; stroke:var(--accent); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M377.3 512 Q800 -60 1224 307.7"/><path id="c3b-a2" pathLength="1" style="fill:none; stroke:var(--accent); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M369 430.4 Q560 150 700 200"/><path id="c3b-a3" pathLength="1" style="fill:none; stroke:var(--accent); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1224 307.7 Q1300 420 1390 460"/></svg>
+          </div></div>
+          <div id="c3b-sec" style="position:absolute; left:360px; top:250px; width:1200px; height:380px; border-radius:36px; background:#0E1116; opacity:0; overflow:hidden;">
+            <div style="position:absolute; left:0; top:120px; width:1200px; height:140px; background:#3A404B;"></div>
+            <div style="position:absolute; left:0; top:150px; width:1200px; height:80px; background:var(--accent); opacity:0.55; filter:blur(6px);"></div>
+            <div id="c3b-core" style="position:absolute; left:0; top:172px; width:1200px; height:36px; background:#FFD199;"></div>
+            <div id="c3b-pk" style="position:absolute; left:40px; top:168px; width:44px; height:44px; border-radius:50%; background:#FFFFFF; opacity:0;"></div>
+          </div>
+          <div id="c3b-tag" style="position:absolute; left:1440px; top:110px; width:320px;"><div class="label" id="c3b-tag-p" style="left:1470px; top:111px; width:260px; text-align:center;">minh họa</div></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c3c" data-start="@@start:c3c@@" data-duration="@@dur:c3c@@" data-track-index="1">
+        <div class="wrap" id="w-c3c">
+          <div class="mapclip" id="c3c-map"><div class="cam" id="c3c-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <svg class="routes" viewBox="0 0 1600 820" aria-hidden="true"><path id="c3c-s0" pathLength="1" style="fill:none; stroke:var(--accent); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M377.3 512 Q468.65 340 560 380"/><path id="c3c-s1" pathLength="1" style="fill:none; stroke:var(--accent); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M560 380 Q680 260 800 300"/><path id="c3c-s2" pathLength="1" style="fill:none; stroke:var(--accent); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M800 300 Q900 260 1000 380"/><path id="c3c-s3" pathLength="1" style="fill:none; stroke:var(--accent); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1000 380 Q1112 267.7 1224 307.7"/><path id="c3c-alt" pathLength="1" style="fill:none; stroke:#E5484D; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M800 300 Q1000 160 1224 308"/></svg>
+            <div class="pin " id="c3c-p0" style="left:377.3px; top:512px;"></div><div class="pin " id="c3c-p1" style="left:560px; top:380px;"></div><div class="pin " id="c3c-p2" style="left:800px; top:300px;"></div><div class="pin " id="c3c-p3" style="left:1000px; top:380px;"></div><div class="pin " id="c3c-p4" style="left:1224px; top:307.7px;"></div>
+            <div id="c3c-req" style="position:absolute; left:359.3px; top:494px; width:36px; height:36px; border-radius:10px; background:var(--accent); box-shadow:0 8px 18px rgba(0,0,0,0.18);"></div>
+            <div id="c3c-res" style="position:absolute; left:1206px; top:289.7px; width:36px; height:36px; border-radius:10px; background:#3B82F6; box-shadow:0 8px 18px rgba(0,0,0,0.18);"></div>
+            <div class="pin sea" id="c3c-d0" style="left:300px; top:200px;"></div><div class="pin sea" id="c3c-d1" style="left:497px; top:331px;"></div><div class="pin sea" id="c3c-d2" style="left:694px; top:462px;"></div><div class="pin sea" id="c3c-d3" style="left:891px; top:593px;"></div><div class="pin sea" id="c3c-d4" style="left:1088px; top:324px;"></div><div class="pin sea" id="c3c-d5" style="left:385px; top:455px;"></div><div class="pin sea" id="c3c-d6" style="left:582px; top:586px;"></div><div class="pin sea" id="c3c-d7" style="left:779px; top:317px;"></div><div class="pin sea" id="c3c-d8" style="left:976px; top:448px;"></div><div class="pin sea" id="c3c-d9" style="left:1173px; top:579px;"></div><div class="pin sea" id="c3c-d10" style="left:470px; top:310px;"></div><div class="pin sea" id="c3c-d11" style="left:667px; top:441px;"></div><div class="pin sea" id="c3c-d12" style="left:864px; top:572px;"></div><div class="pin sea" id="c3c-d13" style="left:1061px; top:303px;"></div>
+          </div></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c3d" data-start="@@start:c3d@@" data-duration="@@dur:c3d@@" data-track-index="1">
+        <div class="wrap" id="w-c3d"><div id="c3d-grp" style="position:absolute; inset:0;">
+          <div id="c3d-d1" style="position:absolute; left:440px; top:240px; width:360px; height:360px; border-radius:50%; background:var(--surface); border:14px solid var(--ink); box-sizing:border-box;"></div>
+          <div id="c3d-d2" style="position:absolute; left:1120px; top:240px; width:360px; height:360px; border-radius:50%; background:var(--surface); border:14px solid var(--ink); box-sizing:border-box;"></div>
+          <div id="c3d-n1" style="position:absolute; left:615px; top:280px; width:10px; height:140px; border-radius:5px; background:var(--accent); transform-origin:50% 100%;"></div><div id="c3d-n2" style="position:absolute; left:1295px; top:280px; width:10px; height:140px; border-radius:5px; background:var(--accent); transform-origin:50% 100%;"></div>
+          <div class="label" id="c3d-l1" style="left:520px; top:641px; width:200px; text-align:center;">km</div><div class="label" id="c3d-l2" style="left:1200px; top:641px; width:200px; text-align:center;">hop</div>
+        </div></div>
+      </div>
+
+      <div class="scene clip" id="sc-c3e" data-start="@@start:c3e@@" data-duration="@@dur:c3e@@" data-track-index="1">
+        <div class="wrap" id="w-c3e">
+          <div class="sub" id="c3e-thesis" style="left:160px; top:100px; width:1600px; text-align:center; font-size:88px; font-weight:800;">Đưa nội dung đến gần người dùng</div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c3e-long0" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M960.0 300.0 Q990.0 347.5 960.0 395.0"/><path id="c3e-long1" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1090.0 334.8 Q1092.2 391.0 1042.5 417.1"/><path id="c3e-long2" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1185.2 430.0 Q1159.0 479.7 1102.9 477.5"/><path id="c3e-long3" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1220.0 560.0 Q1172.5 590.0 1125.0 560.0"/><path id="c3e-long4" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1185.2 690.0 Q1129.0 692.2 1102.9 642.5"/><path id="c3e-long5" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1090.0 785.2 Q1040.3 759.0 1042.5 702.9"/><path id="c3e-long6" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M960.0 820.0 Q930.0 772.5 960.0 725.0"/><path id="c3e-long7" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M830.0 785.2 Q827.8 729.0 877.5 702.9"/><path id="c3e-long8" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M734.8 690.0 Q761.0 640.3 817.1 642.5"/><path id="c3e-long9" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M700.0 560.0 Q747.5 530.0 795.0 560.0"/><path id="c3e-long10" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M734.8 430.0 Q791.0 427.8 817.1 477.5"/><path id="c3e-long11" pathLength="1" style="fill:none; stroke:var(--ink); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M830.0 334.8 Q879.7 361.0 877.5 417.1"/></svg>
+          <div class="tile" id="c3e-u0" style="left:920.0px; top:260.0px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-user"/></svg></div><div class="tile" id="c3e-u1" style="left:1050.0px; top:294.8px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-user"/></svg></div><div class="tile" id="c3e-u2" style="left:1145.2px; top:390.0px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-user"/></svg></div><div class="tile" id="c3e-u3" style="left:1180.0px; top:520.0px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-user"/></svg></div><div class="tile" id="c3e-u4" style="left:1145.2px; top:650.0px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-user"/></svg></div><div class="tile" id="c3e-u5" style="left:1050.0px; top:745.2px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-user"/></svg></div><div class="tile" id="c3e-u6" style="left:920.0px; top:780.0px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-user"/></svg></div><div class="tile" id="c3e-u7" style="left:790.0px; top:745.2px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-user"/></svg></div><div class="tile" id="c3e-u8" style="left:694.8px; top:650.0px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-user"/></svg></div><div class="tile" id="c3e-u9" style="left:660.0px; top:520.0px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-user"/></svg></div><div class="tile" id="c3e-u10" style="left:694.8px; top:390.0px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-user"/></svg></div><div class="tile" id="c3e-u11" style="left:790.0px; top:294.8px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-user"/></svg></div>
+          <div class="tile big" id="c3e-srv" style="left:800px; top:400px; width:320px; height:320px;"><img src="assets/logos/aws/server.svg" alt=""></div>
+          <div class="tile" id="c3e-cp0" style="left:375px; top:255px; width:90px; height:90px; border-radius:20px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:45px; height:45px;"><use href="#i-image"/></svg></div><div class="tile" id="c3e-cp1" style="left:1455px; top:255px; width:90px; height:90px; border-radius:20px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:45px; height:45px;"><use href="#i-file"/></svg></div><div class="tile" id="c3e-cp2" style="left:375px; top:695px; width:90px; height:90px; border-radius:20px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:45px; height:45px;"><use href="#i-package"/></svg></div><div class="tile" id="c3e-cp3" style="left:1455px; top:695px; width:90px; height:90px; border-radius:20px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:45px; height:45px;"><use href="#i-file"/></svg></div>
+          <svg class="mascot" id="c3e-masc" viewBox="0 0 200 200" aria-hidden="true" style="left:1500px; top:150px; width:200px; height:200px;"><use href="#art-mascot"/></svg>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c3e-short0" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M960.0 300.0 Q1000.4 336.3 1001.6 364.4"/><path id="c3e-short1" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1090.0 334.8 Q1106.8 386.5 1093.8 411.4"/><path id="c3e-short2" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1185.2 430.0 Q1173.9 483.1 1150.2 498.2"/><path id="c3e-short3" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1220.0 560.0 Q1183.7 600.4 1155.6 601.6"/><path id="c3e-short4" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1185.2 690.0 Q1133.5 706.8 1108.6 693.8"/><path id="c3e-short5" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1090.0 785.2 Q1036.9 773.9 1021.8 750.2"/><path id="c3e-short6" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M960.0 820.0 Q919.6 783.7 918.4 755.6"/><path id="c3e-short7" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M830.0 785.2 Q813.2 733.5 826.2 708.6"/><path id="c3e-short8" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M734.8 690.0 Q746.1 636.9 769.8 621.8"/><path id="c3e-short9" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M700.0 560.0 Q736.3 519.6 764.4 518.4"/><path id="c3e-short10" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M734.8 430.0 Q786.5 413.2 811.4 426.2"/><path id="c3e-short11" pathLength="1" style="fill:none; stroke:#3B82F6; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M830.0 334.8 Q883.1 346.1 898.2 369.8"/></svg>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c4o" data-start="@@start:c4o@@" data-duration="@@dur:c4o@@" data-track-index="1">
+        <div class="wrap" id="w-c4o">
+          <div class="num" id="c4o-num" style="left:160px; top:130px;">04</div>
+          <div class="tile big" id="c4o-ic" style="left:800px; top:120px;"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+          <svg class="burst" id="c4o-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1100px; top:130px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c4o-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1500px; top:620px;"><use href="#art-mascot"/></svg>
+          <div class="h1 chap" id="c4o-t" style="top:470px;"><span class="bot">Amazon CloudFront</span></div>
+          
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c4a" data-start="@@start:c4a@@" data-duration="@@dur:c4a@@" data-track-index="1">
+        <div class="wrap" id="w-c4a">
+          <div class="mapclip" id="c4a-map"><div class="cam" id="c4a-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <svg class="routes" viewBox="0 0 1600 820" aria-hidden="true"><path id="c4a-long1" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1224 307.7 Q700 -20 1000 300"/><path id="c4a-long2" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1224 307.7 Q1200 200 1150 470"/><path id="c4a-long3" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1224 307.7 Q1000 60 377 512"/></svg>
+            <div class="pin " id="c4a-us" style="left:1224px; top:307.7px;"></div>
+            <div class="pin " id="c4a-pop0" style="left:377px; top:512px;"></div><div class="pin " id="c4a-pop1" style="left:369px; top:430px;"></div><div class="pin " id="c4a-pop2" style="left:640px; top:420px;"></div><div class="pin " id="c4a-pop3" style="left:820px; top:300px;"></div><div class="pin " id="c4a-pop4" style="left:1000px; top:300px;"></div><div class="pin " id="c4a-pop5" style="left:1150px; top:470px;"></div><div class="pin " id="c4a-pop6" style="left:480px; top:580px;"></div><div class="pin " id="c4a-pop7" style="left:700px; top:520px;"></div><div class="pin " id="c4a-pop8" style="left:1300px; top:380px;"></div><div class="pin " id="c4a-pop9" style="left:250px; top:380px;"></div>
+            <div class="pin" id="c4a-eu" style="left:1000px; top:300px; background:#E5484D;"></div>
+          </div></div>
+          <div class="tile" id="c4a-el1" style="left:1130px; top:260px; width:64px; height:64px; border-radius:14px;"><img src="assets/logos/aws/edge-location.svg" alt="" style="width:66%; height:66%;"></div>
+          <div class="tile" id="c4a-el2" style="left:420px; top:520px; width:64px; height:64px; border-radius:14px;"><img src="assets/logos/aws/edge-location.svg" alt="" style="width:66%; height:66%;"></div>
+          <div class="label" id="c4a-pop-lbl" style="left:600px; top:831px; width:720px; text-align:center;">Point of Presence · Edge Location</div>
+          <div class="label" id="c4a-tag" style="left:1520px; top:81px; width:240px; text-align:center;">minh họa</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c4b" data-start="@@start:c4b@@" data-duration="@@dur:c4b@@" data-track-index="1">
+        <div class="wrap" id="w-c4b">
+          <div class="mapclip" id="c4b-map"><div class="cam" id="c4b-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <svg class="routes" viewBox="0 0 1600 820" aria-hidden="true"><path id="c4b-a1" pathLength="1" style="fill:none; stroke:var(--accent); stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1224 307.7 Q800 -60 377.3 512"/></svg>
+            <div class="pin " id="c4b-us" style="left:1224px; top:307.7px;"></div><div class="pin " id="c4b-edge" style="left:377.3px; top:512px;"></div>
+            <div class="pin sea" id="c4b-u0" style="left:421px; top:512px;"></div><div class="pin sea" id="c4b-u1" style="left:408.1126983722081px; top:536.0416305603426px;"></div><div class="pin sea" id="c4b-u2" style="left:377px; top:546px;"></div><div class="pin sea" id="c4b-u3" style="left:345.8873016277919px; top:536.0416305603426px;"></div><div class="pin sea" id="c4b-u4" style="left:333px; top:512px;"></div><div class="pin sea" id="c4b-u5" style="left:345.8873016277919px; top:487.95836943965736px;"></div><div class="pin sea" id="c4b-u6" style="left:377px; top:478px;"></div><div class="pin sea" id="c4b-u7" style="left:408.11269837220806px; top:487.95836943965736px;"></div>
+            <div id="c4b-f1" style="position:absolute; left:1206px; top:289.7px; width:34px; height:34px; border-radius:10px; background:var(--accent); box-shadow:0 8px 18px rgba(0,0,0,0.18);"></div><div id="c4b-f2" style="position:absolute; left:1206px; top:289.7px; width:34px; height:34px; border-radius:10px; background:#3B82F6; box-shadow:0 8px 18px rgba(0,0,0,0.18);"></div><div id="c4b-f3" style="position:absolute; left:1206px; top:289.7px; width:34px; height:34px; border-radius:10px; background:#FFFFFF; box-shadow:0 8px 18px rgba(0,0,0,0.18);"></div>
+          </div></div>
+          <div class="tile" id="c4b-mascot-bulb" style="left:1480px; top:180px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-lightbulb"/></svg></div>
+          <div class="label" id="c4b-kb" style="left:1100px; top:741px; width:520px; text-align:center;">file giỏ hàng: server gốc</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c4c" data-start="@@start:c4c@@" data-duration="@@dur:c4c@@" data-track-index="1">
+        <div class="wrap" id="w-c4c">
+          <div class="tile" id="c4c-user" style="left:470px; top:430px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-user"/></svg></div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c4c-arc" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M560 495 Q880 380 1200 500"/></svg>
+          <div class="tile" id="c4c-e0" style="left:1135px; top:235px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-globe"/></svg></div><div id="c4c-b0" style="position:absolute; left:1300px; top:282px; width:260px; height:36px; border-radius:18px; background:#B9BEC7; transform-origin:0% 50%;"></div><div class="tile" id="c4c-e1" style="left:1135px; top:435px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-globe"/></svg></div><div id="c4c-b1" style="position:absolute; left:1300px; top:482px; width:140px; height:36px; border-radius:18px; background:#30A46C; transform-origin:0% 50%;"></div><div class="tile" id="c4c-e2" style="left:1135px; top:635px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-globe"/></svg></div><div id="c4c-b2" style="position:absolute; left:1300px; top:682px; width:380px; height:36px; border-radius:18px; background:#B9BEC7; transform-origin:0% 50%;"></div>
+          <div class="label" id="c4c-lat" style="left:1470px; top:111px; width:260px; text-align:center;">latency</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c4d" data-start="@@start:c4d@@" data-duration="@@dur:c4d@@" data-track-index="1">
+        <div class="wrap" id="w-c4d">
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c4d-top" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M680 480 Q1000 300 1260 280"/><path id="c4d-mid" pathLength="1" style="fill:none; stroke:#F5A524; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M520 520 Q700 700 860 700"/><path id="c4d-end" pathLength="1" style="fill:none; stroke:#F5A524; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1000 700 Q1200 700 1370 700"/></svg>
+          <div class="label" id="c4d-edge" style="left:350px; top:441px; width:340px; text-align:center;">Cache tại edge</div>
+          <div id="c4d-scan" style="position:absolute; left:330px; top:410px; width:380px; height:140px; border-radius:24px; border:6px solid var(--accent); box-sizing:border-box;"></div>
+          <div class="label" id="c4d-user" style="left:1260px; top:221px; width:320px; text-align:center;">Người dùng</div>
+          <div class="label" id="c4d-mid" style="left:820px; top:681px; width:360px; text-align:center;">Tầng trung gian</div>
+          <div class="label" id="c4d-origin" style="left:1350px; top:681px; width:300px; text-align:center;">Server gốc</div>
+          <div class="label" id="c4d-yes" style="left:930px; top:181px; width:140px; text-align:center;">có</div>
+          <div class="label" id="c4d-no" style="left:890px; top:561px; width:220px; text-align:center;">có thể</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c4e" data-start="@@start:c4e@@" data-duration="@@dur:c4e@@" data-track-index="1">
+        <div class="wrap" id="w-c4e">
+          <div id="c4e-site" style="position:absolute; left:160px; top:120px; width:720px; height:600px; display:grid; grid-template-columns:1fr 1fr; grid-template-rows:repeat(3,1fr); gap:20px; padding:20px; box-sizing:border-box;">
+            <div class="c4e-blk" id="c4e-b0" style="border-radius:24px; background:var(--accent);"></div><div class="c4e-blk" id="c4e-b1" style="border-radius:24px; background:#D7DBE2;"></div><div class="c4e-blk" id="c4e-b2" style="border-radius:24px; background:#D7DBE2;"></div><div class="c4e-blk" id="c4e-b3" style="border-radius:24px; background:#B9BEC7;"></div><div class="c4e-blk" id="c4e-b4" style="border-radius:24px; background:#D7DBE2;"></div><div class="c4e-blk" id="c4e-b5" style="border-radius:24px; background:#D7DBE2;"></div>
+          </div>
+          <div class="shot" id="c4e-rules" style="left:1000px; top:160px; width:760px; height:520px; padding:44px; box-sizing:border-box;">
+            <div class="sub" style="position:relative; font-size:52px;">Cache rules</div>
+            <div class="chip" id="c4e-ch0" style="position:relative; margin-top:36px; width:360px;"><span class="box"></span>ảnh</div>
+            <div class="chip" id="c4e-ch1" style="position:relative; margin-top:24px; width:360px;"><span class="box"></span>CSS / JS</div>
+            <div class="chip" id="c4e-ch2" style="position:relative; margin-top:24px; width:360px;"><span class="box"></span>video</div>
+          </div>
+          <div class="label" id="c4e-tag" style="left:580px; top:781px; width:760px; text-align:center;">không nhất thiết toàn bộ website</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5o" data-start="@@start:c5o@@" data-duration="@@dur:c5o@@" data-track-index="1">
+        <div class="wrap" id="w-c5o">
+          <div class="num" id="c5o-num" style="left:160px; top:130px;">05</div>
+          <div id="c5o-ic" style="position:absolute; left:800px; top:120px; width:320px; height:320px; border-radius:40px; background:#FFFFFF; overflow:hidden; box-shadow:0 18px 40px rgba(0,0,0,0.20);"><img src="assets/map/world-dots.svg" alt="" style="position:absolute; left:-857.6px; top:-1470.5px; width:3240px; height:5760px;"><div class="pin" id="c5o-hn" style="left:152.2px; top:83.5px;"></div><div class="pin" id="c5o-hcm" style="left:167.8px; top:236.5px;"></div></div>
+          <svg class="burst" id="c5o-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1100px; top:130px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c5o-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1500px; top:620px;"><use href="#art-mascot"/></svg>
+          <div class="h1 chap" id="c5o-t" style="top:470px;"><span class="bot">Edge Location tại Việt Nam</span></div>
+          
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5a" data-start="@@start:c5a@@" data-duration="@@dur:c5a@@" data-track-index="1">
+        <div class="wrap" id="w-c5a">
+          <div id="c5a-browser" style="position:absolute; left:160px; top:150px; width:900px; height:560px; border-radius:28px; background:#FFFFFF; box-shadow:0 18px 40px rgba(0,0,0,0.20); overflow:hidden;">
+            <div style="height:64px; background:#EEF0F3; display:flex; align-items:center; gap:14px; padding:0 24px; box-sizing:border-box;">
+              <span style="width:16px; height:16px; border-radius:50%; background:#D7DBE2;"></span>
+              <span style="width:16px; height:16px; border-radius:50%; background:#D7DBE2;"></span>
+              <span style="width:16px; height:16px; border-radius:50%; background:#D7DBE2;"></span>
+              <div style="margin-left:20px; flex:1; height:36px; border-radius:18px; background:#FFFFFF; font-size:40px; color:#8A8F98; display:flex; align-items:center; padding:0 20px; box-sizing:border-box;">aws.amazon.com/about-aws/whats-new/2022/08/aws-new-edge-locations-vietnam</div>
+            </div>
+            <div style="padding:56px; box-sizing:border-box;">
+              <div style="font-size:48px; font-weight:700; color:#0B0F14; line-height:1.25;">AWS announces new edge locations in Vietnam</div>
+              <div style="margin-top:28px; font-size:40px; color:#4A5059; line-height:1.4;">Tóm tắt: Edge Location mới tại Hà Nội và TP.HCM, công bố 26/08/2022.</div>
+            </div>
+          </div>
+          <div class="label" id="c5a-date" style="left:160px; top:721px; width:300px; text-align:center;">26/08/2022</div>
+          <div id="c5a-map" class="mapclip" style="opacity:0;">
+            <img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <div class="tile" id="c5a-t1" style="position:absolute; left:240px; top:390px; width:96px; height:96px; border-radius:24px; background:#FFFFFF;"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+            <div class="tile" id="c5a-t2" style="position:absolute; left:240px; top:470px; width:96px; height:96px; border-radius:24px; background:#FFFFFF;"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+            <div class="pin" id="c5a-hn" style="left:369px; top:430.4px;"></div>
+            <div class="pin" id="c5a-hcm" style="left:377.3px; top:512px;"></div>
+            <div class="pin lbl" style="left:369px; top:430.4px;">Hà Nội</div>
+            <div class="pin lbl" style="left:377.3px; top:512px;">TP.HCM</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5b" data-start="@@start:c5b@@" data-duration="@@dur:c5b@@" data-track-index="1">
+        <div class="wrap" id="w-c5b">
+          <div class="mapclip" id="c5b-map">
+            <img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <div class="pin" id="c5b-hn" style="left:369px; top:430.4px;"></div>
+            <div class="pin" id="c5b-hcm" style="left:377.3px; top:512px;"></div>
+            <div class="pin sea" id="c5b-us" style="left:1224px; top:307.7px;"></div>
+            <div class="pin lbl" style="left:377.3px; top:512px;">TP.HCM</div>
+          </div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c5b-long" pathLength="1" style="fill:none; stroke:#B9BEC7; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M537 592 Q950 150 1384 388"/><path id="c5b-short" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M365 535 Q460 470 537 592"/><path id="c5b-alt" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M365 535 Q430 430 529 510"/></svg>
+          <div class="tile" id="c5b-laptop" style="left:300px; top:470px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-monitor"/></svg></div>
+          <div class="tile" id="c5b-pkt" style="left:490px; top:545px; width:90px; height:90px; border-radius:20px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:45px; height:45px;"><use href="#i-package"/></svg></div>
+          <div class="label" id="c5b-hint" style="left:890px; top:681px; width:220px; text-align:center;">có thể</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5c" data-start="@@start:c5c@@" data-duration="@@dur:c5c@@" data-track-index="1">
+        <div class="wrap" id="w-c5c">
+          <div id="c5c-region" style="position:absolute; left:160px; top:200px; width:720px; height:560px; border:6px solid #8A8F98; border-radius:32px; box-sizing:border-box;"></div>
+          <div class="label" id="c5c-rlbl" style="left:160px; top:131px; width:300px; text-align:center;">AWS Region</div>
+          <div class="tile" id="c5c-ec2" style="left:260px; top:300px; width:150px; height:150px; border-radius:33px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:75px; height:75px;"><use href="#i-cpu"/></svg></div>
+          <div class="tile" id="c5c-db" style="left:560px; top:300px; width:150px; height:150px; border-radius:33px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:75px; height:75px;"><use href="#i-database"/></svg></div>
+          <div class="tile" id="c5c-lay" style="left:260px; top:520px; width:150px; height:150px; border-radius:33px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:75px; height:75px;"><use href="#i-layers"/></svg></div>
+          <div class="tile" id="c5c-cfg" style="left:560px; top:520px; width:150px; height:150px; border-radius:33px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:75px; height:75px;"><use href="#i-layout-grid"/></svg></div>
+          <div id="c5c-ne" style="position:absolute; left:880px; top:430px; width:160px; text-align:center; font-size:140px; font-weight:700; line-height:1; color:var(--accent);">≠</div>
+          <div id="c5c-edge" style="position:absolute; left:1040px; top:300px; width:520px; height:380px; border:6px solid var(--accent); border-radius:32px; background:#F2F4F7; box-sizing:border-box;">
+            <div id="c5c-fn" style="position:absolute; left:40px; top:20px; font-size:96px; line-height:1; color:var(--accent);">ƒ</div>
+            <div class="c5c-sh" id="c5c-sh0" style="position:absolute; left:40px; top:150px; width:440px; height:60px; border-radius:12px; background:#D7DBE2;"></div>
+            <div class="c5c-sh" id="c5c-sh1" style="position:absolute; left:40px; top:240px; width:440px; height:60px; border-radius:12px; background:#D7DBE2;"></div>
+            <div class="c5c-sh" id="c5c-sh2" style="position:absolute; left:40px; top:330px; width:440px; height:30px; border-radius:12px; background:#D7DBE2;"></div>
+          </div>
+          <div class="label" id="c5c-elbl" style="left:920px; top:211px; width:320px; text-align:center;">Edge Location</div>
+          <div class="tile" id="c5c-back" style="left:1150px; top:720px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-server"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5d" data-start="@@start:c5d@@" data-duration="@@dur:c5d@@" data-track-index="1">
+        <div class="wrap" id="w-c5d">
+          <div class="mapclip" id="c5d-map">
+            <img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <div class="pin" id="c5d-us" style="left:1224px; top:307.7px;"></div>
+            <div class="pin" id="c5d-hn" style="left:369px; top:430.4px;"></div>
+            <div class="pin" id="c5d-hcm" style="left:377.3px; top:512px;"></div>
+          </div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c5d-route" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1384 388 Q980 120 537 592"/></svg>
+          <div id="c5d-region" style="position:absolute; left:1240px; top:250px; width:290px; height:240px; border:6px solid var(--accent); border-radius:28px; box-sizing:border-box;"></div>
+          <div class="label" id="c5d-rlbl" style="left:1110px; top:171px; width:260px; text-align:center;">AWS Region</div>
+          <div class="tile" id="c5d-srv" style="position:absolute; left:1262px; top:270px; width:100px; height:100px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/server.svg" alt=""></div>
+          <div class="tile" id="c5d-db" style="left:1262px; top:400px; width:100px; height:100px; border-radius:22px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:50px; height:50px;"><use href="#i-database"/></svg></div>
+          <div class="label" id="c5d-lock" style="left:810px; top:521px; width:380px; text-align:center;">khóa đóng: ở lại Mỹ</div>
+          <div class="label" id="c5d-open" style="left:350px; top:651px; width:420px; text-align:center;">khóa mở: được phép cache</div>
+          <div class="tile" id="c5d-copy" style="left:490px; top:540px; width:90px; height:90px; border-radius:20px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:45px; height:45px;"><use href="#i-file"/></svg></div>
+          <div class="tile" id="c5d-tick" style="left:610px; top:520px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-check"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5e" data-start="@@start:c5e@@" data-duration="@@dur:c5e@@" data-track-index="1">
+        <div class="wrap" id="w-c5e">
+          <div class="tile" id="c5e-srv" style="left:190px; top:350px; width:140px; height:140px; border-radius:31px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:70px; height:70px;"><use href="#i-server"/></svg></div>
+          <div class="label" id="c5e-mid" style="left:560px; top:331px; width:260px; text-align:center;">Tầng trung gian</div>
+          <div class="tile" id="c5e-edge" style="position:absolute; left:1170px; top:350px; width:140px; height:140px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+          <div class="tile" id="c5e-lap" style="left:1410px; top:350px; width:140px; height:140px; border-radius:31px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:70px; height:70px;"><use href="#i-monitor"/></svg></div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c5e-s1" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M330 420 Q510 300 690 420"/><path id="c5e-s2" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M830 420 Q1000 300 1170 420"/><path id="c5e-s3" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1310 420 Q1360 360 1410 420"/></svg>
+          <div id="c5e-thesis" style="position:absolute; left:160px; top:700px; width:1600px; text-align:center; font-size:88px; font-weight:700; line-height:1.2; color:var(--ink);">Đưa dữ liệu đến gần người dùng</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6o" data-start="@@start:c6o@@" data-duration="@@dur:c6o@@" data-track-index="1">
+        <div class="wrap" id="w-c6o">
+          <div class="num" id="c6o-num" style="left:160px; top:130px;">06</div>
+          <div class="tile big" id="c6o-ic" style="left:800px; top:120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-package-check"/></svg></div>
+          <svg class="burst" id="c6o-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1100px; top:130px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c6o-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1500px; top:620px;"><use href="#art-mascot"/></svg>
+          <div class="h1 chap" id="c6o-t" style="top:470px;"><span class="bot">Cache Hit</span></div>
+          
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6a" data-start="@@start:c6a@@" data-duration="@@dur:c6a@@" data-track-index="1">
+        <div class="wrap" id="w-c6a">
+          <div id="c6a-page" style="position:absolute; left:160px; top:200px; width:700px; height:520px; border-radius:28px; background:#F2F4F7; box-sizing:border-box;"></div>
+          <div class="label" id="c6a-plbl" style="left:160px; top:131px; width:340px; text-align:center;">Trang sản phẩm</div>
+          <div class="c6a-chip" id="c6a-img" style="position:absolute; left:200px; top:260px; width:220px; height:80px; border-radius:20px; background:#FFFFFF; box-shadow:0 8px 18px rgba(0,0,0,0.12); display:flex; align-items:center; justify-content:center; font-size:40px; font-weight:700; color:#0B0F14;">IMG</div>
+          <div class="c6a-chip" id="c6a-logo" style="position:absolute; left:460px; top:260px; width:220px; height:80px; border-radius:20px; background:#FFFFFF; box-shadow:0 8px 18px rgba(0,0,0,0.12); display:flex; align-items:center; justify-content:center; font-size:40px; font-weight:700; color:#0B0F14;">LOGO</div>
+          <div class="c6a-chip" id="c6a-css" style="position:absolute; left:200px; top:380px; width:220px; height:80px; border-radius:20px; background:#FFFFFF; box-shadow:0 8px 18px rgba(0,0,0,0.12); display:flex; align-items:center; justify-content:center; font-size:40px; font-weight:700; color:#0B0F14;">CSS</div>
+          <div class="c6a-chip" id="c6a-js" style="position:absolute; left:460px; top:380px; width:220px; height:80px; border-radius:20px; background:#FFFFFF; box-shadow:0 8px 18px rgba(0,0,0,0.12); display:flex; align-items:center; justify-content:center; font-size:40px; font-weight:700; color:#0B0F14;">JS</div>
+          <div id="c6a-cache" style="position:absolute; left:1100px; top:260px; width:520px; height:420px; border:6px solid var(--accent); border-radius:32px; background:#FFFFFF; box-sizing:border-box;"></div>
+          <div class="tile" id="c6a-cf" style="position:absolute; left:1290px; top:290px; width:140px; height:140px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+          <div class="label" id="c6a-clbl" style="left:970px; top:191px; width:260px; text-align:center;">Edge cache</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6b" data-start="@@start:c6b@@" data-duration="@@dur:c6b@@" data-track-index="1">
+        <div class="wrap" id="w-c6b">
+          <div class="tile" id="c6b-pkt" style="left:260px; top:420px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-image"/></svg></div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c6b-route" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M380 480 Q700 250 1000 460"/></svg>
+          <div class="tile" id="c6b-edge" style="position:absolute; left:1000px; top:380px; width:160px; height:160px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div>
+          <div id="c6b-shelf" style="position:absolute; left:1200px; top:300px; width:420px; height:360px; border-radius:28px; background:#F2F4F7; border:6px solid var(--accent); box-sizing:border-box; padding:24px; display:grid; grid-template-columns:1fr 1fr 1fr; grid-template-rows:1fr 1fr; gap:16px;"><div id="c6b-cell0" style="border-radius:14px; background:#D7DBE2;"></div><div id="c6b-cell1" style="border-radius:14px; background:#D7DBE2;"></div><div id="c6b-cell2" style="border-radius:14px; background:#D7DBE2;"></div><div id="c6b-cell3" style="border-radius:14px; background:#D7DBE2;"></div><div id="c6b-cell4" style="border-radius:14px; background:#D7DBE2;"></div><div id="c6b-cell5" style="border-radius:14px; background:#D7DBE2;"></div></div>
+          <div id="c6b-scan" style="position:absolute; left:1200px; top:300px; width:12px; height:360px; border-radius:6px; background:var(--accent);"></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6c" data-start="@@start:c6c@@" data-duration="@@dur:c6c@@" data-track-index="1">
+        <div class="wrap" id="w-c6c">
+          <div id="c6c-shelf" style="position:absolute; left:1200px; top:300px; width:420px; height:360px; border-radius:28px; background:#F2F4F7; border:6px solid var(--accent); box-sizing:border-box; padding:24px; display:grid; grid-template-columns:1fr 1fr 1fr; grid-template-rows:1fr 1fr; gap:16px;"><div id="c6c-cell0" style="border-radius:14px; background:#D7DBE2;"></div><div id="c6c-cell1" style="border-radius:14px; background:#D7DBE2;"></div><div id="c6c-cell2" style="border-radius:14px; background:#D7DBE2;"></div><div id="c6c-cell3" style="border-radius:14px; background:#D7DBE2;"></div><div id="c6c-cell4" style="border-radius:14px; background:#D7DBE2;"></div><div id="c6c-cell5" style="border-radius:14px; background:#D7DBE2;"></div></div>
+          <div id="c6c-hit" style="position:absolute; left:1200px; top:300px; width:140px; height:150px; border-radius:14px; background:#30A46C; box-sizing:border-box; border:0;"></div>
+          <div id="c6c-ring" style="position:absolute; left:1150px; top:250px; width:240px; height:240px; border-radius:50%; border:8px solid #30A46C; box-sizing:border-box;"></div>
+          <div id="c6c-lbl" style="position:absolute; left:160px; top:440px; padding:28px 56px; border-radius:40px; background:#30A46C; color:#FFFFFF; font-size:96px; font-weight:800; line-height:1.1; letter-spacing:1px;">CACHE HIT</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6d" data-start="@@start:c6d@@" data-duration="@@dur:c6d@@" data-track-index="1">
+        <div class="wrap" id="w-c6d">
+          <div class="mapclip" id="c6d-map">
+            <img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <div class="pin" id="c6d-us" style="left:1224px; top:307.7px;"></div>
+            <div class="pin" id="c6d-hcm" style="left:377.3px; top:512px;"></div>
+            <div class="pin" id="c6d-hn" style="left:369px; top:430.4px;"></div>
+          </div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c6d-long" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M537 592 Q950 150 1384 388"/><path id="c6d-green" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M537 592 Q430 520 330 560"/></svg>
+          <div id="c6d-strike" style="position:absolute; left:820px; top:300px; width:300px; height:10px; border-radius:5px; background:var(--ink); transform:rotate(-22deg);"></div>
+          <div class="tile" id="c6d-user" style="left:260px; top:500px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-user"/></svg></div>
+          <div class="tile" id="c6d-pkt" style="left:500px; top:545px; width:90px; height:90px; border-radius:20px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:45px; height:45px;"><use href="#i-package"/></svg></div>
+          <div class="label" id="c6d-cache" style="left:870px; top:721px; width:260px; text-align:center;">đang cache</div>
+          <div class="label" id="c6d-valid" style="left:1140px; top:721px; width:300px; text-align:center;">còn hợp lệ</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6e" data-start="@@start:c6e@@" data-duration="@@dur:c6e@@" data-track-index="1">
+        <div class="wrap" id="w-c6e">
+          <div class="tile" id="c6e-phone" style="left:260px; top:400px; width:140px; height:140px; border-radius:31px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:70px; height:70px;"><use href="#i-phone"/></svg></div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c6e-long" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M400 470 Q900 150 1380 470"/></svg>
+          <div class="tile" id="c6e-user" style="left:1310px; top:400px; width:140px; height:140px; border-radius:31px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:70px; height:70px;"><use href="#i-user"/></svg></div>
+          <div class="tile" id="c6e-office" style="left:1000px; top:400px; width:140px; height:140px; border-radius:31px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:70px; height:70px;"><use href="#i-building-2"/></svg></div>
+          <div class="tile" id="c6e-doc" style="left:1020px; top:250px; width:90px; height:90px; border-radius:20px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:45px; height:45px;"><use href="#i-file"/></svg></div>
+          <div class="label" id="c6e-x" style="left:640px; top:581px; width:720px; text-align:center;">gạch: không gọi xuyên đại dương</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6f" data-start="@@start:c6f@@" data-duration="@@dur:c6f@@" data-track-index="1">
+        <div class="wrap" id="w-c6f">
+          <svg id="c6f-gauge" viewBox="0 0 640 380" style="position:absolute; left:640px; top:300px; width:640px; height:380px; overflow:visible;">
+            <path d="M 60 340 A 260 260 0 0 1 580 340" fill="none" stroke="#D7DBE2" stroke-width="40"/>
+            <path d="M 450 114.8 A 260 260 0 0 1 580 340" fill="none" stroke="#30A46C" stroke-width="40"/>
+            <line id="c6f-needle" x1="320" y1="340" x2="320" y2="100" stroke="#0B0F14" stroke-width="10" stroke-linecap="round"/>
+            <circle cx="320" cy="340" r="18" fill="#0B0F14"/>
+          </svg>
+          <div class="tile" id="c6f-pkt" style="left:1300px; top:420px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-package"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6g" data-start="@@start:c6g@@" data-duration="@@dur:c6g@@" data-track-index="1">
+        <div class="wrap" id="w-c6g">
+          <div id="c6g-card" style="position:absolute; left:640px; top:300px; width:380px; height:280px; border-radius:28px; background:#FFFFFF; box-shadow:0 18px 40px rgba(0,0,0,0.20); box-sizing:border-box;"></div>
+          <div id="c6g-ring" style="position:absolute; left:610px; top:270px; width:440px; height:340px; border-radius:40px; border:12px solid #30A46C; box-sizing:border-box;"></div>
+          <div class="label" id="c6g-ttl" style="left:580px; top:161px; width:200px; text-align:center;">TTL</div>
+          <div class="code" id="c6g-term" style="left:1100px; top:330px; width:620px; height:200px; font-size:40px;">Cache-Control: max-age=…</div>
+          <div class="tile" id="c6g-pkt" style="left:1060px; top:460px; width:110px; height:110px; border-radius:24px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:55px; height:55px;"><use href="#i-package"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6h" data-start="@@start:c6h@@" data-duration="@@dur:c6h@@" data-track-index="1">
+        <div class="wrap" id="w-c6h">
+          <div class="bar" id="c6h-o" style="left:560px; top:380px; width:200px; height:440px; background:#F5A524;"></div>
+          <div class="bar" id="c6h-e" style="left:1000px; top:380px; width:200px; height:440px; background:var(--accent);"></div>
+          <div class="label" id="c6h-ol" style="left:460px; top:811px; width:200px; text-align:center;">origin</div>
+          <div class="label" id="c6h-el" style="left:900px; top:811px; width:200px; text-align:center;">edge</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c7o" data-start="@@start:c7o@@" data-duration="@@dur:c7o@@" data-track-index="1">
+        <div class="wrap" id="w-c7o">
+          <div class="num" id="c7o-num" style="left:160px; top:130px;">07</div>
+          <div class="tile big" id="c7o-ic" style="left:800px; top:120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-package-x"/></svg></div>
+          <svg class="burst" id="c7o-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1100px; top:130px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c7o-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1500px; top:620px;"><use href="#art-mascot"/></svg>
+          <div class="h1 chap" id="c7o-t" style="top:470px;"><span class="bot">Cache Miss</span></div>
+          
+        
+          <div id="c7o-shelf" style="position:absolute; left:160px; top:700px; width:600px; height:120px; border-radius:24px; background:#F2F4F7; border:6px solid var(--accent); box-sizing:border-box; display:grid; grid-template-columns:repeat(4,1fr); gap:14px; padding:14px;"><div id="c7o-cell0" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7o-cell1" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7o-cell2" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7o-cell3" style="border-radius:14px; background:#D7DBE2;"></div></div>
+          <div id="c7o-scan" style="position:absolute; left:160px; top:700px; width:10px; height:120px; border-radius:5px; background:var(--accent);"></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c7a" data-start="@@start:c7a@@" data-duration="@@dur:c7a@@" data-track-index="1">
+        <div class="wrap" id="w-c7a">
+          <div id="c7a-page" style="position:absolute; left:160px; top:200px; width:700px; height:520px; border-radius:28px; background:#F2F4F7; box-sizing:border-box;"></div>
+          <div id="c7a-new" style="position:absolute; left:620px; top:230px; padding:12px 26px; border-radius:20px; background:var(--accent); color:#FFFFFF; font-size:40px; font-weight:800;">MỚI</div>
+          <div class="label" id="c7a-plbl" style="left:160px; top:131px; width:420px; text-align:center;">Trang sản phẩm mới</div>
+          <div id="c7a-shelf" style="position:absolute; left:1100px; top:300px; width:520px; height:360px; border-radius:28px; background:#F2F4F7; border:6px solid var(--accent); box-sizing:border-box; padding:24px; display:grid; grid-template-columns:1fr 1fr 1fr; grid-template-rows:1fr 1fr; gap:16px;"><div id="c7a-cell0" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7a-cell1" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7a-cell2" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7a-cell3" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7a-cell4" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7a-cell5" style="border-radius:14px; background:#D7DBE2;"></div></div>
+          <div id="c7a-scan" style="position:absolute; left:1100px; top:300px; width:12px; height:360px; border-radius:6px; background:var(--accent);"></div>
+          <div id="c7a-x" style="position:absolute; left:1330px; top:250px; font-size:240px; font-weight:800; line-height:1; color:#F5A524;">×</div>
+          <div id="c7a-miss" style="position:absolute; left:1180px; top:720px; padding:12px 30px; border-radius:20px; background:#F5A524; color:#FFFFFF; font-size:44px; font-weight:800;">MISS</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c7b" data-start="@@start:c7b@@" data-duration="@@dur:c7b@@" data-track-index="1">
+        <div class="wrap" id="w-c7b">
+          <div id="c7b-bar" style="position:absolute; left:0; top:0; width:1920px; height:1080px;">
+            <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c7b-l1" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M320 390 Q480 390 640 390"/><path id="c7b-l2" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M760 390 Q920 390 1080 390"/><path id="c7b-l3" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1200 390 Q1360 390 1520 390"/><path id="c7b-direct" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M320 500 Q900 680 1520 500"/></svg>
+            <div class="tile" id="c7b-user" style="left:200px; top:330px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-user"/></svg></div>
+            <div class="tile" id="c7b-edge" style="position:absolute; left:640px; top:330px; width:120px; height:120px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div>
+            <div class="tile" id="c7b-rec" style="left:1080px; top:330px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-hard-drive"/></svg></div>
+            <div class="tile" id="c7b-org" style="position:absolute; left:1520px; top:330px; width:120px; height:120px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/server.svg" alt=""></div>
+            <div style="position:absolute; left:260px; top:470px; transform:translateX(-50%); font-size:40px; font-weight:600; white-space:nowrap; color:var(--ink);">Người dùng</div>
+            <div style="position:absolute; left:700px; top:470px; transform:translateX(-50%); font-size:40px; font-weight:600; white-space:nowrap; color:var(--ink);">Edge Location</div>
+            <div style="position:absolute; left:1140px; top:470px; transform:translateX(-50%); font-size:40px; font-weight:600; white-space:nowrap; color:var(--ink);">Regional Edge Cache</div>
+            <div style="position:absolute; left:1580px; top:470px; transform:translateX(-50%); font-size:40px; font-weight:600; white-space:nowrap; color:var(--ink);">Origin</div>
+            <div id="c7b-recbox" style="position:absolute; left:1020px; top:300px; width:240px; height:240px; border:4px dashed var(--accent); border-radius:36px; box-sizing:border-box;"></div>
+            <div class="label" id="c7b-maybe" style="left:980px; top:561px; width:200px; text-align:center;">có thể</div>
+            <div id="c7b-strike" style="position:absolute; left:860px; top:640px; width:280px; height:10px; border-radius:5px; background:var(--ink); transform:rotate(-8deg);"></div>
+            <div class="tile" id="c7b-pkt" style="left:1080px; top:170px; width:90px; height:90px; border-radius:20px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:45px; height:45px;"><use href="#i-package"/></svg></div>
+            <div class="tile" id="c7b-tick" style="left:230px; top:220px; width:70px; height:70px; border-radius:15px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:35px; height:35px;"><use href="#i-check"/></svg></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c7c" data-start="@@start:c7c@@" data-duration="@@dur:c7c@@" data-track-index="1">
+        <div class="wrap" id="w-c7c">
+          <div class="tile" id="c7c-edge" style="position:absolute; left:200px; top:330px; width:130px; height:130px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div>
+          <div class="tile" id="c7c-rec" style="left:560px; top:330px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-hard-drive"/></svg></div>
+          <div id="c7c-x1" style="position:absolute; left:244px; top:280px; font-size:200px; font-weight:800; line-height:1; color:#F5A524;">×</div>
+          <div id="c7c-x2" style="position:absolute; left:604px; top:280px; font-size:200px; font-weight:800; line-height:1; color:#F5A524;">×</div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c7c-route" pathLength="1" style="fill:none; stroke:#F5A524; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M690 395 Q830 395 1000 395"/></svg>
+          <div id="c7c-org" style="position:absolute; left:1000px; top:260px; width:720px; height:460px; border:6px solid var(--accent); border-radius:32px; box-sizing:border-box;"></div>
+          <div class="label" id="c7c-olbl" style="left:840px; top:181px; width:320px; text-align:center;">Origin Server</div>
+          <div class="tile" id="c7c-s3" style="left:1080px; top:340px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-hard-drive"/></svg></div>
+          <div class="tile" id="c7c-ec2" style="left:1290px; top:340px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-cpu"/></svg></div>
+          <div class="tile" id="c7c-alb" style="left:1080px; top:540px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-network"/></svg></div>
+          <div class="tile" id="c7c-http" style="left:1290px; top:540px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-server"/></svg></div>
+          <div id="c7c-l1" style="position:absolute; left:1145px; top:485px; transform:translateX(-50%); width:200px; text-align:center; font-size:40px; font-weight:600; line-height:1.25; color:var(--ink);">Amazon S3</div>
+          <div id="c7c-l2" style="position:absolute; left:1355px; top:485px; transform:translateX(-50%); width:200px; text-align:center; font-size:40px; font-weight:600; line-height:1.25; color:var(--ink);">Amazon EC2</div>
+          <div id="c7c-l3" style="position:absolute; left:1145px; top:685px; transform:translateX(-50%); width:200px; text-align:center; font-size:40px; font-weight:600; line-height:1.25; color:var(--ink);">Application Load Balancer</div>
+          <div id="c7c-l4" style="position:absolute; left:1355px; top:685px; transform:translateX(-50%); width:200px; text-align:center; font-size:40px; font-weight:600; line-height:1.25; color:var(--ink);">HTTP server</div>
+          <div class="label" id="c7c-my" style="left:1210px; top:741px; width:180px; text-align:center;">Mỹ</div>
+          <div class="tile" id="c7c-pkt" style="left:470px; top:340px; width:90px; height:90px; border-radius:20px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:45px; height:45px;"><use href="#i-package"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c7d" data-start="@@start:c7d@@" data-duration="@@dur:c7d@@" data-track-index="1">
+        <div class="wrap" id="w-c7d">
+          <div class="tile" id="c7d-user" style="left:200px; top:330px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-user"/></svg></div>
+          <div class="tile" id="c7d-edge" style="position:absolute; left:640px; top:330px; width:130px; height:130px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div>
+          <div class="tile" id="c7d-org" style="position:absolute; left:1500px; top:330px; width:130px; height:130px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/server.svg" alt=""></div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c7d-line" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1565 395 Q1100 395 265 395"/></svg>
+          <div id="c7d-ke" style="position:absolute; left:560px; top:560px; width:280px; height:120px; border-radius:24px; background:#F2F4F7; border:6px solid var(--accent); box-sizing:border-box; padding:16px; display:grid; grid-template-columns:1fr 1fr 1fr; gap:12px;"><div id="c7d-ce0" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7d-ce1" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7d-ce2" style="border-radius:14px; background:#D7DBE2;"></div></div>
+          <div id="c7d-kr" style="position:absolute; left:1000px; top:560px; width:280px; height:120px; border-radius:24px; background:#F2F4F7; border:6px solid var(--accent); box-sizing:border-box; padding:16px; display:grid; grid-template-columns:1fr 1fr 1fr; gap:12px;"><div id="c7d-cr0" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7d-cr1" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7d-cr2" style="border-radius:14px; background:#D7DBE2;"></div></div>
+          <div class="tile" id="c7d-tk1" style="left:740px; top:600px; width:60px; height:60px; border-radius:13px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:30px; height:30px;"><use href="#i-check"/></svg></div>
+          <div class="tile" id="c7d-tk2" style="left:1180px; top:600px; width:60px; height:60px; border-radius:13px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:30px; height:30px;"><use href="#i-check"/></svg></div>
+          <div id="c7d-dot" style="position:absolute; left:1545px; top:385px; width:20px; height:20px; border-radius:50%; background:#30A46C;"></div>
+          <div class="label" id="c7d-chip" style="left:580px; top:741px; width:360px; text-align:center;">theo cấu hình</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c7e" data-start="@@start:c7e@@" data-duration="@@dur:c7e@@" data-track-index="1">
+        <div class="wrap" id="w-c7e">
+          <div class="tile" id="c7e-u2" style="left:200px; top:330px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-user"/></svg></div>
+          <div class="tile" id="c7e-edge" style="position:absolute; left:700px; top:330px; width:130px; height:130px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c7e-route" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M330 395 Q515 395 700 395"/></svg>
+          <div class="tile" id="c7e-img" style="left:1150px; top:330px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-image"/></svg></div>
+          <div id="c7e-ring" style="position:absolute; left:1120px; top:300px; width:190px; height:190px; border-radius:50%; border:8px solid #30A46C; box-sizing:border-box;"></div>
+          <div class="tile" id="c7e-pkt" style="left:740px; top:470px; width:90px; height:90px; border-radius:20px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:45px; height:45px;"><use href="#i-package"/></svg></div>
+          <div id="c7e-hit" style="position:absolute; left:720px; top:250px; padding:12px 32px; border-radius:24px; background:#30A46C; color:#FFFFFF; font-size:44px; font-weight:800;">HIT</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c7f" data-start="@@start:c7f@@" data-duration="@@dur:c7f@@" data-track-index="1">
+        <div class="wrap" id="w-c7f">
+          <div id="c7f-hl" style="position:absolute; left:160px; top:240px; padding:12px 30px; border-radius:24px; background:#30A46C; color:#FFFFFF; font-size:40px; font-weight:800;">CACHE HIT</div>
+          <div id="c7f-ml" style="position:absolute; left:1100px; top:240px; padding:12px 30px; border-radius:24px; background:#F5A524; color:#FFFFFF; font-size:40px; font-weight:800;">CACHE MISS</div>
+          <div id="c7f-hitbox" style="position:absolute; left:160px; top:300px; width:700px; height:460px; border-radius:28px; background:#F2F4F7; padding:28px; box-sizing:border-box; display:grid; grid-template-columns:1fr 1fr 1fr; grid-template-rows:1fr 1fr; gap:16px;"><div id="c7f-h0" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7f-h1" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7f-h2" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7f-h3" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7f-h4" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7f-h5" style="border-radius:14px; background:#D7DBE2;"></div></div>
+          <div id="c7f-missbox" style="position:absolute; left:1100px; top:300px; width:660px; height:460px; border-radius:28px; background:#F2F4F7; padding:28px; box-sizing:border-box; display:grid; grid-template-columns:1fr 1fr 1fr; grid-template-rows:1fr 1fr; gap:16px;"><div id="c7f-m0" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7f-m1" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7f-m2" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7f-m3" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7f-m4" style="border-radius:14px; background:#D7DBE2;"></div><div id="c7f-m5" style="border-radius:14px; background:#D7DBE2;"></div></div>
+          <div class="tile" id="c7f-pkt" style="left:640px; top:790px; width:80px; height:80px; border-radius:18px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:40px; height:40px;"><use href="#i-package"/></svg></div>
+          <div id="c7f-arrow" style="position:absolute; left:1160px; top:820px; width:180px; height:12px; border-radius:6px; background:#F5A524;"></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c7g" data-start="@@start:c7g@@" data-duration="@@dur:c7g@@" data-track-index="1">
+        <div class="wrap" id="w-c7g">
+          <div id="c7g-track" style="position:absolute; left:800px; top:200px; width:200px; height:640px; border-radius:100px; background:#D7DBE2;"></div>
+          <div id="c7g-fill" style="position:absolute; left:800px; top:200px; width:200px; height:640px; border-radius:100px; background:#30A46C; transform-origin:50% 100%;"></div>
+          <div class="tile" id="c7g-origin" style="left:1200px; top:330px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-server"/></svg></div>
+          <div class="label" id="c7g-hit" style="left:980px; top:581px; width:200px; text-align:center;">hit</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c8o" data-start="@@start:c8o@@" data-duration="@@dur:c8o@@" data-track-index="1">
+        <div class="wrap" id="w-c8o">
+          <div class="num" id="c8o-num" style="left:160px; top:130px;">08</div>
+          <div class="tile big" id="c8o-ic" style="left:800px; top:120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-layers"/></svg></div>
+          <svg class="burst" id="c8o-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1100px; top:130px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c8o-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1500px; top:620px;"><use href="#art-mascot"/></svg>
+          <div class="h1 chap" id="c8o-t" style="top:470px;"><span class="bot">Regional Edge Cache</span></div>
+          
+        
+          <div id="c8o-bar" style="position:absolute; left:160px; top:800px; width:1600px; height:8px; border-radius:4px; background:#D7DBE2;"></div>
+          <div id="c8o-rec" style="position:absolute; left:820px; top:740px; width:280px; height:110px; border-radius:24px; background:var(--accent); opacity:0.9;"></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c8a" data-start="@@start:c8a@@" data-duration="@@dur:c8a@@" data-track-index="1">
+        <div class="wrap" id="w-c8a">
+          <div class="tile" id="c8a-e0" style="position:absolute; left:330px; top:200px; width:110px; height:110px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div><div class="tile" id="c8a-e1" style="position:absolute; left:520px; top:200px; width:110px; height:110px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div><div class="tile" id="c8a-e2" style="position:absolute; left:710px; top:200px; width:110px; height:110px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div><div class="tile" id="c8a-e3" style="position:absolute; left:900px; top:200px; width:110px; height:110px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div><div class="tile" id="c8a-e4" style="position:absolute; left:1090px; top:200px; width:110px; height:110px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div><div class="tile" id="c8a-e5" style="position:absolute; left:1280px; top:200px; width:110px; height:110px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div>
+          <div id="c8a-v0" style="position:absolute; left:384px; top:320px; height:80px; border-left:4px dashed var(--accent);"></div><div id="c8a-v1" style="position:absolute; left:574px; top:320px; height:80px; border-left:4px dashed var(--accent);"></div><div id="c8a-v2" style="position:absolute; left:764px; top:320px; height:80px; border-left:4px dashed var(--accent);"></div><div id="c8a-v3" style="position:absolute; left:954px; top:320px; height:80px; border-left:4px dashed var(--accent);"></div><div id="c8a-v4" style="position:absolute; left:1144px; top:320px; height:80px; border-left:4px dashed var(--accent);"></div><div id="c8a-v5" style="position:absolute; left:1334px; top:320px; height:80px; border-left:4px dashed var(--accent);"></div>
+          <div class="label" id="c8a-tl1" style="left:160px; top:211px; width:300px; text-align:center;">Edge Locations</div>
+          <div id="c8a-rshelf" style="position:absolute; left:330px; top:420px; width:1260px; height:150px; border-radius:28px; background:#F2F4F7; border:6px solid var(--accent); box-sizing:border-box; padding:20px; display:grid; grid-template-columns:repeat(9,1fr); gap:12px;"><div id="c8a-rc0" style="border-radius:14px; background:#D7DBE2;"></div><div id="c8a-rc1" style="border-radius:14px; background:#D7DBE2;"></div><div id="c8a-rc2" style="border-radius:14px; background:#D7DBE2;"></div><div id="c8a-rc3" style="border-radius:14px; background:#D7DBE2;"></div><div id="c8a-rc4" style="border-radius:14px; background:#D7DBE2;"></div><div id="c8a-rc5" style="border-radius:14px; background:#D7DBE2;"></div><div id="c8a-rc6" style="border-radius:14px; background:#D7DBE2;"></div><div id="c8a-rc7" style="border-radius:14px; background:#D7DBE2;"></div><div id="c8a-rc8" style="border-radius:14px; background:#D7DBE2;"></div></div>
+          <div id="c8a-obj" style="position:absolute; left:750px; top:300px; width:24px; height:24px; border-radius:50%; background:#F5A524;"></div>
+          <div id="c8a-dot2" style="position:absolute; left:952px; top:600px; width:22px; height:22px; border-radius:50%; background:#30A46C;"></div>
+          <div class="label" id="c8a-tl2" style="left:-30px; top:431px; width:380px; text-align:center;">Regional Edge Cache</div>
+          <div class="tile" id="c8a-org" style="position:absolute; left:880px; top:720px; width:140px; height:140px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/server.svg" alt=""></div>
+          <div class="label" id="c8a-tl3" style="left:960px; top:721px; width:200px; text-align:center;">Origin</div>
+          <div id="c8a-vmid" style="position:absolute; left:950px; top:580px; height:120px; border-left:4px dashed var(--accent);"></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c8b" data-start="@@start:c8b@@" data-duration="@@dur:c8b@@" data-track-index="1">
+        <div class="wrap" id="w-c8b">
+          <svg viewBox="0 0 1920 1080" style="position:absolute; left:0; top:0; width:1920px; height:1080px; overflow:visible;">
+            <line x1="200" y1="760" x2="1720" y2="760" stroke="#8A8F98" stroke-width="4"/>
+            <path id="c8b-curve" pathLength="1" d="M 240 300 C 420 340, 700 700, 1700 740" fill="none" stroke="#0B0F14" stroke-width="8" stroke-linecap="round"/>
+            <path id="c8b-tail" pathLength="1" d="M 1180 690 C 1340 720, 1500 735, 1700 740" fill="none" stroke="#30A46C" stroke-width="14" stroke-linecap="round"/>
+          </svg>
+          <div class="tile" id="c8b-img" style="left:300px; top:200px; width:110px; height:110px; border-radius:24px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:55px; height:55px;"><use href="#i-image"/></svg></div>
+          <div class="tile" id="c8b-vid" style="left:760px; top:430px; width:110px; height:110px; border-radius:24px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:55px; height:55px;"><use href="#i-video"/></svg></div>
+          <div class="tile" id="c8b-pr" style="left:1100px; top:560px; width:110px; height:110px; border-radius:24px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:55px; height:55px;"><use href="#i-shopping-cart"/></svg></div>
+          <div class="label" id="c8b-rec" style="left:1330px; top:581px; width:180px; text-align:center;">REC</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c8c" data-start="@@start:c8c@@" data-duration="@@dur:c8c@@" data-track-index="1">
+        <div class="wrap" id="w-c8c">
+          <div class="tile" id="c8c-rec" style="left:300px; top:330px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-hard-drive"/></svg></div>
+          <div class="tile" id="c8c-org" style="left:1500px; top:330px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-server"/></svg></div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c8c-l1" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M420 390 Q600 390 900 390"/><path id="c8c-l2" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1100 390 Q1300 390 1500 390"/></svg>
+          <div id="c8c-box" style="position:absolute; left:900px; top:300px; width:200px; height:200px; border:4px dashed var(--accent); border-radius:36px; box-sizing:border-box;"></div>
+          <div id="c8c-solid" style="position:absolute; left:900px; top:300px; width:200px; height:200px; border:6px solid var(--accent); border-radius:36px; box-sizing:border-box; opacity:0;"></div>
+          <div class="tile" id="c8c-sh" style="left:940px; top:340px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-shield"/></svg></div>
+          <div class="label" id="c8c-l" style="left:720px; top:201px; width:280px; text-align:center;">Origin Shield</div>
+          <div class="label" id="c8c-opt" style="left:800px; top:501px; width:200px; text-align:center;">tùy chọn</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c8d" data-start="@@start:c8d@@" data-duration="@@dur:c8d@@" data-track-index="1">
+        <div class="wrap" id="w-c8d">
+          <div class="tile" id="c8d-u0" style="left:200px; top:260px; width:96px; height:96px; border-radius:21px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:48px; height:48px;"><use href="#i-user"/></svg></div><div class="tile" id="c8d-u1" style="left:200px; top:380px; width:96px; height:96px; border-radius:21px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:48px; height:48px;"><use href="#i-user"/></svg></div><div class="tile" id="c8d-u2" style="left:200px; top:500px; width:96px; height:96px; border-radius:21px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:48px; height:48px;"><use href="#i-user"/></svg></div><div class="tile" id="c8d-u3" style="left:200px; top:620px; width:96px; height:96px; border-radius:21px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:48px; height:48px;"><use href="#i-user"/></svg></div><div class="tile" id="c8d-u4" style="left:200px; top:740px; width:96px; height:96px; border-radius:21px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:48px; height:48px;"><use href="#i-user"/></svg></div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c8d-a0" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M300 308 Q900 308 1440 540"/><path id="c8d-a1" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M300 428 Q900 428 1440 540"/><path id="c8d-a2" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M300 548 Q900 548 1440 540"/><path id="c8d-a3" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M300 668 Q900 668 1440 540"/><path id="c8d-a4" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M300 788 Q900 788 1440 540"/><path id="c8d-so" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M960 530 Q1200 530 1440 540"/></svg>
+          <div id="c8d-ring" style="position:absolute; left:1400px; top:420px; width:240px; height:240px; border-radius:50%; border:8px solid #D9534F; box-sizing:border-box;"></div>
+          <div class="tile" id="c8d-org" style="left:1440px; top:460px; width:160px; height:160px; border-radius:35px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:80px; height:80px;"><use href="#i-server"/></svg></div>
+          <div class="label" id="c8d-cnt" style="left:1360px; top:291px; width:160px; text-align:center;">× 5</div>
+          <div class="tile" id="c8d-sh" style="left:820px; top:460px; width:140px; height:140px; border-radius:31px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:70px; height:70px;"><use href="#i-shield"/></svg></div>
+          <div class="tile" id="c8d-file" style="left:780px; top:120px; width:160px; height:160px; border-radius:35px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:80px; height:80px;"><use href="#i-file"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c8e" data-start="@@start:c8e@@" data-duration="@@dur:c8e@@" data-track-index="1">
+        <div class="wrap" id="w-c8e">
+          <div id="c8e-track" style="position:absolute; left:260px; top:380px; width:220px; height:110px; border-radius:55px; background:#D7DBE2;"></div>
+          <div id="c8e-knob" style="position:absolute; left:278px; top:398px; width:74px; height:74px; border-radius:50%; background:#FFFFFF; box-shadow:0 4px 10px rgba(0,0,0,0.2);"></div>
+          <div id="c8e-coin" style="position:absolute; left:580px; top:380px; width:110px; height:110px; border-radius:50%; background:#F5A524; color:#FFFFFF; font-size:72px; font-weight:800; text-align:center; line-height:110px;">+</div>
+          <div class="label" id="c8e-l1" style="left:160px; top:241px; width:240px; text-align:center;">bật riêng</div>
+          <div class="label" id="c8e-l2" style="left:440px; top:501px; width:240px; text-align:center;">có tính phí</div>
+          <div id="c8e-small" style="position:absolute; left:1000px; top:300px; width:260px; height:200px; border-radius:24px; background:#F2F4F7; border:6px solid #8A8F98; box-sizing:border-box;"></div>
+          <div id="c8e-x" style="position:absolute; left:1000px; top:360px; width:260px; height:8px; border-radius:4px; background:var(--ink); transform:rotate(-20deg);"></div>
+          <div id="c8e-big" style="position:absolute; left:1340px; top:300px; width:300px; height:200px; border-radius:24px; background:#F2F4F7; border:6px solid var(--accent); box-sizing:border-box;"></div>
+          <div class="tile" id="c8e-shield" style="left:1440px; top:240px; width:100px; height:100px; border-radius:22px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:50px; height:50px;"><use href="#i-shield"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c9o" data-start="@@start:c9o@@" data-duration="@@dur:c9o@@" data-track-index="1">
+        <div class="wrap" id="w-c9o">
+          <div class="num" id="c9o-num" style="left:160px; top:130px;">09</div>
+          <div class="tile big" id="c9o-ic" style="left:800px; top:120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-timer"/></svg></div>
+          <svg class="burst" id="c9o-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1100px; top:130px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c9o-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1500px; top:620px;"><use href="#art-mascot"/></svg>
+          <div class="h1 chap" id="c9o-t" style="top:470px;"><span class="bot">Cache Policy và TTL</span></div>
+          
+        
+          <div class="tile" id="c9o-k" style="left:1500px; top:150px; width:140px; height:140px; border-radius:31px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:70px; height:70px;"><use href="#i-key-round"/></svg></div>
+          <div id="c9o-q" style="position:absolute; left:1660px; top:170px; font-size:200px; font-weight:800; line-height:1; color:var(--accent);">?</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c9a" data-start="@@start:c9a@@" data-duration="@@dur:c9a@@" data-track-index="1">
+        <div class="wrap" id="w-c9a">
+          <div id="c9a-card" style="position:absolute; left:620px; top:350px; width:240px; height:220px; border-radius:24px; background:#FFFFFF; box-shadow:0 18px 40px rgba(0,0,0,0.20); box-sizing:border-box;"></div>
+          <svg style="position:absolute; left:500px; top:220px; width:480px; height:480px; overflow:visible;" viewBox="0 0 480 480">
+            <circle id="c9a-ring" cx="240" cy="240" r="200" pathLength="1" fill="none" stroke="#30A46C" stroke-width="20" stroke-linecap="round" transform="rotate(-90 240 240)" stroke-dasharray="1 1" stroke-dashoffset="0"/>
+          </svg>
+          <div id="c9a-t1" style="position:absolute; left:1150px; top:380px; font-size:140px; font-weight:800; color:var(--ink);">T</div>
+          <div id="c9a-t2" style="position:absolute; left:1260px; top:380px; font-size:140px; font-weight:800; color:var(--ink);">T</div>
+          <div id="c9a-t3" style="position:absolute; left:1370px; top:380px; font-size:140px; font-weight:800; color:var(--ink);">L</div>
+          <div class="label" id="c9a-lbl" style="left:400px; top:601px; width:360px; text-align:center;">TTL · Time To Live</div>
+          <div class="tile" id="c9a-org" style="position:absolute; left:1340px; top:700px; width:130px; height:130px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/server.svg" alt=""></div>
+                    <div class="tile" id="c9a-tk" style="left:1380px; top:620px; width:60px; height:60px; border-radius:13px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:30px; height:30px;"><use href="#i-check"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c9b" data-start="@@start:c9b@@" data-duration="@@dur:c9b@@" data-track-index="1">
+        <div class="wrap" id="w-c9b">
+          <div id="c9b-logo" style="position:absolute; left:240px; top:300px; width:160px; height:160px; border-radius:32px; background:#D7DBE2; font-size:40px; font-weight:700; color:#4A5059; display:flex; align-items:center; justify-content:center;">LOGO</div>
+          <div id="c9b-lbar" style="position:absolute; left:240px; top:560px; width:640px; height:50px; border-radius:25px; background:var(--accent); transform-origin:0% 50%;"></div>
+          <div class="label" id="c9b-ll" style="left:160px; top:621px; width:240px; text-align:center;">TTL dài</div>
+          <div id="c9b-price" style="position:absolute; left:1100px; top:300px; width:460px; height:260px; border-radius:28px; background:#FFFFFF; box-shadow:0 18px 40px rgba(0,0,0,0.20); box-sizing:border-box; padding:40px; font-size:96px; font-weight:800; color:var(--ink);">1.000</div>
+          <div id="c9b-rbar" style="position:absolute; left:1100px; top:600px; width:180px; height:50px; border-radius:25px; background:#F5A524;"></div>
+          <div class="label" id="c9b-rl" style="left:980px; top:661px; width:240px; text-align:center;">TTL ngắn</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c9c" data-start="@@start:c9c@@" data-duration="@@dur:c9c@@" data-track-index="1">
+        <div class="wrap" id="w-c9c">
+          <div class="code" id="c9c-term" style="left:160px; top:260px; width:800px; height:200px; font-size:40px;">Cache-Control: max-age=3600</div>
+          <div class="label" id="c9c-chip" style="left:870px; top:241px; width:340px; text-align:center;">3600 s = 1 giờ</div>
+          <div id="c9c-track" style="position:absolute; left:460px; top:700px; width:1000px; height:12px; border-radius:6px; background:#D7DBE2;"></div>
+          <div id="c9c-mk" style="position:absolute; left:954px; top:672px; width:36px; height:36px; border-radius:50%; background:var(--accent);"></div>
+          <div class="label" id="c9c-min" style="left:310px; top:721px; width:220px; text-align:center;">Min TTL</div>
+          <div class="label" id="c9c-max" style="left:1230px; top:721px; width:220px; text-align:center;">Max TTL</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c9d" data-start="@@start:c9d@@" data-duration="@@dur:c9d@@" data-track-index="1">
+        <div class="wrap" id="w-c9d">
+          <div class="label" id="c9d-lbl" style="left:160px; top:121px; width:420px; text-align:center;">Cache Key</div>
+          <svg id="c9d-key" viewBox="0 0 1600 300" style="position:absolute; left:160px; top:320px; width:1600px; height:300px; overflow:visible;">
+            <circle cx="170" cy="120" r="80" fill="none" stroke="#0B0F14" stroke-width="18"/>
+            <rect x="250" y="105" width="1000" height="30" rx="12" fill="#0B0F14"/>
+            <rect id="c9d-t0" x="520" y="135" width="50" height="70" rx="6" fill="none" stroke="#0B0F14" stroke-width="12"/>
+            <rect id="c9d-t1" x="640" y="135" width="50" height="70" rx="6" fill="none" stroke="#0B0F14" stroke-width="12"/>
+            <rect id="c9d-t2" x="760" y="135" width="50" height="70" rx="6" fill="none" stroke="#0B0F14" stroke-width="12"/>
+            <rect id="c9d-t3" x="880" y="135" width="50" height="70" rx="6" fill="none" stroke="#0B0F14" stroke-width="12"/>
+          </svg>
+          <div class="label" id="c9d-u" style="left:300px; top:221px; width:200px; text-align:center;">URL</div>
+          <div class="label" id="c9d-q" style="left:520px; top:221px; width:230px; text-align:center;">query</div>
+          <div class="label" id="c9d-h" style="left:780px; top:221px; width:330px; text-align:center;">headers</div>
+          <div class="label" id="c9d-c" style="left:1130px; top:221px; width:320px; text-align:center;">cookies</div>
+          <div id="c9d-shelf" style="position:absolute; left:1400px; top:420px; width:300px; height:220px; border-radius:28px; background:#F2F4F7; border:6px solid var(--accent); box-sizing:border-box; display:flex; align-items:center; justify-content:center; font-size:40px; font-weight:700; color:var(--ink);">Kệ cache</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c9e" data-start="@@start:c9e@@" data-duration="@@dur:c9e@@" data-track-index="1">
+        <div class="wrap" id="w-c9e">
+          <div class="label" id="c9e-r0" style="left:160px; top:201px; width:380px; text-align:center;">ảnh.jpg?t=1</div>
+          <div class="label" id="c9e-r1" style="left:160px; top:331px; width:380px; text-align:center;">ảnh.jpg?t=2</div>
+          <div class="label" id="c9e-r2" style="left:160px; top:461px; width:380px; text-align:center;">ảnh.jpg?t=3</div>
+          <div class="label" id="c9e-r3" style="left:160px; top:591px; width:380px; text-align:center;">ảnh.jpg?t=4</div>
+          <div id="c9e-shelf" style="position:absolute; left:900px; top:240px; width:500px; height:520px; border-radius:28px; background:#F2F4F7; border:6px solid var(--accent); box-sizing:border-box; padding:24px; display:grid; grid-template-columns:1fr 1fr; grid-template-rows:1fr 1fr; gap:18px;"><div id="c9e-c0" style="border-radius:14px; background:#D7DBE2;"></div><div id="c9e-c1" style="border-radius:14px; background:#D7DBE2;"></div><div id="c9e-c2" style="border-radius:14px; background:#D7DBE2;"></div><div id="c9e-c3" style="border-radius:14px; background:#D7DBE2;"></div></div>
+          <div id="c9e-track" style="position:absolute; left:1480px; top:240px; width:120px; height:520px; border-radius:60px; background:#D7DBE2;"></div>
+          <div id="c9e-fill" style="position:absolute; left:1480px; top:240px; width:120px; height:520px; border-radius:60px; background:#30A46C; transform-origin:50% 100%;"></div>
+          <div class="label" id="c9e-hr" style="left:1280px; top:761px; width:240px; text-align:center;">hit ratio</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c9f" data-start="@@start:c9f@@" data-duration="@@dur:c9f@@" data-track-index="1">
+        <div class="wrap" id="w-c9f">
+          <div id="c9f-card" style="position:absolute; left:700px; top:300px; width:440px; height:380px; border-radius:28px; background:#FFFFFF; box-shadow:0 18px 40px rgba(0,0,0,0.20); box-sizing:border-box; padding:40px;">
+            <div style="width:120px; height:120px; border-radius:50%; background:#B9BEC7;"></div>
+            <div style="margin-top:36px; width:300px; height:30px; border-radius:15px; background:#D7DBE2;"></div>
+            <div style="margin-top:22px; width:360px; height:24px; border-radius:12px; background:#E4E7EC;"></div>
+            <div style="margin-top:18px; width:260px; height:24px; border-radius:12px; background:#E4E7EC;"></div>
+          </div>
+          <div id="c9f-red" style="position:absolute; left:700px; top:300px; width:440px; height:380px; border-radius:28px; border:8px solid #D9534F; box-sizing:border-box; opacity:0;"></div>
+          <div class="label" id="c9f-la" style="left:600px; top:201px; width:200px; text-align:center;">User A</div>
+          <div class="tile" id="c9f-warn" style="left:1040px; top:250px; width:90px; height:90px; border-radius:20px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:45px; height:45px;"><use href="#i-circle-alert"/></svg></div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c9f-arr" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M1140 500 Q1280 500 1400 420"/></svg>
+          <div class="tile" id="c9f-b" style="left:1400px; top:340px; width:140px; height:140px; border-radius:31px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:70px; height:70px;"><use href="#i-user"/></svg></div>
+          <div class="label" id="c9f-lb" style="left:1300px; top:481px; width:200px; text-align:center;">User B</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c9g" data-start="@@start:c9g@@" data-duration="@@dur:c9g@@" data-track-index="1">
+        <div class="wrap" id="w-c9g">
+          <div id="c9g-sw" style="position:absolute; left:200px; top:340px; width:220px; height:110px; border-radius:55px; background:#D7DBE2;"></div>
+          <div id="c9g-knob" style="position:absolute; left:218px; top:358px; width:74px; height:74px; border-radius:50%; background:#FFFFFF; box-shadow:0 4px 10px rgba(0,0,0,0.2);"></div>
+          <div id="c9g-strike" style="position:absolute; left:180px; top:390px; width:280px; height:10px; border-radius:5px; background:#D9534F; transform:rotate(-20deg);"></div>
+          <div class="label" id="c9g-lbl" style="left:160px; top:461px; width:320px; text-align:center;">Một công tắc</div>
+          <div id="c9g-table" style="position:absolute; left:720px; top:240px; width:1000px; box-sizing:border-box;">
+            <div id="c9g-r0" style="display:grid; grid-template-columns:1.2fr 1fr 1.2fr; gap:14px; margin-bottom:14px;"><div style="height:110px; border-radius:20px; background:#F2F4F7; display:flex; align-items:center; padding:0 28px; font-size:40px; font-weight:700; color:var(--ink);">ảnh</div><div style="height:110px; border-radius:20px; background:#E4E7EC; display:flex; align-items:center; padding:0 28px; font-size:40px; color:var(--ink);">TTL dài</div><div style="height:110px; border-radius:20px; background:#E4E7EC; display:flex; align-items:center; padding:0 28px; font-size:40px; color:var(--ink);">cache key riêng</div></div><div id="c9g-r1" style="display:grid; grid-template-columns:1.2fr 1fr 1.2fr; gap:14px; margin-bottom:14px;"><div style="height:110px; border-radius:20px; background:#F2F4F7; display:flex; align-items:center; padding:0 28px; font-size:40px; font-weight:700; color:var(--ink);">CSS</div><div style="height:110px; border-radius:20px; background:#E4E7EC; display:flex; align-items:center; padding:0 28px; font-size:40px; color:var(--ink);">TTL ngắn</div><div style="height:110px; border-radius:20px; background:#E4E7EC; display:flex; align-items:center; padding:0 28px; font-size:40px; color:var(--ink);">cache key riêng</div></div><div id="c9g-r2" style="display:grid; grid-template-columns:1.2fr 1fr 1.2fr; gap:14px; margin-bottom:14px;"><div style="height:110px; border-radius:20px; background:#F2F4F7; display:flex; align-items:center; padding:0 28px; font-size:40px; font-weight:700; color:var(--ink);">giá</div><div style="height:110px; border-radius:20px; background:#E4E7EC; display:flex; align-items:center; padding:0 28px; font-size:40px; color:var(--ink);">TTL ngắn</div><div style="height:110px; border-radius:20px; background:#E4E7EC; display:flex; align-items:center; padding:0 28px; font-size:40px; color:var(--ink);">cache key riêng</div></div><div id="c9g-r3" style="display:grid; grid-template-columns:1.2fr 1fr 1.2fr; gap:14px; margin-bottom:14px;"><div style="height:110px; border-radius:20px; background:#F2F4F7; display:flex; align-items:center; padding:0 28px; font-size:40px; font-weight:700; color:var(--ink);">giỏ hàng</div><div style="height:110px; border-radius:20px; background:#E4E7EC; display:flex; align-items:center; padding:0 28px; font-size:40px; color:var(--ink);">TTL không cache</div><div style="height:110px; border-radius:20px; background:#E4E7EC; display:flex; align-items:center; padding:0 28px; font-size:40px; color:var(--ink);">cache key riêng</div></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c10o" data-start="@@start:c10o@@" data-duration="@@dur:c10o@@" data-track-index="1">
+        <div class="wrap" id="w-c10o">
+          <div class="num" id="c10o-num" style="left:160px; top:130px;">10</div>
+          <div class="tile big" id="c10o-ic" style="left:800px; top:120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-image"/></svg></div>
+          <svg class="burst" id="c10o-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1100px; top:130px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c10o-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1500px; top:620px;"><use href="#art-mascot"/></svg>
+          <div class="h1 chap" id="c10o-t" style="top:470px;"><span class="bot">Static và Dynamic</span></div>
+          
+        
+          <div class="tile" id="c10o-cart" style="left:1500px; top:150px; width:140px; height:140px; border-radius:31px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:70px; height:70px;"><use href="#i-shopping-cart"/></svg></div>
+          <div class="tile" id="c10o-cf" style="position:absolute; left:200px; top:760px; width:120px; height:120px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+          <div id="c10o-x" style="position:absolute; left:1000px; top:700px; font-size:200px; font-weight:800; line-height:1; color:#D9534F;">×</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c10a" data-start="@@start:c10a@@" data-duration="@@dur:c10a@@" data-track-index="1">
+        <div class="wrap" id="w-c10a">
+          <div id="c10a-div" style="position:absolute; left:958px; top:180px; width:4px; height:700px; background:var(--ink); transform-origin:50% 0%;"></div>
+          <div id="c10a-lhalf" style="position:absolute; left:160px; top:180px; width:780px; height:700px; border-radius:28px; background:#EAF6EF; opacity:0;"></div>
+          <div class="label" id="c10a-ll" style="left:160px; top:171px; width:320px; text-align:center;">Static Content</div>
+          <div class="label" id="c10a-rl" style="left:820px; top:171px; width:360px; text-align:center;">Dynamic Content</div>
+          <div class="tile" id="c10a-logo" style="left:220px; top:360px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-sparkles"/></svg></div>
+          <div class="tile" id="c10a-img" style="left:390px; top:360px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-image"/></svg></div>
+          <div class="tile" id="c10a-css" style="left:560px; top:360px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-layout-grid"/></svg></div>
+          <div class="tile" id="c10a-js" style="left:280px; top:540px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-file"/></svg></div>
+          <div class="tile" id="c10a-vid" style="left:450px; top:540px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-video"/></svg></div>
+          <div class="tile" id="c10a-u1" style="left:700px; top:480px; width:100px; height:100px; border-radius:22px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:50px; height:50px;"><use href="#i-user"/></svg></div>
+          <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c10a-cdn" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M330 760 Q340 640 400 620"/></svg>
+          <div class="tile" id="c10a-edge" style="position:absolute; left:200px; top:740px; width:120px; height:120px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div>
+          <div class="tile" id="c10a-tick" style="left:860px; top:220px; width:70px; height:70px; border-radius:15px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:35px; height:35px;"><use href="#i-check"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c10b" data-start="@@start:c10b@@" data-duration="@@dur:c10b@@" data-track-index="1">
+        <div class="wrap" id="w-c10b">
+          <div id="c10b-div" style="position:absolute; left:958px; top:180px; width:4px; height:700px; background:var(--ink);"></div>
+          <div id="c10b-rhalf" style="position:absolute; left:990px; top:180px; width:770px; height:700px; border-radius:28px; background:#EEF0F8; opacity:0;"></div>
+          <div class="label" id="c10b-rl" style="left:820px; top:171px; width:360px; text-align:center;">Dynamic Content</div>
+          <div class="tile" id="c10b-a" style="left:1080px; top:340px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-user"/></svg></div>
+          <div class="tile" id="c10b-b" style="left:1280px; top:340px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-clock"/></svg></div>
+          <div class="tile" id="c10b-c" style="left:1480px; top:340px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-shopping-cart"/></svg></div>
+          <div class="tile" id="c10b-d" style="left:1180px; top:560px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-credit-card"/></svg></div>
+          <div class="tile" id="c10b-e" style="left:1380px; top:560px; width:130px; height:130px; border-radius:29px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:65px; height:65px;"><use href="#i-refresh-cw"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c10c" data-start="@@start:c10c@@" data-duration="@@dur:c10c@@" data-track-index="1">
+        <div class="wrap" id="w-c10c">
+          <div id="c10c-url" style="position:absolute; left:420px; top:220px; width:1080px; height:80px; border-radius:40px; background:#FFFFFF; box-shadow:0 8px 18px rgba(0,0,0,0.12); box-sizing:border-box; padding:0 36px; display:flex; align-items:center; font-size:40px; font-weight:700; color:var(--ink);">/cart</div>
+          <div id="c10c-a" style="position:absolute; left:460px; top:500px; width:140px; height:140px; border-radius:50%; background:#B9BEC7; color:#FFFFFF; font-size:72px; font-weight:800; display:flex; align-items:center; justify-content:center;">A</div>
+          <div id="c10c-b" style="position:absolute; left:1320px; top:500px; width:140px; height:140px; border-radius:50%; background:var(--accent); color:#FFFFFF; font-size:72px; font-weight:800; display:flex; align-items:center; justify-content:center;">B</div>
+          <div class="tile" id="c10c-cart" style="left:560px; top:360px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-shopping-cart"/></svg></div>
+          <div id="c10c-x" style="position:absolute; left:1000px; top:300px; font-size:260px; font-weight:800; line-height:1; color:#D9534F;">×</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c10d" data-start="@@start:c10d@@" data-duration="@@dur:c10d@@" data-track-index="1">
+        <div class="wrap" id="w-c10d">
+          <div class="mapclip" id="c10d-map" style="opacity:0;">
+            <img class="mapimg" src="assets/map/world-dots.svg" alt="">
+            <div class="pin" id="c10d-hcm" style="left:377.3px; top:512px;"></div>
+            <div class="pin" id="c10d-hn" style="left:369px; top:430.4px;"></div>
+            <div class="pin sea" id="c10d-us" style="left:1224px; top:307.7px;"></div>
+          </div>
+          <div id="c10d-bar" style="position:absolute; left:0; top:0; width:1920px; height:1080px;">
+            <svg class="leader" viewBox="0 0 1920 1080" aria-hidden="true"><path id="c10d-l1" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M320 390 Q480 390 640 390"/><path id="c10d-l2" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M760 390 Q1140 390 1520 390"/></svg>
+            <div class="tile" id="c10d-user" style="left:200px; top:330px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-user"/></svg></div>
+            <div class="tile" id="c10d-edge" style="position:absolute; left:640px; top:330px; width:120px; height:120px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/edge-location.svg" alt=""></div>
+            <div class="tile" id="c10d-org" style="position:absolute; left:1520px; top:330px; width:120px; height:120px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/server.svg" alt=""></div>
+            <div id="c10d-x" style="position:absolute; left:700px; top:250px; font-size:110px; font-weight:800; line-height:1; color:#D9534F;">×</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c11o" data-start="@@start:c11o@@" data-duration="@@dur:c11o@@" data-track-index="1">
+        <div class="wrap" id="w-c11o">
+          <div class="num" id="c11o-num" style="left:160px; top:130px;">11</div>
+          <div class="tile big" id="c11o-ic" style="left:800px; top:120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-route"/></svg></div>
+          <svg class="burst" id="c11o-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1100px; top:130px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c11o-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1500px; top:620px;"><use href="#art-mascot"/></svg>
+          <div class="h1 chap" id="c11o-t" style="top:470px;"><span class="bot">Theo một request</span></div>
+          
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c11a" data-start="@@start:c11a@@" data-duration="@@dur:c11a@@" data-track-index="1">
+        <div class="wrap" id="w-c11a">
+          <div class="mapclip" id="c11a-map" style="opacity:0;"><div class="cam" id="c11a-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><div class="pin" id="c11a-hcm" style="left:377.3px; top:512px;"></div><div class="pin sea" id="c11a-us" style="left:1224px; top:307.7px;"></div></div></div>
+          <div class="tile" id="c11a-user" style="left:220px; top:170px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-user"/></svg></div>
+          <div class="label" id="c11a-u" style="left:230px; top:161px; width:300px; text-align:center;">Người dùng</div>
+          <div class="tile" id="c11a-sign" style="left:220px; top:360px; width:150px; height:150px; border-radius:33px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:75px; height:75px;"><use href="#i-signpost"/></svg></div>
+          <div class="label" id="c11a-dns" style="left:300px; top:361px; width:200px; text-align:center;">DNS</div>
+          <div class="label" id="c11a-pop" style="left:450px; top:661px; width:340px; text-align:center;">PoP gần nhất</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c11b" data-start="@@start:c11b@@" data-duration="@@dur:c11b@@" data-track-index="1">
+        <div class="wrap" id="w-c11b">
+          <div class="mapclip" id="c11b-map" style="opacity:0;"><div class="cam" id="c11b-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><div class="pin" id="c11b-edge" style="left:377.3px; top:512px;"></div><svg style="position:absolute; left:0; top:0; width:1600px; height:820px; overflow:visible;" viewBox="0 0 1600 820"><path id="c11b-arc" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M140 480 Q250 380 377 512"/></svg><div class="pin lbl" id="c11b-lbl" style="left:377.3px; top:512px;">thường gần bạn</div></div></div>
+          <div class="tile" id="c11b-user" style="left:240px; top:500px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-user"/></svg></div>
+          <div class="label" id="c11b-hit" style="left:1120px; top:221px; width:360px; text-align:center;">CACHE HIT</div>
+          <div class="label" id="c11b-ok" style="left:1130px; top:341px; width:340px; text-align:center;">còn hợp lệ</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c11c" data-start="@@start:c11c@@" data-duration="@@dur:c11c@@" data-track-index="1">
+        <div class="wrap" id="w-c11c">
+          <div class="mapclip" id="c11c-map" style="opacity:0;"><div class="cam" id="c11c-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><div class="pin" id="c11c-edge" style="left:377.3px; top:512px;"></div><div class="pin" id="c11c-rec" style="left:369px; top:430.4px;"></div><div class="pin sea" id="c11c-org" style="left:1224px; top:307.7px;"></div><svg style="position:absolute; left:0; top:0; width:1600px; height:820px; overflow:visible;" viewBox="0 0 1600 820"><path id="c11c-direct" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M377 512 Q800 520 1224 307"/><path id="c11c-er" pathLength="1" style="fill:none; stroke:#D9822B; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M377 512 Q400 440 369 430"/><path id="c11c-ro" pathLength="1" style="fill:none; stroke:#D9822B; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M369 430 Q800 120 1224 307"/></svg></div></div>
+          <div class="label" id="c11c-maybe" style="left:500px; top:391px; width:200px; text-align:center;">có thể</div>
+          <div class="label" id="c11c-miss" style="left:1130px; top:181px; width:340px; text-align:center;">CACHE MISS</div>
+          <div id="c11c-shelf" style="position:absolute; left:1380px; top:520px; width:300px; height:220px; border-radius:28px; background:#F2F4F7; border:6px solid var(--accent); box-sizing:border-box; display:flex; align-items:center; justify-content:center; font-size:40px; font-weight:700; color:var(--ink);">Kệ cache</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c11d" data-start="@@start:c11d@@" data-duration="@@dur:c11d@@" data-track-index="1">
+        <div class="wrap" id="w-c11d">
+          <div class="mapclip" id="c11d-map" style="opacity:1;"><div class="cam" id="c11d-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><div class="pin" id="c11d-edge" style="left:377.3px; top:512px;"></div><svg style="position:absolute; left:0; top:0; width:1600px; height:820px; overflow:visible;" viewBox="0 0 1600 820"><path id="c11d-arc" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M377 512 Q260 640 140 580"/></svg></div></div>
+          <div class="tile" id="c11d-user2" style="left:240px; top:600px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-user"/></svg></div>
+          <div class="tile" id="c11d-img" style="left:560px; top:380px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-image"/></svg></div>
+          <div class="label" id="c11d-hit" style="left:520px; top:221px; width:200px; text-align:center;">HIT</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c11e" data-start="@@start:c11e@@" data-duration="@@dur:c11e@@" data-track-index="1">
+        <div class="wrap" id="w-c11e">
+          <div class="mapclip" id="c11e-map" style="opacity:0;"><div class="cam" id="c11e-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><div class="pin" id="c11e-p1" style="left:377.3px; top:512px;"></div><div class="pin" id="c11e-p2" style="left:369px; top:430.4px;"></div><div class="pin sea" id="c11e-p3" style="left:1224px; top:307.7px;"></div><div class="pin" id="c11e-p4" style="left:1000px; top:260px;"></div><div class="pin" id="c11e-p5" style="left:1180px; top:520px;"></div><svg style="position:absolute; left:0; top:0; width:1600px; height:820px; overflow:visible;" viewBox="0 0 1600 820"><path id="c11e-a1" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M140 480 Q260 420 377 512"/><path id="c11e-long" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M377 512 Q800 120 1224 307"/></svg></div></div>
+          <div class="tile" id="c11e-user" style="left:240px; top:500px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-user"/></svg></div>
+          <div id="c11e-copy" style="position:absolute; left:200px; top:160px; width:620px; height:150px; border-radius:24px; background:#FFFFFF; box-shadow:0 18px 40px rgba(0,0,0,0.20); box-sizing:border-box; padding:30px 36px; font-size:40px; font-weight:700; color:var(--ink);">Bản sao toàn bộ website</div>
+          <div id="c11e-strike" style="position:absolute; left:190px; top:230px; width:640px; height:10px; border-radius:5px; background:#D9534F; transform-origin:0 50%;"></div>
+          <div class="label" id="c11e-caching" style="left:1170px; top:161px; width:260px; text-align:center;">caching</div>
+          <div class="label" id="c11e-routing" style="left:1170px; top:281px; width:260px; text-align:center;">routing</div>
+          <div class="label" id="c11e-min" style="left:1170px; top:761px; width:260px; text-align:center;">minh họa</div>
+          <div class="tile" id="c11e-cf" style="position:absolute; left:780px; top:420px; width:180px; height:180px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-o1" data-start="@@start:o1@@" data-duration="@@dur:o1@@" data-track-index="1">
+        <div class="wrap" id="w-o1">
+          <div class="mapclip" id="o1-map" style="opacity:1;"><div class="cam" id="o1-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><div class="pin" id="o1-hcm" style="left:377.3px; top:512px;"></div><div class="pin sea" id="o1-us" style="left:1224px; top:307.7px;"></div><svg style="position:absolute; left:0; top:0; width:1600px; height:820px; overflow:visible;" viewBox="0 0 1600 820"><path id="o1-long" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M377 512 Q800 120 1224 307"/></svg></div></div>
+          <div class="tile" id="o1-user" style="left:240px; top:500px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-user"/></svg></div>
+          <div class="label" id="o1-km" style="left:580px; top:181px; width:360px; text-align:center;">12.000+ km</div>
+          <div class="tile" id="o1-clock" style="left:1400px; top:200px; width:120px; height:120px; border-radius:26px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:60px; height:60px;"><use href="#i-clock"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-o2" data-start="@@start:o2@@" data-duration="@@dur:o2@@" data-track-index="1">
+        <div class="wrap" id="w-o2">
+          <div class="mapclip" id="o2-map" style="opacity:1;"><div class="cam" id="o2-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><div class="pin" id="o2-hcm" style="left:377.3px; top:512px;"></div><div class="pin sea" id="o2-us" style="left:1224px; top:307.7px;"></div><svg style="position:absolute; left:0; top:0; width:1600px; height:820px; overflow:visible;" viewBox="0 0 1600 820"><path id="o2-arc" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M140 480 Q300 420 377 512"/><path id="o2-long" pathLength="1" style="fill:none; stroke:#8A8F98; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M377 512 Q800 120 1224 307"/><path id="o2-short" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M377 512 Q300 380 369 430"/></svg><div id="o2-ring" style="position:absolute; left:347px; top:482px; width:60px; height:60px; border-radius:50%; border:6px solid var(--accent); box-sizing:border-box; opacity:0;"></div></div></div>
+          <div class="tile" id="o2-pkg" style="position:absolute; left:240px; top:520px; width:110px; height:110px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+          <div id="o2-thesis" style="position:absolute; left:260px; top:160px; width:1400px; box-sizing:border-box; padding:36px 48px; border-radius:32px; background:#FFFFFF; box-shadow:0 18px 40px rgba(0,0,0,0.20); font-size:88px; font-weight:800; line-height:1.2; color:var(--ink); opacity:0;">Không phải mọi request<br>đều phải đi hết quãng đường</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-o3" data-start="@@start:o3@@" data-duration="@@dur:o3@@" data-track-index="1">
+        <div class="wrap" id="w-o3">
+          <div class="mapclip" id="o3-map" style="opacity:1;"><div class="cam" id="o3-cam"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><div class="pin" id="o3-hcm" style="left:377.3px; top:512px;"></div><div class="pin" id="o3-hn" style="left:369px; top:430.4px;"></div><div class="pin sea" id="o3-us" style="left:1224px; top:307.7px;"></div><div class="pin sea" id="o3-u1" style="left:900px; top:300px;"></div><div class="pin sea" id="o3-u2" style="left:1080px; top:420px;"></div><div class="pin sea" id="o3-u3" style="left:760px; top:520px;"></div><div class="pin sea" id="o3-u4" style="left:1180px; top:240px;"></div><div class="pin sea" id="o3-u5" style="left:1300px; top:560px;"></div><svg style="position:absolute; left:0; top:0; width:1600px; height:820px; overflow:visible;" viewBox="0 0 1600 820"><path id="o3-a1" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M377 512 Q700 400 369 430"/><path id="o3-a2" pathLength="1" style="fill:none; stroke:#30A46C; stroke-width:5; stroke-linecap:round; stroke-dasharray:1 1;" d="M369 430 Q800 250 1224 307"/></svg></div></div>
+          <div class="tile" id="o3-cf1" style="position:absolute; left:500px; top:540px; width:80px; height:80px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+          <div class="tile" id="o3-cf2" style="position:absolute; left:1120px; top:300px; width:80px; height:80px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+          <div id="o3-tbl" style="position:absolute; left:200px; top:150px; width:1520px; box-sizing:border-box; opacity:0;">
+            <div id="o3-r0" style="display:grid; grid-template-columns:1fr 240px 110px; gap:18px; align-items:center; height:150px; margin-bottom:18px; padding:0 36px; box-sizing:border-box; border-radius:28px; background:#F2F4F7; font-size:40px; font-weight:700; color:var(--ink);"><span>Ảnh, CSS, JS dùng chung</span><span style="color:var(--accent);">edge</span><svg style="width:90px; height:90px;" fill="none" stroke="currentColor" stroke-width="2"><use href="#i-layers"/></svg></div><div id="o3-r1" style="display:grid; grid-template-columns:1fr 240px 110px; gap:18px; align-items:center; height:150px; margin-bottom:18px; padding:0 36px; box-sizing:border-box; border-radius:28px; background:#F2F4F7; font-size:40px; font-weight:700; color:var(--ink);"><span>Nội dung ít thay đổi</span><span style="color:var(--accent);">REC</span><svg style="width:90px; height:90px;" fill="none" stroke="currentColor" stroke-width="2"><use href="#i-hard-drive"/></svg></div><div id="o3-r2" style="display:grid; grid-template-columns:1fr 240px 110px; gap:18px; align-items:center; height:150px; margin-bottom:18px; padding:0 36px; box-sizing:border-box; border-radius:28px; background:#F2F4F7; font-size:40px; font-weight:700; color:var(--ink);"><span>Giỏ hàng, tài khoản</span><span style="color:var(--accent);">origin</span><svg style="width:90px; height:90px;" fill="none" stroke="currentColor" stroke-width="2"><use href="#i-server"/></svg></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-o4" data-start="@@start:o4@@" data-duration="@@dur:o4@@" data-track-index="1">
+        <div class="wrap" id="w-o4">
+          <img id="o4-logo" src="assets/logos/goc-nhin-dev-logo.png" alt="" style="position:absolute; left:760px; top:300px; width:400px; height:400px; object-fit:contain;">
+          <div id="o4-orbit" style="position:absolute; left:960px; top:500px; width:0px; height:0px;">
+            <div class="tile" id="o4-cf" style="position:absolute; left:-60px; top:-320px; width:120px; height:120px; border-radius:28px; background:#FFFFFF; box-shadow:0 10px 24px rgba(0,0,0,0.12);"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+          </div>
+        </div>
+      </div>
+
+<div class="scene clip" id="sc-ec" data-start="@@start:ec@@" data-duration="@@dur:ec@@" data-track-index="1">
+        <div class="wrap" id="w-ec">
+          <img id="ec-logo" src="@@logo@@" alt="">
+          <div id="ec-brand">@@brand@@</div>
+          <div id="ec-slogan">@@slogan@@</div>
+        </div>
+      </div>
+
+<div id="kara" data-layout-allow-overlap="true"></div>
+      <audio id="vo" class="clip" data-start="0" data-duration="@@vo@@" data-track-index="8" src="assets/audio/voiceover.mp3" data-volume="1" data-audio-group="voiceover"></audio>
+      <!-- sfx cues are written by scripts/add-sfx.py -->

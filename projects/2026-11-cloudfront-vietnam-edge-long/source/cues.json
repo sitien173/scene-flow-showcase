@@ -1,0 +1,2135 @@
+{
+  "scenes": [
+    {
+      "id": "h1"
+    },
+    {
+      "id": "h2",
+      "in": "slide",
+      "at": {
+        "sentence": 3,
+        "word": "Bạn"
+      }
+    },
+    {
+      "id": "h3",
+      "in": "cut",
+      "at": {
+        "sentence": 6,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "h4",
+      "in": "slide",
+      "at": {
+        "sentence": 8,
+        "word": "Liệu"
+      }
+    },
+    {
+      "id": "h5",
+      "in": "fade",
+      "at": {
+        "sentence": 10,
+        "word": "Câu"
+      }
+    },
+    {
+      "id": "c2o",
+      "in": "cut",
+      "at": {
+        "sentence": 12,
+        "word": "Trước"
+      }
+    },
+    {
+      "id": "c2a",
+      "in": "slide",
+      "at": {
+        "sentence": 13,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c2b",
+      "in": "slide",
+      "at": {
+        "sentence": 15,
+        "word": "Thời"
+      }
+    },
+    {
+      "id": "c2c",
+      "in": "fade",
+      "at": {
+        "sentence": 17,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c2d",
+      "in": "slide",
+      "at": {
+        "sentence": 19,
+        "word": "Ngoài"
+      }
+    },
+    {
+      "id": "c2e",
+      "in": "slide",
+      "at": {
+        "sentence": 21,
+        "word": "Điều"
+      }
+    },
+    {
+      "id": "c2f",
+      "in": "slide",
+      "at": {
+        "sentence": 24,
+        "word": "Vậy"
+      }
+    },
+    {
+      "id": "c3o",
+      "in": "cut",
+      "at": {
+        "sentence": 28,
+        "word": "Internet"
+      }
+    },
+    {
+      "id": "c3a",
+      "in": "slide",
+      "at": {
+        "sentence": 29,
+        "word": "Nó"
+      }
+    },
+    {
+      "id": "c3b",
+      "in": "slide",
+      "at": {
+        "sentence": 31,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c3c",
+      "in": "slide",
+      "at": {
+        "sentence": 33,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c3d",
+      "in": "fade",
+      "at": {
+        "sentence": 35,
+        "word": "Điều"
+      }
+    },
+    {
+      "id": "c3e",
+      "in": "slide",
+      "at": {
+        "sentence": 36,
+        "word": "Và"
+      }
+    },
+    {
+      "id": "c4o",
+      "in": "cut",
+      "at": {
+        "sentence": 38,
+        "word": "Amazon"
+      }
+    },
+    {
+      "id": "c4a",
+      "in": "slide",
+      "at": {
+        "sentence": 39,
+        "word": "Thay"
+      }
+    },
+    {
+      "id": "c4b",
+      "in": "slide",
+      "at": {
+        "sentence": 41,
+        "word": "Ý"
+      }
+    },
+    {
+      "id": "c4c",
+      "in": "slide",
+      "at": {
+        "sentence": 43,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c4d",
+      "in": "slide",
+      "at": {
+        "sentence": 44,
+        "word": "CloudFront"
+      }
+    },
+    {
+      "id": "c4e",
+      "in": "fade",
+      "at": {
+        "sentence": 47,
+        "word": "Như"
+      }
+    },
+    {
+      "id": "c5o",
+      "in": "cut",
+      "at": {
+        "sentence": 49,
+        "word": "Và"
+      }
+    },
+    {
+      "id": "c5a",
+      "in": "slide",
+      "at": {
+        "sentence": 50,
+        "word": "AWS"
+      }
+    },
+    {
+      "id": "c5b",
+      "in": "slide",
+      "at": {
+        "sentence": 51,
+        "word": "Điều"
+      }
+    },
+    {
+      "id": "c5c",
+      "in": "slide",
+      "at": {
+        "sentence": 52,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c5d",
+      "in": "slide",
+      "at": {
+        "sentence": 55,
+        "word": "Server"
+      }
+    },
+    {
+      "id": "c5e",
+      "in": "fade",
+      "at": {
+        "sentence": 58,
+        "word": "Điều"
+      }
+    },
+    {
+      "id": "c6o",
+      "in": "cut",
+      "at": {
+        "sentence": 60,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c6a",
+      "in": "slide",
+      "at": {
+        "sentence": 61,
+        "word": "Giả"
+      }
+    },
+    {
+      "id": "c6b",
+      "in": "slide",
+      "at": {
+        "sentence": 64,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c6c",
+      "in": "cut",
+      "at": {
+        "sentence": 66,
+        "word": "Và"
+      }
+    },
+    {
+      "id": "c6d",
+      "in": "slide",
+      "at": {
+        "sentence": 68,
+        "word": "Thay"
+      }
+    },
+    {
+      "id": "c6e",
+      "in": "fade",
+      "at": {
+        "sentence": 69,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c6f",
+      "in": "slide",
+      "at": {
+        "sentence": 73,
+        "word": "Đây"
+      }
+    },
+    {
+      "id": "c6g",
+      "in": "slide",
+      "at": {
+        "sentence": 74,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c6h",
+      "in": "slide",
+      "at": {
+        "sentence": 77,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "c7o",
+      "in": "cut",
+      "at": {
+        "sentence": 78,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c7a",
+      "in": "slide",
+      "at": {
+        "sentence": 80,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c7b",
+      "in": "slide",
+      "at": {
+        "sentence": 82,
+        "word": "Thay"
+      }
+    },
+    {
+      "id": "c7c",
+      "in": "slide",
+      "at": {
+        "sentence": 84,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c7d",
+      "in": "slide",
+      "at": {
+        "sentence": 87,
+        "word": "Server"
+      }
+    },
+    {
+      "id": "c7e",
+      "in": "slide",
+      "at": {
+        "sentence": 89,
+        "word": "Lần"
+      }
+    },
+    {
+      "id": "c7f",
+      "in": "fade",
+      "at": {
+        "sentence": 90,
+        "word": "Và"
+      }
+    },
+    {
+      "id": "c7g",
+      "in": "slide",
+      "at": {
+        "sentence": 93,
+        "word": "CDN"
+      }
+    },
+    {
+      "id": "c8o",
+      "in": "cut",
+      "at": {
+        "sentence": 94,
+        "word": "Ngoài"
+      }
+    },
+    {
+      "id": "c8a",
+      "in": "slide",
+      "at": {
+        "sentence": 95,
+        "word": "Bạn"
+      }
+    },
+    {
+      "id": "c8b",
+      "in": "slide",
+      "at": {
+        "sentence": 97,
+        "word": "Điều"
+      }
+    },
+    {
+      "id": "c8c",
+      "in": "slide",
+      "at": {
+        "sentence": 98,
+        "word": "AWS"
+      }
+    },
+    {
+      "id": "c8d",
+      "in": "slide",
+      "at": {
+        "sentence": 100,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c8e",
+      "in": "fade",
+      "at": {
+        "sentence": 103,
+        "word": "Tuy"
+      }
+    },
+    {
+      "id": "c9o",
+      "in": "cut",
+      "at": {
+        "sentence": 105,
+        "word": "Vậy"
+      }
+    },
+    {
+      "id": "c9a",
+      "in": "slide",
+      "at": {
+        "sentence": 107,
+        "word": "TTL"
+      }
+    },
+    {
+      "id": "c9b",
+      "in": "slide",
+      "at": {
+        "sentence": 108,
+        "word": "Ví"
+      }
+    },
+    {
+      "id": "c9c",
+      "in": "slide",
+      "at": {
+        "sentence": 111,
+        "word": "CloudFront"
+      }
+    },
+    {
+      "id": "c9d",
+      "in": "slide",
+      "at": {
+        "sentence": 113,
+        "word": "Ngoài"
+      }
+    },
+    {
+      "id": "c9e",
+      "in": "slide",
+      "at": {
+        "sentence": 116,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c9f",
+      "in": "cut",
+      "at": {
+        "sentence": 117,
+        "word": "Nguy"
+      }
+    },
+    {
+      "id": "c9g",
+      "in": "fade",
+      "at": {
+        "sentence": 118,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "c10o",
+      "in": "cut",
+      "at": {
+        "sentence": 120,
+        "word": "Đến"
+      }
+    },
+    {
+      "id": "c10a",
+      "in": "slide",
+      "at": {
+        "sentence": 122,
+        "word": "Chúng"
+      }
+    },
+    {
+      "id": "c10b",
+      "in": "slide",
+      "at": {
+        "sentence": 127,
+        "word": "Loại"
+      }
+    },
+    {
+      "id": "c10c",
+      "in": "slide",
+      "at": {
+        "sentence": 130,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c10d",
+      "in": "slide",
+      "at": {
+        "sentence": 131,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "c11o",
+      "in": "cut",
+      "at": {
+        "sentence": 134,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c11a",
+      "in": "slide",
+      "at": {
+        "sentence": 135,
+        "word": "Bạn"
+      }
+    },
+    {
+      "id": "c11b",
+      "in": "slide",
+      "at": {
+        "sentence": 138,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c11c",
+      "in": "slide",
+      "at": {
+        "sentence": 140,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c11d",
+      "in": "slide",
+      "at": {
+        "sentence": 143,
+        "word": "Lần"
+      }
+    },
+    {
+      "id": "c11e",
+      "in": "fade",
+      "at": {
+        "sentence": 144,
+        "word": "Như"
+      }
+    },
+    {
+      "id": "o1",
+      "in": "cut",
+      "at": {
+        "sentence": 147,
+        "word": "Vậy"
+      }
+    },
+    {
+      "id": "o2",
+      "in": "cut",
+      "at": {
+        "sentence": 149,
+        "word": "Mà"
+      }
+    },
+    {
+      "id": "o3",
+      "in": "slide",
+      "at": {
+        "sentence": 150,
+        "word": "CDN"
+      }
+    },
+    {
+      "id": "o4",
+      "in": "fade",
+      "at": {
+        "sentence": 153,
+        "word": "Bạn"
+      }
+    }
+  ],
+  "beats": {
+    "h1-1": {
+      "sentence": 1,
+      "word": "Hãy"
+    },
+    "h1-2": {
+      "sentence": 1,
+      "word": "mở"
+    },
+    "h1-3": {
+      "sentence": 2,
+      "word": "Website"
+    },
+    "h1-4": {
+      "sentence": 2,
+      "word": "cách"
+    },
+    "h2-1": {
+      "sentence": 3,
+      "word": "Bạn"
+    },
+    "h2-2": {
+      "sentence": 4,
+      "word": "Chỉ"
+    },
+    "h2-3": {
+      "sentence": 4,
+      "word": "hiển"
+    },
+    "h2-4": {
+      "sentence": 5,
+      "word": "Hình"
+    },
+    "h2-5": {
+      "sentence": 5,
+      "word": "chữ"
+    },
+    "h2-6": {
+      "sentence": 5,
+      "word": "tương"
+    },
+    "h3-1": {
+      "sentence": 6,
+      "word": "Nhưng"
+    },
+    "h3-2": {
+      "sentence": 7,
+      "word": "Làm"
+    },
+    "h3-3": {
+      "sentence": 7,
+      "word": "đại"
+    },
+    "h3-4": {
+      "sentence": 7,
+      "word": "máy"
+    },
+    "h4-1": {
+      "sentence": 8,
+      "word": "Liệu"
+    },
+    "h4-2": {
+      "sentence": 8,
+      "word": "mở"
+    },
+    "h4-3": {
+      "sentence": 9,
+      "word": "Hay"
+    },
+    "h5-1": {
+      "sentence": 10,
+      "word": "Câu"
+    },
+    "h5-2": {
+      "sentence": 10,
+      "word": "Content"
+    },
+    "h5-3": {
+      "sentence": 11,
+      "word": "Amazon"
+    },
+    "h5-4": {
+      "sentence": 11,
+      "word": "khắp"
+    },
+    "c2o-1": {
+      "sentence": 12,
+      "word": "Network"
+    },
+    "c2a-1": {
+      "sentence": 13,
+      "word": "Khi"
+    },
+    "c2a-2": {
+      "sentence": 13,
+      "word": "gửi"
+    },
+    "c2a-3": {
+      "sentence": 14,
+      "word": "Server"
+    },
+    "c2a-4": {
+      "sentence": 14,
+      "word": "response"
+    },
+    "c2b-1": {
+      "sentence": 15,
+      "word": "Thời"
+    },
+    "c2b-2": {
+      "sentence": 15,
+      "word": "latency"
+    },
+    "c2b-3": {
+      "sentence": 16,
+      "word": "Round"
+    },
+    "c2b-4": {
+      "sentence": 16,
+      "word": "vòng"
+    },
+    "c2c-1": {
+      "sentence": 17,
+      "word": "Một"
+    },
+    "c2c-2": {
+      "sentence": 18,
+      "word": "Tín"
+    },
+    "c2c-3": {
+      "sentence": 18,
+      "word": "không"
+    },
+    "c2d-1": {
+      "sentence": 19,
+      "word": "Ngoài"
+    },
+    "c2d-2": {
+      "sentence": 19,
+      "word": "router"
+    },
+    "c2d-3": {
+      "sentence": 20,
+      "word": "Vì"
+    },
+    "c2d-4": {
+      "sentence": 20,
+      "word": "khu"
+    },
+    "c2d-5": {
+      "sentence": 19,
+      "word": "Internet"
+    },
+    "c2d-6": {
+      "sentence": 20,
+      "word": "Mỹ"
+    },
+    "c2e-1": {
+      "sentence": 21,
+      "word": "Điều"
+    },
+    "c2e-2": {
+      "sentence": 22,
+      "word": "HTML"
+    },
+    "c2e-3": {
+      "sentence": 22,
+      "word": "CSS"
+    },
+    "c2e-4": {
+      "sentence": 22,
+      "word": "JavaScript"
+    },
+    "c2e-5": {
+      "sentence": 22,
+      "word": "hình"
+    },
+    "c2e-6": {
+      "sentence": 23,
+      "word": "Nếu"
+    },
+    "c2e-7": {
+      "sentence": 23,
+      "word": "tổng"
+    },
+    "c2e-8": {
+      "sentence": 21,
+      "word": "trao"
+    },
+    "c2e-9": {
+      "sentence": 22,
+      "word": "request"
+    },
+    "c2f-1": {
+      "sentence": 24,
+      "word": "Vậy"
+    },
+    "c2f-2": {
+      "sentence": 25,
+      "word": "Về"
+    },
+    "c2f-3": {
+      "sentence": 26,
+      "word": "Nhưng"
+    },
+    "c2f-4": {
+      "sentence": 27,
+      "word": "Đây"
+    },
+    "c2f-5": {
+      "sentence": 26,
+      "word": "toàn"
+    },
+    "c3o-1": {
+      "sentence": 28,
+      "word": "Internet"
+    },
+    "c3o-2": {
+      "sentence": 28,
+      "word": "duy"
+    },
+    "c3a-1": {
+      "sentence": 29,
+      "word": "Nó"
+    },
+    "c3a-2": {
+      "sentence": 30,
+      "word": "Các"
+    },
+    "c3a-3": {
+      "sentence": 30,
+      "word": "kết"
+    },
+    "c3b-1": {
+      "sentence": 31,
+      "word": "Một"
+    },
+    "c3b-2": {
+      "sentence": 32,
+      "word": "Đây"
+    },
+    "c3b-3": {
+      "sentence": 32,
+      "word": "khổng"
+    },
+    "c3b-4": {
+      "sentence": 31,
+      "word": "cáp"
+    },
+    "c3b-5": {
+      "sentence": 32,
+      "word": "châu"
+    },
+    "c3c-1": {
+      "sentence": 33,
+      "word": "Khi"
+    },
+    "c3c-2": {
+      "sentence": 34,
+      "word": "Đường"
+    },
+    "c3c-3": {
+      "sentence": 33,
+      "word": "response"
+    },
+    "c3c-4": {
+      "sentence": 34,
+      "word": "tình"
+    },
+    "c3d-1": {
+      "sentence": 35,
+      "word": "Điều"
+    },
+    "c3d-2": {
+      "sentence": 35,
+      "word": "xa"
+    },
+    "c3d-3": {
+      "sentence": 35,
+      "word": "hành"
+    },
+    "c3e-1": {
+      "sentence": 36,
+      "word": "Và"
+    },
+    "c3e-2": {
+      "sentence": 37,
+      "word": "Đó"
+    },
+    "c3e-3": {
+      "sentence": 36,
+      "word": "tiếp"
+    },
+    "c3e-4": {
+      "sentence": 37,
+      "word": "phân"
+    },
+    "c4o-1": {
+      "sentence": 38,
+      "word": "Amazon"
+    },
+    "c4a-1": {
+      "sentence": 39,
+      "word": "Thay"
+    },
+    "c4a-2": {
+      "sentence": 39,
+      "word": "mạng"
+    },
+    "c4a-3": {
+      "sentence": 40,
+      "word": "Point"
+    },
+    "c4a-4": {
+      "sentence": 39,
+      "word": "trực"
+    },
+    "c4b-1": {
+      "sentence": 41,
+      "word": "Ý"
+    },
+    "c4b-2": {
+      "sentence": 42,
+      "word": "Nếu"
+    },
+    "c4b-3": {
+      "sentence": 42,
+      "word": "bản"
+    },
+    "c4b-4": {
+      "sentence": 42,
+      "word": "Việt"
+    },
+    "c4c-1": {
+      "sentence": 43,
+      "word": "Khi"
+    },
+    "c4c-2": {
+      "sentence": 43,
+      "word": "tốt"
+    },
+    "c4c-3": {
+      "sentence": 43,
+      "word": "thấp"
+    },
+    "c4d-1": {
+      "sentence": 44,
+      "word": "CloudFront"
+    },
+    "c4d-2": {
+      "sentence": 45,
+      "word": "Nếu"
+    },
+    "c4d-3": {
+      "sentence": 46,
+      "word": "Nếu"
+    },
+    "c4e-1": {
+      "sentence": 47,
+      "word": "Như"
+    },
+    "c4e-2": {
+      "sentence": 47,
+      "word": "mọi"
+    },
+    "c4e-3": {
+      "sentence": 48,
+      "word": "Nó"
+    },
+    "c5o-1": {
+      "sentence": 49,
+      "word": "Việt"
+    },
+    "c5a-1": {
+      "sentence": 50,
+      "word": "AWS"
+    },
+    "c5a-2": {
+      "sentence": 50,
+      "word": "Hà"
+    },
+    "c5a-3": {
+      "sentence": 50,
+      "word": "hai"
+    },
+    "c5b-1": {
+      "sentence": 51,
+      "word": "Điều"
+    },
+    "c5b-2": {
+      "sentence": 51,
+      "word": "phục"
+    },
+    "c5b-3": {
+      "sentence": 51,
+      "word": "Thành"
+    },
+    "c5c-1": {
+      "sentence": 52,
+      "word": "Hãy"
+    },
+    "c5c-2": {
+      "sentence": 52,
+      "word": "giống"
+    },
+    "c5c-3": {
+      "sentence": 53,
+      "word": "Nó"
+    },
+    "c5c-4": {
+      "sentence": 54,
+      "word": "Nó"
+    },
+    "c5c-5": {
+      "sentence": 53,
+      "word": "backend"
+    },
+    "c5d-1": {
+      "sentence": 55,
+      "word": "Server"
+    },
+    "c5d-2": {
+      "sentence": 56,
+      "word": "Database"
+    },
+    "c5d-3": {
+      "sentence": 57,
+      "word": "Nhưng"
+    },
+    "c5d-4": {
+      "sentence": 57,
+      "word": "Việt"
+    },
+    "c5e-1": {
+      "sentence": 58,
+      "word": "Điều"
+    },
+    "c5e-2": {
+      "sentence": 59,
+      "word": "Đây"
+    },
+    "c5e-3": {
+      "sentence": 58,
+      "word": "thiết"
+    },
+    "c6o-1": {
+      "sentence": 60,
+      "word": "Cache"
+    },
+    "c6o-2": {
+      "sentence": 60,
+      "word": "đầu"
+    },
+    "c6a-1": {
+      "sentence": 61,
+      "word": "Giả"
+    },
+    "c6a-2": {
+      "sentence": 62,
+      "word": "hình"
+    },
+    "c6a-3": {
+      "sentence": 62,
+      "word": "logo"
+    },
+    "c6a-4": {
+      "sentence": 62,
+      "word": "CSS"
+    },
+    "c6a-5": {
+      "sentence": 62,
+      "word": "JavaScript"
+    },
+    "c6a-6": {
+      "sentence": 63,
+      "word": "CloudFront"
+    },
+    "c6b-1": {
+      "sentence": 64,
+      "word": "Khi"
+    },
+    "c6b-2": {
+      "sentence": 65,
+      "word": "CloudFront"
+    },
+    "c6b-3": {
+      "sentence": 64,
+      "word": "phù"
+    },
+    "c6c-1": {
+      "sentence": 66,
+      "word": "Và"
+    },
+    "c6c-2": {
+      "sentence": 67,
+      "word": "Cache"
+    },
+    "c6d-1": {
+      "sentence": 68,
+      "word": "Thay"
+    },
+    "c6d-2": {
+      "sentence": 68,
+      "word": "CloudFront"
+    },
+    "c6d-3": {
+      "sentence": 68,
+      "word": "chẳng"
+    },
+    "c6d-4": {
+      "sentence": 68,
+      "word": "cache"
+    },
+    "c6d-5": {
+      "sentence": 68,
+      "word": "hợp"
+    },
+    "c6e-1": {
+      "sentence": 69,
+      "word": "Hãy"
+    },
+    "c6e-2": {
+      "sentence": 70,
+      "word": "Nhưng"
+    },
+    "c6e-3": {
+      "sentence": 71,
+      "word": "Mỗi"
+    },
+    "c6e-4": {
+      "sentence": 72,
+      "word": "Bạn"
+    },
+    "c6f-1": {
+      "sentence": 73,
+      "word": "Đây"
+    },
+    "c6g-1": {
+      "sentence": 74,
+      "word": "Một"
+    },
+    "c6g-2": {
+      "sentence": 75,
+      "word": "TTL"
+    },
+    "c6g-4": {
+      "sentence": 76,
+      "word": "Nếu"
+    },
+    "c6h-1": {
+      "sentence": 77,
+      "word": "Vì"
+    },
+    "c6h-2": {
+      "sentence": 77,
+      "word": "giảm"
+    },
+    "c7o-1": {
+      "sentence": 78,
+      "word": "Nhưng"
+    },
+    "c7o-2": {
+      "sentence": 79,
+      "word": "Cache"
+    },
+    "c7o-3": {
+      "sentence": 78,
+      "word": "Edge"
+    },
+    "c7a-1": {
+      "sentence": 80,
+      "word": "Hãy"
+    },
+    "c7a-2": {
+      "sentence": 81,
+      "word": "CloudFront"
+    },
+    "c7a-3": {
+      "sentence": 81,
+      "word": "không"
+    },
+    "c7b-1": {
+      "sentence": 82,
+      "word": "Thay"
+    },
+    "c7b-2": {
+      "sentence": 82,
+      "word": "Regional"
+    },
+    "c7b-3": {
+      "sentence": 83,
+      "word": "Nếu"
+    },
+    "c7b-4": {
+      "sentence": 82,
+      "word": "trung"
+    },
+    "c7b-5": {
+      "sentence": 83,
+      "word": "người"
+    },
+    "c7c-1": {
+      "sentence": 84,
+      "word": "Nhưng"
+    },
+    "c7c-2": {
+      "sentence": 85,
+      "word": "Origin"
+    },
+    "c7c-3": {
+      "sentence": 85,
+      "word": "S3"
+    },
+    "c7c-4": {
+      "sentence": 85,
+      "word": "EC2"
+    },
+    "c7c-5": {
+      "sentence": 85,
+      "word": "Application"
+    },
+    "c7c-6": {
+      "sentence": 85,
+      "word": "HTTP"
+    },
+    "c7c-7": {
+      "sentence": 86,
+      "word": "Ví"
+    },
+    "c7d-1": {
+      "sentence": 87,
+      "word": "Server"
+    },
+    "c7d-2": {
+      "sentence": 88,
+      "word": "CloudFront"
+    },
+    "c7d-3": {
+      "sentence": 88,
+      "word": "đồng"
+    },
+    "c7d-4": {
+      "sentence": 88,
+      "word": "theo"
+    },
+    "c7e-1": {
+      "sentence": 89,
+      "word": "Lần"
+    },
+    "c7e-2": {
+      "sentence": 89,
+      "word": "cùng"
+    },
+    "c7f-1": {
+      "sentence": 90,
+      "word": "Và"
+    },
+    "c7f-2": {
+      "sentence": 91,
+      "word": "Cache"
+    },
+    "c7f-3": {
+      "sentence": 92,
+      "word": "Cache"
+    },
+    "c7g-1": {
+      "sentence": 93,
+      "word": "CDN"
+    },
+    "c7g-2": {
+      "sentence": 93,
+      "word": "origin"
+    },
+    "c8o-1": {
+      "sentence": 94,
+      "word": "Regional"
+    },
+    "c8a-1": {
+      "sentence": 95,
+      "word": "Bạn"
+    },
+    "c8a-2": {
+      "sentence": 96,
+      "word": "Regional"
+    },
+    "c8a-3": {
+      "sentence": 96,
+      "word": "ít"
+    },
+    "c8a-4": {
+      "sentence": 95,
+      "word": "giữa"
+    },
+    "c8b-1": {
+      "sentence": 97,
+      "word": "Điều"
+    },
+    "c8b-2": {
+      "sentence": 97,
+      "word": "ảnh"
+    },
+    "c8b-3": {
+      "sentence": 97,
+      "word": "video"
+    },
+    "c8b-4": {
+      "sentence": 97,
+      "word": "thương"
+    },
+    "c8b-5": {
+      "sentence": 97,
+      "word": "thỉnh"
+    },
+    "c8c-1": {
+      "sentence": 98,
+      "word": "AWS"
+    },
+    "c8c-2": {
+      "sentence": 98,
+      "word": "Origin"
+    },
+    "c8c-3": {
+      "sentence": 99,
+      "word": "Origin"
+    },
+    "c8d-1": {
+      "sentence": 100,
+      "word": "Hãy"
+    },
+    "c8d-2": {
+      "sentence": 101,
+      "word": "Nếu"
+    },
+    "c8d-3": {
+      "sentence": 102,
+      "word": "Với"
+    },
+    "c8d-4": {
+      "sentence": 100,
+      "word": "file"
+    },
+    "c8d-5": {
+      "sentence": 101,
+      "word": "origin"
+    },
+    "c8e-1": {
+      "sentence": 103,
+      "word": "Tuy"
+    },
+    "c8e-2": {
+      "sentence": 104,
+      "word": "Không"
+    },
+    "c9o-1": {
+      "sentence": 105,
+      "word": "Vậy"
+    },
+    "c9o-2": {
+      "sentence": 106,
+      "word": "Cache"
+    },
+    "c9o-3": {
+      "sentence": 105,
+      "word": "lưu"
+    },
+    "c9a-1": {
+      "sentence": 107,
+      "word": "TTL"
+    },
+    "c9a-2": {
+      "sentence": 107,
+      "word": "Time"
+    },
+    "c9a-3": {
+      "sentence": 107,
+      "word": "kiểm"
+    },
+    "c9b-1": {
+      "sentence": 108,
+      "word": "Ví"
+    },
+    "c9b-2": {
+      "sentence": 109,
+      "word": "Bạn"
+    },
+    "c9b-3": {
+      "sentence": 110,
+      "word": "Nhưng"
+    },
+    "c9c-1": {
+      "sentence": 111,
+      "word": "CloudFront"
+    },
+    "c9c-3": {
+      "sentence": 112,
+      "word": "ba"
+    },
+    "c9c-4": {
+      "sentence": 112,
+      "word": "giới"
+    },
+    "c9d-1": {
+      "sentence": 113,
+      "word": "Ngoài"
+    },
+    "c9d-2": {
+      "sentence": 114,
+      "word": "Cache"
+    },
+    "c9d-3": {
+      "sentence": 115,
+      "word": "URL"
+    },
+    "c9d-4": {
+      "sentence": 115,
+      "word": "query"
+    },
+    "c9d-5": {
+      "sentence": 115,
+      "word": "headers"
+    },
+    "c9d-6": {
+      "sentence": 115,
+      "word": "cookies"
+    },
+    "c9d-7": {
+      "sentence": 114,
+      "word": "khớp"
+    },
+    "c9e-1": {
+      "sentence": 116,
+      "word": "Nếu"
+    },
+    "c9f-1": {
+      "sentence": 117,
+      "word": "Nguy"
+    },
+    "c9f-2": {
+      "sentence": 117,
+      "word": "cá"
+    },
+    "c9f-3": {
+      "sentence": 117,
+      "word": "thiết"
+    },
+    "c9g-1": {
+      "sentence": 118,
+      "word": "Vì"
+    },
+    "c9g-2": {
+      "sentence": 119,
+      "word": "Nó"
+    },
+    "c10o-1": {
+      "sentence": 120,
+      "word": "CloudFront"
+    },
+    "c10o-2": {
+      "sentence": 121,
+      "word": "Nhưng"
+    },
+    "c10a-1": {
+      "sentence": 122,
+      "word": "Chúng"
+    },
+    "c10a-2": {
+      "sentence": 123,
+      "word": "Static"
+    },
+    "c10a-3": {
+      "sentence": 124,
+      "word": "logo"
+    },
+    "c10a-4": {
+      "sentence": 125,
+      "word": "Những"
+    },
+    "c10a-5": {
+      "sentence": 126,
+      "word": "CDN"
+    },
+    "c10a-6": {
+      "sentence": 122,
+      "word": "hai"
+    },
+    "c10a-7": {
+      "sentence": 126,
+      "word": "phù"
+    },
+    "c10b-1": {
+      "sentence": 127,
+      "word": "Loại"
+    },
+    "c10b-2": {
+      "sentence": 128,
+      "word": "tài"
+    },
+    "c10b-3": {
+      "sentence": 129,
+      "word": "Những"
+    },
+    "c10c-1": {
+      "sentence": 130,
+      "word": "Nếu"
+    },
+    "c10c-2": {
+      "sentence": 130,
+      "word": "B"
+    },
+    "c10d-1": {
+      "sentence": 131,
+      "word": "Vì"
+    },
+    "c10d-2": {
+      "sentence": 132,
+      "word": "CloudFront"
+    },
+    "c10d-3": {
+      "sentence": 132,
+      "word": "không"
+    },
+    "c10d-4": {
+      "sentence": 133,
+      "word": "Đây"
+    },
+    "c10d-5": {
+      "sentence": 133,
+      "word": "toàn"
+    },
+    "c11o-1": {
+      "sentence": 134,
+      "word": "Hãy"
+    },
+    "c11a-1": {
+      "sentence": 135,
+      "word": "Bạn"
+    },
+    "c11a-2": {
+      "sentence": 136,
+      "word": "Trước"
+    },
+    "c11a-3": {
+      "sentence": 137,
+      "word": "DNS"
+    },
+    "c11b-1": {
+      "sentence": 138,
+      "word": "Nếu"
+    },
+    "c11b-2": {
+      "sentence": 138,
+      "word": "trả"
+    },
+    "c11b-3": {
+      "sentence": 139,
+      "word": "Đây"
+    },
+    "c11b-4": {
+      "sentence": 138,
+      "word": "hợp"
+    },
+    "c11c-1": {
+      "sentence": 140,
+      "word": "Nếu"
+    },
+    "c11c-2": {
+      "sentence": 141,
+      "word": "Nếu"
+    },
+    "c11c-3": {
+      "sentence": 142,
+      "word": "Khi"
+    },
+    "c11d-1": {
+      "sentence": 143,
+      "word": "Lần"
+    },
+    "c11d-2": {
+      "sentence": 143,
+      "word": "cùng"
+    },
+    "c11e-1": {
+      "sentence": 144,
+      "word": "Như"
+    },
+    "c11e-2": {
+      "sentence": 145,
+      "word": "Chỉ"
+    },
+    "c11e-3": {
+      "sentence": 145,
+      "word": "caching"
+    },
+    "c11e-4": {
+      "sentence": 145,
+      "word": "routing"
+    },
+    "c11e-5": {
+      "sentence": 146,
+      "word": "Đó"
+    },
+    "o1-1": {
+      "sentence": 147,
+      "word": "Vậy"
+    },
+    "o1-2": {
+      "sentence": 148,
+      "word": "Không"
+    },
+    "o1-3": {
+      "sentence": 147,
+      "word": "nhanh"
+    },
+    "o2-1": {
+      "sentence": 149,
+      "word": "Mà"
+    },
+    "o2-2": {
+      "sentence": 149,
+      "word": "không"
+    },
+    "o2-3": {
+      "sentence": 149,
+      "word": "quãng"
+    },
+    "o3-1": {
+      "sentence": 150,
+      "word": "CDN"
+    },
+    "o3-2": {
+      "sentence": 151,
+      "word": "Điều"
+    },
+    "o3-3": {
+      "sentence": 152,
+      "word": "Đây"
+    },
+    "o3-4": {
+      "sentence": 150,
+      "word": "phân"
+    },
+    "o3-5": {
+      "sentence": 151,
+      "word": "đâu"
+    },
+    "o3-6": {
+      "sentence": 152,
+      "word": "Internet"
+    },
+    "o4-1": {
+      "sentence": 153,
+      "word": "Bạn"
+    },
+    "o4-2": {
+      "sentence": 154,
+      "word": "Hẹn"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "h1-4",
+      "sound": "pop"
+    },
+    {
+      "beat": "h2-1",
+      "sound": "click"
+    },
+    {
+      "beat": "h2-4",
+      "sound": "pop"
+    },
+    {
+      "beat": "h3-2",
+      "sound": "laser"
+    },
+    {
+      "beat": "h3-4",
+      "sound": "click"
+    },
+    {
+      "beat": "h4-1",
+      "sound": "click"
+    },
+    {
+      "beat": "h4-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "h5-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "h5-3",
+      "sound": "laser"
+    },
+    {
+      "beat": "c2o-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2a-2",
+      "sound": "laser"
+    },
+    {
+      "beat": "c2a-4",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2b-3",
+      "sound": "click"
+    },
+    {
+      "beat": "c2c-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2d-2",
+      "sound": "click"
+    },
+    {
+      "beat": "c2d-6",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2e-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2e-7",
+      "sound": "laser"
+    },
+    {
+      "beat": "c2f-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2f-4",
+      "sound": "click"
+    },
+    {
+      "beat": "c3o-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3a-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-2",
+      "sound": "laser"
+    },
+    {
+      "beat": "c3c-2",
+      "sound": "click"
+    },
+    {
+      "beat": "c3d-1",
+      "sound": "click"
+    },
+    {
+      "beat": "c3e-2",
+      "sound": "laser"
+    },
+    {
+      "beat": "c3e-4",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4o-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4a-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4b-3",
+      "sound": "laser"
+    },
+    {
+      "beat": "c4c-3",
+      "sound": "click"
+    },
+    {
+      "beat": "c4d-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4d-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4e-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5o-1",
+      "sound": "laser"
+    },
+    {
+      "beat": "c5o-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5a-1",
+      "sound": "click"
+    },
+    {
+      "beat": "c5a-3",
+      "sound": "click"
+    },
+    {
+      "beat": "c5b-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5c-2",
+      "sound": "click"
+    },
+    {
+      "beat": "c5c-4",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5d-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5e-2",
+      "sound": "laser"
+    },
+    {
+      "beat": "c6o-1",
+      "sound": "laser"
+    },
+    {
+      "beat": "c6o-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-6",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6b-2",
+      "sound": "laser"
+    },
+    {
+      "beat": "c6c-2",
+      "sound": "laser"
+    },
+    {
+      "beat": "c6c-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6d-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6d-4",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6d-5",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6e-1",
+      "sound": "click"
+    },
+    {
+      "beat": "c6e-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6e-4",
+      "sound": "laser"
+    },
+    {
+      "beat": "c6f-1",
+      "sound": "laser"
+    },
+    {
+      "beat": "c6g-1",
+      "sound": "click"
+    },
+    {
+      "beat": "c6g-2",
+      "sound": "click"
+    },
+    {
+      "beat": "c6h-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7o-1",
+      "sound": "laser"
+    },
+    {
+      "beat": "c7o-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7a-3",
+      "sound": "click"
+    },
+    {
+      "beat": "c7b-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7b-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7c-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7c-6",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7d-2",
+      "sound": "laser"
+    },
+    {
+      "beat": "c7d-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7e-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7f-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7f-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7g-1",
+      "sound": "laser"
+    },
+    {
+      "beat": "c8o-1",
+      "sound": "laser"
+    },
+    {
+      "beat": "c8o-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8a-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8b-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8c-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8d-2",
+      "sound": "click"
+    },
+    {
+      "beat": "c8d-3",
+      "sound": "laser"
+    },
+    {
+      "beat": "c8e-1",
+      "sound": "click"
+    },
+    {
+      "beat": "c8e-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9a-1",
+      "sound": "click"
+    },
+    {
+      "beat": "c9a-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9b-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9b-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9c-1",
+      "sound": "click"
+    },
+    {
+      "beat": "c9c-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9d-3",
+      "sound": "click"
+    },
+    {
+      "beat": "c9d-4",
+      "sound": "click"
+    },
+    {
+      "beat": "c9d-5",
+      "sound": "click"
+    },
+    {
+      "beat": "c9d-6",
+      "sound": "click"
+    },
+    {
+      "beat": "c9d-7",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9e-1",
+      "sound": "click"
+    },
+    {
+      "beat": "c9f-2",
+      "sound": "laser"
+    },
+    {
+      "beat": "c9g-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10o-1",
+      "sound": "laser"
+    },
+    {
+      "beat": "c10o-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10a-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10a-7",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10b-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10c-2",
+      "sound": "click"
+    },
+    {
+      "beat": "c10d-2",
+      "sound": "laser"
+    },
+    {
+      "beat": "c11o-1",
+      "sound": "laser"
+    },
+    {
+      "beat": "c11a-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-1",
+      "sound": "laser"
+    },
+    {
+      "beat": "c11b-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11c-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11c-3",
+      "sound": "click"
+    },
+    {
+      "beat": "c11d-1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11e-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11e-4",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11e-5",
+      "sound": "laser"
+    },
+    {
+      "beat": "o2-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "o2-3",
+      "sound": "pop"
+    },
+    {
+      "beat": "o3-2",
+      "sound": "pop"
+    },
+    {
+      "beat": "o4-1",
+      "sound": "pop"
+    }
+  ]
+}
