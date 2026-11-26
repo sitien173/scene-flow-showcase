@@ -1,0 +1,82 @@
+      /* c6a: chapter card on "Đây", the logo on "Auto Scaling". The group grows to three servers and the alarm fires. */
+      pop("#c6a-num", @@t:c6a-num@@, 0.5);
+      pop("#c6a-burst", @@t:c6a-num@@ + 0.2, 0.6, 0.4);
+      pop("#c6a-tile", @@t:c6a-logo@@, 0.6, 0.6);
+      show("#c6a-title", @@t:c6a-logo@@ + 0.1, 0.5);
+      pop("#c6a-mascot", @@t:c6a-logo@@ + 0.2, 0.6, 0.6);
+      gone("#c6a-num, #c6a-tile, #c6a-title, #c6a-burst, #c6a-mascot", @@t:c6a-chip@@, 0.35);
+      pop("#c6a-chip", @@t:c6a-chip@@ + 0.1, 0.5, 0.7);
+      pop("#c6a-plus", @@t:c6a-chip@@ + 0.2, 0.4, 0.7);
+      pop("#c6a-x", @@t:c6a-x@@, 0.4, 0.6);
+      show("#c6a-asg", @@t:c6a-asg@@, 0.6, 0);
+      show("#c6a-asglogo", @@t:c6a-asg@@ + 0.1, 0.4);
+      show("#c6a-asgname", @@t:c6a-asg@@ + 0.15, 0.4);
+      pop("#c6a-s0", @@t:c6a-srv@@, 0.6, 0.8);
+      pop("#c6a-s1", @@t:c6a-srv@@ + 0.12, 0.6, 0.8);
+      pop("#c6a-s2", @@t:c6a-srv@@ + 0.24, 0.6, 0.8);
+      pop("#c6a-count", @@t:c6a-srv@@ + 0.1, 0.5, 0.7);
+      pop("#c6a-m0", @@t:c6a-srv@@, 0.5, 0.8);
+      pop("#c6a-m1", @@t:c6a-srv@@ + 0.12, 0.5, 0.8);
+      pop("#c6a-m2", @@t:c6a-srv@@ + 0.24, 0.5, 0.8);
+      meter("c6a-m0", @@t:c6a-srv@@, 60, 0.6, 20);
+      meter("c6a-m1", @@t:c6a-srv@@ + 0.12, 60, 0.6, 20);
+      meter("c6a-m2", @@t:c6a-srv@@ + 0.24, 60, 0.6, 20);
+      tl.set("#c6a-stream .dot", { autoAlpha: 0 }, 0);
+      stream("#c6a-stream .dot", @@t:c6a-flash@@, 0.9, 0, 280, 0.09);
+      meter("c6a-m0", @@t:c6a-vuot@@, 100, 0.4, 60);
+      meter("c6a-m1", @@t:c6a-vuot@@, 100, 0.4, 60);
+      meter("c6a-m2", @@t:c6a-vuot@@, 100, 0.4, 60);
+      tl.set("#c6a-m0, #c6a-m1, #c6a-m2", { className: "meter over" }, @@t:c6a-vuot@@);
+      pop("#c6a-alarm", @@t:c6a-vuot@@, 0.5, 0.7);
+
+      /* c6b: two servers join the group, the group slides left and the CloudWatch dashboard opens. */
+      pop("#c6b-g0", @@t:c6b-tu@@, 0.6, 0.8);
+      pop("#c6b-g1", @@t:c6b-tu@@ + 0.12, 0.6, 0.8);
+      gone("#c6b-n3", @@t:c6b-tu@@, 0.2);
+      pop("#c6b-n5", @@t:c6b-tu@@ + 0.15, 0.4, 0.7);
+      pop("#c6b-q", @@t:c6b-biet@@, 0.4, 0.7);
+      tl.fromTo("#c6b-grp", { x: 0, scale: 1, transformOrigin: "0% 0%" }, { x: -320, scale: 0.6, transformOrigin: "0% 0%", duration: 0.6, ease: "power3.inOut" }, @@t:c6b-metrics@@);
+      gone("#c6b-q", @@t:c6b-metrics@@, 0.2);
+      show("#c6b-dash", @@t:c6b-metrics@@ + 0.1, 0.5);
+      pop("#c6b-cwlogo", @@t:c6b-cw@@, 0.5, 0.7);
+      show("#c6b-cwname", @@t:c6b-cw@@ + 0.1, 0.4);
+      draw("#c6b-l1", @@t:c6b-cpu@@, 0.9);
+      show("#c6b-t1", @@t:c6b-cpu@@ + 0.6, 0.4, 0);
+      draw("#c6b-l2", @@t:c6b-req@@, 0.9);
+      show("#c6b-t2", @@t:c6b-req@@ + 0.6, 0.4, 0);
+      pop("#c6b-pill", @@t:c6b-tt@@, 0.5, 0.8);
+      bump("#c6b-pill", @@t:c6b-duytri@@, 1.05);
+
+      /* c6c: traffic rises, the group grows from 3 to 8 servers, then shrinks back to 3. */
+      draw("#c6c-ln", @@t:c6c-tang@@, 1.2);
+      pop("#c6c-s3", @@t:c6c-open@@, 0.5, 0.8);
+      pop("#c6c-s4", @@t:c6c-tang@@ + 0.12, 0.5, 0.8);
+      pop("#c6c-s5", @@t:c6c-tang@@ + 0.24, 0.5, 0.8);
+      pop("#c6c-s6", @@t:c6c-tang@@ + 0.36, 0.5, 0.8);
+      pop("#c6c-s7", @@t:c6c-tang@@ + 0.48, 0.5, 0.8);
+      bump("#c6c-s0", @@t:c6c-mo@@, 1.04);
+      gone("#c6c-s7", @@t:c6c-giam@@ + 0.00, 0.3);
+      gone("#c6c-s6", @@t:c6c-giam@@ + 0.10, 0.3);
+      gone("#c6c-s5", @@t:c6c-giam@@ + 0.20, 0.3);
+      gone("#c6c-s4", @@t:c6c-giam@@ + 0.30, 0.3);
+      gone("#c6c-s3", @@t:c6c-giam@@ + 0.40, 0.3);
+      pop("#c6c-coin", @@t:c6c-lang@@, 0.5, 0.7);
+
+      /* c6d: a new server starts late, its boot steps fill, then Scheduled Scaling builds capacity before the peak. */
+      draw("#c6d-traffic", @@t:c6d-open@@, 1.0);
+      draw("#c6d-cap-b", @@t:c6d-ngay@@ + 0.2, 1.0);
+      pop("#c6d-ghost", @@t:c6d-open@@, 0.6, 0.8);
+tl.to("#c6d-ghost", { autoAlpha: 0.35, filter: "grayscale(1)", duration: 0.4 }, @@t:c6d-ngay@@ + 0.6);
+      pop("#c6d-hg", @@t:c6d-ngay@@ + 0.1, 0.5, 0.7);
+      sweep("#c6d-f1", @@t:c6d-khoichay@@, 0.5);
+      sweep("#c6d-f2", @@t:c6d-khoidong@@, 0.6);
+      sweep("#c6d-f3", @@t:c6d-san@@, 0.5);
+      show("#c6d-lag", @@t:c6d-san@@, 0.4, 0);
+      gone("#c6d-ghost, #c6d-hg", @@t:c6d-biet@@, 0.3);
+      pop("#c6d-cal", @@t:c6d-biet@@ + 0.2, 0.5, 0.7);
+      gone("#c6d-lag", @@t:c6d-sched@@, 0.3);
+      draw("#c6d-cap-a", @@t:c6d-sched@@, 0.9);
+      pop("#c6d-sched", @@t:c6d-sched@@, 0.5, 0.8);
+      pop("#c6d-logo", @@t:c6d-sched@@ + 0.1, 0.5, 0.7);
+      pop("#c6d-gauge", @@t:c6d-test@@, 0.5, 0.7);
+      pop("#c6d-file", @@t:c6d-chinh@@, 0.5, 0.7);

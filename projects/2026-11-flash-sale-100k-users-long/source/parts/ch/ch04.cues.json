@@ -1,0 +1,168 @@
+{
+  "scenes": [
+    {
+      "id": "c4a",
+      "in": "cut",
+      "at": {
+        "sentence": 41,
+        "word": "Trước"
+      }
+    },
+    {
+      "id": "c4b",
+      "in": "slide",
+      "at": {
+        "sentence": 45,
+        "word": "Đó"
+      }
+    },
+    {
+      "id": "c4c",
+      "in": "slide",
+      "at": {
+        "sentence": 49,
+        "word": "Các"
+      }
+    }
+  ],
+  "beats": {
+    "c4a-s41": {
+      "sentence": 41,
+      "word": "Trước"
+    },
+    "c4a-title": {
+      "sentence": 41,
+      "word": "giảm đáng kể"
+    },
+    "c4a-chip": {
+      "sentence": 42,
+      "word": "ví dụ"
+    },
+    "c4a-img": {
+      "sentence": 43,
+      "word": "hình ảnh"
+    },
+    "c4a-logo": {
+      "sentence": 43,
+      "word": "logo"
+    },
+    "c4a-css": {
+      "sentence": 43,
+      "word": "CSS"
+    },
+    "c4a-js": {
+      "sentence": 43,
+      "word": "JavaScript"
+    },
+    "c4a-more": {
+      "sentence": 43,
+      "word": "các"
+    },
+    "c4a-copy": {
+      "sentence": 44,
+      "word": "tạo mới"
+    },
+    "c4a-users": {
+      "sentence": 44,
+      "word": "mỗi lần"
+    },
+    "c4b-s45": {
+      "sentence": 45,
+      "word": "Đó"
+    },
+    "c4b-cf": {
+      "sentence": 45,
+      "word": "Đó"
+    },
+    "c4b-cdn": {
+      "sentence": 46,
+      "word": "Content"
+    },
+    "c4b-copies": {
+      "sentence": 47,
+      "word": "bản sao"
+    },
+    "c4b-global": {
+      "sentence": 47,
+      "word": "toàn cầu"
+    },
+    "c4b-user": {
+      "sentence": 48,
+      "word": "người dùng"
+    },
+    "c4b-near": {
+      "sentence": 48,
+      "word": "gần họ"
+    },
+    "c4b-origin": {
+      "sentence": 48,
+      "word": "server gốc"
+    },
+    "c4c-s49": {
+      "sentence": 49,
+      "word": "Các"
+    },
+    "c4c-store": {
+      "sentence": 49,
+      "word": "lưu"
+    },
+    "c4c-s3": {
+      "sentence": 49,
+      "word": "S3"
+    },
+    "c4c-dist": {
+      "sentence": 49,
+      "word": "phân phối"
+    },
+    "c4c-lat": {
+      "sentence": 50,
+      "word": "độ trễ"
+    },
+    "c4c-backend": {
+      "sentence": 50,
+      "word": "backend"
+    },
+    "c4c-tu": {
+      "sentence": 51,
+      "word": "Tuy"
+    },
+    "c4c-personal": {
+      "sentence": 52,
+      "word": "cá nhân hóa"
+    },
+    "c4c-order": {
+      "sentence": 52,
+      "word": "đơn hàng"
+    },
+    "c4c-open": {
+      "sentence": 49,
+      "word": "Các"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c4a-img",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4a-users",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4b-cf",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4b-near",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4c-s3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4c-order",
+      "sound": "pop"
+    }
+  ]
+}

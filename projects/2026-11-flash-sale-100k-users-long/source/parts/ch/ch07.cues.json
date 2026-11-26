@@ -1,0 +1,176 @@
+{
+  "scenes": [
+    {
+      "id": "c7a",
+      "in": "cut",
+      "at": {
+        "sentence": 80,
+        "word": "Đến"
+      }
+    },
+    {
+      "id": "c7b",
+      "in": "slide",
+      "at": {
+        "sentence": 84,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c7c",
+      "in": "slide",
+      "at": {
+        "sentence": 87,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c7d",
+      "in": "slide",
+      "at": {
+        "sentence": 92,
+        "word": "Tuy"
+      }
+    }
+  ],
+  "beats": {
+    "c7a-num": {
+      "sentence": 80,
+      "word": "Đến"
+    },
+    "c7a-title": {
+      "sentence": 80,
+      "word": "giải quyết"
+    },
+    "c7a-chip": {
+      "sentence": 81,
+      "word": "nhiều server"
+    },
+    "c7a-alb": {
+      "sentence": 81,
+      "word": "Load Balancer"
+    },
+    "c7a-asg": {
+      "sentence": 81,
+      "word": "tự động"
+    },
+    "c7a-slow": {
+      "sentence": 82,
+      "word": "chậm lại"
+    },
+    "c7a-db": {
+      "sentence": 83,
+      "word": "database"
+    },
+    "c7b-muoi": {
+      "sentence": 84,
+      "word": "mười server"
+    },
+    "c7b-truy": {
+      "sentence": 84,
+      "word": "truy vấn"
+    },
+    "c7b-tang": {
+      "sentence": 85,
+      "word": "tăng theo"
+    },
+    "c7b-nut": {
+      "sentence": 86,
+      "word": "nút thắt"
+    },
+    "c7c-cache": {
+      "sentence": 87,
+      "word": "caching"
+    },
+    "c7c-amazon": {
+      "sentence": 88,
+      "word": "Amazon"
+    },
+    "c7c-sanpham": {
+      "sentence": 88,
+      "word": "sản phẩm"
+    },
+    "c7c-danhmuc": {
+      "sentence": 88,
+      "word": "danh mục"
+    },
+    "c7c-kiemtra": {
+      "sentence": 89,
+      "word": "kiểm tra cache"
+    },
+    "c7c-hop": {
+      "sentence": 90,
+      "word": "hợp lệ"
+    },
+    "c7c-giam": {
+      "sentence": 91,
+      "word": "giảm"
+    },
+    "c7c-tocdo": {
+      "sentence": 91,
+      "word": "tốc độ phản hồi"
+    },
+    "c7d-khongthe": {
+      "sentence": 92,
+      "word": "không thể thay thế"
+    },
+    "c7d-thanhtoan": {
+      "sentence": 93,
+      "word": "thanh toán"
+    },
+    "c7d-tonkho": {
+      "sentence": 93,
+      "word": "tồn kho"
+    },
+    "c7d-donhang": {
+      "sentence": 93,
+      "word": "đơn hàng"
+    },
+    "c7d-dongthoi": {
+      "sentence": 93,
+      "word": "kiểm soát đồng thời"
+    },
+    "c7d-multi": {
+      "sentence": 94,
+      "word": "Multi-AZ"
+    },
+    "c7d-sansang": {
+      "sentence": 94,
+      "word": "sẵn sàng cao"
+    },
+    "c7d-ghi": {
+      "sentence": 94,
+      "word": "ghi nhanh hơn"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c7a-db",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7b-muoi",
+      "sound": "click"
+    },
+    {
+      "beat": "c7b-nut",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7c-amazon",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7c-hop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7d-thanhtoan",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7d-multi",
+      "sound": "pop"
+    }
+  ]
+}

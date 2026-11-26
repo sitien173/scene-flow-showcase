@@ -1,0 +1,83 @@
+/* c11a: cut in. The chapter card opens; the question appears; the thesis answers it; the architecture zooms out. */
+chapterCard("c11a", @@t:c11a-num@@, @@t:c11a-chip@@);
+pop("#c11a-pill", @@t:c11a-chip@@, 0.5, 0.85);
+pop("#c11a-srv", @@t:c11a-chip@@, 0.6, 0.85);
+pop("#c11a-q", @@t:c11a-chip@@ + 0.25, 0.4, 0.9);
+gone("#c11a-pill", @@t:c11a-clear@@, 0.4);
+gone("#c11a-srv", @@t:c11a-clear@@, 0.4);
+gone("#c11a-q", @@t:c11a-clear@@, 0.4);
+pop("#c11a-rays", @@t:c11a-clear@@, 0.8, 0.9);
+show("#c11a-thesis", @@t:c11a-thesis@@, 0.6, 36);
+pop("#c11a-t1", @@t:c11a-design@@, 0.5, 0.85);
+pop("#c11a-t2", @@t:c11a-prep@@, 0.5, 0.85);
+tl.to("#c11a-thesis", { y: -70, scale: 0.7, duration: 0.8, ease: "power2.inOut" }, @@t:c11a-up@@);
+gone("#c11a-t1", @@t:c11a-up@@, 0.4);
+gone("#c11a-t2", @@t:c11a-up@@, 0.4);
+gone("#c11a-rays", @@t:c11a-up@@, 0.5);
+tl.set("#c11a-cv", { x: 64, y: 240, scale: 0.48 }, @@start:c11a@@);
+tl.fromTo("#c11a-cv", { autoAlpha: 0 }, { autoAlpha: 1, duration: 0.8, ease: "power2.out" }, @@t:c11a-up@@ + 0.2);
+bump("#c11a-alb", @@t:c11a-alb@@, 1.08);
+bump("#c11a-cf", @@t:c11a-cache@@, 1.08);
+bump("#c11a-cache", @@t:c11a-cache@@, 1.08);
+bump("#c11a-zone", @@t:c11a-scale@@, 1.03);
+bump("#c11a-sqs", @@t:c11a-async@@, 1.08);
+bump("#c11a-cw", @@t:c11a-watch@@, 1.08);
+
+/* c11b: the architecture dims, one node fails, then the load falls into a tower and the five pillars appear. */
+tl.set("#c11b-cv", { x: 64, y: 240, scale: 0.48 }, @@start:c11b@@);
+tl.to("#c11b-cv", { autoAlpha: 0.6, duration: 0.6 }, @@t:c11b-db@@);
+bump("#c11b-rds", @@t:c11b-db@@, 1.1);
+pop("#c11b-tri", @@t:c11b-db@@ + 0.2, 0.4, 0.9);
+pop("#c11b-dbring", @@t:c11b-db@@ + 0.2, 0.5, 0.9);
+pop("#c11b-snail", @@t:c11b-slow@@, 0.4, 0.9);
+pop("#c11b-hg", @@t:c11b-boot@@, 0.4, 0.9);
+pop("#c11b-ring", @@t:c11b-spof@@, 0.5, 0.9);
+pop("#c11b-503", @@t:c11b-down@@, 0.4, 0.9);
+tl.to("#c11b-cv", { x: 70, duration: 0.06 }, @@t:c11b-down@@);
+tl.to("#c11b-cv", { x: 58, duration: 0.06 }, @@t:c11b-down@@ + 0.06);
+tl.to("#c11b-cv", { x: 66, duration: 0.06 }, @@t:c11b-down@@ + 0.12);
+tl.to("#c11b-cv", { x: 64, duration: 0.06 }, @@t:c11b-down@@ + 0.18);
+tl.to("#c11b-cv", { x: 2200, autoAlpha: 0, duration: 1, ease: "power2.in" }, @@t:c11b-not@@);
+gone("#c11b-503", @@t:c11b-not@@, 0.3);
+pop("#c11b-tower", @@t:c11b-not@@ + 0.4, 0.6, 0.9);
+tl.to("#c11b-tower", { rotation: -10, duration: 0.8, ease: "power2.in" }, @@t:c11b-tower@@);
+pop("#c11b-neq", @@t:c11b-tower@@, 0.4, 0.9);
+gone("#c11b-tower", @@t:c11b-p1@@, 0.4);
+gone("#c11b-neq", @@t:c11b-p1@@, 0.4);
+pop("#c11b-p1", @@t:c11b-p1@@, 0.5, 0.85);
+pop("#c11b-p2", @@t:c11b-p2@@, 0.5, 0.85);
+pop("#c11b-p3", @@t:c11b-p3@@, 0.5, 0.85);
+pop("#c11b-p4", @@t:c11b-p4@@, 0.5, 0.85);
+pop("#c11b-p5", @@t:c11b-p5@@, 0.5, 0.85);
+
+/* c11c: a fade to the real world: a browser and a graph, then a crowd, a photo and a stream of users. */
+tl.fromTo("#c11c-photo", { autoAlpha: 0 }, { autoAlpha: 1, duration: 0.8, ease: "power1.out" }, @@t:c11c-out@@);
+show("#c11c-browser", @@t:c11c-browser@@, 0.8, 36);
+pop("#c11c-check", @@t:c11c-browser@@ + 0.6, 0.4, 0.9);
+show("#c11c-chart", @@t:c11c-browser@@ + 0.2, 0.6, 36);
+draw("#c11c-line", @@t:c11c-browser@@ + 0.4, 1.4, 0);
+pop("#c11c-s0", @@t:c11c-browser@@ + 0.4, 0.4, 0.9);
+pop("#c11c-s1", @@t:c11c-browser@@ + 0.52, 0.4, 0.9);
+pop("#c11c-s2", @@t:c11c-browser@@ + 0.64, 0.4, 0.9);
+pop("#c11c-s3", @@t:c11c-browser@@ + 0.76, 0.4, 0.9);
+pop("#c11c-s4", @@t:c11c-browser@@ + 0.88, 0.4, 0.9);
+pop("#c11c-s5", @@t:c11c-browser@@ + 1.0, 0.4, 0.9);
+pop("#c11c-s6", @@t:c11c-browser@@ + 1.12, 0.4, 0.9);
+pop("#c11c-s7", @@t:c11c-browser@@ + 1.24, 0.4, 0.9);
+tl.fromTo("#c11c-crowd", { autoAlpha: 0, y: 36 }, { autoAlpha: 0.3, y: 0, duration: 1, ease: "power2.out" }, @@t:c11c-crowd@@);
+tl.to("#c11c-browser", { x: -1100, autoAlpha: 0, duration: 0.8, ease: "power2.in" }, @@t:c11c-out@@);
+gone("#c11c-crowd", @@t:c11c-out@@, 0.5);
+gone("#c11c-chart", @@t:c11c-out@@, 0.5);
+gone("#c11c-check", @@t:c11c-out@@, 0.3);
+gone("#c11c-s0, #c11c-s1, #c11c-s2, #c11c-s3, #c11c-s4, #c11c-s5, #c11c-s6, #c11c-s7", @@t:c11c-out@@, 0.3);
+draw("#c11c-arch path", @@t:c11c-distrib@@, 1.2, 0.12);
+pop("#c11c-aws", @@t:c11c-aws@@, 0.6, 0.85);
+tl.set("#c11c-stream .dot", { autoAlpha: 0 }, @@start:c11c@@);
+tl.set("#c11c-stream .dot", { autoAlpha: 1 }, @@t:c11c-millions@@);
+stream("#c11c-stream .dot", @@t:c11c-millions@@, 3.5, 0, 1960, 0.12);
+tl.to("#c11c-photo img", { scale: 1.08, duration: 5, ease: "none" }, @@t:c11c-use@@);
+
+/* c11d: the closing photo with a slow push-in; the AWS tile and the series pill. */
+tl.to("#c11d-photo img", { scale: 1.05, duration: 5.5, ease: "none" }, @@t:c11d-thanks@@);
+pop("#c11d-aws", @@t:c11d-aws@@, 0.6, 0.85);
+pop("#c11d-pill", @@t:c11d-aws@@ + 0.3, 0.5, 0.9);
