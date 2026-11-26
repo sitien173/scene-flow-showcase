@@ -1,0 +1,206 @@
+{
+ "scenes": [
+  {
+   "id": "h1"
+  },
+  {
+   "id": "p1",
+   "in": "cut",
+   "at": {"sentence": 5, "word": "Nếu"}
+  },
+  {
+   "id": "c1",
+   "in": "slide",
+   "at": {"sentence": 7, "word": "Nhưng"}
+  },
+  {
+   "id": "s1",
+   "in": "cut",
+   "at": {"sentence": 10, "word": "Đầu"}
+  },
+  {
+   "id": "s2",
+   "in": "slide",
+   "at": {"sentence": 13, "word": "Các"}
+  },
+  {
+   "id": "s3",
+   "in": "cut",
+   "at": {"sentence": 15, "word": "Tiếp"}
+  },
+  {
+   "id": "s4",
+   "in": "cut",
+   "at": {"sentence": 18, "word": "Nhưng"}
+  },
+  {
+   "id": "s5",
+   "in": "slide",
+   "at": {"sentence": 21, "word": "Để"}
+  },
+  {
+   "id": "r1",
+   "in": "cut",
+   "at": {"sentence": 23, "word": "Vậy"}
+  },
+  {
+   "id": "e1",
+   "in": "fade",
+   "at": {"sentence": 26, "word": "Đó"}
+  }
+ ],
+ "beats": {
+  "h1-noon": {"sentence": 1, "word": "giờ"},
+  "h1-site": {"sentence": 2, "word": "website"},
+  "h1-sale": {"sentence": 2, "word": "Flash"},
+  "h1-crowd": {"sentence": 3, "word": "Chỉ"},
+  "h1-one": {"sentence": 3, "word": "một trăm"},
+  "h1-count": {"sentence": 3, "word": "trăm"},
+  "h1-hunt": {"sentence": 3, "word": "săn"},
+  "h1-dc": {"sentence": 4, "word": "Liệu"},
+  "h1-crash": {"sentence": 4, "word": "không"},
+  "p1-cpu": {"sentence": 5, "word": "CPU"},
+  "p1-full": {"sentence": 5, "word": "tải"},
+  "p1-ram": {"sentence": 5, "word": "bộ nhớ"},
+  "p1-db": {"sentence": 5, "word": "database"},
+  "p1-jam": {"sentence": 5, "word": "bị"},
+  "p1-err": {"sentence": 6, "word": "Và"},
+  "c1-users": {"sentence": 8, "word": "Một"},
+  "c1-not": {"sentence": 8, "word": "không"},
+  "c1-req": {"sentence": 8, "word": "request"},
+  "c1-key": {"sentence": 9, "word": "Điều"},
+  "c1-lanes": {"sentence": 9, "word": "phân"},
+  "c1-kinds": {"sentence": 9, "word": "loại"},
+  "s1-cf": {"sentence": 10, "word": "Amazon"},
+  "s1-page": {"sentence": 10, "word": "giúp"},
+  "s1-static": {"sentence": 11, "word": "Những"},
+  "s1-img": {"sentence": 11, "word": "hình"},
+  "s1-css": {"sentence": 11, "word": "CSS"},
+  "s1-js": {"sentence": 11, "word": "JavaScript"},
+  "s1-cache": {"sentence": 11, "word": "cache"},
+  "s1-s3": {"sentence": 12, "word": "Amazon"},
+  "s1-cut": {"sentence": 12, "word": "giúp"},
+  "s2-alb": {"sentence": 13, "word": "Application"},
+  "s2-spread": {"sentence": 14, "word": "Nó"},
+  "s2-healthy": {"sentence": 14, "word": "khỏe"},
+  "s2-instead": {"sentence": 14, "word": "thay"},
+  "s2-one": {"sentence": 14, "word": "bắt"},
+  "s3-ec2": {"sentence": 15, "word": "EC2"},
+  "s3-asg": {"sentence": 15, "word": "Auto"},
+  "s3-need": {"sentence": 16, "word": "Khi"},
+  "s3-auto": {"sentence": 16, "word": "Auto"},
+  "s3-maybe": {"sentence": 16, "word": "tự"},
+  "s3-launch": {"sentence": 16, "word": "khởi"},
+  "s3-drop": {"sentence": 17, "word": "Khi"},
+  "s3-shrink": {"sentence": 17, "word": "thu"},
+  "s3-cost": {"sentence": 17, "word": "tối"},
+  "s3-costu": {"sentence": 17, "word": "ưu"},
+  "s4-wait": {"sentence": 18, "word": "cần"},
+  "s4-mail": {"sentence": 19, "word": "email"},
+  "s4-bill": {"sentence": 19, "word": "hóa"},
+  "s4-sqs": {"sentence": 20, "word": "Amazon"},
+  "s4-queue": {"sentence": 20, "word": "đưa"},
+  "s4-work": {"sentence": 20, "word": "worker"},
+  "s4-instead": {"sentence": 20, "word": "thay"},
+  "s4-done": {"sentence": 20, "word": "khiến"},
+  "s5-cache": {"sentence": 21, "word": "Amazon"},
+  "s5-hit": {"sentence": 21, "word": "cho"},
+  "s5-cw": {"sentence": 22, "word": "Trong"},
+  "s5-cwlogo": {"sentence": 22, "word": "CloudWatch"},
+  "s5-watch": {"sentence": 22, "word": "dõi"},
+  "s5-alarm": {"sentence": 22, "word": "cảnh"},
+  "r1-x": {"sentence": 23, "word": "mạnh"},
+  "r1-zoom": {"sentence": 24, "word": "Đó"},
+  "r1-dist": {"sentence": 24, "word": "phân"},
+  "r1-cache": {"sentence": 24, "word": "cache"},
+  "r1-scale": {"sentence": 24, "word": "mở"},
+  "r1-async": {"sentence": 24, "word": "tách"},
+  "r1-aws": {"sentence": 25, "word": "AWS"},
+  "r1-arch": {"sentence": 25, "word": "kiến"},
+  "r1-test": {"sentence": 25, "word": "kiểm"},
+  "r1-load": {"sentence": 25, "word": "chịu"},
+  "e1-aws": {"sentence": 26, "word": "AWS"}
+ },
+ "sfx": [
+  {
+   "beat": "h1-sale",
+   "sound": "pop"
+  },
+  {
+   "beat": "h1-count",
+   "sound": "click"
+  },
+  {
+   "beat": "p1-full",
+   "sound": "click"
+  },
+  {
+   "beat": "p1-jam",
+   "sound": "pop"
+  },
+  {
+   "beat": "c1-req",
+   "sound": "click"
+  },
+  {
+   "beat": "s1-cf",
+   "sound": "pop"
+  },
+  {
+   "beat": "s1-cache",
+   "sound": "pop"
+  },
+  {
+   "beat": "s2-alb",
+   "sound": "pop"
+  },
+  {
+   "beat": "s2-one",
+   "sound": "laser"
+  },
+  {
+   "beat": "s3-asg",
+   "sound": "pop"
+  },
+  {
+   "beat": "s3-costu",
+   "sound": "click"
+  },
+  {
+   "beat": "s4-mail",
+   "sound": "pop"
+  },
+  {
+   "beat": "s4-sqs",
+   "sound": "pop"
+  },
+  {
+   "beat": "s4-done",
+   "sound": "laser"
+  },
+  {
+   "beat": "s5-cache",
+   "sound": "pop"
+  },
+  {
+   "beat": "s5-cwlogo",
+   "sound": "pop"
+  },
+  {
+   "beat": "s5-alarm",
+   "sound": "pop"
+  },
+  {
+   "beat": "r1-arch",
+   "sound": "pop"
+  },
+  {
+   "beat": "r1-load",
+   "sound": "pop"
+  },
+  {
+   "beat": "e1-aws",
+   "sound": "pop"
+  }
+ ]
+}
