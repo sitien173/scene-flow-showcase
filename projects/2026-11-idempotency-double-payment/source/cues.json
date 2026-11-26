@@ -1,0 +1,371 @@
+{
+  "scenes": [
+    {
+      "id": "h1"
+    },
+    {
+      "id": "p1",
+      "in": "cut",
+      "at": {
+        "sentence": 5,
+        "word": "Điều"
+      }
+    },
+    {
+      "id": "r1",
+      "in": "slide",
+      "at": {
+        "sentence": 7,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c1",
+      "in": "cut",
+      "at": {
+        "sentence": 8,
+        "word": "Đây"
+      }
+    },
+    {
+      "id": "d1",
+      "in": "fade",
+      "at": {
+        "sentence": 9,
+        "word": "Hiểu"
+      }
+    },
+    {
+      "id": "k1",
+      "in": "cut",
+      "at": {
+        "sentence": 10,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "k2",
+      "in": "slide",
+      "at": {
+        "sentence": 11,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "a1",
+      "in": "cut",
+      "at": {
+        "sentence": 12,
+        "word": "Trên"
+      }
+    },
+    {
+      "id": "w1",
+      "in": "slide",
+      "at": {
+        "sentence": 14,
+        "word": "Lần"
+      }
+    },
+    {
+      "id": "x1",
+      "in": "fade",
+      "at": {
+        "sentence": 15,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "g1",
+      "in": "slide",
+      "at": {
+        "sentence": 17,
+        "word": "Còn"
+      }
+    },
+    {
+      "id": "e1",
+      "in": "cut",
+      "at": {
+        "sentence": 18,
+        "word": "Người"
+      }
+    },
+    {
+      "id": "v1",
+      "in": "cut",
+      "at": {
+        "sentence": 19,
+        "word": "Đó"
+      }
+    },
+    {
+      "id": "m1",
+      "in": "fade",
+      "at": {
+        "sentence": 21,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "o1",
+      "in": "cut",
+      "at": {
+        "sentence": 22,
+        "word": "Góc"
+      }
+    }
+  ],
+  "beats": {
+    "h1-price": {
+      "sentence": 1,
+      "word": "triệu"
+    },
+    "h1-loading": {
+      "sentence": 2,
+      "word": "loading"
+    },
+    "h1-second": {
+      "sentence": 3,
+      "word": "nhấn"
+    },
+    "h1-two": {
+      "sentence": 4,
+      "word": "hai"
+    },
+    "p1-success": {
+      "sentence": 5,
+      "word": "thành"
+    },
+    "p1-lost": {
+      "sentence": 5,
+      "word": "không"
+    },
+    "p1-unknown": {
+      "sentence": 6,
+      "word": "biết"
+    },
+    "r1-stamp": {
+      "sentence": 7,
+      "word": "lần"
+    },
+    "c1-principle": {
+      "sentence": 8,
+      "word": "nguyên"
+    },
+    "d1-result": {
+      "sentence": 9,
+      "word": "vụ"
+    },
+    "k1-key": {
+      "sentence": 10,
+      "word": "định"
+    },
+    "k2-timeout": {
+      "sentence": 11,
+      "word": "timeout"
+    },
+    "k2-same": {
+      "sentence": 11,
+      "word": "chính"
+    },
+    "a1-gateway": {
+      "sentence": 12,
+      "word": "Gateway"
+    },
+    "a1-lambda": {
+      "sentence": 12,
+      "word": "Lambda"
+    },
+    "a1-dynamo": {
+      "sentence": 13,
+      "word": "DynamoDB"
+    },
+    "w1-first": {
+      "sentence": 14,
+      "word": "đang"
+    },
+    "w1-run": {
+      "sentence": 14,
+      "word": "thực"
+    },
+    "w1-done": {
+      "sentence": 14,
+      "word": "thành"
+    },
+    "x1-check": {
+      "sentence": 15,
+      "word": "kiểm"
+    },
+    "x1-found": {
+      "sentence": 15,
+      "word": "phát"
+    },
+    "x1-stop": {
+      "sentence": 16,
+      "word": "Thay"
+    },
+    "x1-return": {
+      "sentence": 16,
+      "word": "trả"
+    },
+    "g1-key": {
+      "sentence": 17,
+      "word": "key"
+    },
+    "g1-debit": {
+      "sentence": 17,
+      "word": "trừ"
+    },
+    "e1-confirm": {
+      "sentence": 18,
+      "word": "xác"
+    },
+    "e1-one": {
+      "sentence": 18,
+      "word": "một"
+    },
+    "v1-idem": {
+      "sentence": 19,
+      "word": "Idempotency"
+    },
+    "v1-thanh": {
+      "sentence": 20,
+      "word": "thanh"
+    },
+    "v1-dat": {
+      "sentence": 20,
+      "word": "đặt"
+    },
+    "v1-phan": {
+      "sentence": 20,
+      "word": "phân"
+    },
+    "m1-count": {
+      "sentence": 21,
+      "word": "bao"
+    },
+    "m1-right": {
+      "sentence": 21,
+      "word": "đúng"
+    },
+    "o1-logo": {
+      "sentence": 22,
+      "word": "Góc"
+    },
+    "h1-pay": {
+      "sentence": 1,
+      "word": "thanh"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "h1-price",
+      "sound": "click"
+    },
+    {
+      "beat": "h1-second",
+      "sound": "laser"
+    },
+    {
+      "beat": "h1-two",
+      "sound": "click"
+    },
+    {
+      "beat": "p1-success",
+      "sound": "pop"
+    },
+    {
+      "beat": "p1-unknown",
+      "sound": "pop"
+    },
+    {
+      "beat": "r1-stamp",
+      "sound": "click"
+    },
+    {
+      "beat": "c1-principle",
+      "sound": "pop"
+    },
+    {
+      "beat": "d1-result",
+      "sound": "pop"
+    },
+    {
+      "beat": "k1-key",
+      "sound": "pop"
+    },
+    {
+      "beat": "k2-same",
+      "sound": "pop"
+    },
+    {
+      "beat": "a1-gateway",
+      "sound": "pop"
+    },
+    {
+      "beat": "a1-dynamo",
+      "sound": "pop"
+    },
+    {
+      "beat": "w1-first",
+      "sound": "pop"
+    },
+    {
+      "beat": "w1-run",
+      "sound": "laser"
+    },
+    {
+      "beat": "w1-done",
+      "sound": "click"
+    },
+    {
+      "beat": "x1-check",
+      "sound": "laser"
+    },
+    {
+      "beat": "x1-found",
+      "sound": "pop"
+    },
+    {
+      "beat": "x1-return",
+      "sound": "pop"
+    },
+    {
+      "beat": "g1-key",
+      "sound": "pop"
+    },
+    {
+      "beat": "g1-debit",
+      "sound": "pop"
+    },
+    {
+      "beat": "e1-confirm",
+      "sound": "pop"
+    },
+    {
+      "beat": "e1-one",
+      "sound": "click"
+    },
+    {
+      "beat": "v1-idem",
+      "sound": "pop"
+    },
+    {
+      "beat": "v1-dat",
+      "sound": "pop"
+    },
+    {
+      "beat": "m1-count",
+      "sound": "click"
+    },
+    {
+      "beat": "m1-right",
+      "sound": "pop"
+    },
+    {
+      "beat": "h1-pay",
+      "sound": "laser"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Bấm thanh toán hai lần, tại sao không bị trừ tiền hai lần?",
+  "author": {
+    "name": "Góc nhìn DEV"
+  },
+  "theme": "cleanui",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 106.9,
+  "publishedAt": "2026-11-26",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-idempotency-double-payment-4ac120c5/2026-11-idempotency-double-payment.mp4",
+    "sha256": "4ac120c5b96cc2482d2aa58ab065ff15357618cba3ef73e2befabdb1588aebff",
+    "bytes": 3659655
+  }
+}
