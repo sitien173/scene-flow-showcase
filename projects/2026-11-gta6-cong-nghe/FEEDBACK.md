@@ -1,0 +1,6 @@
+- The source's last line "Đừng quên follow..." is dropped. The channel's no-CTA rule covers the spoken script.
+- SCRIPT.md carries the minimal fact fixes from research/fact-check.md. Maya, Houdini and Perforce stay as tools the game industry commonly uses, because no source ties them to GTA 6.
+- The script is cut to fit YouTube Shorts: 43 sentences, voice 150.3 s, under the 180 s limit. The author asked for the Shorts maximum of 3 minutes; the 3:35 version is in research/voice-v2.
+- Every tool the voice names shows its logo, unmodified, from assets/logos. RAGE has no official logo, so it appears as text.
+- Pictures come from the official GTA VI Trailer 1 and Trailer 2. On-screen text stays minimal.
+- SCRIPT.md has no respelling glossary; VieNeu-TTS reads English terms as written. The author asked to keep the English terms and drop the Từ điển Fallback.

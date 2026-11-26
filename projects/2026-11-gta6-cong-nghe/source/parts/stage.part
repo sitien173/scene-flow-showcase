@@ -1,0 +1,10 @@
+      <div id="bg" aria-hidden="true"></div>
+      <svg style="position:absolute; width:0; height:0; overflow:hidden" aria-hidden="true">
+        <symbol id="art-burst" viewBox="0 0 200 200">
+          <g style="fill:var(--accent)">
+            <rect x="82" y="8" width="36" height="184" rx="18" ry="18"/>
+            <rect x="82" y="8" width="36" height="184" rx="18" ry="18" transform="rotate(60 100 100)"/>
+            <rect x="82" y="8" width="36" height="184" rx="18" ry="18" transform="rotate(120 100 100)"/>
+          </g>
+        </symbol>
+      </svg>
