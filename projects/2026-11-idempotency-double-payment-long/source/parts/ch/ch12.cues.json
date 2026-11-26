@@ -1,0 +1,184 @@
+{
+  "scenes": [
+    {
+      "id": "c12a",
+      "in": "cut",
+      "at": {
+        "sentence": 145,
+        "word": "Vậy"
+      }
+    },
+    {
+      "id": "c12b",
+      "in": "slide",
+      "at": {
+        "sentence": 148,
+        "word": "Amazon"
+      }
+    },
+    {
+      "id": "c12c",
+      "in": "slide",
+      "at": {
+        "sentence": 152,
+        "word": "Cổng"
+      }
+    },
+    {
+      "id": "c12d",
+      "in": "fade",
+      "at": {
+        "sentence": 154,
+        "word": "Đó"
+      }
+    },
+    {
+      "id": "c12e",
+      "in": "cut",
+      "at": {
+        "sentence": 156,
+        "word": "Điều"
+      }
+    },
+    {
+      "id": "c12f",
+      "in": "slide",
+      "at": {
+        "sentence": 157,
+        "word": "Góc"
+      }
+    }
+  ],
+  "beats": {
+    "c12a-pop": {
+      "sentence": 145,
+      "word": "nhấn nút"
+    },
+    "c12a-chip": {
+      "sentence": 146,
+      "word": "backend"
+    },
+    "c12a-cnt": {
+      "sentence": 146,
+      "word": "số lần"
+    },
+    "c12a-key": {
+      "sentence": 147,
+      "word": "Idempotency Key"
+    },
+    "c12b-gw": {
+      "sentence": 148,
+      "word": "API Gateway"
+    },
+    "c12b-lam": {
+      "sentence": 149,
+      "word": "Lambda"
+    },
+    "c12b-ddb": {
+      "sentence": 150,
+      "word": "DynamoDB"
+    },
+    "c12b-pt": {
+      "sentence": 151,
+      "word": "Powertools"
+    },
+    "c12c-pay": {
+      "sentence": 152,
+      "word": "Cổng thanh toán"
+    },
+    "c12c-rec": {
+      "sentence": 152,
+      "word": "reconciliation"
+    },
+    "c12c-back": {
+      "sentence": 153,
+      "word": "phía sau"
+    },
+    "c12c-re": {
+      "sentence": 153,
+      "word": "gửi lại"
+    },
+    "c12d-rel": {
+      "sentence": 154,
+      "word": "đáng tin cậy"
+    },
+    "c12d-many": {
+      "sentence": 155,
+      "word": "nhiều lần"
+    },
+    "c12e-new": {
+      "sentence": 156,
+      "word": "giao dịch mới"
+    },
+    "c12e-rt": {
+      "sentence": 156,
+      "word": "thử lại"
+    },
+    "c12e-old": {
+      "sentence": 156,
+      "word": "giao dịch cũ"
+    },
+    "c12f-name": {
+      "sentence": 157,
+      "word": "Góc nhìn DEV"
+    },
+    "c12f-ser": {
+      "sentence": 157,
+      "word": "Behind the Cloud"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c12a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12a-key",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12b-gw",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12b-lam",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12b-ddb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12b-pt",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12c-pay",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12c-back",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12d-rel",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12e-new",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12e-rt",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12e-old",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12f-name",
+      "sound": "pop"
+    }
+  ]
+}

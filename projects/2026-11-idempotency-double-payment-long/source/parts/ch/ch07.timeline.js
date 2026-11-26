@@ -1,0 +1,67 @@
+      /* c7a */
+      tl.fromTo("#w-c7a", { scale: 1 }, { scale: 1.03, duration: @@start:c7b@@ - @@start:c7a@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c7a@@);
+      chapterCard("c7a", @@start:c7a@@ + 0.05, @@t:c7a-chip@@);
+      bump("#c7a-tile", @@t:c7a-pop@@, 1.08);
+      bump("#c7a-ck", @@t:c7a-pop@@ + 0.4, 1.3);
+      show("#c7a-tbl", @@t:c7a-chip@@ + 0.15, 0.4, 30);
+      pop("#c7a-big", @@t:c7a-ip@@, 0.5);
+      tl.to("#c7a-big", { scale: 1.25, duration: 1.2, ease: "power2.out" }, @@t:c7a-ip@@ + 0.5);
+      /* c7b */
+      tl.fromTo("#w-c7b", { scale: 1 }, { scale: 1.04, duration: @@start:c7c@@ - @@start:c7b@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c7b@@);
+      pop("#c7b-lam", @@start:c7b@@ + 0.1, 0.4);
+      tl.fromTo("#c7b-p1", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: 760, duration: 0.9, ease: "power2.inOut" }, @@t:c7b-first@@);
+      gone("#c7b-p1", @@t:c7b-rec@@ - 0.1, 0.2);
+      show("#c7b-tbl", @@t:c7b-rec@@, 0.45, 30);
+      bump("#c7b-row-ip", @@t:c7b-proc@@, 1.15);
+      tl.fromTo("#c7b-p2, #c7b-p3", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: 300, duration: 0.8, ease: "power2.in" }, @@t:c7b-stop@@ - 0.8);
+      tl.fromTo("#c7b-gate", { autoAlpha: 0, scaleY: 0 }, { autoAlpha: 1, scaleY: 1, duration: 0.3, ease: "power3.in", transformOrigin: "50% 0%" }, @@t:c7b-stop@@);
+      pop("#c7b-lock", @@t:c7b-stop@@ + 0.2, 0.4);
+      tl.to("#c7b-p2, #c7b-p3", { x: 180, duration: 0.4, ease: "back.out(3)" }, @@t:c7b-stop@@ + 0.05);
+      bump("#c7b-lock", @@t:c7b-sim@@, 1.2);
+      /* c7c */
+      gone("#c7c-row-ok, #c7c-row-rs", @@start:c7c@@, 0.01);
+      bump("#c7c-lam", @@t:c7c-done@@, 1.08);
+      pop("#c7c-row-rs", @@t:c7c-save@@, 0.4);
+      tl.to("#c7c-row-ip", { clipPath: "inset(0% 0% 0% 100%)", duration: 0.3, ease: "power2.in" }, @@t:c7c-ok@@ - 0.2);
+      gone("#c7c-row-ip", @@t:c7c-ok@@ + 0.1, 0.05);
+      tl.fromTo("#c7c-row-ok", { autoAlpha: 0, clipPath: "inset(0% 100% 0% 0%)" }, { autoAlpha: 1, clipPath: "inset(0% 0% 0% 0%)", duration: 0.35, ease: "power2.out" }, @@t:c7c-ok@@);
+      pop("#c7c-big", @@t:c7c-ok@@ + 0.2, 0.5);
+      tl.to("#c7c-tbl", { scale: 1.08, duration: 1.0, ease: "power2.out" }, @@t:c7c-ok@@);
+      /* c7d */
+      gone("#c7d-rc", @@start:c7d@@, 0.01);
+      tl.fromTo("#c7d-pk", { autoAlpha: 0, x: -240 }, { autoAlpha: 1, x: 0, duration: 0.8, ease: "power2.out" }, @@t:c7d-resend@@);
+      bump("#c7d-row", @@t:c7d-find@@, 1.04);
+      tl.to("#c7d-pk", { autoAlpha: 0, duration: 0.25 }, @@t:c7d-find@@ + 0.4);
+      bump("#c7d-row-ok", @@t:c7d-ok@@, 1.2);
+      pop("#c7d-gw", @@t:c7d-again@@ - 0.5, 0.4);
+      tl.to("#c7d-gw", { opacity: 0.35, duration: 0.3 }, @@t:c7d-again@@);
+      pop("#c7d-ban", @@t:c7d-again@@, 0.4);
+      show("#c7d-rc", @@t:c7d-saved@@ - 0.3, 0.3, 10);
+      tl.to("#c7d-rc", { x: -1000, y: -200, duration: 0.9, ease: "power2.inOut" }, @@t:c7d-saved@@);
+      tl.to("#c7d-rc", { autoAlpha: 0, scale: 0.6, duration: 0.25 }, @@t:c7d-saved@@ + 0.9);
+      tl.fromTo("#c7d-all", { scale: 1.12 }, { scale: 1, duration: 0.6, ease: "power3.out", transformOrigin: "50% 0%" }, @@t:c7d-many@@ - 0.8);
+      show("#c7d-nl", @@t:c7d-many@@ - 0.5, 0.3, 12);
+      show("#c7d-led", @@t:c7d-many@@ - 0.5, 0.4, 20);
+      show("#c7d-n-0", @@t:c7d-many@@ + 0.00, 0.12, 12);
+      gone("#c7d-n-0", @@t:c7d-many@@ + 0.30, 0.05);
+      show("#c7d-n-1", @@t:c7d-many@@ + 0.30, 0.12, 12);
+      gone("#c7d-n-1", @@t:c7d-many@@ + 0.60, 0.05);
+      show("#c7d-n-2", @@t:c7d-many@@ + 0.60, 0.12, 12);
+      gone("#c7d-n-2", @@t:c7d-many@@ + 0.90, 0.05);
+      show("#c7d-n-3", @@t:c7d-many@@ + 0.90, 0.12, 12);
+      gone("#c7d-n-3", @@t:c7d-many@@ + 1.20, 0.05);
+      show("#c7d-n-4", @@t:c7d-many@@ + 1.20, 0.12, 12);
+      bump("#c7d-led", @@t:c7d-cons@@, 1.06);
+      /* c7e */
+      tl.fromTo("#w-c7e", { scale: 1 }, { scale: 1.04, duration: @@start:c8a@@ - @@start:c7e@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c7e@@);
+      pop("#c7e-r1", @@start:c7e@@ + 0.1, 0.4);
+      pop("#c7e-r2", @@t:c7e-r2@@, 0.45);
+      pop("#c7e-ip", @@t:c7e-ip@@, 0.45);
+      bump("#c7e-ip", @@t:c7e-mech@@, 1.12);
+      pop("#c7e-t1", @@t:c7e-t1@@, 0.45);
+      pop("#c7e-t2", @@t:c7e-t2@@, 0.45);
+      pop("#c7e-gw", @@t:c7e-no@@ - 0.6, 0.4);
+      sweep("#c7e-a1", @@t:c7e-no@@, 0.5);
+      sweep("#c7e-a2", @@t:c7e-no@@ + 0.1, 0.4);
+      pop("#c7e-x", @@t:c7e-no@@ + 0.5, 0.45);
+      bump("#c7e-x", @@t:c7e-se@@, 1.25);

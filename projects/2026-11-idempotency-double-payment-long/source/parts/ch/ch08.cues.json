@@ -1,0 +1,172 @@
+{
+  "scenes": [
+    {
+      "id": "c8a",
+      "in": "cut",
+      "at": {
+        "sentence": 95,
+        "word": "Có"
+      }
+    },
+    {
+      "id": "c8b",
+      "in": "slide",
+      "at": {
+        "sentence": 97,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c8c",
+      "in": "slide",
+      "at": {
+        "sentence": 100,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c8d",
+      "in": "fade",
+      "at": {
+        "sentence": 103,
+        "word": "AWS"
+      }
+    }
+  ],
+  "beats": {
+    "c8a-pop": {
+      "sentence": 95,
+      "word": "phức tạp"
+    },
+    "c8a-chip": {
+      "sentence": 96,
+      "word": "Điều"
+    },
+    "c8a-press": {
+      "sentence": 96,
+      "word": "nhấn nút"
+    },
+    "c8a-two": {
+      "sentence": 96,
+      "word": "hai request"
+    },
+    "c8a-same": {
+      "sentence": 96,
+      "word": "cùng một thời điểm"
+    },
+    "c8b-check": {
+      "sentence": 97,
+      "word": "kiểm tra key"
+    },
+    "c8b-write": {
+      "sentence": 97,
+      "word": "ghi database"
+    },
+    "c8b-none": {
+      "sentence": 97,
+      "word": "chưa tồn tại"
+    },
+    "c8b-first": {
+      "sentence": 98,
+      "word": "đầu tiên"
+    },
+    "c8b-two": {
+      "sentence": 99,
+      "word": "hai giao dịch"
+    },
+    "c8b-par": {
+      "sentence": 99,
+      "word": "song song"
+    },
+    "c8c-atomic": {
+      "sentence": 100,
+      "word": "nguyên tử"
+    },
+    "c8c-cw": {
+      "sentence": 101,
+      "word": "Conditional Write"
+    },
+    "c8c-only": {
+      "sentence": 101,
+      "word": "chỉ cho phép"
+    },
+    "c8c-ok": {
+      "sentence": 102,
+      "word": "tạo thành công"
+    },
+    "c8c-no": {
+      "sentence": 102,
+      "word": "không thể"
+    },
+    "c8d-pt": {
+      "sentence": 103,
+      "word": "Powertools"
+    },
+    "c8d-ip": {
+      "sentence": 103,
+      "word": "In Progress"
+    },
+    "c8d-sim": {
+      "sentence": 103,
+      "word": "đồng thời"
+    },
+    "c8d-id": {
+      "sentence": 104,
+      "word": "ID"
+    },
+    "c8d-c1": {
+      "sentence": 105,
+      "word": "race condition"
+    },
+    "c8d-c2": {
+      "sentence": 105,
+      "word": "timeout"
+    },
+    "c8d-c3": {
+      "sentence": 105,
+      "word": "chưa hoàn tất"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c8a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8a-press",
+      "sound": "laser"
+    },
+    {
+      "beat": "c8b-none",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8b-first",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8b-two",
+      "sound": "click"
+    },
+    {
+      "beat": "c8c-atomic",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8c-cw",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8c-no",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8d-pt",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8d-c1",
+      "sound": "pop"
+    }
+  ]
+}

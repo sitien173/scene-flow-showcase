@@ -1,0 +1,62 @@
+      /* c2a */
+      tl.fromTo("#w-c2a", { scale: 1 }, { scale: 1.04, duration: @@start:c2b@@ - @@start:c2a@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c2a@@);
+      chapterCard("c2a", @@start:c2a@@ + 0.05, @@t:c2a-chip@@);
+      bump("#c2a-tile", @@t:c2a-pop@@, 1.08);
+      pop("#c2a-cli", @@t:c2a-chip@@ + 0.2, 0.45);
+      show("#c2a-be, #c2a-ben", @@t:c2a-chip@@ + 0.4, 0.4, 24);
+      show("#c2a-gw, #c2a-gwn", @@t:c2a-chip@@ + 0.6, 0.4, 24);
+      sweep("#c2a-l1", @@t:c2a-chip@@ + 0.8, 0.4);
+      sweep("#c2a-l2", @@t:c2a-chip@@ + 0.9, 0.4);
+      tl.fromTo("#c2a-pk", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: 340, duration: 1.0, ease: "power2.inOut" }, @@t:c2a-send@@);
+      /* c2b */
+      tl.fromTo("#w-c2b", { scale: 1 }, { scale: 1.03, duration: @@start:c2c@@ - @@start:c2b@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c2b@@);
+      pop("#c2b-chk", @@t:c2b-check@@, 0.45);
+      tl.fromTo("#c2b-pk", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: 280, duration: 0.9, ease: "power2.inOut" }, @@t:c2b-fwd@@);
+      gone("#c2b-pk", @@t:c2b-fwd@@ + 1.0, 0.2);
+      bump("#c2b-gw", @@t:c2b-fwd@@ + 1.0, 1.08);
+      pop("#c2b-ok", @@t:c2b-ok@@, 0.45);
+      pop("#c2b-succ", @@t:c2b-ok@@ + 0.1, 0.45);
+      tl.fromTo("#c2b-res", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: -280, duration: 0.9, ease: "power2.inOut" }, @@t:c2b-ok@@ + 0.4);
+      tl.to("#c2b-res", { x: -760, duration: 0.8, ease: "power2.out" }, @@t:c2b-stop@@);
+      tl.to("#w-c2b .srv, #w-c2b .ltile, #w-c2b .tile", { opacity: 0.5, duration: 0.4 }, @@t:c2b-stop@@ + 0.5);
+      pop("#c2b-q", @@t:c2b-q@@, 0.45);
+      /* c2c */
+      tl.fromTo("#w-c2c", { scale: 1 }, { scale: 1.03, duration: @@start:c2d@@ - @@start:c2c@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c2c@@);
+      tl.fromTo("#c2c-res", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: -160, duration: 0.8, ease: "power1.in" }, @@start:c2c@@ + 0.3);
+      gone("#c2c-res", @@t:c2c-lost@@, 0.1);
+      tl.fromTo("#c2c-f0", { autoAlpha: 1, x: 0, y: 0 }, { autoAlpha: 0, x: -120, y: -100, duration: 0.7, ease: "power2.out" }, @@t:c2c-lost@@);
+      tl.fromTo("#c2c-f1", { autoAlpha: 1, x: 0, y: 0 }, { autoAlpha: 0, x: 100, y: -120, duration: 0.7, ease: "power2.out" }, @@t:c2c-lost@@);
+      tl.fromTo("#c2c-f2", { autoAlpha: 1, x: 0, y: 0 }, { autoAlpha: 0, x: 140, y: 20, duration: 0.7, ease: "power2.out" }, @@t:c2c-lost@@);
+      tl.fromTo("#c2c-f3", { autoAlpha: 1, x: 0, y: 0 }, { autoAlpha: 0, x: 80, y: 120, duration: 0.7, ease: "power2.out" }, @@t:c2c-lost@@);
+      tl.fromTo("#c2c-f4", { autoAlpha: 1, x: 0, y: 0 }, { autoAlpha: 0, x: -80, y: 110, duration: 0.7, ease: "power2.out" }, @@t:c2c-lost@@);
+      tl.fromTo("#c2c-f5", { autoAlpha: 1, x: 0, y: 0 }, { autoAlpha: 0, x: -140, y: 0, duration: 0.7, ease: "power2.out" }, @@t:c2c-lost@@);
+      pop("#c2c-to", @@t:c2c-to@@, 0.45);
+      tl.to("#c2c-row", { autoAlpha: 0, scale: 0.8, duration: 0.4, ease: "power2.in", transformOrigin: "35% 45%" }, @@t:c2c-split@@ - 0.2);
+      tl.fromTo("#c2c-left", { autoAlpha: 0, scale: 1.15 }, { autoAlpha: 1, scale: 1, duration: 0.5, ease: "power3.out" }, @@t:c2c-split@@ + 0.1);
+      pop("#c2c-lok", @@t:c2c-done@@, 0.45);
+      tl.fromTo("#c2c-right", { autoAlpha: 0, scale: 1.15 }, { autoAlpha: 1, scale: 1, duration: 0.5, ease: "power3.out" }, @@t:c2c-cli@@ - 1.2);
+      tl.fromTo("#c2c-spin .ico", { rotation: 0 }, { rotation: 720, duration: 3, ease: "none" }, @@t:c2c-cli@@ - 1.2);
+      /* c2d */
+      tl.fromTo("#w-c2d", { scale: 1 }, { scale: 1.05, duration: @@start:c2e@@ - @@start:c2d@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c2d@@);
+      pop("#c2d-net", @@t:c2d-net@@, 0.45);
+      tl.fromTo("#c2d-pk", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: 900, duration: 1.4, ease: "power1.inOut" }, @@t:c2d-send@@);
+      gone("#c2d-pk", @@t:c2d-send@@ + 1.5, 0.2);
+      tl.fromTo("#c2d-fog", { autoAlpha: 0 }, { autoAlpha: 1, duration: 0.8, ease: "power1.out" }, @@t:c2d-fog@@);
+      pop("#c2d-warn", @@t:c2d-warn@@, 0.5);
+      gone("#c2d-row", @@t:c2d-cards@@, 0.3);
+      show("#c2d-a", @@t:c2d-cards@@ + 0.2, 0.45, 40);
+      show("#c2d-b", @@t:c2d-cards@@ + 0.5, 0.45, 40);
+      pop("#c2d-q", @@t:c2d-q@@, 0.5);
+      /* c2e */
+      tl.fromTo("#w-c2e", { scale: 1 }, { scale: 1.03, duration: @@start:c3a@@ - @@start:c2e@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c2e@@);
+      show("#c2e-led", @@start:c2e@@ + 0.3, 0.5, 80);
+      gone("#c2e-r2", @@start:c2e@@, 0.01);
+      tl.fromTo("#c2e-pk", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: 400, duration: 0.9, ease: "power2.inOut" }, @@t:c2e-resend@@);
+      tl.to("#c2e-pk", { x: 1000, duration: 0.9, ease: "power2.inOut" }, @@t:c2e-run@@);
+      bump("#c2e-be", @@t:c2e-run@@, 1.06);
+      gone("#c2e-pk", @@t:c2e-second@@, 0.15);
+      bump("#c2e-gw", @@t:c2e-second@@, 1.1);
+      show("#c2e-r2", @@t:c2e-second@@, 0.35, 30);
+      pop("#c2e-x2", @@t:c2e-second@@ + 0.2, 0.5, 0.4);
+      bump("#c2e-x2", @@t:c2e-grave@@, 1.15);
+      tl.to("#c2e-gw", { backgroundColor: "var(--accent)", duration: 0.3 }, @@t:c2e-grave@@);

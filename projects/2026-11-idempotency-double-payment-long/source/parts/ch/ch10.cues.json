@@ -1,0 +1,236 @@
+{
+  "scenes": [
+    {
+      "id": "c10a",
+      "in": "cut",
+      "at": {
+        "sentence": 118,
+        "word": "Và"
+      }
+    },
+    {
+      "id": "c10b",
+      "in": "slide",
+      "at": {
+        "sentence": 121,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c10c",
+      "in": "slide",
+      "at": {
+        "sentence": 124,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "c10d",
+      "in": "slide",
+      "at": {
+        "sentence": 126,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c10e",
+      "in": "slide",
+      "at": {
+        "sentence": 128,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c10f",
+      "in": "slide",
+      "at": {
+        "sentence": 130,
+        "word": "Sau"
+      }
+    }
+  ],
+  "beats": {
+    "c10a-pop": {
+      "sentence": 118,
+      "word": "chống trùng"
+    },
+    "c10a-chip": {
+      "sentence": 119,
+      "word": "Sau khi"
+    },
+    "c10a-mail": {
+      "sentence": 119,
+      "word": "email"
+    },
+    "c10a-inv": {
+      "sentence": 119,
+      "word": "hóa đơn"
+    },
+    "c10a-ship": {
+      "sentence": 119,
+      "word": "vận chuyển"
+    },
+    "c10a-async": {
+      "sentence": 120,
+      "word": "bất đồng bộ"
+    },
+    "c10a-sqs": {
+      "sentence": 120,
+      "word": "SQS"
+    },
+    "c10b-note": {
+      "sentence": 121,
+      "word": "lưu ý"
+    },
+    "c10b-std": {
+      "sentence": 122,
+      "word": "Standard Queue"
+    },
+    "c10b-alo": {
+      "sentence": 122,
+      "word": "at-least-once"
+    },
+    "c10b-msg": {
+      "sentence": 123,
+      "word": "message"
+    },
+    "c10b-many": {
+      "sentence": 123,
+      "word": "nhiều hơn một lần"
+    },
+    "c10c-own": {
+      "sentence": 124,
+      "word": "idempotency riêng"
+    },
+    "c10c-save": {
+      "sentence": 125,
+      "word": "lưu"
+    },
+    "c10c-id": {
+      "sentence": 125,
+      "word": "event ID"
+    },
+    "c10c-no": {
+      "sentence": 125,
+      "word": "không thực hiện lại"
+    },
+    "c10c-same": {
+      "sentence": 125,
+      "word": "cùng event"
+    },
+    "c10d-db": {
+      "sentence": 126,
+      "word": "database"
+    },
+    "c10d-msg": {
+      "sentence": 126,
+      "word": "gửi message"
+    },
+    "c10d-ok": {
+      "sentence": 127,
+      "word": "thành công"
+    },
+    "c10d-fail": {
+      "sentence": 127,
+      "word": "thất bại"
+    },
+    "c10d-back": {
+      "sentence": 127,
+      "word": "phía sau"
+    },
+    "c10e-pat": {
+      "sentence": 128,
+      "word": "Transactional Outbox"
+    },
+    "c10e-idea": {
+      "sentence": 129,
+      "word": "Ý tưởng"
+    },
+    "c10e-ord": {
+      "sentence": 129,
+      "word": "đơn hàng"
+    },
+    "c10e-ev": {
+      "sentence": 129,
+      "word": "sự kiện"
+    },
+    "c10e-tx": {
+      "sentence": 129,
+      "word": "cùng một transaction"
+    },
+    "c10f-read": {
+      "sentence": 130,
+      "word": "outbox"
+    },
+    "c10f-send": {
+      "sentence": 130,
+      "word": "SQS"
+    },
+    "c10f-sync": {
+      "sentence": 131,
+      "word": "giảm nguy cơ"
+    },
+    "c10f-guide": {
+      "sentence": 132,
+      "word": "Prescriptive Guidance"
+    },
+    "c10f-rds": {
+      "sentence": 132,
+      "word": "RDS"
+    },
+    "c10f-lam": {
+      "sentence": 132,
+      "word": "Lambda"
+    },
+    "c10f-sqs": {
+      "sentence": 132,
+      "word": "SQS"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c10a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10a-sqs",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10b-alo",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10b-many",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10c-own",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10c-id",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10d-fail",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10e-pat",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10e-tx",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10f-read",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10f-rds",
+      "sound": "pop"
+    }
+  ]
+}

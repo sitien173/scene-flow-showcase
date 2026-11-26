@@ -1,0 +1,2239 @@
+{
+  "scenes": [
+    {
+      "id": "c1a"
+    },
+    {
+      "id": "c1b",
+      "in": "slide",
+      "at": {
+        "sentence": 5,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c1c",
+      "in": "slide",
+      "at": {
+        "sentence": 10,
+        "word": "Liệu"
+      }
+    },
+    {
+      "id": "c1d",
+      "in": "cut",
+      "at": {
+        "sentence": 14,
+        "word": "Vài"
+      }
+    },
+    {
+      "id": "c1e",
+      "in": "cut",
+      "at": {
+        "sentence": 15,
+        "word": "Vấn"
+      }
+    },
+    {
+      "id": "c2a",
+      "in": "cut",
+      "at": {
+        "sentence": 20,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c2b",
+      "in": "slide",
+      "at": {
+        "sentence": 22,
+        "word": "Backend"
+      }
+    },
+    {
+      "id": "c2c",
+      "in": "slide",
+      "at": {
+        "sentence": 25,
+        "word": "Response"
+      }
+    },
+    {
+      "id": "c2d",
+      "in": "fade",
+      "at": {
+        "sentence": 28,
+        "word": "Đây"
+      }
+    },
+    {
+      "id": "c2e",
+      "in": "slide",
+      "at": {
+        "sentence": 32,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "c3a",
+      "in": "cut",
+      "at": {
+        "sentence": 34,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c3b",
+      "in": "slide",
+      "at": {
+        "sentence": 36,
+        "word": "Mạng"
+      }
+    },
+    {
+      "id": "c3c",
+      "in": "slide",
+      "at": {
+        "sentence": 40,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c3d",
+      "in": "slide",
+      "at": {
+        "sentence": 43,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c3e",
+      "in": "slide",
+      "at": {
+        "sentence": 46,
+        "word": "Chúng"
+      }
+    },
+    {
+      "id": "c4a",
+      "in": "cut",
+      "at": {
+        "sentence": 48,
+        "word": "Idempotency"
+      }
+    },
+    {
+      "id": "c4b",
+      "in": "slide",
+      "at": {
+        "sentence": 50,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c4c",
+      "in": "slide",
+      "at": {
+        "sentence": 52,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c4d",
+      "in": "fade",
+      "at": {
+        "sentence": 54,
+        "word": "Đối"
+      }
+    },
+    {
+      "id": "c5a",
+      "in": "cut",
+      "at": {
+        "sentence": 57,
+        "word": "Idempotency"
+      }
+    },
+    {
+      "id": "c5b",
+      "in": "slide",
+      "at": {
+        "sentence": 59,
+        "word": "Request"
+      }
+    },
+    {
+      "id": "c5c",
+      "in": "slide",
+      "at": {
+        "sentence": 62,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c5d",
+      "in": "slide",
+      "at": {
+        "sentence": 64,
+        "word": "Ngược"
+      }
+    },
+    {
+      "id": "c5e",
+      "in": "slide",
+      "at": {
+        "sentence": 66,
+        "word": "Ngoài"
+      }
+    },
+    {
+      "id": "c5f",
+      "in": "fade",
+      "at": {
+        "sentence": 69,
+        "word": "Amazon"
+      }
+    },
+    {
+      "id": "c6a",
+      "in": "cut",
+      "at": {
+        "sentence": 70,
+        "word": "Vậy"
+      }
+    },
+    {
+      "id": "c6b",
+      "in": "slide",
+      "at": {
+        "sentence": 72,
+        "word": "Đầu"
+      }
+    },
+    {
+      "id": "c6c",
+      "in": "slide",
+      "at": {
+        "sentence": 74,
+        "word": "Trước"
+      }
+    },
+    {
+      "id": "c6d",
+      "in": "slide",
+      "at": {
+        "sentence": 76,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c6e",
+      "in": "slide",
+      "at": {
+        "sentence": 78,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c6f",
+      "in": "slide",
+      "at": {
+        "sentence": 80,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c6g",
+      "in": "slide",
+      "at": {
+        "sentence": 82,
+        "word": "Powertools"
+      }
+    },
+    {
+      "id": "c7a",
+      "in": "cut",
+      "at": {
+        "sentence": 84,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c7b",
+      "in": "slide",
+      "at": {
+        "sentence": 86,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c7c",
+      "in": "slide",
+      "at": {
+        "sentence": 88,
+        "word": "Sau"
+      }
+    },
+    {
+      "id": "c7d",
+      "in": "slide",
+      "at": {
+        "sentence": 89,
+        "word": "Bây"
+      }
+    },
+    {
+      "id": "c7e",
+      "in": "fade",
+      "at": {
+        "sentence": 92,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c8a",
+      "in": "cut",
+      "at": {
+        "sentence": 95,
+        "word": "Có"
+      }
+    },
+    {
+      "id": "c8b",
+      "in": "slide",
+      "at": {
+        "sentence": 97,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c8c",
+      "in": "slide",
+      "at": {
+        "sentence": 100,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c8d",
+      "in": "fade",
+      "at": {
+        "sentence": 103,
+        "word": "AWS"
+      }
+    },
+    {
+      "id": "c9a",
+      "in": "cut",
+      "at": {
+        "sentence": 106,
+        "word": "Tuy"
+      }
+    },
+    {
+      "id": "c9b",
+      "in": "slide",
+      "at": {
+        "sentence": 108,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c9c",
+      "in": "slide",
+      "at": {
+        "sentence": 111,
+        "word": "Lúc"
+      }
+    },
+    {
+      "id": "c9d",
+      "in": "slide",
+      "at": {
+        "sentence": 113,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "c9e",
+      "in": "fade",
+      "at": {
+        "sentence": 115,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c10a",
+      "in": "cut",
+      "at": {
+        "sentence": 118,
+        "word": "Và"
+      }
+    },
+    {
+      "id": "c10b",
+      "in": "slide",
+      "at": {
+        "sentence": 121,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c10c",
+      "in": "slide",
+      "at": {
+        "sentence": 124,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "c10d",
+      "in": "slide",
+      "at": {
+        "sentence": 126,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c10e",
+      "in": "slide",
+      "at": {
+        "sentence": 128,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c10f",
+      "in": "slide",
+      "at": {
+        "sentence": 130,
+        "word": "Sau"
+      }
+    },
+    {
+      "id": "c11a",
+      "in": "cut",
+      "at": {
+        "sentence": 133,
+        "word": "Vậy"
+      }
+    },
+    {
+      "id": "c11b",
+      "in": "slide",
+      "at": {
+        "sentence": 135,
+        "word": "Idempotency"
+      }
+    },
+    {
+      "id": "c11c",
+      "in": "slide",
+      "at": {
+        "sentence": 138,
+        "word": "Ngoài"
+      }
+    },
+    {
+      "id": "c11d",
+      "in": "slide",
+      "at": {
+        "sentence": 140,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c11e",
+      "in": "fade",
+      "at": {
+        "sentence": 144,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "c12a",
+      "in": "cut",
+      "at": {
+        "sentence": 145,
+        "word": "Vậy"
+      }
+    },
+    {
+      "id": "c12b",
+      "in": "slide",
+      "at": {
+        "sentence": 148,
+        "word": "Amazon"
+      }
+    },
+    {
+      "id": "c12c",
+      "in": "slide",
+      "at": {
+        "sentence": 152,
+        "word": "Cổng"
+      }
+    },
+    {
+      "id": "c12d",
+      "in": "fade",
+      "at": {
+        "sentence": 154,
+        "word": "Đó"
+      }
+    },
+    {
+      "id": "c12e",
+      "in": "cut",
+      "at": {
+        "sentence": 156,
+        "word": "Điều"
+      }
+    },
+    {
+      "id": "c12f",
+      "in": "slide",
+      "at": {
+        "sentence": 157,
+        "word": "Góc"
+      }
+    }
+  ],
+  "beats": {
+    "c1a-phone": {
+      "sentence": 1,
+      "word": "điện thoại"
+    },
+    "c1a-price": {
+      "sentence": 2,
+      "word": "hai mươi triệu"
+    },
+    "c1a-form": {
+      "sentence": 3,
+      "word": "nhập"
+    },
+    "c1a-pay": {
+      "sentence": 3,
+      "word": "Pay Now"
+    },
+    "c1a-proc": {
+      "sentence": 4,
+      "word": "Processing"
+    },
+    "c1b-one": {
+      "sentence": 5,
+      "word": "Một"
+    },
+    "c1b-two": {
+      "sentence": 6,
+      "word": "Hai"
+    },
+    "c1b-five": {
+      "sentence": 7,
+      "word": "Năm"
+    },
+    "c1b-stall": {
+      "sentence": 8,
+      "word": "không có gì"
+    },
+    "c1b-worry": {
+      "sentence": 9,
+      "word": "lo lắng"
+    },
+    "c1c-q1": {
+      "sentence": 10,
+      "word": "thành công"
+    },
+    "c1c-q2": {
+      "sentence": 11,
+      "word": "Tiền"
+    },
+    "c1c-q3": {
+      "sentence": 12,
+      "word": "lỗi"
+    },
+    "c1c-wait": {
+      "sentence": 13,
+      "word": "chờ thêm"
+    },
+    "c1c-press": {
+      "sentence": 13,
+      "word": "nhấn nút"
+    },
+    "c1c-again": {
+      "sentence": 13,
+      "word": "lần nữa"
+    },
+    "c1d-n1": {
+      "sentence": 14,
+      "word": "ngân hàng"
+    },
+    "c1d-n2": {
+      "sentence": 14,
+      "word": "hai giao dịch"
+    },
+    "c1e-pop": {
+      "sentence": 15,
+      "word": "nằm"
+    },
+    "c1e-user": {
+      "sentence": 16,
+      "word": "bấm sai"
+    },
+    "c1e-no": {
+      "sentence": 17,
+      "word": "Không hẳn"
+    },
+    "c1e-chip": {
+      "sentence": 18,
+      "word": "Đôi khi"
+    },
+    "c1e-resend": {
+      "sentence": 18,
+      "word": "gửi lại"
+    },
+    "c1e-net": {
+      "sentence": 18,
+      "word": "mạng"
+    },
+    "c1e-zone": {
+      "sentence": 19,
+      "word": "kiến trúc"
+    },
+    "c2a-pop": {
+      "sentence": 20,
+      "word": "hiểu"
+    },
+    "c2a-chip": {
+      "sentence": 21,
+      "word": "Khi"
+    },
+    "c2a-send": {
+      "sentence": 21,
+      "word": "gửi"
+    },
+    "c2b-check": {
+      "sentence": 22,
+      "word": "kiểm tra"
+    },
+    "c2b-fwd": {
+      "sentence": 22,
+      "word": "gửi"
+    },
+    "c2b-ok": {
+      "sentence": 23,
+      "word": "thành công"
+    },
+    "c2b-stop": {
+      "sentence": 24,
+      "word": "Nhưng"
+    },
+    "c2b-q": {
+      "sentence": 24,
+      "word": "xảy ra"
+    },
+    "c2c-lost": {
+      "sentence": 25,
+      "word": "bị mất"
+    },
+    "c2c-to": {
+      "sentence": 25,
+      "word": "timeout"
+    },
+    "c2c-split": {
+      "sentence": 26,
+      "word": "Ở"
+    },
+    "c2c-done": {
+      "sentence": 26,
+      "word": "hoàn thành"
+    },
+    "c2c-cli": {
+      "sentence": 27,
+      "word": "loading"
+    },
+    "c2d-net": {
+      "sentence": 28,
+      "word": "phân tán"
+    },
+    "c2d-send": {
+      "sentence": 29,
+      "word": "giao tiếp"
+    },
+    "c2d-fog": {
+      "sentence": 29,
+      "word": "giả định"
+    },
+    "c2d-warn": {
+      "sentence": 30,
+      "word": "nguy hiểm"
+    },
+    "c2d-cards": {
+      "sentence": 31,
+      "word": "Client"
+    },
+    "c2d-q": {
+      "sentence": 31,
+      "word": "không biết"
+    },
+    "c2e-resend": {
+      "sentence": 32,
+      "word": "gửi lại"
+    },
+    "c2e-run": {
+      "sentence": 32,
+      "word": "thực hiện"
+    },
+    "c2e-second": {
+      "sentence": 32,
+      "word": "lần thứ hai"
+    },
+    "c2e-grave": {
+      "sentence": 33,
+      "word": "nghiêm trọng"
+    },
+    "c3a-pop": {
+      "sentence": 34,
+      "word": "câu hỏi"
+    },
+    "c3a-chip": {
+      "sentence": 35,
+      "word": "Bởi"
+    },
+    "c3a-safe": {
+      "sentence": 35,
+      "word": "đáng tin cậy"
+    },
+    "c3b-t1": {
+      "sentence": 36,
+      "word": "Internet"
+    },
+    "c3b-t2": {
+      "sentence": 37,
+      "word": "phản hồi"
+    },
+    "c3b-t3": {
+      "sentence": 38,
+      "word": "quá tải"
+    },
+    "c3b-t4": {
+      "sentence": 39,
+      "word": "ngắt"
+    },
+    "c3c-err": {
+      "sentence": 40,
+      "word": "lỗi mạng"
+    },
+    "c3c-restart": {
+      "sentence": 40,
+      "word": "bắt đầu lại"
+    },
+    "c3c-auto": {
+      "sentence": 41,
+      "word": "tự động"
+    },
+    "c3c-sdk": {
+      "sentence": 42,
+      "word": "SDK"
+    },
+    "c3c-fit": {
+      "sentence": 42,
+      "word": "phù hợp"
+    },
+    "c3d-new": {
+      "sentence": 43,
+      "word": "vấn đề mới"
+    },
+    "c3d-order": {
+      "sentence": 44,
+      "word": "tạo đơn hàng"
+    },
+    "c3d-pay": {
+      "sentence": 44,
+      "word": "trừ tiền"
+    },
+    "c3d-res": {
+      "sentence": 44,
+      "word": "cấp phát"
+    },
+    "c3d-many": {
+      "sentence": 45,
+      "word": "nhiều lần"
+    },
+    "c3d-bad": {
+      "sentence": 45,
+      "word": "không mong muốn"
+    },
+    "c3e-retry": {
+      "sentence": 46,
+      "word": "retry"
+    },
+    "c3e-once": {
+      "sentence": 46,
+      "word": "không lặp lại"
+    },
+    "c3e-word": {
+      "sentence": 47,
+      "word": "Idempotency"
+    },
+    "c4a-pop": {
+      "sentence": 48,
+      "word": "tính chất"
+    },
+    "c4a-many": {
+      "sentence": 48,
+      "word": "nhiều lần"
+    },
+    "c4a-same": {
+      "sentence": 48,
+      "word": "cùng một kết quả"
+    },
+    "c4a-chip": {
+      "sentence": 49,
+      "word": "Hãy"
+    },
+    "c4b-set": {
+      "sentence": 50,
+      "word": "một trăm"
+    },
+    "c4b-ten": {
+      "sentence": 50,
+      "word": "mười lần"
+    },
+    "c4b-same": {
+      "sentence": 50,
+      "word": "vẫn là"
+    },
+    "c4b-idem": {
+      "sentence": 51,
+      "word": "idempotent"
+    },
+    "c4c-add": {
+      "sentence": 52,
+      "word": "cộng thêm"
+    },
+    "c4c-one": {
+      "sentence": 52,
+      "word": "tăng thêm"
+    },
+    "c4c-k": {
+      "sentence": 52,
+      "word": "một nghìn"
+    },
+    "c4c-not": {
+      "sentence": 53,
+      "word": "không phải"
+    },
+    "c4d-pay": {
+      "sentence": 54,
+      "word": "thanh toán"
+    },
+    "c4d-many": {
+      "sentence": 54,
+      "word": "nhiều giao dịch"
+    },
+    "c4d-know": {
+      "sentence": 55,
+      "word": "cần biết"
+    },
+    "c4d-new": {
+      "sentence": 55,
+      "word": "hoàn toàn mới"
+    },
+    "c4d-rt": {
+      "sentence": 55,
+      "word": "thử lại"
+    },
+    "c4d-key": {
+      "sentence": 56,
+      "word": "Idempotency Key"
+    },
+    "c5a-pop": {
+      "sentence": 57,
+      "word": "mã định danh"
+    },
+    "c5a-chip": {
+      "sentence": 58,
+      "word": "Ví dụ"
+    },
+    "c5a-pay": {
+      "sentence": 58,
+      "word": "thanh toán"
+    },
+    "c5a-uuid": {
+      "sentence": 58,
+      "word": "UUID"
+    },
+    "c5a-send": {
+      "sentence": 58,
+      "word": "gửi"
+    },
+    "c5b-hdr": {
+      "sentence": 59,
+      "word": "header"
+    },
+    "c5b-to": {
+      "sentence": 60,
+      "word": "timeout"
+    },
+    "c5b-rt": {
+      "sentence": 60,
+      "word": "retry"
+    },
+    "c5b-same": {
+      "sentence": 60,
+      "word": "chính key"
+    },
+    "c5b-be": {
+      "sentence": 61,
+      "word": "backend"
+    },
+    "c5b-one": {
+      "sentence": 61,
+      "word": "cùng một"
+    },
+    "c5c-once": {
+      "sentence": 62,
+      "word": "một lần"
+    },
+    "c5c-press": {
+      "sentence": 62,
+      "word": "nhấn nút"
+    },
+    "c5c-newk": {
+      "sentence": 63,
+      "word": "key mới"
+    },
+    "c5c-two": {
+      "sentence": 63,
+      "word": "hai giao dịch"
+    },
+    "c5d-buy": {
+      "sentence": 64,
+      "word": "mua thêm"
+    },
+    "c5d-newk": {
+      "sentence": 64,
+      "word": "key mới"
+    },
+    "c5d-diff": {
+      "sentence": 65,
+      "word": "phân biệt"
+    },
+    "c5d-rt": {
+      "sentence": 65,
+      "word": "retry"
+    },
+    "c5d-new": {
+      "sentence": 65,
+      "word": "hành động"
+    },
+    "c5e-val": {
+      "sentence": 66,
+      "word": "xác thực"
+    },
+    "c5e-old": {
+      "sentence": 67,
+      "word": "key cũ"
+    },
+    "c5e-phone": {
+      "sentence": 67,
+      "word": "điện thoại"
+    },
+    "c5e-lap": {
+      "sentence": 67,
+      "word": "laptop"
+    },
+    "c5e-rej": {
+      "sentence": 68,
+      "word": "từ chối"
+    },
+    "c5e-same": {
+      "sentence": 68,
+      "word": "cùng một"
+    },
+    "c5f-src": {
+      "sentence": 69,
+      "word": "Builders' Library"
+    },
+    "c5f-hl": {
+      "sentence": 69,
+      "word": "unique"
+    },
+    "c5f-intent": {
+      "sentence": 69,
+      "word": "ý định"
+    },
+    "c6a-pop": {
+      "sentence": 70,
+      "word": "triển khai"
+    },
+    "c6a-chip": {
+      "sentence": 71,
+      "word": "Một"
+    },
+    "c6a-gw": {
+      "sentence": 71,
+      "word": "API Gateway"
+    },
+    "c6a-lam": {
+      "sentence": 71,
+      "word": "Lambda"
+    },
+    "c6a-ddb": {
+      "sentence": 71,
+      "word": "DynamoDB"
+    },
+    "c6b-send": {
+      "sentence": 72,
+      "word": "gửi"
+    },
+    "c6b-key": {
+      "sentence": 72,
+      "word": "Idempotency Key"
+    },
+    "c6b-fwd": {
+      "sentence": 73,
+      "word": "chuyển"
+    },
+    "c6b-lam": {
+      "sentence": 73,
+      "word": "Lambda"
+    },
+    "c6c-before": {
+      "sentence": 74,
+      "word": "Trước"
+    },
+    "c6c-check": {
+      "sentence": 74,
+      "word": "kiểm tra"
+    },
+    "c6c-store": {
+      "sentence": 74,
+      "word": "lưu trữ"
+    },
+    "c6c-ddb": {
+      "sentence": 75,
+      "word": "DynamoDB"
+    },
+    "c6c-end": {
+      "sentence": 75,
+      "word": "mục đích"
+    },
+    "c6d-first": {
+      "sentence": 76,
+      "word": "lần đầu tiên"
+    },
+    "c6d-rec": {
+      "sentence": 76,
+      "word": "bản ghi"
+    },
+    "c6d-proc": {
+      "sentence": 76,
+      "word": "đang được xử lý"
+    },
+    "c6d-done": {
+      "sentence": 77,
+      "word": "hoàn thành"
+    },
+    "c6d-ok": {
+      "sentence": 77,
+      "word": "thành công"
+    },
+    "c6e-req": {
+      "sentence": 78,
+      "word": "request"
+    },
+    "c6e-no": {
+      "sentence": 78,
+      "word": "không chạy lại"
+    },
+    "c6e-ret": {
+      "sentence": 79,
+      "word": "trả về"
+    },
+    "c6e-saved": {
+      "sentence": 79,
+      "word": "response đã lưu"
+    },
+    "c6f-pt": {
+      "sentence": 80,
+      "word": "Powertools"
+    },
+    "c6f-lib": {
+      "sentence": 81,
+      "word": "thư viện"
+    },
+    "c6f-fn": {
+      "sentence": 81,
+      "word": "Lambda functions"
+    },
+    "c6f-iu": {
+      "sentence": 81,
+      "word": "Idempotency Utility"
+    },
+    "c6g-k": {
+      "sentence": 82,
+      "word": "key"
+    },
+    "c6g-ip": {
+      "sentence": 82,
+      "word": "In Progress"
+    },
+    "c6g-ok": {
+      "sentence": 82,
+      "word": "Complete"
+    },
+    "c6g-ex": {
+      "sentence": 82,
+      "word": "thời gian hết hạn"
+    },
+    "c6g-rs": {
+      "sentence": 82,
+      "word": "response"
+    },
+    "c6g-safe": {
+      "sentence": 83,
+      "word": "an toàn"
+    },
+    "c6g-dup": {
+      "sentence": 83,
+      "word": "trùng lặp"
+    },
+    "c7a-pop": {
+      "sentence": 84,
+      "word": "hai trạng thái"
+    },
+    "c7a-chip": {
+      "sentence": 85,
+      "word": "Đầu tiên"
+    },
+    "c7a-ip": {
+      "sentence": 85,
+      "word": "In Progress"
+    },
+    "c7b-first": {
+      "sentence": 86,
+      "word": "lần đầu"
+    },
+    "c7b-rec": {
+      "sentence": 86,
+      "word": "bản ghi"
+    },
+    "c7b-proc": {
+      "sentence": 86,
+      "word": "đang được xử lý"
+    },
+    "c7b-stop": {
+      "sentence": 87,
+      "word": "ngăn"
+    },
+    "c7b-sim": {
+      "sentence": 87,
+      "word": "đồng thời"
+    },
+    "c7c-done": {
+      "sentence": 88,
+      "word": "xong"
+    },
+    "c7c-save": {
+      "sentence": 88,
+      "word": "lưu"
+    },
+    "c7c-ok": {
+      "sentence": 88,
+      "word": "Complete"
+    },
+    "c7d-resend": {
+      "sentence": 89,
+      "word": "gửi lại"
+    },
+    "c7d-find": {
+      "sentence": 89,
+      "word": "tìm thấy"
+    },
+    "c7d-ok": {
+      "sentence": 89,
+      "word": "Complete"
+    },
+    "c7d-again": {
+      "sentence": 90,
+      "word": "lần nữa"
+    },
+    "c7d-saved": {
+      "sentence": 90,
+      "word": "đã được lưu"
+    },
+    "c7d-many": {
+      "sentence": 91,
+      "word": "nhiều lần"
+    },
+    "c7d-cons": {
+      "sentence": 91,
+      "word": "nhất quán"
+    },
+    "c7e-r2": {
+      "sentence": 92,
+      "word": "thứ hai"
+    },
+    "c7e-ip": {
+      "sentence": 92,
+      "word": "In Progress"
+    },
+    "c7e-mech": {
+      "sentence": 92,
+      "word": "đồng thời"
+    },
+    "c7e-t1": {
+      "sentence": 93,
+      "word": "đang xử lý"
+    },
+    "c7e-t2": {
+      "sentence": 93,
+      "word": "retry sau"
+    },
+    "c7e-no": {
+      "sentence": 94,
+      "word": "không được phép"
+    },
+    "c7e-se": {
+      "sentence": 94,
+      "word": "side effect"
+    },
+    "c8a-pop": {
+      "sentence": 95,
+      "word": "phức tạp"
+    },
+    "c8a-chip": {
+      "sentence": 96,
+      "word": "Điều"
+    },
+    "c8a-press": {
+      "sentence": 96,
+      "word": "nhấn nút"
+    },
+    "c8a-two": {
+      "sentence": 96,
+      "word": "hai request"
+    },
+    "c8a-same": {
+      "sentence": 96,
+      "word": "cùng một thời điểm"
+    },
+    "c8b-check": {
+      "sentence": 97,
+      "word": "kiểm tra key"
+    },
+    "c8b-write": {
+      "sentence": 97,
+      "word": "ghi database"
+    },
+    "c8b-none": {
+      "sentence": 97,
+      "word": "chưa tồn tại"
+    },
+    "c8b-first": {
+      "sentence": 98,
+      "word": "đầu tiên"
+    },
+    "c8b-two": {
+      "sentence": 99,
+      "word": "hai giao dịch"
+    },
+    "c8b-par": {
+      "sentence": 99,
+      "word": "song song"
+    },
+    "c8c-atomic": {
+      "sentence": 100,
+      "word": "nguyên tử"
+    },
+    "c8c-cw": {
+      "sentence": 101,
+      "word": "Conditional Write"
+    },
+    "c8c-only": {
+      "sentence": 101,
+      "word": "chỉ cho phép"
+    },
+    "c8c-ok": {
+      "sentence": 102,
+      "word": "tạo thành công"
+    },
+    "c8c-no": {
+      "sentence": 102,
+      "word": "không thể"
+    },
+    "c8d-pt": {
+      "sentence": 103,
+      "word": "Powertools"
+    },
+    "c8d-ip": {
+      "sentence": 103,
+      "word": "In Progress"
+    },
+    "c8d-sim": {
+      "sentence": 103,
+      "word": "đồng thời"
+    },
+    "c8d-id": {
+      "sentence": 104,
+      "word": "ID"
+    },
+    "c8d-c1": {
+      "sentence": 105,
+      "word": "race condition"
+    },
+    "c8d-c2": {
+      "sentence": 105,
+      "word": "timeout"
+    },
+    "c8d-c3": {
+      "sentence": 105,
+      "word": "chưa hoàn tất"
+    },
+    "c9a-pop": {
+      "sentence": 106,
+      "word": "vấn đề"
+    },
+    "c9a-chip": {
+      "sentence": 107,
+      "word": "Việc"
+    },
+    "c9a-ddb": {
+      "sentence": 107,
+      "word": "DynamoDB"
+    },
+    "c9a-out": {
+      "sentence": 107,
+      "word": "bên ngoài"
+    },
+    "c9b-send": {
+      "sentence": 108,
+      "word": "gửi"
+    },
+    "c9b-ok": {
+      "sentence": 109,
+      "word": "thành công"
+    },
+    "c9b-res": {
+      "sentence": 110,
+      "word": "response"
+    },
+    "c9b-to": {
+      "sentence": 110,
+      "word": "timeout"
+    },
+    "c9c-own": {
+      "sentence": 111,
+      "word": "của riêng mình"
+    },
+    "c9c-fail": {
+      "sentence": 111,
+      "word": "thất bại"
+    },
+    "c9c-new": {
+      "sentence": 112,
+      "word": "giao dịch mới"
+    },
+    "c9c-again": {
+      "sentence": 112,
+      "word": "thêm lần nữa"
+    },
+    "c9d-support": {
+      "sentence": 113,
+      "word": "hỗ trợ"
+    },
+    "c9d-key": {
+      "sentence": 113,
+      "word": "cùng một key"
+    },
+    "c9d-id": {
+      "sentence": 113,
+      "word": "payment operation identifier"
+    },
+    "c9d-recv": {
+      "sentence": 114,
+      "word": "nhận lại"
+    },
+    "c9d-dup": {
+      "sentence": 114,
+      "word": "request trùng"
+    },
+    "c9d-prev": {
+      "sentence": 114,
+      "word": "kết quả trước đó"
+    },
+    "c9e-no": {
+      "sentence": 115,
+      "word": "không hỗ trợ"
+    },
+    "c9e-s1": {
+      "sentence": 115,
+      "word": "kiểm tra trạng thái"
+    },
+    "c9e-s2": {
+      "sentence": 115,
+      "word": "đối soát"
+    },
+    "c9e-s3": {
+      "sentence": 115,
+      "word": "reconciliation"
+    },
+    "c9e-before": {
+      "sentence": 116,
+      "word": "trước khi"
+    },
+    "c9e-each": {
+      "sentence": 117,
+      "word": "mỗi hệ thống"
+    },
+    "c9e-fit": {
+      "sentence": 117,
+      "word": "phù hợp"
+    },
+    "c10a-pop": {
+      "sentence": 118,
+      "word": "chống trùng"
+    },
+    "c10a-chip": {
+      "sentence": 119,
+      "word": "Sau khi"
+    },
+    "c10a-mail": {
+      "sentence": 119,
+      "word": "email"
+    },
+    "c10a-inv": {
+      "sentence": 119,
+      "word": "hóa đơn"
+    },
+    "c10a-ship": {
+      "sentence": 119,
+      "word": "vận chuyển"
+    },
+    "c10a-async": {
+      "sentence": 120,
+      "word": "bất đồng bộ"
+    },
+    "c10a-sqs": {
+      "sentence": 120,
+      "word": "SQS"
+    },
+    "c10b-note": {
+      "sentence": 121,
+      "word": "lưu ý"
+    },
+    "c10b-std": {
+      "sentence": 122,
+      "word": "Standard Queue"
+    },
+    "c10b-alo": {
+      "sentence": 122,
+      "word": "at-least-once"
+    },
+    "c10b-msg": {
+      "sentence": 123,
+      "word": "message"
+    },
+    "c10b-many": {
+      "sentence": 123,
+      "word": "nhiều hơn một lần"
+    },
+    "c10c-own": {
+      "sentence": 124,
+      "word": "idempotency riêng"
+    },
+    "c10c-save": {
+      "sentence": 125,
+      "word": "lưu"
+    },
+    "c10c-id": {
+      "sentence": 125,
+      "word": "event ID"
+    },
+    "c10c-no": {
+      "sentence": 125,
+      "word": "không thực hiện lại"
+    },
+    "c10c-same": {
+      "sentence": 125,
+      "word": "cùng event"
+    },
+    "c10d-db": {
+      "sentence": 126,
+      "word": "database"
+    },
+    "c10d-msg": {
+      "sentence": 126,
+      "word": "gửi message"
+    },
+    "c10d-ok": {
+      "sentence": 127,
+      "word": "thành công"
+    },
+    "c10d-fail": {
+      "sentence": 127,
+      "word": "thất bại"
+    },
+    "c10d-back": {
+      "sentence": 127,
+      "word": "phía sau"
+    },
+    "c10e-pat": {
+      "sentence": 128,
+      "word": "Transactional Outbox"
+    },
+    "c10e-idea": {
+      "sentence": 129,
+      "word": "Ý tưởng"
+    },
+    "c10e-ord": {
+      "sentence": 129,
+      "word": "đơn hàng"
+    },
+    "c10e-ev": {
+      "sentence": 129,
+      "word": "sự kiện"
+    },
+    "c10e-tx": {
+      "sentence": 129,
+      "word": "cùng một transaction"
+    },
+    "c10f-read": {
+      "sentence": 130,
+      "word": "outbox"
+    },
+    "c10f-send": {
+      "sentence": 130,
+      "word": "SQS"
+    },
+    "c10f-sync": {
+      "sentence": 131,
+      "word": "giảm nguy cơ"
+    },
+    "c10f-guide": {
+      "sentence": 132,
+      "word": "Prescriptive Guidance"
+    },
+    "c10f-rds": {
+      "sentence": 132,
+      "word": "RDS"
+    },
+    "c10f-lam": {
+      "sentence": 132,
+      "word": "Lambda"
+    },
+    "c10f-sqs": {
+      "sentence": 132,
+      "word": "SQS"
+    },
+    "c11a-pop": {
+      "sentence": 133,
+      "word": "Idempotency Key"
+    },
+    "c11a-chip": {
+      "sentence": 133,
+      "word": "giao dịch trùng"
+    },
+    "c11a-no": {
+      "sentence": 134,
+      "word": "Không hoàn toàn"
+    },
+    "c11b-ttlb": {
+      "sentence": 135,
+      "word": "thời gian"
+    },
+    "c11b-early": {
+      "sentence": 136,
+      "word": "quá sớm"
+    },
+    "c11b-oldr": {
+      "sentence": 136,
+      "word": "request cũ"
+    },
+    "c11b-forever": {
+      "sentence": 137,
+      "word": "mãi mãi"
+    },
+    "c11b-cost": {
+      "sentence": 137,
+      "word": "tiêu tốn"
+    },
+    "c11c-to": {
+      "sentence": 138,
+      "word": "timeout"
+    },
+    "c11c-ip": {
+      "sentence": 138,
+      "word": "In Progress"
+    },
+    "c11c-when": {
+      "sentence": 139,
+      "word": "xác định"
+    },
+    "c11c-fail": {
+      "sentence": 139,
+      "word": "thất bại"
+    },
+    "c11c-rt": {
+      "sentence": 139,
+      "word": "cần retry"
+    },
+    "c11c-ext": {
+      "sentence": 139,
+      "word": "bên ngoài"
+    },
+    "c11d-same": {
+      "sentence": 140,
+      "word": "cùng một key"
+    },
+    "c11d-diff": {
+      "sentence": 140,
+      "word": "khác nhau"
+    },
+    "c11d-phone": {
+      "sentence": 141,
+      "word": "điện thoại"
+    },
+    "c11d-30": {
+      "sentence": 142,
+      "word": "ba mươi triệu"
+    },
+    "c11d-lap": {
+      "sentence": 142,
+      "word": "laptop"
+    },
+    "c11d-rej": {
+      "sentence": 143,
+      "word": "từ chối"
+    },
+    "c11e-key": {
+      "sentence": 144,
+      "word": "Idempotency Key"
+    },
+    "c11e-c1": {
+      "sentence": 144,
+      "word": "payload"
+    },
+    "c11e-c2": {
+      "sentence": 144,
+      "word": "trạng thái"
+    },
+    "c11e-c3": {
+      "sentence": 144,
+      "word": "hết hạn"
+    },
+    "c11e-c4": {
+      "sentence": 144,
+      "word": "reconciliation"
+    },
+    "c12a-pop": {
+      "sentence": 145,
+      "word": "nhấn nút"
+    },
+    "c12a-chip": {
+      "sentence": 146,
+      "word": "backend"
+    },
+    "c12a-cnt": {
+      "sentence": 146,
+      "word": "số lần"
+    },
+    "c12a-key": {
+      "sentence": 147,
+      "word": "Idempotency Key"
+    },
+    "c12b-gw": {
+      "sentence": 148,
+      "word": "API Gateway"
+    },
+    "c12b-lam": {
+      "sentence": 149,
+      "word": "Lambda"
+    },
+    "c12b-ddb": {
+      "sentence": 150,
+      "word": "DynamoDB"
+    },
+    "c12b-pt": {
+      "sentence": 151,
+      "word": "Powertools"
+    },
+    "c12c-pay": {
+      "sentence": 152,
+      "word": "Cổng thanh toán"
+    },
+    "c12c-rec": {
+      "sentence": 152,
+      "word": "reconciliation"
+    },
+    "c12c-back": {
+      "sentence": 153,
+      "word": "phía sau"
+    },
+    "c12c-re": {
+      "sentence": 153,
+      "word": "gửi lại"
+    },
+    "c12d-rel": {
+      "sentence": 154,
+      "word": "đáng tin cậy"
+    },
+    "c12d-many": {
+      "sentence": 155,
+      "word": "nhiều lần"
+    },
+    "c12e-new": {
+      "sentence": 156,
+      "word": "giao dịch mới"
+    },
+    "c12e-rt": {
+      "sentence": 156,
+      "word": "thử lại"
+    },
+    "c12e-old": {
+      "sentence": 156,
+      "word": "giao dịch cũ"
+    },
+    "c12f-name": {
+      "sentence": 157,
+      "word": "Góc nhìn DEV"
+    },
+    "c12f-ser": {
+      "sentence": 157,
+      "word": "Behind the Cloud"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c1a-price",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1a-pay",
+      "sound": "laser"
+    },
+    {
+      "beat": "c1b-one",
+      "sound": "click"
+    },
+    {
+      "beat": "c1b-two",
+      "sound": "click"
+    },
+    {
+      "beat": "c1b-five",
+      "sound": "click"
+    },
+    {
+      "beat": "c1c-q1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1c-q2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1c-press",
+      "sound": "laser"
+    },
+    {
+      "beat": "c1d-n2",
+      "sound": "click"
+    },
+    {
+      "beat": "c1e-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1e-resend",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2a-send",
+      "sound": "laser"
+    },
+    {
+      "beat": "c2b-ok",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2c-lost",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2c-done",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2d-warn",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2d-q",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2e-resend",
+      "sound": "laser"
+    },
+    {
+      "beat": "c2e-second",
+      "sound": "click"
+    },
+    {
+      "beat": "c3a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3a-safe",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-t1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-t2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-t3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-t4",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3c-auto",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3c-sdk",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3d-pay",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3d-many",
+      "sound": "click"
+    },
+    {
+      "beat": "c3e-word",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4b-ten",
+      "sound": "click"
+    },
+    {
+      "beat": "c4b-idem",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4c-k",
+      "sound": "click"
+    },
+    {
+      "beat": "c4c-not",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4d-key",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5a-uuid",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5b-hdr",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5b-rt",
+      "sound": "laser"
+    },
+    {
+      "beat": "c5b-one",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5c-once",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5c-newk",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5d-newk",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5d-diff",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5e-val",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5e-rej",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5f-src",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-gw",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-lam",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-ddb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6b-send",
+      "sound": "laser"
+    },
+    {
+      "beat": "c6b-lam",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6c-ddb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6d-rec",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6d-ok",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6e-no",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6e-saved",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6f-pt",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6f-iu",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6g-k",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6g-ex",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6g-safe",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7a-ip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7b-rec",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7b-stop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7c-ok",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7d-ok",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7d-saved",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7d-many",
+      "sound": "click"
+    },
+    {
+      "beat": "c7e-t1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7e-no",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8a-press",
+      "sound": "laser"
+    },
+    {
+      "beat": "c8b-none",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8b-first",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8b-two",
+      "sound": "click"
+    },
+    {
+      "beat": "c8c-atomic",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8c-cw",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8c-no",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8d-pt",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8d-c1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9a-out",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9b-send",
+      "sound": "laser"
+    },
+    {
+      "beat": "c9b-ok",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9b-to",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9c-fail",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9c-again",
+      "sound": "click"
+    },
+    {
+      "beat": "c9d-key",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9d-prev",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9e-s3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9e-each",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10a-sqs",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10b-alo",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10b-many",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10c-own",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10c-id",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10d-fail",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10e-pat",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10e-tx",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10f-read",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10f-rds",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11a-no",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-ttlb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-early",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-forever",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11c-ip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11c-ext",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11d-phone",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11d-30",
+      "sound": "click"
+    },
+    {
+      "beat": "c11d-rej",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11e-c1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11e-c4",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12a-key",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12b-gw",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12b-lam",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12b-ddb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12b-pt",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12c-pay",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12c-back",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12d-rel",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12e-new",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12e-rt",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12e-old",
+      "sound": "pop"
+    },
+    {
+      "beat": "c12f-name",
+      "sound": "pop"
+    }
+  ]
+}

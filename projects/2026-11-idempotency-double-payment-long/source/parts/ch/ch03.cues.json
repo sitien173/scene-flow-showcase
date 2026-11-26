@@ -1,0 +1,176 @@
+{
+  "scenes": [
+    {
+      "id": "c3a",
+      "in": "cut",
+      "at": {
+        "sentence": 34,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c3b",
+      "in": "slide",
+      "at": {
+        "sentence": 36,
+        "word": "Mạng"
+      }
+    },
+    {
+      "id": "c3c",
+      "in": "slide",
+      "at": {
+        "sentence": 40,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c3d",
+      "in": "slide",
+      "at": {
+        "sentence": 43,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c3e",
+      "in": "slide",
+      "at": {
+        "sentence": 46,
+        "word": "Chúng"
+      }
+    }
+  ],
+  "beats": {
+    "c3a-pop": {
+      "sentence": 34,
+      "word": "câu hỏi"
+    },
+    "c3a-chip": {
+      "sentence": 35,
+      "word": "Bởi"
+    },
+    "c3a-safe": {
+      "sentence": 35,
+      "word": "đáng tin cậy"
+    },
+    "c3b-t1": {
+      "sentence": 36,
+      "word": "Internet"
+    },
+    "c3b-t2": {
+      "sentence": 37,
+      "word": "phản hồi"
+    },
+    "c3b-t3": {
+      "sentence": 38,
+      "word": "quá tải"
+    },
+    "c3b-t4": {
+      "sentence": 39,
+      "word": "ngắt"
+    },
+    "c3c-err": {
+      "sentence": 40,
+      "word": "lỗi mạng"
+    },
+    "c3c-restart": {
+      "sentence": 40,
+      "word": "bắt đầu lại"
+    },
+    "c3c-auto": {
+      "sentence": 41,
+      "word": "tự động"
+    },
+    "c3c-sdk": {
+      "sentence": 42,
+      "word": "SDK"
+    },
+    "c3c-fit": {
+      "sentence": 42,
+      "word": "phù hợp"
+    },
+    "c3d-new": {
+      "sentence": 43,
+      "word": "vấn đề mới"
+    },
+    "c3d-order": {
+      "sentence": 44,
+      "word": "tạo đơn hàng"
+    },
+    "c3d-pay": {
+      "sentence": 44,
+      "word": "trừ tiền"
+    },
+    "c3d-res": {
+      "sentence": 44,
+      "word": "cấp phát"
+    },
+    "c3d-many": {
+      "sentence": 45,
+      "word": "nhiều lần"
+    },
+    "c3d-bad": {
+      "sentence": 45,
+      "word": "không mong muốn"
+    },
+    "c3e-retry": {
+      "sentence": 46,
+      "word": "retry"
+    },
+    "c3e-once": {
+      "sentence": 46,
+      "word": "không lặp lại"
+    },
+    "c3e-word": {
+      "sentence": 47,
+      "word": "Idempotency"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c3a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3a-safe",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-t1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-t2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-t3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-t4",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3c-auto",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3c-sdk",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3d-pay",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3d-many",
+      "sound": "click"
+    },
+    {
+      "beat": "c3e-word",
+      "sound": "pop"
+    }
+  ]
+}

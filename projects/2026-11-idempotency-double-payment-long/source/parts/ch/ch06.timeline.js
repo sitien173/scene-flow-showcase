@@ -1,0 +1,82 @@
+      /* c6a */
+      tl.fromTo("#w-c6a", { scale: 1 }, { scale: 1.04, duration: @@start:c6b@@ - @@start:c6a@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c6a@@);
+      chapterCard("c6a", @@start:c6a@@ + 0.05, @@t:c6a-chip@@);
+      bump("#c6a-tile", @@t:c6a-pop@@, 1.08);
+      pop("#c6a-gw", @@t:c6a-gw@@, 0.5);
+      pop("#c6a-lam", @@t:c6a-lam@@, 0.5);
+      pop("#c6a-ddb", @@t:c6a-ddb@@, 0.5);
+      /* c6b */
+      pop("#c6b-cli", @@start:c6b@@ + 0.1, 0.4);
+      pop("#c6b-gw", @@start:c6b@@ + 0.3, 0.4);
+      sweep("#c6b-l1", @@start:c6b@@ + 0.5, 0.4);
+      tl.fromTo("#c6b-pk", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: 340, duration: 1.0, ease: "power2.inOut" }, @@t:c6b-send@@);
+      bump("#c6b-pk", @@t:c6b-key@@, 1.15);
+      bump("#c6b-gw", @@t:c6b-fwd@@, 1.08);
+      sweep("#c6b-l2", @@t:c6b-fwd@@, 0.4);
+      tl.to("#c6b-pk", { x: 900, duration: 0.9, ease: "power2.inOut" }, @@t:c6b-fwd@@ + 0.2);
+      pop("#c6b-lam", @@t:c6b-lam@@, 0.45);
+      tl.fromTo("#c6b-cv", { x: 0 }, { x: -120, duration: 2.0, ease: "power2.inOut" }, @@t:c6b-fwd@@);
+      /* c6c */
+      show("#c6c-pk", @@start:c6c@@ + 0.1, 0.3, 10);
+      pop("#c6c-biz", @@t:c6c-before@@ + 0.3, 0.4); show("#c6c-bizn", @@t:c6c-before@@ + 0.4, 0.4, 12);
+      tl.to("#c6c-pk", { x: 120, duration: 0.5, ease: "back.out(2)" }, @@t:c6c-before@@ + 0.6);
+      draw("#c6c-probe", @@t:c6c-check@@, 0.5);
+      tl.fromTo("#c6c-probe", { scaleY: 0 }, { scaleY: 1, duration: 0.5, ease: "power2.out", transformOrigin: "50% 0%" }, @@t:c6c-check@@);
+      tl.fromTo("#c6c-slot", { autoAlpha: 0 }, { autoAlpha: 1, duration: 0.4 }, @@t:c6c-store@@);
+      pop("#c6c-ddb", @@t:c6c-ddb@@, 0.45);
+      show("#c6c-ddbn", @@t:c6c-ddb@@ + 0.15, 0.4, 12);
+      gone("#c6c-cv", @@t:c6c-end@@ - 0.2, 0.3);
+      show("#c6c-tbl", @@t:c6c-end@@, 0.5, 60);
+      /* c6d */
+      tl.fromTo("#w-c6d", { scale: 1 }, { scale: 1.04, duration: @@start:c6e@@ - @@start:c6d@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c6d@@);
+      show("#c6d-tbl", @@start:c6d@@ + 0.1, 0.45, 40);
+      pop("#c6d-lam", @@start:c6d@@ + 0.2, 0.4);
+      gone("#c6d-row, #c6d-row-ok, #c6d-row-rs", @@start:c6d@@, 0.01);
+      show("#c6d-row", @@t:c6d-rec@@, 0.4, 20);
+      pop("#c6d-row-ip", @@t:c6d-proc@@, 0.4);
+      pop("#c6d-sp", @@t:c6d-proc@@, 0.3);
+      tl.fromTo("#c6d-sp .ico", { rotation: 0 }, { rotation: 720, duration: 3.0, ease: "none" }, @@t:c6d-proc@@);
+      pop("#c6d-gw", @@t:c6d-proc@@ + 0.4, 0.4); show("#c6d-gwn", @@t:c6d-proc@@ + 0.5, 0.4, 12);
+      bump("#c6d-gw", @@t:c6d-done@@, 1.1);
+      gone("#c6d-row-ip, #c6d-sp", @@t:c6d-ok@@ - 0.1, 0.15);
+      pop("#c6d-row-ok", @@t:c6d-ok@@, 0.45);
+      pop("#c6d-row-rs", @@t:c6d-ok@@ + 0.3, 0.45);
+      /* c6e */
+      tl.fromTo("#w-c6e", { scale: 1 }, { scale: 1.03, duration: @@start:c6f@@ - @@start:c6e@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c6e@@);
+      show("#c6e-tbl", @@start:c6e@@ + 0.05, 0.4, 30);
+      pop("#c6e-cli", @@start:c6e@@ + 0.1, 0.4);
+      pop("#c6e-lam", @@start:c6e@@ + 0.2, 0.4);
+      tl.fromTo("#c6e-pk", { autoAlpha: 0, y: 0 }, { autoAlpha: 1, y: -180, duration: 0.8, ease: "power2.inOut" }, @@t:c6e-req@@);
+      tl.to("#c6e-pk", { autoAlpha: 0, duration: 0.2 }, @@t:c6e-req@@ + 0.8);
+      bump("#c6e-row", @@t:c6e-req@@ + 0.9, 1.04);
+      sweep("#c6e-lg", @@t:c6e-req@@ + 0.4, 0.4);
+      pop("#c6e-gw", @@t:c6e-req@@ + 0.5, 0.4);
+      tl.to("#c6e-lg, #c6e-gw", { opacity: 0.3, duration: 0.3 }, @@t:c6e-no@@);
+      pop("#c6e-ban", @@t:c6e-no@@, 0.45);
+      show("#c6e-rc", @@t:c6e-ret@@ - 0.3, 0.3, 10);
+      tl.to("#c6e-rc", { x: -1050, y: 130, duration: 1.0, ease: "power2.inOut" }, @@t:c6e-ret@@);
+      tl.to("#c6e-rck", { x: -1050, y: 130, duration: 1.0, ease: "power2.inOut" }, @@t:c6e-ret@@);
+      pop("#c6e-rck", @@t:c6e-ret@@ - 0.3, 0.3);
+      pop("#c6e-lbl", @@t:c6e-saved@@, 0.45);
+      /* c6f */
+      tl.fromTo("#w-c6f", { scale: 1 }, { scale: 1.05, duration: @@start:c6g@@ - @@start:c6f@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c6f@@);
+      pop("#c6f-lam", @@start:c6f@@ + 0.1, 0.45);
+      pop("#c6f-pkg", @@t:c6f-pt@@, 0.45);
+      tl.fromTo("#c6f-lamw", { autoAlpha: 0, scale: 1.3 }, { autoAlpha: 1, scale: 1, duration: 0.5, ease: "power3.out" }, @@t:c6f-pt@@ + 0.2);
+      show("#c6f-pt", @@t:c6f-pt@@ + 0.3, 0.45, 20);
+      pop("#c6f-lib", @@t:c6f-lib@@, 0.45);
+      show("#c6f-in", @@t:c6f-fn@@, 0.4, 16);
+      tl.fromTo("#c6f-iu", { autoAlpha: 0, x: -200 }, { autoAlpha: 1, x: 0, duration: 0.5, ease: "power3.out" }, @@t:c6f-iu@@);
+      /* c6g */
+      tl.fromTo("#w-c6g", { scale: 1 }, { scale: 1.04, duration: @@start:c7a@@ - @@start:c6g@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c6g@@);
+      pop("#c6g-lam", @@start:c6g@@ + 0.1, 0.45);
+      pop("#c6g-k", @@t:c6g-k@@, 0.45);
+      pop("#c6g-ip", @@t:c6g-ip@@, 0.45);
+      pop("#c6g-ok", @@t:c6g-ok@@, 0.45);
+      pop("#c6g-ex", @@t:c6g-ex@@, 0.45);
+      pop("#c6g-rs", @@t:c6g-rs@@, 0.45);
+      tl.fromTo("#c6g-sh", { autoAlpha: 0, scale: 0.6 }, { autoAlpha: 1, scale: 1, duration: 0.5, ease: "back.out(2)", transformOrigin: "50% 50%" }, @@t:c6g-safe@@);
+      tl.fromTo("#c6g-d1", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: 360, duration: 0.6, ease: "power2.in" }, @@t:c6g-safe@@ + 0.4);
+      tl.to("#c6g-d1", { x: 0, autoAlpha: 0, duration: 0.6, ease: "power2.out" }, @@t:c6g-safe@@ + 1.0);
+      tl.fromTo("#c6g-d2", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: -360, duration: 0.6, ease: "power2.in" }, @@t:c6g-dup@@);
+      tl.to("#c6g-d2", { x: 0, autoAlpha: 0, duration: 0.6, ease: "power2.out" }, @@t:c6g-dup@@ + 0.6);
