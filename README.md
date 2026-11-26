@@ -11,7 +11,7 @@ Cần có: `git`, [GitHub CLI](https://cli.github.com) đã `gh auth login`, Pyt
 1. Fork và clone repo này:
 
    ```sh
-   gh repo fork <owner>/scene-flow-showcase --clone
+   gh repo fork sitien173/scene-flow-showcase --clone
    cd scene-flow-showcase
    ```
 
@@ -73,6 +73,12 @@ CI build site với bài mới, tải video từ Release, rồi kiểm tra kích
    - Secrets: `CLOUDFLARE_ACCOUNT_ID`, `CLOUDFLARE_API_TOKEN` có quyền ghi R2.
 
    Khi chưa có `MEDIA_HOST`, site phát video thẳng từ URL Release trên fork của người gửi. Video sẽ mất nếu người gửi xóa fork hoặc Release.
+
+## Giấy phép
+
+- Mã nguồn của site và `tools/`: [MIT](LICENSE).
+- Nội dung trong `projects/` và video đính kèm: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Mỗi bài gửi xác nhận điều này trong pull request. Tác giả giữ bản quyền; người dùng lại phải ghi tên tác giả.
+- Tài sản bên thứ ba trong video, như nhạc, font hay logo, theo giấy phép riêng của chúng.
 
 ## Phát triển
 
