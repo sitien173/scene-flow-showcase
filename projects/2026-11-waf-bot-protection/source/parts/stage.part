@@ -1,0 +1,16 @@
+      <div id="bg" aria-hidden="true"></div>
+      <svg style="position:absolute; width:0; height:0; overflow:hidden" aria-hidden="true">
+        <symbol id="art-mascot" viewBox="0 0 200 200">
+          <rect x="20" y="20" width="160" height="160" rx="52" ry="52" style="fill:var(--mascot)"/>
+          <circle cx="72" cy="94" r="13" style="fill:var(--face)"/>
+          <circle cx="128" cy="94" r="13" style="fill:var(--face)"/>
+          <path d="M80 130 Q100 146 120 130" style="fill:none; stroke:var(--face); stroke-width:8; stroke-linecap:round"/>
+        </symbol>
+        <symbol id="art-burst" viewBox="0 0 200 200">
+          <g style="fill:var(--accent)">
+            <rect x="82" y="8" width="36" height="184" rx="18" ry="18"/>
+            <rect x="82" y="8" width="36" height="184" rx="18" ry="18" transform="rotate(60 100 100)"/>
+            <rect x="82" y="8" width="36" height="184" rx="18" ry="18" transform="rotate(120 100 100)"/>
+          </g>
+        </symbol>
+      </svg>

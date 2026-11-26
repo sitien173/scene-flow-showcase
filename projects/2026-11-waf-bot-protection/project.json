@@ -1,0 +1,16 @@
+{
+  "title": "Làm thế nào AWS ngăn hàng nghìn bot tấn công website?",
+  "author": {
+    "name": "Góc nhìn DEV"
+  },
+  "theme": "cleanui",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 104.5,
+  "publishedAt": "2026-11-26",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-waf-bot-protection-2f0526cc/2026-11-waf-bot-protection.mp4",
+    "sha256": "2f0526cc94d97cad86a2f4af7f5476b65ce48c82a7f59241b56c7215fa16ea72",
+    "bytes": 3287355
+  }
+}
