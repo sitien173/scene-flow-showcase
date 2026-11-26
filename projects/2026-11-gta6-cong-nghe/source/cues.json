@@ -1,0 +1,487 @@
+{
+  "scenes": [
+    {
+      "id": "h1"
+    },
+    {
+      "id": "h2",
+      "in": "slide",
+      "at": {
+        "sentence": 2,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "g1",
+      "in": "cut",
+      "at": {
+        "sentence": 4,
+        "word": "Mọi"
+      }
+    },
+    {
+      "id": "g2",
+      "in": "slide",
+      "at": {
+        "sentence": 5,
+        "word": "Nhiều"
+      }
+    },
+    {
+      "id": "g3",
+      "in": "slide",
+      "at": {
+        "sentence": 9,
+        "word": "Lõi"
+      }
+    },
+    {
+      "id": "m1",
+      "in": "cut",
+      "at": {
+        "sentence": 11,
+        "word": "Và"
+      }
+    },
+    {
+      "id": "m2",
+      "in": "slide",
+      "at": {
+        "sentence": 15,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "l1",
+      "in": "cut",
+      "at": {
+        "sentence": 19,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "l2",
+      "in": "slide",
+      "at": {
+        "sentence": 21,
+        "word": "Physics"
+      }
+    },
+    {
+      "id": "l3",
+      "in": "slide",
+      "at": {
+        "sentence": 24,
+        "word": "Tất"
+      }
+    },
+    {
+      "id": "l4",
+      "in": "slide",
+      "at": {
+        "sentence": 25,
+        "word": "Các"
+      }
+    },
+    {
+      "id": "l5",
+      "in": "slide",
+      "at": {
+        "sentence": 27,
+        "word": "Theo"
+      }
+    },
+    {
+      "id": "r1",
+      "in": "cut",
+      "at": {
+        "sentence": 29,
+        "word": "Sau"
+      }
+    },
+    {
+      "id": "r2",
+      "in": "slide",
+      "at": {
+        "sentence": 31,
+        "word": "Ray"
+      }
+    },
+    {
+      "id": "t1",
+      "in": "cut",
+      "at": {
+        "sentence": 34,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "t2",
+      "in": "slide",
+      "at": {
+        "sentence": 36,
+        "word": "Diễn"
+      }
+    },
+    {
+      "id": "t3",
+      "in": "slide",
+      "at": {
+        "sentence": 37,
+        "word": "Với"
+      }
+    },
+    {
+      "id": "e1",
+      "in": "cut",
+      "at": {
+        "sentence": 39,
+        "word": "Vậy"
+      }
+    },
+    {
+      "id": "e2",
+      "in": "cut",
+      "at": {
+        "sentence": 42,
+        "word": "Đó"
+      }
+    }
+  ],
+  "beats": {
+    "h2-rockstar": {
+      "sentence": 2,
+      "word": "Rockstar"
+    },
+    "h2-off": {
+      "sentence": 2,
+      "word": "sống"
+    },
+    "g1-title": {
+      "sentence": 4,
+      "word": "Engine"
+    },
+    "g2-unreal": {
+      "sentence": 5,
+      "word": "Unreal"
+    },
+    "g2-rockstar": {
+      "sentence": 6,
+      "word": "Rockstar"
+    },
+    "g2-rage": {
+      "sentence": 6,
+      "word": "RAGE"
+    },
+    "g2-rockstar2": {
+      "sentence": 7,
+      "word": "RAGE"
+    },
+    "g2-iv": {
+      "sentence": 8,
+      "word": "GTA bốn"
+    },
+    "g2-v": {
+      "sentence": 8,
+      "word": "GTA năm"
+    },
+    "g2-vi": {
+      "sentence": 8,
+      "word": "GTA sáu"
+    },
+    "g2-2006": {
+      "sentence": 7,
+      "word": "hai nghìn"
+    },
+    "g3-cpp": {
+      "sentence": 9,
+      "word": "C"
+    },
+    "g3-perf": {
+      "sentence": 10,
+      "word": "kiểm soát"
+    },
+    "g3-mem": {
+      "sentence": 10,
+      "word": "bộ nhớ"
+    },
+    "g3-hw": {
+      "sentence": 10,
+      "word": "phần cứng"
+    },
+    "m1-title": {
+      "sentence": 11,
+      "word": "nhớ"
+    },
+    "m1-ps5": {
+      "sentence": 12,
+      "word": "PS"
+    },
+    "m1-ram": {
+      "sentence": 12,
+      "word": "mười sáu"
+    },
+    "m1-16": {
+      "sentence": 12,
+      "word": "GB bộ"
+    },
+    "m1-ssd": {
+      "sentence": 13,
+      "word": "cần tới"
+    },
+    "m1-212": {
+      "sentence": 13,
+      "word": "GB dung"
+    },
+    "m2-ws": {
+      "sentence": 15,
+      "word": "World"
+    },
+    "m2-drive": {
+      "sentence": 16,
+      "word": "lái"
+    },
+    "m2-load": {
+      "sentence": 16,
+      "word": "tải"
+    },
+    "m2-ssd": {
+      "sentence": 16,
+      "word": "SSD"
+    },
+    "m2-free": {
+      "sentence": 17,
+      "word": "giải phóng"
+    },
+    "l1-title": {
+      "sentence": 19,
+      "word": "bước"
+    },
+    "l1-loop": {
+      "sentence": 20,
+      "word": "Mỗi"
+    },
+    "l1-30": {
+      "sentence": 20,
+      "word": "ba mươi"
+    },
+    "l1-lps": {
+      "sentence": 20,
+      "word": "lần"
+    },
+    "l2-phys": {
+      "sentence": 21,
+      "word": "Physics"
+    },
+    "l2-ai": {
+      "sentence": 22,
+      "word": "AI"
+    },
+    "l2-anim": {
+      "sentence": 23,
+      "word": "Animation"
+    },
+    "l3-tasks": {
+      "sentence": 24,
+      "word": "chia nhỏ"
+    },
+    "l3-cpu": {
+      "sentence": 24,
+      "word": "CPU"
+    },
+    "l3-mt": {
+      "sentence": 24,
+      "word": "Multithreading"
+    },
+    "l4-lod": {
+      "sentence": 25,
+      "word": "Level"
+    },
+    "l4-near": {
+      "sentence": 26,
+      "word": "chi tiết"
+    },
+    "l4-far": {
+      "sentence": 26,
+      "word": "đơn giản"
+    },
+    "l4-front": {
+      "sentence": 26,
+      "word": "trước mặt"
+    },
+    "l4-street": {
+      "sentence": 26,
+      "word": "ở xa"
+    },
+    "l5-rockstar": {
+      "sentence": 27,
+      "word": "Rockstar"
+    },
+    "l5-cpu": {
+      "sentence": 27,
+      "word": "CPU"
+    },
+    "l5-pro": {
+      "sentence": 27,
+      "word": "PS năm Pro"
+    },
+    "l5-prochip": {
+      "sentence": 27,
+      "word": "Pro"
+    },
+    "l5-base": {
+      "sentence": 27,
+      "word": "PS năm một"
+    },
+    "l5-fps": {
+      "sentence": 28,
+      "word": "FPS"
+    },
+    "r1-cpu": {
+      "sentence": 29,
+      "word": "CPU"
+    },
+    "r1-move": {
+      "sentence": 29,
+      "word": "chuyển"
+    },
+    "r1-gpu": {
+      "sentence": 29,
+      "word": "GPU"
+    },
+    "r1-title": {
+      "sentence": 29,
+      "word": "dựng"
+    },
+    "r1-rt": {
+      "sentence": 30,
+      "word": "Ray"
+    },
+    "r2-ray": {
+      "sentence": 31,
+      "word": "Ray"
+    },
+    "r2-refl": {
+      "sentence": 32,
+      "word": "phản chiếu"
+    },
+    "r2-light": {
+      "sentence": 32,
+      "word": "ánh sáng lan"
+    },
+    "r2-ps5": {
+      "sentence": 33,
+      "word": "PS"
+    },
+    "r2-pro": {
+      "sentence": 33,
+      "word": "Pro"
+    },
+    "r2-shadow": {
+      "sentence": 33,
+      "word": "bóng"
+    },
+    "t1-title": {
+      "sentence": 34,
+      "word": "con người"
+    },
+    "t1-game": {
+      "sentence": 35,
+      "word": "game"
+    },
+    "t1-maya": {
+      "sentence": 35,
+      "word": "Maya"
+    },
+    "t1-houdini": {
+      "sentence": 35,
+      "word": "Houdini"
+    },
+    "t2-mocap": {
+      "sentence": 36,
+      "word": "Motion"
+    },
+    "t3-crowd": {
+      "sentence": 37,
+      "word": "hàng nghìn"
+    },
+    "t3-ver": {
+      "sentence": 37,
+      "word": "phiên bản"
+    },
+    "t3-perforce": {
+      "sentence": 38,
+      "word": "Perforce"
+    },
+    "e1-two": {
+      "sentence": 39,
+      "word": "hai"
+    },
+    "e1-console": {
+      "sentence": 40,
+      "word": "console"
+    },
+    "e1-rage": {
+      "sentence": 40,
+      "word": "RAGE"
+    },
+    "e1-cpu": {
+      "sentence": 40,
+      "word": "CPU"
+    },
+    "e1-gpu": {
+      "sentence": 40,
+      "word": "GPU"
+    },
+    "e1-ssd": {
+      "sentence": 40,
+      "word": "SSD"
+    },
+    "e1-rockstar": {
+      "sentence": 41,
+      "word": "Rockstar"
+    },
+    "e1-3d": {
+      "sentence": 41,
+      "word": "ba D"
+    },
+    "e1-mocap": {
+      "sentence": 41,
+      "word": "Motion"
+    },
+    "e1-ver": {
+      "sentence": 41,
+      "word": "quản lý"
+    },
+    "e2-wide": {
+      "sentence": 43,
+      "word": "Nó"
+    },
+    "e2-punch": {
+      "sentence": 43,
+      "word": "kỳ"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "m1-16",
+      "sound": "click"
+    },
+    {
+      "beat": "m1-212",
+      "sound": "click"
+    },
+    {
+      "beat": "l1-30",
+      "sound": "click"
+    },
+    {
+      "beat": "l5-fps",
+      "sound": "click"
+    },
+    {
+      "beat": "e2-punch",
+      "sound": "click"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Công nghệ đằng sau GTA 6",
+  "author": {
+    "name": "Góc nhìn DEV"
+  },
+  "theme": "cleanui",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 152.9,
+  "publishedAt": "2026-11-26",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-gta6-cong-nghe-b7938c4b/2026-11-gta6-cong-nghe.mp4",
+    "sha256": "b7938c4b2248f8c3e0b863b78599a39ac76f0d65193f3911dfe16bd06ff63179",
+    "bytes": 16870134
+  }
+}

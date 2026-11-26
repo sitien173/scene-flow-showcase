@@ -1,0 +1,260 @@
+      <div class="scene" id="h1-sc">
+        <div class="wrap" id="w-h1">
+          <div class="card">
+            <video class="clip pic" id="p-h1-1" data-start="0.00" data-duration="2.34" data-track-index="2" src="assets/video/v-h1-1.mp4" muted playsinline></video>
+          </div>
+        </div>
+      </div>
+      <div class="scene" id="h2-sc">
+        <div class="wrap" id="w-h2">
+          <div class="card">
+            <img class="pic still" id="p-h2-1" data-layout-allow-overflow="true" src="assets/img/s111.webp" alt="">
+            <video class="clip pic" id="p-h2-2" data-start="4.18" data-duration="2.35" data-track-index="2" src="assets/video/v-h2-2.mp4" muted playsinline></video>
+            <img class="pic still" id="p-h2-4" data-layout-allow-overflow="true" src="assets/img/s113.webp" alt="">
+          </div>
+          <div class="lt" id="h2-rs" style="left:104px; top:1220px"><img src="assets/logos/Rockstar_Games_Logo.svg" alt="" style="height:104px"></div>
+        </div>
+      </div>
+      <div class="scene" id="g1-sc">
+        <div class="wrap" id="w-g1">
+          <div class="card">
+            <img class="pic still" id="p-g1-1" data-layout-allow-overflow="true" src="assets/img/s121.webp" alt="">
+          </div>
+          <div class="plate" id="g1-pl" style="top:1196px"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:44px;height:44px;margin-right:10px;"><use href="#i-wrench"/></svg><span class="pn">1</span><span class="pt" id="g1-pt">ENGINE</span></div>
+        </div>
+      </div>
+      <div class="scene" id="g2-sc">
+        <div class="wrap" id="w-g2">
+          <div class="card">
+            <img class="pic still" id="p-g2-1" data-layout-allow-overflow="true" src="assets/img/s084.webp" alt="">
+            <video class="clip pic" id="p-g2-2" data-start="16.56" data-duration="3.80" data-track-index="2" src="assets/video/v-g2-2.mp4" muted playsinline></video>
+            <video class="clip pic" id="p-g2-3" data-start="20.36" data-duration="2.74" data-track-index="2" src="assets/video/v-g2-3.mp4" muted playsinline></video>
+            <img class="pic still" id="p-g2-4" data-layout-allow-overflow="true" src="assets/img/s086.webp" alt="">
+          </div>
+          <div class="lt" id="g2-ue" style="left:104px; top:1220px"><img src="assets/logos/Unreal_Engine_Logo.svg" alt="" style="height:104px"></div>
+          <div class="lt" id="g2-rs" style="left:335px; top:1220px"><img src="assets/logos/Rockstar_Games_Logo.svg" alt="" style="height:104px"></div>
+          <div class="lt ink" id="g2-rage" style="left:552px; top:1220px"><span class="rage">RAGE</span></div>
+          <div class="row" id="g2-row" style="left:104px; top:1330px"><div class="tag" id="g2-y"><span>2006</span></div><div class="tag" id="g2-iv"><span>GTA IV</span></div><div class="tag" id="g2-v"><span>GTA V</span></div><div class="tag acc" id="g2-vi"><span>GTA VI</span></div></div>
+        </div>
+      </div>
+      <div class="scene" id="g3-sc">
+        <div class="wrap" id="w-g3">
+          <div class="card">
+            <img class="pic still" id="p-g3-1" data-layout-allow-overflow="true" src="assets/img/s118.webp" alt="">
+            <video class="clip pic" id="p-g3-2" data-start="30.73" data-duration="1.89" data-track-index="2" src="assets/video/v-g3-2.mp4" muted playsinline></video>
+            <img class="pic still" id="p-g3-3" data-layout-allow-overflow="true" src="assets/img/s127.webp" alt="">
+          </div>
+          <div class="lt" id="g3-cpp" style="left:104px; top:1220px"><img src="assets/logos/cpp_logo.svg" alt="" style="height:104px"></div>
+          <div class="row col" id="g3-col" style="left:560px; top:1150px"><div class="tag" id="g3-perf"><svg class="ico"><use href="#i-ff"/></svg><span>Hiệu năng</span></div><div class="tag" id="g3-mem"><svg class="ico"><use href="#i-file"/></svg><span>Bộ nhớ</span></div><div class="tag" id="g3-hw"><svg class="ico"><use href="#i-laptop"/></svg><span>Phần cứng</span></div></div>
+        </div>
+      </div>
+      <div class="scene" id="m1-sc">
+        <div class="wrap" id="w-m1">
+          <div class="card wd">
+            <img class="pic still" id="p-m1-1" data-layout-allow-overflow="true" src="assets/img/s125.webp" alt="">
+            <img class="pic still" id="p-m1-2" data-layout-allow-overflow="true" src="assets/img/s008.webp" alt="">
+            <img class="pic still" id="p-m1-3" data-layout-allow-overflow="true" src="assets/img/s120.webp" alt="">
+          </div>
+          <div class="panel" id="m1-pn"></div>
+          <div class="plate" id="m1-pl" style="top:806px"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:44px;height:44px;margin-right:10px;"><use href="#i-file"/></svg><span class="pn">2</span><span class="pt" id="m1-pt">BỘ NHỚ</span></div>
+          <img class="pl" id="m1-ps5" src="assets/logos/PlayStation_5_logo_and_wordmark.svg" alt="" style="left:110px; top:1092px; height:60px">
+          <div class="bl" id="m1-l1" style="top:1180px">RAM</div>
+          <div class="bv" id="m1-v1" style="top:1166px">16GB</div>
+          <div class="trk" id="m1-t1" style="top:1252px"><i id="m1-f1" style="width:65px"></i></div>
+          <div class="bl" id="m1-l2" style="top:1300px">Lưu trữ</div>
+          <div class="bv" id="m1-v2" style="top:1286px">tới 212GB</div>
+          <div class="trk" id="m1-t2" style="top:1372px"><i id="m1-f2" style="width:860px"></i></div>
+        </div>
+      </div>
+      <div class="scene" id="m2-sc">
+        <div class="wrap" id="w-m2">
+          <div class="card wd">
+            <video class="clip pic" id="p-m2-1" data-start="45.22" data-duration="1.88" data-track-index="2" src="assets/video/v-m2-1.mp4" muted playsinline></video>
+            <img class="pic still" id="p-m2-2" data-layout-allow-overflow="true" src="assets/img/s101.webp" alt="">
+            <img class="pic still" id="p-m2-3" data-layout-allow-overflow="true" src="assets/img/s087.webp" alt="">
+            <img class="pic still" id="p-m2-4" data-layout-allow-overflow="true" src="assets/img/s109.webp" alt="">
+            <video class="clip pic" id="p-m2-5" data-start="57.49" data-duration="3.43" data-track-index="2" src="assets/video/v-m2-5.mp4" muted playsinline></video>
+          </div>
+          <div class="panel" id="m2-pn"></div>
+          <div class="label" id="m2-ws" style="left:104px; top:925px">WORLD STREAMING</div>
+          <div class="tag soft" id="m2-ssd" style="left:110px; top:1088px"><svg class="ico"><use href="#i-download"/></svg><span>SSD</span></div>
+          <div class="tag soft" id="m2-free" style="left:560px; top:1088px"><svg class="ico"><use href="#i-x"/></svg><span>Giải phóng</span></div>
+          <div class="blk" id="m2-b0" style="left:110px"><i></i></div><div class="blk" id="m2-b1" style="left:220px"><i></i></div><div class="blk" id="m2-b2" style="left:330px"><i></i></div><div class="blk" id="m2-b3" style="left:440px"><i></i></div><div class="blk" id="m2-b4" style="left:550px"><i></i></div><div class="blk" id="m2-b5" style="left:660px"><i></i></div><div class="blk" id="m2-b6" style="left:770px"><i></i></div><div class="blk" id="m2-b7" style="left:880px"><i></i></div>
+          <div class="car" id="m2-car"></div>
+        </div>
+      </div>
+      <div class="scene" id="l1-sc">
+        <div class="wrap" id="w-l1">
+          <div class="card">
+            <img class="pic still" id="p-l1-1" data-layout-allow-overflow="true" src="assets/img/s116.webp" alt="">
+            <video class="clip pic" id="p-l1-3" data-start="63.02" data-duration="3.32" data-track-index="2" src="assets/video/v-l1-3.mp4" muted playsinline></video>
+          </div>
+          <div class="plate" id="l1-pl" style="top:1196px"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:44px;height:44px;margin-right:10px;"><use href="#i-ff"/></svg><span class="pn">3</span><span class="pt" id="l1-pt">VÒNG LẶP</span></div>
+          <svg class="ring" id="l1-ring" viewBox="0 0 240 240" style="left:210px; top:1190px"><circle cx="120" cy="120" r="108"/></svg>
+          <div class="disc" id="l1-disc" style="left:230px; top:1210px"><span id="l1-30">30</span></div>
+          <div class="label" id="l1-lps" style="left:480px; top:1271px">lần/giây</div>
+        </div>
+      </div>
+      <div class="scene" id="l2-sc">
+        <div class="wrap" id="w-l2">
+          <div class="card">
+            <video class="clip pic" id="p-l2-1" data-start="66.34" data-duration="1.97" data-track-index="2" src="assets/video/v-l2-1.mp4" muted playsinline></video>
+            <img class="pic still" id="p-l2-2" data-layout-allow-overflow="true" src="assets/img/s077.webp" alt="">
+            <video class="clip pic" id="p-l2-3" data-start="70.79" data-duration="2.23" data-track-index="2" src="assets/video/v-l2-3.mp4" muted playsinline></video>
+            <img class="pic still" id="p-l2-4" data-layout-allow-overflow="true" src="assets/img/s114.webp" alt="">
+          </div>
+          <div class="tag acc" id="l2-30" style="left:104px; top:532px"><span>30 lần/giây</span></div>
+          <div class="row" id="l2-row" style="left:104px; top:1330px"><div class="tag" id="l2-phys"><svg class="ico"><use href="#i-wrench"/></svg><span>PHYSICS</span></div><div class="tag" id="l2-ai"><svg class="ico"><use href="#i-bot"/></svg><span>AI</span></div><div class="tag" id="l2-anim"><svg class="ico"><use href="#i-user"/></svg><span>ANIMATION</span></div></div>
+        </div>
+      </div>
+      <div class="scene" id="l3-sc">
+        <div class="wrap" id="w-l3">
+          <div class="card wd">
+            <img class="pic still" id="p-l3-1" data-layout-allow-overflow="true" src="assets/img/s123.webp" alt="">
+            <video class="clip pic" id="p-l3-2" data-start="77.76" data-duration="2.70" data-track-index="2" src="assets/video/v-l3-2.mp4" muted playsinline></video>
+          </div>
+          <div class="panel" id="l3-pn"></div>
+          <div class="row" id="l3-row" style="left:110px; top:1084px"><div class="tag soft" id="l3-a"><span>Physics</span></div><div class="tag soft" id="l3-b"><span>AI</span></div><div class="tag soft" id="l3-c"><span>Animation</span></div></div>
+          <div class="bl" id="l3-cpu" style="top:1240px">CPU</div>
+          <div class="core" style="left:300px; top:1180px"><i></i></div><div class="core" style="left:472px; top:1180px"><i></i></div><div class="core" style="left:644px; top:1180px"><i></i></div><div class="core" style="left:816px; top:1180px"><i></i></div><div class="core" style="left:300px; top:1290px"><i></i></div><div class="core" style="left:472px; top:1290px"><i></i></div><div class="core" style="left:644px; top:1290px"><i></i></div><div class="core" style="left:816px; top:1290px"><i></i></div>
+          <div class="label" id="l3-mt" style="left:104px; top:925px">MULTITHREADING</div>
+        </div>
+      </div>
+      <div class="scene" id="l4-sc">
+        <div class="wrap" id="w-l4">
+          <div class="card">
+            <img class="pic still" id="p-l4-1" data-layout-allow-overflow="true" src="assets/img/s050.webp" alt="">
+            <img class="pic still" id="p-l4-2" data-layout-allow-overflow="true" src="assets/img/s063.webp" alt="">
+            <img class="pic still" id="p-l4-3" data-layout-allow-overflow="true" src="assets/img/s115.webp" alt="">
+          </div>
+          <div class="label" id="l4-lod" style="left:104px; top:1220px">LOD</div>
+          <div class="tag" id="l4-near" style="left:104px; top:1320px"><span>Gần: chi tiết cao</span></div>
+          <div class="tag" id="l4-far" style="left:104px; top:1320px"><span>Xa: đơn giản</span></div>
+        </div>
+      </div>
+      <div class="scene" id="l5-sc">
+        <div class="wrap" id="w-l5">
+          <div class="card wd">
+            <img class="pic still" id="p-l5-1" data-layout-allow-overflow="true" src="assets/img/s034.webp" alt="">
+            <video class="clip pic" id="p-l5-2" data-start="91.14" data-duration="4.28" data-track-index="2" src="assets/video/v-l5-2.mp4" muted playsinline></video>
+          </div>
+          <div class="panel" id="l5-pn"></div>
+          <div class="lt" id="l5-rs" style="left:104px; top:532px"><img src="assets/logos/Rockstar_Games_Logo.svg" alt="" style="height:104px"></div>
+          <div class="tag soft" id="l5-cpu" style="left:110px; top:1084px"><span>CPU</span></div>
+          <img class="pl" id="l5-pro" src="assets/logos/PlayStation_5_logo_and_wordmark.svg" alt="" style="left:110px; top:1192px; height:56px">
+          <div class="tag acc" id="l5-chip" style="left:396px; top:1186px"><span>PRO</span></div>
+          <div class="bar" id="l5-b1" style="left:560px; top:1206px; width:400px"></div>
+          <img class="pl" id="l5-base" src="assets/logos/PlayStation_5_logo_and_wordmark.svg" alt="" style="left:110px; top:1312px; height:56px">
+          <div class="bar" id="l5-b2" style="left:560px; top:1326px; width:370px"></div>
+          <div class="label" id="l5-fps" style="left:104px; top:925px">30 FPS</div>
+        </div>
+      </div>
+      <div class="scene" id="r1-sc">
+        <div class="wrap" id="w-r1">
+          <div class="card wd">
+            <img class="pic still" id="p-r1-1" data-layout-allow-overflow="true" src="assets/img/s137.webp" alt="">
+            <img class="pic still" id="p-r1-2" data-layout-allow-overflow="true" src="assets/img/s132.webp" alt="">
+          </div>
+          <div class="panel" id="r1-pn"></div>
+          <div class="plate" id="r1-pl" style="top:806px"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:44px;height:44px;margin-right:10px;"><use href="#i-sparkles"/></svg><span class="pn">4</span><span class="pt" id="r1-pt">ĐỒ HỌA</span></div>
+          <div class="box ink" id="r1-cpu" style="left:120px">CPU</div>
+          <svg class="arrow" id="r1-arr" viewBox="0 0 260 60" style="left:400px; top:1145px"><path id="r1-draw" pathLength="1" d="M8 30 H236 M214 10 L240 30 L214 50"/></svg>
+          <div class="box acc" id="r1-gpu" style="left:690px">GPU</div>
+          <div class="label" id="r1-rt" style="left:300px; top:1300px">RAY TRACING</div>
+        </div>
+      </div>
+      <div class="scene" id="r2-sc">
+        <div class="wrap" id="w-r2">
+          <div class="card wd">
+            <video class="clip pic" id="p-r2-2" data-start="101.32" data-duration="3.28" data-track-index="2" src="assets/video/v-r2-2.mp4" muted playsinline></video>
+            <video class="clip pic" id="p-r2-3" data-start="104.60" data-duration="2.78" data-track-index="2" src="assets/video/v-r2-3.mp4" muted playsinline></video>
+            <img class="pic still" id="p-r2-4" data-layout-allow-overflow="true" src="assets/img/s104.webp" alt="">
+          </div>
+          <div class="panel" id="r2-pn"></div>
+          <div class="label" id="r2-rt" style="left:110px; top:1082px">RAY TRACING</div>
+          <div class="tag soft" id="r2-refl" style="left:110px; top:1190px"><span>Phản chiếu</span></div>
+          <div class="tag soft" id="r2-light" style="left:450px; top:1190px"><span>Ánh sáng</span></div>
+          <img class="pl" id="r2-ps5" src="assets/logos/PlayStation_5_logo_and_wordmark.svg" alt="" style="left:110px; top:1306px; height:56px">
+          <div class="tag acc" id="r2-pro" style="left:396px; top:1300px"><span>PRO</span></div>
+          <div class="tag soft" id="r2-shadow" style="left:580px; top:1300px"><span>Bóng đổ</span></div>
+        </div>
+      </div>
+      <div class="scene" id="t1-sc">
+        <div class="wrap" id="w-t1">
+          <div class="card">
+            <img class="pic still" id="p-t1-1" data-layout-allow-overflow="true" src="assets/img/s035.webp" alt="">
+            <img class="pic still" id="p-t1-2" data-layout-allow-overflow="true" src="assets/img/s134.webp" alt="">
+            <img class="pic still" id="p-t1-3" data-layout-allow-overflow="true" src="assets/img/s119.webp" alt="">
+          </div>
+          <div class="plate" id="t1-pl" style="top:1196px"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:44px;height:44px;margin-right:10px;"><use href="#i-users"/></svg><span class="pn">5</span><span class="pt" id="t1-pt">CON NGƯỜI</span></div>
+          <div class="tag" id="t1-game" style="left:104px; top:1110px"><svg class="ico"><use href="#i-users"/></svg><span>Ngành game</span></div>
+          <div class="lt" id="t1-maya" style="left:104px; top:1220px"><img src="assets/logos/Autodesk_Maya_logo.svg" alt="" style="height:80px"></div>
+          <div class="lt" id="t1-hou" style="left:530px; top:1220px"><img src="assets/logos/Houdini3D_icon.png" alt="" style="height:104px"><span>Houdini</span></div>
+        </div>
+      </div>
+      <div class="scene" id="t2-sc">
+        <div class="wrap" id="w-t2">
+          <div class="card">
+            <img class="pic still" id="p-t2-1" data-layout-allow-overflow="true" src="assets/img/s055.webp" alt="">
+            <video class="clip pic" id="p-t2-2" data-start="121.61" data-duration="1.95" data-track-index="2" src="assets/video/v-t2-2.mp4" muted playsinline></video>
+          </div>
+          <div class="label" id="t2-mc" style="left:104px; top:1330px">MOTION CAPTURE</div>
+        </div>
+      </div>
+      <div class="scene" id="t3-sc">
+        <div class="wrap" id="w-t3">
+          <div class="card">
+            <video class="clip pic" id="p-t3-1" data-start="123.56" data-duration="1.82" data-track-index="2" src="assets/video/v-t3-1.mp4" muted playsinline></video>
+            <img class="pic still" id="p-t3-2" data-layout-allow-overflow="true" src="assets/img/s136.webp" alt="">
+            <video class="clip pic" id="p-t3-3" data-start="127.94" data-duration="2.70" data-track-index="2" src="assets/video/v-t3-3.mp4" muted playsinline></video>
+          </div>
+          <div class="tag" id="t3-crowd" style="left:104px; top:1220px"><svg class="ico"><use href="#i-users"/></svg><span>Hàng nghìn người</span></div>
+          <div class="row" id="t3-row" style="left:104px; top:1330px"><div class="tag" id="t3-v1"><span>v1</span></div><div class="tag" id="t3-v2"><span>v2</span></div><div class="tag acc" id="t3-v3"><span>v3</span></div></div>
+          <div class="lt" id="t3-pf" style="left:104px; top:1220px"><img src="assets/logos/perforce.svg" alt="" style="height:96px"><span>Perforce</span></div>
+        </div>
+      </div>
+      <div class="scene" id="e1-sc">
+        <div class="wrap" id="w-e1">
+          <div class="card wd">
+            <video class="clip pic" id="p-e1-1" data-start="130.64" data-duration="2.75" data-track-index="2" src="assets/video/v-e1-1.mp4" muted playsinline></video>
+            <video class="clip pic" id="p-e1-2" data-start="133.39" data-duration="2.89" data-track-index="2" src="assets/video/v-e1-2.mp4" muted playsinline></video>
+            <img class="pic still" id="p-e1-3" data-layout-allow-overflow="true" src="assets/img/s099.webp" alt="">
+            <img class="pic still" id="p-e1-4" data-layout-allow-overflow="true" src="assets/img/s030.webp" alt="">
+            <video class="clip pic" id="p-e1-5" data-start="143.12" data-duration="2.08" data-track-index="2" src="assets/video/v-e1-5.mp4" muted playsinline></video>
+          </div>
+          <div class="panel" id="e1-pn"></div>
+          <div class="cbox" id="e1-l" style="left:96px"></div>
+          <div class="cbox" id="e1-r" style="left:554px"></div>
+          <div class="tag ink" id="e1-con" style="left:120px; top:1100px"><span>CONSOLE</span></div>
+          <div class="tag ink" id="e1-rage" style="left:120px; top:1190px"><span>RAGE</span></div>
+          <div class="tag" id="e1-cpu" style="left:330px; top:1190px"><span>CPU</span></div>
+          <div class="tag" id="e1-gpu" style="left:120px; top:1286px"><span>GPU</span></div>
+          <div class="tag" id="e1-ssd" style="left:330px; top:1286px"><span>SSD</span></div>
+          <img class="pl" id="e1-rs" src="assets/logos/Rockstar_Games_Logo.svg" alt="" style="left:580px; top:1094px; height:76px">
+          <div class="tag" id="e1-3d" style="left:580px; top:1190px"><span>3D</span></div>
+          <div class="tag" id="e1-mc" style="left:720px; top:1190px"><span>MOCAP</span></div>
+          <div class="tag" id="e1-ver" style="left:580px; top:1286px"><span>PHIÊN BẢN</span></div>
+        </div>
+      </div>
+      <div class="scene" id="e2-sc">
+        <div class="wrap" id="w-e2">
+          <div class="card">
+            <img class="pic still" id="p-e2-1" data-layout-allow-overflow="true" src="assets/img/s113.webp" alt="">
+            <img class="pic still" id="p-e2-2" data-layout-allow-overflow="true" src="assets/img/s116.webp" alt="">
+            <img class="pic still" id="p-e2-4" data-layout-allow-overflow="true" src="assets/img/s137.webp" alt="">
+            <img class="pic still" id="p-e2-5" data-layout-allow-overflow="true" src="assets/img/s111.webp" alt="">
+          </div>
+          <div class="punch" id="e2-p"><span>KỲ CÔNG</span><span>KỸ THUẬT</span></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-ec" data-start="@@start:ec@@" data-duration="@@dur:ec@@" data-track-index="1">
+        <div class="wrap" id="w-ec">
+          <img id="ec-logo" src="@@logo@@" alt="">
+          <div id="ec-brand">@@brand@@</div>
+          <div id="ec-slogan">@@slogan@@</div>
+        </div>
+      </div>
+
+      <div id="kara" data-layout-allow-overlap="true"></div>
+      <audio id="vo" class="clip" data-start="0" data-duration="@@vo@@" data-track-index="8" src="assets/audio/voiceover.mp3" data-volume="1" data-audio-group="voiceover"></audio>
+      <!-- sfx cues are written by scripts/add-sfx.py -->
