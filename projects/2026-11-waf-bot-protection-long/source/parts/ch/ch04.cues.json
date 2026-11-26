@@ -1,0 +1,120 @@
+{
+  "scenes": [
+    {
+      "id": "c4a",
+      "in": "fade",
+      "at": {
+        "sentence": 42,
+        "word": "Đầu"
+      }
+    },
+    {
+      "id": "c4b",
+      "in": "cut",
+      "at": {
+        "sentence": 45,
+        "word": "AWS"
+      }
+    },
+    {
+      "id": "c4c",
+      "in": "slide",
+      "at": {
+        "sentence": 48,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c4d",
+      "in": "cut",
+      "at": {
+        "sentence": 51,
+        "word": "Và"
+      }
+    }
+  ],
+  "beats": {
+    "c4a-num": {
+      "sentence": 42,
+      "word": "Đầu tiên"
+    },
+    "c4a-chip": {
+      "sentence": 43,
+      "word": "dịch vụ bảo vệ"
+    },
+    "c4a-tile": {
+      "sentence": 43,
+      "word": "DDoS"
+    },
+    "c4a-tiers": {
+      "sentence": 44,
+      "word": "Standard"
+    },
+    "c4b-auto": {
+      "sentence": 45,
+      "word": "tự động"
+    },
+    "c4b-fee": {
+      "sentence": 45,
+      "word": "phí riêng"
+    },
+    "c4b-cf": {
+      "sentence": 46,
+      "word": "Amazon CloudFront"
+    },
+    "c4b-layers": {
+      "sentence": 46,
+      "word": "Layer ba"
+    },
+    "c4c-head": {
+      "sentence": 48,
+      "word": "Shield Advanced"
+    },
+    "c4c-row1": {
+      "sentence": 49,
+      "word": "phát hiện"
+    },
+    "c4c-row2": {
+      "sentence": 49,
+      "word": "Layer bảy"
+    },
+    "c4c-row3": {
+      "sentence": 49,
+      "word": "Shield Response Team"
+    },
+    "c4c-paid": {
+      "sentence": 50,
+      "word": "có tính phí"
+    },
+    "c4d-gap": {
+      "sentence": 52,
+      "word": "không thay thế"
+    },
+    "c4d-waf": {
+      "sentence": 53,
+      "word": "công cụ khác"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c4a-tile",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4b-cf",
+      "sound": "click"
+    },
+    {
+      "beat": "c4c-head",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4d-gap",
+      "sound": "laser"
+    },
+    {
+      "beat": "c4d-waf",
+      "sound": "click"
+    }
+  ]
+}

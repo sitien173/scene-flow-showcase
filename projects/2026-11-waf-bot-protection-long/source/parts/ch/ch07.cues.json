@@ -1,0 +1,132 @@
+{
+  "scenes": [
+    {
+      "id": "c7a",
+      "in": "fade",
+      "at": {
+        "sentence": 78,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c7b",
+      "in": "cut",
+      "at": {
+        "sentence": 80,
+        "word": "Bot"
+      }
+    },
+    {
+      "id": "c7c",
+      "in": "slide",
+      "at": {
+        "sentence": 83,
+        "word": "Cấp"
+      }
+    },
+    {
+      "id": "c7d",
+      "in": "cut",
+      "at": {
+        "sentence": 85,
+        "word": "Cấp"
+      }
+    },
+    {
+      "id": "c7e",
+      "in": "slide",
+      "at": {
+        "sentence": 89,
+        "word": "Ví"
+      }
+    }
+  ],
+  "beats": {
+    "c7a-num": {
+      "sentence": 78,
+      "word": "Nhưng nếu"
+    },
+    "c7a-chip": {
+      "sentence": 79,
+      "word": "Đây là lúc"
+    },
+    "c7a-q": {
+      "sentence": 78,
+      "word": "nhận diện bot"
+    },
+    "c7a-tile": {
+      "sentence": 79,
+      "word": "AWS WAF Bot Control"
+    },
+    "c7b-hdr": {
+      "sentence": 80,
+      "word": "managed rule group"
+    },
+    "c7b-two": {
+      "sentence": 81,
+      "word": "hai cấp độ"
+    },
+    "c7b-common": {
+      "sentence": 82,
+      "word": "Common Protection"
+    },
+    "c7c-cells": {
+      "sentence": 83,
+      "word": "bot phổ biến"
+    },
+    "c7c-search": {
+      "sentence": 84,
+      "word": "crawler"
+    },
+    "c7d-targ": {
+      "sentence": 85,
+      "word": "Targeted Protection"
+    },
+    "c7d-sig": {
+      "sentence": 87,
+      "word": "TLS fingerprinting"
+    },
+    "c7d-chal": {
+      "sentence": 88,
+      "word": "CAPTCHA"
+    },
+    "c7e-allow": {
+      "sentence": 89,
+      "word": "Googlebot"
+    },
+    "c7e-limit": {
+      "sentence": 90,
+      "word": "bị giới hạn"
+    },
+    "c7e-q": {
+      "sentence": 91,
+      "word": "Đây là bot nào"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c7a-tile",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7b-two",
+      "sound": "click"
+    },
+    {
+      "beat": "c7c-cells",
+      "sound": "click"
+    },
+    {
+      "beat": "c7d-chal",
+      "sound": "click"
+    },
+    {
+      "beat": "c7e-allow",
+      "sound": "laser"
+    },
+    {
+      "beat": "c7e-q",
+      "sound": "pop"
+    }
+  ]
+}

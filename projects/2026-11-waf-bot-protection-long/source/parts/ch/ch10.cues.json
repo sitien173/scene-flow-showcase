@@ -1,0 +1,100 @@
+{
+  "scenes": [
+    {
+      "id": "c10a",
+      "in": "fade",
+      "at": {
+        "sentence": 118,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c10b",
+      "in": "cut",
+      "at": {
+        "sentence": 121,
+        "word": "Bot"
+      }
+    },
+    {
+      "id": "c10c",
+      "in": "slide",
+      "at": {
+        "sentence": 123,
+        "word": "Điều"
+      }
+    },
+    {
+      "id": "c10d",
+      "in": "cut",
+      "at": {
+        "sentence": 126,
+        "word": "Khi"
+      }
+    }
+  ],
+  "beats": {
+    "c10a-num": {
+      "sentence": 118,
+      "word": "Một hệ thống"
+    },
+    "c10a-chip": {
+      "sentence": 119,
+      "word": "Nó còn phải"
+    },
+    "c10a-dash": {
+      "sentence": 120,
+      "word": "dashboard"
+    },
+    "c10a-cnt": {
+      "sentence": 120,
+      "word": "bị chặn"
+    },
+    "c10b-bot": {
+      "sentence": 121,
+      "word": "Bot Control"
+    },
+    "c10b-cw": {
+      "sentence": 122,
+      "word": "Amazon CloudWatch"
+    },
+    "c10c-sig": {
+      "sentence": 123,
+      "word": "Điều này"
+    },
+    "c10c-block": {
+      "sentence": 124,
+      "word": "người dùng thật"
+    },
+    "c10c-count": {
+      "sentence": 125,
+      "word": "chế độ Count"
+    },
+    "c10d-count": {
+      "sentence": 126,
+      "word": "ghi nhận"
+    },
+    "c10d-block": {
+      "sentence": 127,
+      "word": "chuyển sang Block"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c10a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10b-cw",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10c-block",
+      "sound": "click"
+    },
+    {
+      "beat": "c10d-block",
+      "sound": "click"
+    }
+  ]
+}

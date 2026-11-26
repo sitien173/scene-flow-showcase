@@ -1,0 +1,100 @@
+{
+  "scenes": [
+    {
+      "id": "c6a",
+      "in": "fade",
+      "at": {
+        "sentence": 65,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c6b",
+      "in": "cut",
+      "at": {
+        "sentence": 68,
+        "word": "Chúng"
+      }
+    },
+    {
+      "id": "c6c",
+      "in": "slide",
+      "at": {
+        "sentence": 72,
+        "word": "Tuy"
+      }
+    },
+    {
+      "id": "c6d",
+      "in": "cut",
+      "at": {
+        "sentence": 75,
+        "word": "Ngược"
+      }
+    }
+  ],
+  "beats": {
+    "c6a-num": {
+      "sentence": 65,
+      "word": "Một trong"
+    },
+    "c6a-chip": {
+      "sentence": 66,
+      "word": "Giả sử"
+    },
+    "c6a-spike": {
+      "sentence": 67,
+      "word": "hàng nghìn request"
+    },
+    "c6b-count": {
+      "sentence": 68,
+      "word": "đếm số lượng request"
+    },
+    "c6b-thr": {
+      "sentence": 69,
+      "word": "ngưỡng riêng"
+    },
+    "c6b-act": {
+      "sentence": 71,
+      "word": "Khi vượt giới hạn"
+    },
+    "c6c-no": {
+      "sentence": 72,
+      "word": "không phải giải pháp hoàn hảo"
+    },
+    "c6c-total": {
+      "sentence": 74,
+      "word": "tổng cộng"
+    },
+    "c6d-office": {
+      "sentence": 75,
+      "word": "văn phòng"
+    },
+    "c6d-cut": {
+      "sentence": 76,
+      "word": "chặn cả khách hàng hợp lệ"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c6a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-spike",
+      "sound": "laser"
+    },
+    {
+      "beat": "c6b-act",
+      "sound": "click"
+    },
+    {
+      "beat": "c6c-total",
+      "sound": "laser"
+    },
+    {
+      "beat": "c6d-cut",
+      "sound": "click"
+    }
+  ]
+}

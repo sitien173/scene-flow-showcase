@@ -1,0 +1,100 @@
+{
+  "scenes": [
+    {
+      "id": "c3a",
+      "in": "fade",
+      "at": {
+        "sentence": 31,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c3b",
+      "in": "cut",
+      "at": {
+        "sentence": 33,
+        "word": "Đây"
+      }
+    },
+    {
+      "id": "c3c",
+      "in": "slide",
+      "at": {
+        "sentence": 35,
+        "word": "Nhóm"
+      }
+    },
+    {
+      "id": "c3d",
+      "in": "cut",
+      "at": {
+        "sentence": 38,
+        "word": "Đây"
+      }
+    }
+  ],
+  "beats": {
+    "c3a-num": {
+      "sentence": 31,
+      "word": "Để hiểu"
+    },
+    "c3a-chip": {
+      "sentence": 32,
+      "word": "Nhóm thứ nhất"
+    },
+    "c3a-net": {
+      "sentence": 32,
+      "word": "Network-layer"
+    },
+    "c3b-udp": {
+      "sentence": 33,
+      "word": "UDP flood"
+    },
+    "c3b-drain": {
+      "sentence": 34,
+      "word": "làm cạn kiệt"
+    },
+    "c3c-l7": {
+      "sentence": 35,
+      "word": "Layer bảy"
+    },
+    "c3c-req": {
+      "sentence": 36,
+      "word": "request HTTP"
+    },
+    "c3c-end": {
+      "sentence": 37,
+      "word": "endpoint"
+    },
+    "c3d-hard": {
+      "sentence": 38,
+      "word": "khó phát hiện"
+    },
+    "c3d-tiles": {
+      "sentence": 41,
+      "word": "AWS Shield"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c3a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3a-net",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-udp",
+      "sound": "click"
+    },
+    {
+      "beat": "c3c-req",
+      "sound": "click"
+    },
+    {
+      "beat": "c3d-tiles",
+      "sound": "pop"
+    }
+  ]
+}

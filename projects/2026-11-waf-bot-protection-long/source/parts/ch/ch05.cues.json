@@ -1,0 +1,116 @@
+{
+  "scenes": [
+    {
+      "id": "c5a",
+      "in": "fade",
+      "at": {
+        "sentence": 54,
+        "word": "Đó"
+      }
+    },
+    {
+      "id": "c5b",
+      "in": "cut",
+      "at": {
+        "sentence": 56,
+        "word": "Thay"
+      }
+    },
+    {
+      "id": "c5c",
+      "in": "slide",
+      "at": {
+        "sentence": 59,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c5d",
+      "in": "cut",
+      "at": {
+        "sentence": 62,
+        "word": "Tùy"
+      }
+    }
+  ],
+  "beats": {
+    "c5a-num": {
+      "sentence": 54,
+      "word": "Đó chính là"
+    },
+    "c5a-chip": {
+      "sentence": 55,
+      "word": "Hãy tưởng tượng"
+    },
+    "c5a-waf": {
+      "sentence": 54,
+      "word": "AWS WAF"
+    },
+    "c5a-guard": {
+      "sentence": 55,
+      "word": "nhân viên an ninh"
+    },
+    "c5b-acl": {
+      "sentence": 56,
+      "word": "đặc điểm khác nhau"
+    },
+    "c5b-chips": {
+      "sentence": 57,
+      "word": "Ví dụ"
+    },
+    "c5b-lbl": {
+      "sentence": 58,
+      "word": "Web ACL"
+    },
+    "c5c-card": {
+      "sentence": 59,
+      "word": "Web ACL"
+    },
+    "c5c-ip": {
+      "sentence": 60,
+      "word": "chặn những địa chỉ IP"
+    },
+    "c5c-order": {
+      "sentence": 61,
+      "word": "thứ tự"
+    },
+    "c5d-pills": {
+      "sentence": 62,
+      "word": "cho phép"
+    },
+    "c5d-edge": {
+      "sentence": 63,
+      "word": "CloudFront edge"
+    },
+    "c5d-origin": {
+      "sentence": 63,
+      "word": "origin server"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c5a-waf",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5a-guard",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5b-chips",
+      "sound": "click"
+    },
+    {
+      "beat": "c5c-order",
+      "sound": "click"
+    },
+    {
+      "beat": "c5d-pills",
+      "sound": "click"
+    },
+    {
+      "beat": "c5d-edge",
+      "sound": "pop"
+    }
+  ]
+}
