@@ -1,0 +1,1 @@
+- Keep every element inside x 0-918 and y 288-1440, centre the mass near y 860, and keep logos and text unobstructed with clear space. Reason: coordinator layout review of snapshots/v1.

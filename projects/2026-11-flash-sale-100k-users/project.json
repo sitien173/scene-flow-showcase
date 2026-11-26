@@ -1,0 +1,16 @@
+{
+  "title": "100.000 người truy cập cùng lúc, website có sập không?",
+  "author": {
+    "name": "Góc nhìn DEV"
+  },
+  "theme": "cleanui",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 112.6,
+  "publishedAt": "2026-11-26",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-flash-sale-100k-users-f9822a6f/2026-11-flash-sale-100k-users.mp4",
+    "sha256": "f9822a6f6b2eb7e1cf88392d2d8342feaad342f1b7a89f8e47f96ad0ce501bf7",
+    "bytes": 5461900
+  }
+}
