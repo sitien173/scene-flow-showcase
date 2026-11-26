@@ -1,0 +1,196 @@
+{
+  "scenes": [
+    {
+      "id": "c11a",
+      "in": "cut",
+      "at": {
+        "sentence": 133,
+        "word": "Vậy"
+      }
+    },
+    {
+      "id": "c11b",
+      "in": "slide",
+      "at": {
+        "sentence": 135,
+        "word": "Idempotency"
+      }
+    },
+    {
+      "id": "c11c",
+      "in": "slide",
+      "at": {
+        "sentence": 138,
+        "word": "Ngoài"
+      }
+    },
+    {
+      "id": "c11d",
+      "in": "slide",
+      "at": {
+        "sentence": 140,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c11e",
+      "in": "fade",
+      "at": {
+        "sentence": 144,
+        "word": "Vì"
+      }
+    }
+  ],
+  "beats": {
+    "c11a-pop": {
+      "sentence": 133,
+      "word": "Idempotency Key"
+    },
+    "c11a-chip": {
+      "sentence": 133,
+      "word": "giao dịch trùng"
+    },
+    "c11a-no": {
+      "sentence": 134,
+      "word": "Không hoàn toàn"
+    },
+    "c11b-ttlb": {
+      "sentence": 135,
+      "word": "thời gian"
+    },
+    "c11b-early": {
+      "sentence": 136,
+      "word": "quá sớm"
+    },
+    "c11b-oldr": {
+      "sentence": 136,
+      "word": "request cũ"
+    },
+    "c11b-forever": {
+      "sentence": 137,
+      "word": "mãi mãi"
+    },
+    "c11b-cost": {
+      "sentence": 137,
+      "word": "tiêu tốn"
+    },
+    "c11c-to": {
+      "sentence": 138,
+      "word": "timeout"
+    },
+    "c11c-ip": {
+      "sentence": 138,
+      "word": "In Progress"
+    },
+    "c11c-when": {
+      "sentence": 139,
+      "word": "xác định"
+    },
+    "c11c-fail": {
+      "sentence": 139,
+      "word": "thất bại"
+    },
+    "c11c-rt": {
+      "sentence": 139,
+      "word": "cần retry"
+    },
+    "c11c-ext": {
+      "sentence": 139,
+      "word": "bên ngoài"
+    },
+    "c11d-same": {
+      "sentence": 140,
+      "word": "cùng một key"
+    },
+    "c11d-diff": {
+      "sentence": 140,
+      "word": "khác nhau"
+    },
+    "c11d-phone": {
+      "sentence": 141,
+      "word": "điện thoại"
+    },
+    "c11d-30": {
+      "sentence": 142,
+      "word": "ba mươi triệu"
+    },
+    "c11d-lap": {
+      "sentence": 142,
+      "word": "laptop"
+    },
+    "c11d-rej": {
+      "sentence": 143,
+      "word": "từ chối"
+    },
+    "c11e-key": {
+      "sentence": 144,
+      "word": "Idempotency Key"
+    },
+    "c11e-c1": {
+      "sentence": 144,
+      "word": "payload"
+    },
+    "c11e-c2": {
+      "sentence": 144,
+      "word": "trạng thái"
+    },
+    "c11e-c3": {
+      "sentence": 144,
+      "word": "hết hạn"
+    },
+    "c11e-c4": {
+      "sentence": 144,
+      "word": "reconciliation"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c11a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11a-no",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-ttlb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-early",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-forever",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11c-ip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11c-ext",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11d-phone",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11d-30",
+      "sound": "click"
+    },
+    {
+      "beat": "c11d-rej",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11e-c1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11e-c4",
+      "sound": "pop"
+    }
+  ]
+}

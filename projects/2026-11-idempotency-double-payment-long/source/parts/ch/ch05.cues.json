@@ -1,0 +1,220 @@
+{
+  "scenes": [
+    {
+      "id": "c5a",
+      "in": "cut",
+      "at": {
+        "sentence": 57,
+        "word": "Idempotency"
+      }
+    },
+    {
+      "id": "c5b",
+      "in": "slide",
+      "at": {
+        "sentence": 59,
+        "word": "Request"
+      }
+    },
+    {
+      "id": "c5c",
+      "in": "slide",
+      "at": {
+        "sentence": 62,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c5d",
+      "in": "slide",
+      "at": {
+        "sentence": 64,
+        "word": "Ngược"
+      }
+    },
+    {
+      "id": "c5e",
+      "in": "slide",
+      "at": {
+        "sentence": 66,
+        "word": "Ngoài"
+      }
+    },
+    {
+      "id": "c5f",
+      "in": "fade",
+      "at": {
+        "sentence": 69,
+        "word": "Amazon"
+      }
+    }
+  ],
+  "beats": {
+    "c5a-pop": {
+      "sentence": 57,
+      "word": "mã định danh"
+    },
+    "c5a-chip": {
+      "sentence": 58,
+      "word": "Ví dụ"
+    },
+    "c5a-pay": {
+      "sentence": 58,
+      "word": "thanh toán"
+    },
+    "c5a-uuid": {
+      "sentence": 58,
+      "word": "UUID"
+    },
+    "c5a-send": {
+      "sentence": 58,
+      "word": "gửi"
+    },
+    "c5b-hdr": {
+      "sentence": 59,
+      "word": "header"
+    },
+    "c5b-to": {
+      "sentence": 60,
+      "word": "timeout"
+    },
+    "c5b-rt": {
+      "sentence": 60,
+      "word": "retry"
+    },
+    "c5b-same": {
+      "sentence": 60,
+      "word": "chính key"
+    },
+    "c5b-be": {
+      "sentence": 61,
+      "word": "backend"
+    },
+    "c5b-one": {
+      "sentence": 61,
+      "word": "cùng một"
+    },
+    "c5c-once": {
+      "sentence": 62,
+      "word": "một lần"
+    },
+    "c5c-press": {
+      "sentence": 62,
+      "word": "nhấn nút"
+    },
+    "c5c-newk": {
+      "sentence": 63,
+      "word": "key mới"
+    },
+    "c5c-two": {
+      "sentence": 63,
+      "word": "hai giao dịch"
+    },
+    "c5d-buy": {
+      "sentence": 64,
+      "word": "mua thêm"
+    },
+    "c5d-newk": {
+      "sentence": 64,
+      "word": "key mới"
+    },
+    "c5d-diff": {
+      "sentence": 65,
+      "word": "phân biệt"
+    },
+    "c5d-rt": {
+      "sentence": 65,
+      "word": "retry"
+    },
+    "c5d-new": {
+      "sentence": 65,
+      "word": "hành động"
+    },
+    "c5e-val": {
+      "sentence": 66,
+      "word": "xác thực"
+    },
+    "c5e-old": {
+      "sentence": 67,
+      "word": "key cũ"
+    },
+    "c5e-phone": {
+      "sentence": 67,
+      "word": "điện thoại"
+    },
+    "c5e-lap": {
+      "sentence": 67,
+      "word": "laptop"
+    },
+    "c5e-rej": {
+      "sentence": 68,
+      "word": "từ chối"
+    },
+    "c5e-same": {
+      "sentence": 68,
+      "word": "cùng một"
+    },
+    "c5f-src": {
+      "sentence": 69,
+      "word": "Builders' Library"
+    },
+    "c5f-hl": {
+      "sentence": 69,
+      "word": "unique"
+    },
+    "c5f-intent": {
+      "sentence": 69,
+      "word": "ý định"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c5a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5a-uuid",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5b-hdr",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5b-rt",
+      "sound": "laser"
+    },
+    {
+      "beat": "c5b-one",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5c-once",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5c-newk",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5d-newk",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5d-diff",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5e-val",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5e-rej",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5f-src",
+      "sound": "pop"
+    }
+  ]
+}

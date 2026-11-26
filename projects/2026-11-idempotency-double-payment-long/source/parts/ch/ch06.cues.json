@@ -1,0 +1,264 @@
+{
+  "scenes": [
+    {
+      "id": "c6a",
+      "in": "cut",
+      "at": {
+        "sentence": 70,
+        "word": "Vậy"
+      }
+    },
+    {
+      "id": "c6b",
+      "in": "slide",
+      "at": {
+        "sentence": 72,
+        "word": "Đầu"
+      }
+    },
+    {
+      "id": "c6c",
+      "in": "slide",
+      "at": {
+        "sentence": 74,
+        "word": "Trước"
+      }
+    },
+    {
+      "id": "c6d",
+      "in": "slide",
+      "at": {
+        "sentence": 76,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c6e",
+      "in": "slide",
+      "at": {
+        "sentence": 78,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c6f",
+      "in": "slide",
+      "at": {
+        "sentence": 80,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c6g",
+      "in": "slide",
+      "at": {
+        "sentence": 82,
+        "word": "Powertools"
+      }
+    }
+  ],
+  "beats": {
+    "c6a-pop": {
+      "sentence": 70,
+      "word": "triển khai"
+    },
+    "c6a-chip": {
+      "sentence": 71,
+      "word": "Một"
+    },
+    "c6a-gw": {
+      "sentence": 71,
+      "word": "API Gateway"
+    },
+    "c6a-lam": {
+      "sentence": 71,
+      "word": "Lambda"
+    },
+    "c6a-ddb": {
+      "sentence": 71,
+      "word": "DynamoDB"
+    },
+    "c6b-send": {
+      "sentence": 72,
+      "word": "gửi"
+    },
+    "c6b-key": {
+      "sentence": 72,
+      "word": "Idempotency Key"
+    },
+    "c6b-fwd": {
+      "sentence": 73,
+      "word": "chuyển"
+    },
+    "c6b-lam": {
+      "sentence": 73,
+      "word": "Lambda"
+    },
+    "c6c-before": {
+      "sentence": 74,
+      "word": "Trước"
+    },
+    "c6c-check": {
+      "sentence": 74,
+      "word": "kiểm tra"
+    },
+    "c6c-store": {
+      "sentence": 74,
+      "word": "lưu trữ"
+    },
+    "c6c-ddb": {
+      "sentence": 75,
+      "word": "DynamoDB"
+    },
+    "c6c-end": {
+      "sentence": 75,
+      "word": "mục đích"
+    },
+    "c6d-first": {
+      "sentence": 76,
+      "word": "lần đầu tiên"
+    },
+    "c6d-rec": {
+      "sentence": 76,
+      "word": "bản ghi"
+    },
+    "c6d-proc": {
+      "sentence": 76,
+      "word": "đang được xử lý"
+    },
+    "c6d-done": {
+      "sentence": 77,
+      "word": "hoàn thành"
+    },
+    "c6d-ok": {
+      "sentence": 77,
+      "word": "thành công"
+    },
+    "c6e-req": {
+      "sentence": 78,
+      "word": "request"
+    },
+    "c6e-no": {
+      "sentence": 78,
+      "word": "không chạy lại"
+    },
+    "c6e-ret": {
+      "sentence": 79,
+      "word": "trả về"
+    },
+    "c6e-saved": {
+      "sentence": 79,
+      "word": "response đã lưu"
+    },
+    "c6f-pt": {
+      "sentence": 80,
+      "word": "Powertools"
+    },
+    "c6f-lib": {
+      "sentence": 81,
+      "word": "thư viện"
+    },
+    "c6f-fn": {
+      "sentence": 81,
+      "word": "Lambda functions"
+    },
+    "c6f-iu": {
+      "sentence": 81,
+      "word": "Idempotency Utility"
+    },
+    "c6g-k": {
+      "sentence": 82,
+      "word": "key"
+    },
+    "c6g-ip": {
+      "sentence": 82,
+      "word": "In Progress"
+    },
+    "c6g-ok": {
+      "sentence": 82,
+      "word": "Complete"
+    },
+    "c6g-ex": {
+      "sentence": 82,
+      "word": "thời gian hết hạn"
+    },
+    "c6g-rs": {
+      "sentence": 82,
+      "word": "response"
+    },
+    "c6g-safe": {
+      "sentence": 83,
+      "word": "an toàn"
+    },
+    "c6g-dup": {
+      "sentence": 83,
+      "word": "trùng lặp"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c6a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-gw",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-lam",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-ddb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6b-send",
+      "sound": "laser"
+    },
+    {
+      "beat": "c6b-lam",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6c-ddb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6d-rec",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6d-ok",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6e-no",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6e-saved",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6f-pt",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6f-iu",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6g-k",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6g-ex",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6g-safe",
+      "sound": "pop"
+    }
+  ]
+}

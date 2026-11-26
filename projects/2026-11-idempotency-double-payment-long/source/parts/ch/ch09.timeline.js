@@ -1,0 +1,67 @@
+      /* c9a */
+      tl.fromTo("#w-c9a", { scale: 1 }, { scale: 1.03, duration: @@start:c9b@@ - @@start:c9a@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c9a@@);
+      chapterCard("c9a", @@start:c9a@@ + 0.05, @@t:c9a-chip@@);
+      bump("#c9a-tile", @@t:c9a-pop@@, 1.08);
+      tl.fromTo("#c9a-cloud", { autoAlpha: 0 }, { autoAlpha: 1, duration: 0.4 }, @@t:c9a-chip@@ + 0.2);
+      pop("#c9a-aws", @@t:c9a-chip@@ + 0.3, 0.4);
+      pop("#c9a-gw", @@t:c9a-chip@@ + 0.4, 0.4); pop("#c9a-lam", @@t:c9a-chip@@ + 0.55, 0.4); pop("#c9a-ddb", @@t:c9a-ddb@@, 0.4);
+      pop("#c9a-sh", @@t:c9a-ddb@@ + 0.3, 0.45);
+      tl.fromTo("#c9a-all", { scale: 1.2 }, { scale: 1, duration: 0.7, ease: "power3.out", transformOrigin: "35% 50%" }, @@t:c9a-out@@ - 0.2);
+      pop("#c9a-pp", @@t:c9a-out@@, 0.45); show("#c9a-ppn", @@t:c9a-out@@ + 0.1, 0.4, 12);
+      pop("#c9a-q", @@t:c9a-out@@ + 0.4, 0.45);
+      /* c9b */
+      tl.fromTo("#w-c9b", { scale: 1 }, { scale: 1.04, duration: @@start:c9c@@ - @@start:c9b@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c9b@@);
+      pop("#c9b-lam", @@start:c9b@@ + 0.1, 0.4);
+      sweep("#c9b-l", @@start:c9b@@ + 0.3, 0.4);
+      pop("#c9b-pp", @@start:c9b@@ + 0.5, 0.4); show("#c9b-ppn", @@start:c9b@@ + 0.6, 0.4, 12);
+      tl.fromTo("#c9b-pk", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: 900, duration: 1.0, ease: "power2.inOut" }, @@t:c9b-send@@);
+      gone("#c9b-pk", @@t:c9b-send@@ + 1.1, 0.2);
+      pop("#c9b-ok", @@t:c9b-ok@@, 0.45);
+      show("#c9b-led", @@t:c9b-ok@@ + 0.2, 0.4, 20);
+      tl.fromTo("#c9b-lc", { autoAlpha: 0 }, { autoAlpha: 1, duration: 0.2 }, @@t:c9b-to@@);
+      gone("#c9b-l", @@t:c9b-to@@, 0.2);
+      pop("#c9b-to", @@t:c9b-to@@, 0.45);
+      /* c9c */
+      tl.fromTo("#w-c9c", { scale: 1 }, { scale: 1.03, duration: @@start:c9d@@ - @@start:c9c@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c9c@@);
+      pop("#c9c-lam", @@start:c9c@@ + 0.1, 0.4);
+      pop("#c9c-ip", @@t:c9c-own@@, 0.45);
+      pop("#c9c-q", @@t:c9c-fail@@, 0.5);
+      show("#c9c-led", @@t:c9c-fail@@ + 0.4, 0.4, 20);
+      gone("#c9c-r2", @@start:c9c@@, 0.01);
+      tl.fromTo("#c9c-pk", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: 340, duration: 0.8, ease: "power2.in" }, @@t:c9c-new@@);
+      gone("#c9c-pk", @@t:c9c-new@@ + 0.85, 0.1);
+      show("#c9c-r2", @@t:c9c-again@@, 0.35, 20);
+      pop("#c9c-x2", @@t:c9c-again@@ + 0.2, 0.5, 0.4);
+      tl.to("#c9c-led", { scale: 1.08, duration: 0.8, ease: "power2.out" }, @@t:c9c-again@@);
+      /* c9d */
+      tl.fromTo("#w-c9d", { scale: 1 }, { scale: 1.03, duration: @@start:c9e@@ - @@start:c9d@@, ease: "none", transformOrigin: "50% 50%" }, @@start:c9d@@);
+      pop("#c9d-lam", @@start:c9d@@ + 0.1, 0.4);
+      sweep("#c9d-l", @@start:c9d@@ + 0.3, 0.4);
+      pop("#c9d-pp", @@t:c9d-support@@, 0.4); show("#c9d-ppn", @@t:c9d-support@@ + 0.1, 0.4, 12);
+      pop("#c9d-k1", @@t:c9d-key@@, 0.45);
+      tl.fromTo("#c9d-pk", { autoAlpha: 0, x: 0 }, { autoAlpha: 1, x: 420, duration: 1.0, ease: "power2.inOut" }, @@t:c9d-id@@);
+      gone("#c9d-pk", @@t:c9d-recv@@, 0.2);
+      pop("#c9d-k2", @@t:c9d-recv@@, 0.45);
+      pop("#c9d-eq", @@t:c9d-dup@@, 0.45);
+      show("#c9d-led", @@t:c9d-dup@@ + 0.3, 0.4, 20);
+      pop("#c9d-rc", @@t:c9d-prev@@ - 0.3, 0.4);
+      tl.to("#c9d-rc", { x: -1100, y: -200, duration: 1.0, ease: "power2.inOut" }, @@t:c9d-prev@@ + 0.3);
+      pop("#c9d-prev", @@t:c9d-prev@@, 0.45);
+      /* c9e */
+      pop("#c9e-s1", @@t:c9e-s1@@, 0.45); show("#c9e-l1", @@t:c9e-s1@@ + 0.1, 0.4, 12);
+      pop("#c9e-s2", @@t:c9e-s2@@, 0.45); show("#c9e-l2", @@t:c9e-s2@@ + 0.1, 0.4, 12);
+      pop("#c9e-s3", @@t:c9e-s3@@, 0.45); show("#c9e-l3", @@t:c9e-s3@@ + 0.1, 0.4, 12);
+      pop("#c9e-rt", @@t:c9e-before@@, 0.45);
+      tl.to("#c9e-s1, #c9e-s2, #c9e-s3", { backgroundColor: "var(--term-text)", duration: 0.3, stagger: 0.25 }, @@t:c9e-before@@ + 0.4);
+      tl.to("#c9e-rt", { backgroundColor: "var(--term-text)", color: "var(--ink)", duration: 0.3 }, @@t:c9e-before@@ + 1.3);
+      tl.fromTo("#c9e-all", { scale: 1.12 }, { scale: 1, duration: 0.6, ease: "power3.out", transformOrigin: "50% 30%" }, @@t:c9e-each@@ - 0.6);
+      pop("#c9e-c0", @@t:c9e-each@@ - 0.4 + 0, 0.4);
+      pop("#c9e-c1", @@t:c9e-each@@ - 0.4 + 0.1, 0.4);
+      pop("#c9e-c2", @@t:c9e-each@@ - 0.4 + 0.2, 0.4);
+      pop("#c9e-c3", @@t:c9e-each@@ - 0.4 + 0.30000000000000004, 0.4);
+      pop("#c9e-c4", @@t:c9e-each@@ - 0.4 + 0.4, 0.4);
+      pop("#c9e-b0", @@t:c9e-fit@@ - 1.2 + 0, 0.4);
+      pop("#c9e-b1", @@t:c9e-fit@@ - 1.2 + 0.25, 0.4);
+      pop("#c9e-b2", @@t:c9e-fit@@ - 1.2 + 0.5, 0.4);
+      pop("#c9e-b3", @@t:c9e-fit@@ - 1.2 + 0.75, 0.4);
+      pop("#c9e-b4", @@t:c9e-fit@@ - 1.2 + 1, 0.4);

@@ -1,0 +1,187 @@
+{
+  "scenes": [
+    {
+      "id": "c1a"
+    },
+    {
+      "id": "c1b",
+      "in": "slide",
+      "at": {
+        "sentence": 5,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c1c",
+      "in": "slide",
+      "at": {
+        "sentence": 10,
+        "word": "Liệu"
+      }
+    },
+    {
+      "id": "c1d",
+      "in": "cut",
+      "at": {
+        "sentence": 14,
+        "word": "Vài"
+      }
+    },
+    {
+      "id": "c1e",
+      "in": "cut",
+      "at": {
+        "sentence": 15,
+        "word": "Vấn"
+      }
+    }
+  ],
+  "beats": {
+    "c1a-phone": {
+      "sentence": 1,
+      "word": "điện thoại"
+    },
+    "c1a-price": {
+      "sentence": 2,
+      "word": "hai mươi triệu"
+    },
+    "c1a-form": {
+      "sentence": 3,
+      "word": "nhập"
+    },
+    "c1a-pay": {
+      "sentence": 3,
+      "word": "Pay Now"
+    },
+    "c1a-proc": {
+      "sentence": 4,
+      "word": "Processing"
+    },
+    "c1b-one": {
+      "sentence": 5,
+      "word": "Một"
+    },
+    "c1b-two": {
+      "sentence": 6,
+      "word": "Hai"
+    },
+    "c1b-five": {
+      "sentence": 7,
+      "word": "Năm"
+    },
+    "c1b-stall": {
+      "sentence": 8,
+      "word": "không có gì"
+    },
+    "c1b-worry": {
+      "sentence": 9,
+      "word": "lo lắng"
+    },
+    "c1c-q1": {
+      "sentence": 10,
+      "word": "thành công"
+    },
+    "c1c-q2": {
+      "sentence": 11,
+      "word": "Tiền"
+    },
+    "c1c-q3": {
+      "sentence": 12,
+      "word": "lỗi"
+    },
+    "c1c-wait": {
+      "sentence": 13,
+      "word": "chờ thêm"
+    },
+    "c1c-press": {
+      "sentence": 13,
+      "word": "nhấn nút"
+    },
+    "c1c-again": {
+      "sentence": 13,
+      "word": "lần nữa"
+    },
+    "c1d-n1": {
+      "sentence": 14,
+      "word": "ngân hàng"
+    },
+    "c1d-n2": {
+      "sentence": 14,
+      "word": "hai giao dịch"
+    },
+    "c1e-pop": {
+      "sentence": 15,
+      "word": "nằm"
+    },
+    "c1e-user": {
+      "sentence": 16,
+      "word": "bấm sai"
+    },
+    "c1e-no": {
+      "sentence": 17,
+      "word": "Không hẳn"
+    },
+    "c1e-chip": {
+      "sentence": 18,
+      "word": "Đôi khi"
+    },
+    "c1e-resend": {
+      "sentence": 18,
+      "word": "gửi lại"
+    },
+    "c1e-net": {
+      "sentence": 18,
+      "word": "mạng"
+    },
+    "c1e-zone": {
+      "sentence": 19,
+      "word": "kiến trúc"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c1a-price",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1a-pay",
+      "sound": "laser"
+    },
+    {
+      "beat": "c1b-one",
+      "sound": "click"
+    },
+    {
+      "beat": "c1b-two",
+      "sound": "click"
+    },
+    {
+      "beat": "c1b-five",
+      "sound": "click"
+    },
+    {
+      "beat": "c1c-q1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1c-q2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1c-press",
+      "sound": "laser"
+    },
+    {
+      "beat": "c1d-n2",
+      "sound": "click"
+    },
+    {
+      "beat": "c1e-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1e-resend",
+      "sound": "pop"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "scenes": [
+    {
+      "id": "c9a",
+      "in": "cut",
+      "at": {
+        "sentence": 106,
+        "word": "Tuy"
+      }
+    },
+    {
+      "id": "c9b",
+      "in": "slide",
+      "at": {
+        "sentence": 108,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c9c",
+      "in": "slide",
+      "at": {
+        "sentence": 111,
+        "word": "Lúc"
+      }
+    },
+    {
+      "id": "c9d",
+      "in": "slide",
+      "at": {
+        "sentence": 113,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "c9e",
+      "in": "fade",
+      "at": {
+        "sentence": 115,
+        "word": "Nếu"
+      }
+    }
+  ],
+  "beats": {
+    "c9a-pop": {
+      "sentence": 106,
+      "word": "vấn đề"
+    },
+    "c9a-chip": {
+      "sentence": 107,
+      "word": "Việc"
+    },
+    "c9a-ddb": {
+      "sentence": 107,
+      "word": "DynamoDB"
+    },
+    "c9a-out": {
+      "sentence": 107,
+      "word": "bên ngoài"
+    },
+    "c9b-send": {
+      "sentence": 108,
+      "word": "gửi"
+    },
+    "c9b-ok": {
+      "sentence": 109,
+      "word": "thành công"
+    },
+    "c9b-res": {
+      "sentence": 110,
+      "word": "response"
+    },
+    "c9b-to": {
+      "sentence": 110,
+      "word": "timeout"
+    },
+    "c9c-own": {
+      "sentence": 111,
+      "word": "của riêng mình"
+    },
+    "c9c-fail": {
+      "sentence": 111,
+      "word": "thất bại"
+    },
+    "c9c-new": {
+      "sentence": 112,
+      "word": "giao dịch mới"
+    },
+    "c9c-again": {
+      "sentence": 112,
+      "word": "thêm lần nữa"
+    },
+    "c9d-support": {
+      "sentence": 113,
+      "word": "hỗ trợ"
+    },
+    "c9d-key": {
+      "sentence": 113,
+      "word": "cùng một key"
+    },
+    "c9d-id": {
+      "sentence": 113,
+      "word": "payment operation identifier"
+    },
+    "c9d-recv": {
+      "sentence": 114,
+      "word": "nhận lại"
+    },
+    "c9d-dup": {
+      "sentence": 114,
+      "word": "request trùng"
+    },
+    "c9d-prev": {
+      "sentence": 114,
+      "word": "kết quả trước đó"
+    },
+    "c9e-no": {
+      "sentence": 115,
+      "word": "không hỗ trợ"
+    },
+    "c9e-s1": {
+      "sentence": 115,
+      "word": "kiểm tra trạng thái"
+    },
+    "c9e-s2": {
+      "sentence": 115,
+      "word": "đối soát"
+    },
+    "c9e-s3": {
+      "sentence": 115,
+      "word": "reconciliation"
+    },
+    "c9e-before": {
+      "sentence": 116,
+      "word": "trước khi"
+    },
+    "c9e-each": {
+      "sentence": 117,
+      "word": "mỗi hệ thống"
+    },
+    "c9e-fit": {
+      "sentence": 117,
+      "word": "phù hợp"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c9a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9a-out",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9b-send",
+      "sound": "laser"
+    },
+    {
+      "beat": "c9b-ok",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9b-to",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9c-fail",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9c-again",
+      "sound": "click"
+    },
+    {
+      "beat": "c9d-key",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9d-prev",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9e-s3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9e-each",
+      "sound": "pop"
+    }
+  ]
+}

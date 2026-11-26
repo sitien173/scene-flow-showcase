@@ -1,0 +1,7 @@
+{
+  "id": "2026-11-idempotency-double-payment-long",
+  "name": "Bấm thanh toán hai lần, tại sao không bị trừ tiền hai lần?",
+  "createdAt": "2026-11-26T04:26:18.000Z",
+  "theme": "cleanui",
+  "format": "16x9"
+}

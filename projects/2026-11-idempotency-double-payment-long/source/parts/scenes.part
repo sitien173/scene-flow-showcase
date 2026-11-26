@@ -1,0 +1,923 @@
+      <div class="scene clip" id="sc-c1a" data-start="@@start:c1a@@" data-duration="@@dur:c1a@@" data-track-index="1">
+        <div class="wrap" id="w-c1a">
+          <div class="label" id="c1a-series" style="left:160px; top:80px;">AWS: Behind the Cloud</div>
+          <div class="ltile sm" id="c1a-aws" style="left:1650px; top:74px;"><img src="assets/logos/aws/aws-cloud.svg" alt=""></div>
+          <div class="win" id="c1a-win" style="left:320px; top:180px; width:1280px; height:680px;"><div class="bar"></div>
+          <div class="tile " id="c1a-phone" style="left:80px; top:110px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-smartphone"/></svg></div>
+          <div class="txt md" id="c1a-name" style="left:310px; top:120px;">Điện thoại</div>
+          <div class="txt lg acc" id="c1a-price" style="left:310px; top:210px;">20.000.000 đ</div>
+          <div id="c1a-form" style="position:absolute; left:80px; top:380px; width:1120px; height:240px;"><i class="sk" style="width:600px;"></i><i class="sk short" style="width:420px;"></i><div class="chip2 " id="c1a-card" style="left:0px; top:130px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-credit-card"/></svg>•••• ••••</div></div>
+          <span class="btn" id="c1a-btn" style="position:absolute; left:820px; top:500px;">Pay Now</span>
+          <div class="chip2 ink" id="c1a-proc" style="left:780px; top:500px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-loader"/></svg>Processing</div>
+          </div>
+          <svg class="cursor" id="c1a-cur" viewBox="0 0 24 24" aria-hidden="true" style="left:1217px; top:697px;"><use href="#cursor"/></svg>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c1b" data-start="@@start:c1b@@" data-duration="@@dur:c1b@@" data-track-index="1">
+        <div class="wrap" id="w-c1b">
+          <div class="tile big" id="c1b-load" style="left:360px; top:220px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-loader"/></svg></div>
+          <div class="tile big" id="c1b-timer" style="left:800px; top:220px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-timer"/></svg></div>
+          <div class="num" id="c1b-n1" style="left:1270px; top:330px;">1s</div>
+          <div class="num" id="c1b-n2" style="left:1270px; top:330px;">2s</div>
+          <div class="num" id="c1b-n5" style="left:1270px; top:330px;">5s</div>
+          <svg class="ecg" id="c1b-ecg" viewBox="0 0 1600 200" style="left:160px; top:640px; width:1600px; height:200px;"><path id="c1b-ecgp" pathLength="1" d="M0 100 L520 100 L580 30 L640 170 L700 100 L1000 100 L1060 20 L1120 180 L1180 100 L1600 100"/></svg>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c1c" data-start="@@start:c1c@@" data-duration="@@dur:c1c@@" data-track-index="1">
+        <div class="wrap" id="w-c1c">
+          <div class="bubble" id="c1c-q1" style="left:260px; top:180px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-circle-check"/></svg><div class="badge " id="c1c-b1" style="left:150px; top:-10px;"><span style="font:800 44px/1 var(--font);">?</span></div></div>
+          <div class="bubble" id="c1c-q2" style="left:860px; top:180px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-wallet"/></svg><div class="badge " id="c1c-b2" style="left:150px; top:-10px;"><span style="font:800 44px/1 var(--font);">?</span></div></div>
+          <div class="bubble" id="c1c-q3" style="left:1460px; top:180px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-triangle-alert"/></svg><div class="badge " id="c1c-b3" style="left:150px; top:-10px;"><span style="font:800 44px/1 var(--font);">?</span></div></div>
+          <div class="chip2 acc" id="c1c-btn" style="left:260px; top:640px;">Pay Now</div>
+          <div class="srv " id="c1c-srv" style="left:1500px; top:560px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="pkt " id="c1c-p1" style="left:580px; top:630px;"></div>
+          <div class="pkt " id="c1c-p2" style="left:580px; top:730px;"></div>
+          <svg class="cursor" id="c1c-cur" viewBox="0 0 24 24" aria-hidden="true" style="left:380px; top:660px;"><use href="#cursor"/></svg>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c1d" data-start="@@start:c1d@@" data-duration="@@dur:c1d@@" data-track-index="1">
+        <div class="wrap" id="w-c1d">
+          <div class="phone" id="c1d-phone" style="left:780px; top:140px;"><div class="scr"></div></div>
+          <div class="toast " id="c1d-n1" style="left:560px; top:260px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg>Ngân hàng: -20.000.000 đ</div>
+          <div class="toast bad" id="c1d-n2" style="left:560px; top:380px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg>Ngân hàng: -20.000.000 đ</div>
+          <div class="callx" id="c1d-x2" style="left:1440px; top:300px;"><svg viewBox="0 0 200 200" aria-hidden="true"><use href="#art-burst"/></svg><b>x2</b></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c1e" data-start="@@start:c1e@@" data-duration="@@dur:c1e@@" data-track-index="1">
+        <div class="wrap" id="w-c1e">
+          <div class="num" id="c1e-num" style="left:560px; top:250px;">01</div>
+          <div class="tile big" id="c1e-tile" style="left:800px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-credit-card"/></svg><div class="badge bad" style="left:250px; top:-30px; width:110px; height:110px;"><span style="font:800 52px/1 var(--font);">x2</span></div></div>
+          <div class="h1 chap" id="c1e-title" style="top:590px;"><span class="bot">Bấm hai lần, trừ tiền hai lần</span></div>
+          <svg class="burst" id="c1e-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c1e-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c1e-chip">01 Bấm hai lần, trừ tiền hai lần</div>
+          <div class="tile " id="c1e-ptr" style="left:220px; top:560px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-pointer"/></svg><div class="badge bad" id="c1e-px" style="left:130px; top:-24px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div></div>
+          <div class="ltile md" id="c1e-cli" style="left:240px; top:360px;"><img src="assets/logos/aws/client.svg" alt=""><span class="name">Client</span></div>
+          <div class="link " id="c1e-l1" style="left:440px; top:448px; width:420px;"></div>
+          <div class="tile " id="c1e-net" style="left:868px; top:360px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-network"/></svg></div>
+          <div class="txt " id="c1e-netn" style="left:900px; top:580px; font-size:44px;">Mạng</div>
+          <div class="link " id="c1e-l2" style="left:1060px; top:448px; width:330px;"></div>
+          <div class="link cut" id="c1e-l2c" style="left:1060px; top:448px; width:330px;"></div>
+          <div class="srv " id="c1e-srv" style="left:1400px; top:330px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="pkt " id="c1e-pk" style="left:470px; top:330px;"></div>
+          <div class="chip2 acc" id="c1e-resend" style="left:560px; top:700px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg>Request gửi lại</div>
+          <div class="zone" id="c1e-zone" style="left:190px; top:280px; width:1540px; height:560px;"></div>
+          <div class="chip2 ink" id="c1e-arch" style="left:1150px; top:190px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-layers"/></svg>Kiến trúc phần mềm</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c2a" data-start="@@start:c2a@@" data-duration="@@dur:c2a@@" data-track-index="1">
+        <div class="wrap" id="w-c2a">
+          <div class="num" id="c2a-num" style="left:560px; top:250px;">02</div>
+          <div class="tile big" id="c2a-tile" style="left:800px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg></div>
+          <div class="h1 chap" id="c2a-title" style="top:590px;"><span class="bot">Chuyện gì thật sự xảy ra?</span></div>
+          <svg class="burst" id="c2a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c2a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c2a-chip">02 Chuyện gì thật sự xảy ra?</div>
+          <div class="ltile md" id="c2a-cli" style="left:240px; top:360px;"><img src="assets/logos/aws/client.svg" alt=""><span class="name">Client</span></div>
+          <div class="link " id="c2a-l1" style="left:440px; top:448px; width:410px;"></div>
+          <div class="srv " id="c2a-be" style="left:860px; top:330px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="txt " id="c2a-ben" style="left:858px; top:600px; font-size:44px;">Backend</div>
+          <div class="link " id="c2a-l2" style="left:1070px; top:448px; width:360px;"></div>
+          <div class="tile " id="c2a-gw" style="left:1440px; top:360px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div>
+          <div class="txt " id="c2a-gwn" style="left:1350px; top:580px; font-size:44px;">Payment Gateway</div>
+          <div class="pkt " id="c2a-pk" style="left:450px; top:330px;"></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c2b" data-start="@@start:c2b@@" data-duration="@@dur:c2b@@" data-track-index="1">
+        <div class="wrap" id="w-c2b">
+          <div class="chapchip" id="c2b-cc">02 Chuyện gì thật sự xảy ra?</div>
+          <div class="ltile md" id="c2b-cli" style="left:240px; top:360px;"><img src="assets/logos/aws/client.svg" alt=""><span class="name">Client</span></div>
+          <div class="link " id="c2b-l1" style="left:440px; top:448px; width:410px;"></div>
+          <div class="srv " id="c2b-be" style="left:860px; top:330px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="txt " id="c2b-ben" style="left:858px; top:600px; font-size:44px;">Backend</div>
+          <div class="link " id="c2b-l2" style="left:1070px; top:448px; width:360px;"></div>
+          <div class="tile " id="c2b-gw" style="left:1440px; top:360px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div>
+          <div class="txt " id="c2b-gwn" style="left:1350px; top:580px; font-size:44px;">Payment Gateway</div>
+          <div class="badge ok" id="c2b-chk" style="left:1010px; top:300px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="pkt " id="c2b-pk" style="left:1080px; top:330px;"></div>
+          <div class="badge ok" id="c2b-ok" style="left:1590px; top:320px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="toast ok" id="c2b-succ" style="left:1330px; top:180px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg>SUCCESS</div>
+          <div class="pkt res" id="c2b-res" style="left:1340px; top:500px;"></div>
+          <div class="badge " id="c2b-q" style="left:600px; top:400px;"><span style="font:800 44px/1 var(--font);">?</span></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c2c" data-start="@@start:c2c@@" data-duration="@@dur:c2c@@" data-track-index="1">
+        <div class="wrap" id="w-c2c">
+          <div class="chapchip" id="c2c-cc">02 Chuyện gì thật sự xảy ra?</div>
+          <div id="c2c-row" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="ltile md" id="c2c-cli" style="left:240px; top:360px;"><img src="assets/logos/aws/client.svg" alt=""><span class="name">Client</span></div>
+          <div class="link " id="c2c-l1" style="left:440px; top:448px; width:410px;"></div>
+          <div class="srv " id="c2c-be" style="left:860px; top:330px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="txt " id="c2c-ben" style="left:858px; top:600px; font-size:44px;">Backend</div>
+          <div class="pkt res" id="c2c-res" style="left:800px; top:416px;"></div>
+          <i class="frag" id="c2c-f0" style="left:640px; top:436px;"></i><i class="frag" id="c2c-f1" style="left:640px; top:436px;"></i><i class="frag" id="c2c-f2" style="left:640px; top:436px;"></i><i class="frag" id="c2c-f3" style="left:640px; top:436px;"></i><i class="frag" id="c2c-f4" style="left:640px; top:436px;"></i><i class="frag" id="c2c-f5" style="left:640px; top:436px;"></i>
+          <div class="toast bad" id="c2c-to" style="left:500px; top:560px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-wifi-off"/></svg>Timeout</div>
+          </div>
+          <div class="card2" id="c2c-left" style="left:180px; top:200px; width:760px; height:600px;"><div class="ph">Server: đã xong</div><div class="srv " id="c2c-ls" style="left:280px; top:170px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div><div class="badge ok" id="c2c-lok" style="left:470px; top:150px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div></div>
+          <div class="card2" id="c2c-right" style="left:980px; top:200px; width:760px; height:600px;"><div class="ph">Client: vẫn loading</div><div class="tile " id="c2c-lap" style="left:160px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-laptop"/></svg></div><div class="spin" id="c2c-spin" style="left:440px; top:232px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-loader"/></svg></div></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c2d" data-start="@@start:c2d@@" data-duration="@@dur:c2d@@" data-track-index="1">
+        <div class="wrap" id="w-c2d">
+          <div class="chapchip" id="c2d-cc">02 Chuyện gì thật sự xảy ra?</div>
+          <div id="c2d-row" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="ltile md" id="c2d-cli" style="left:240px; top:360px;"><img src="assets/logos/aws/client.svg" alt=""><span class="name">Client</span></div>
+          <div class="tile " id="c2d-net" style="left:868px; top:360px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-network"/></svg></div>
+          <div class="srv " id="c2d-srv" style="left:1420px; top:330px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="pkt " id="c2d-pk" style="left:450px; top:420px;"></div>
+          <div class="fog" id="c2d-fog" style="left:1300px; top:250px; width:440px; height:420px;"></div>
+          <div class="tile acc" id="c2d-warn" style="left:868px; top:140px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-triangle-alert"/></svg></div>
+          </div>
+          <div class="card2" id="c2d-a" style="left:200px; top:220px; width:600px; height:520px;"><div class="ph">Request lỗi?</div><div class="srv " id="c2d-as" style="left:200px; top:140px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div><div class="badge bad" id="c2d-ax" style="left:380px; top:120px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div></div>
+          <div class="txt xl acc" id="c2d-q" style="left:900px; top:360px;">?</div>
+          <div class="card2" id="c2d-b" style="left:1120px; top:220px; width:600px; height:520px;"><div class="ph">Response mất?</div><div class="srv " id="c2d-bs" style="left:200px; top:140px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div><div class="badge ok" id="c2d-bok" style="left:380px; top:120px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c2e" data-start="@@start:c2e@@" data-duration="@@dur:c2e@@" data-track-index="1">
+        <div class="wrap" id="w-c2e">
+          <div class="chapchip" id="c2e-cc">02 Chuyện gì thật sự xảy ra?</div>
+          <div class="ltile md" id="c2e-cli" style="left:240px; top:200px;"><img src="assets/logos/aws/client.svg" alt=""><span class="name">Client</span></div>
+          <div class="link " id="c2e-l1" style="left:440px; top:288px; width:410px;"></div>
+          <div class="srv " id="c2e-be" style="left:860px; top:170px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="link " id="c2e-l2" style="left:1070px; top:288px; width:360px;"></div>
+          <div class="tile " id="c2e-gw" style="left:1440px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div>
+          <div class="pkt " id="c2e-pk" style="left:450px; top:256px;"></div>
+          <div class="ledger" id="c2e-led" style="left:610px; top:500px;"><div class="lt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg>Sổ giao dịch</div><div class="ln " id="c2e-r1"><span>Đơn hàng</span><span>-20.000.000 đ</span></div><div class="ln dup" id="c2e-r2"><span>Đơn hàng</span><span>-20.000.000 đ</span></div></div>
+          <div class="callx" id="c2e-x2" style="left:1380px; top:520px;"><svg viewBox="0 0 200 200" aria-hidden="true"><use href="#art-burst"/></svg><b>x2</b></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c3a" data-start="@@start:c3a@@" data-duration="@@dur:c3a@@" data-track-index="1">
+        <div class="wrap" id="w-c3a">
+          <div class="num" id="c3a-num" style="left:560px; top:250px;">03</div>
+          <div class="tile big" id="c3a-tile" style="left:800px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg></div>
+          <div class="h1 chap" id="c3a-title" style="top:590px;"><span class="bot">Vì sao phải retry?</span></div>
+          <svg class="burst" id="c3a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c3a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c3a-chip">03 Vì sao phải retry?</div>
+          <div class="srv " id="c3a-srv" style="left:860px; top:330px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <svg class="ico" id="c3a-loop" viewBox="0 0 24 24" aria-hidden="true" style="position:absolute; left:760px; top:250px; width:400px; height:400px; stroke:var(--accent); stroke-width:1.2;"><use href="#i-refresh-cw"/></svg>
+          <div class="tile ok" id="c3a-shield" style="left:1340px; top:350px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shield-check"/></svg></div>
+          <div class="txt " id="c3a-sn" style="left:1270px; top:580px; font-size:44px;">Đáng tin cậy</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c3b" data-start="@@start:c3b@@" data-duration="@@dur:c3b@@" data-track-index="1">
+        <div class="wrap" id="w-c3b">
+          <div class="chapchip" id="c3b-cc">03 Vì sao phải retry?</div>
+          <div class="tile " id="c3b-t1" style="left:360px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-wifi-off"/></svg></div><div class="txt md" id="c3b-l1" style="left:574px; top:264px;">Mạng</div>
+          <div class="tile " id="c3b-t2" style="left:1000px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-hourglass"/></svg></div><div class="txt md" id="c3b-l2" style="left:1214px; top:264px;">Server</div>
+          <div class="tile acc" id="c3b-t3" style="left:360px; top:520px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-gauge"/></svg></div><div class="txt md" id="c3b-l3" style="left:574px; top:584px;">Dịch vụ ngoài</div>
+          <div class="tile " id="c3b-t4" style="left:1000px; top:520px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-unplug"/></svg></div><div class="txt md" id="c3b-l4" style="left:1214px; top:584px;">Kết nối</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c3c" data-start="@@start:c3c@@" data-duration="@@dur:c3c@@" data-track-index="1">
+        <div class="wrap" id="w-c3c">
+          <div class="chapchip" id="c3c-cc">03 Vì sao phải retry?</div>
+          <div class="txt md" id="c3c-la" style="left:200px; top:200px;">Không retry</div>
+          <div class="bar2" id="c3c-a" style="left:200px; top:300px; width:1100px;"><i class="fill" id="c3c-af"></i></div>
+          <div class="badge bad" id="c3c-ax" style="left:1330px; top:284px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div>
+          <div class="txt md" id="c3c-lb" style="left:200px; top:460px;">Có retry</div>
+          <div class="bar2" id="c3c-b" style="left:200px; top:560px; width:1100px;"><i class="fill" id="c3c-bf"></i></div>
+          <div class="badge " id="c3c-r1" style="left:420px; top:640px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg></div><div class="badge " id="c3c-r2" style="left:660px; top:640px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg></div><div class="badge " id="c3c-r3" style="left:980px; top:640px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg></div>
+          <div class="badge ok" id="c3c-bok" style="left:1330px; top:544px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="ltile md" id="c3c-aws" style="left:1480px; top:400px;"><img src="assets/logos/aws/aws-cloud.svg" alt=""></div>
+          <div class="chip2 ink" id="c3c-sdk" style="left:1440px; top:640px;">AWS SDK</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c3d" data-start="@@start:c3d@@" data-duration="@@dur:c3d@@" data-track-index="1">
+        <div class="wrap" id="w-c3d">
+          <div class="chapchip" id="c3d-cc">03 Vì sao phải retry?</div>
+          <div class="tile acc" id="c3d-loop" style="left:868px; top:180px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg></div>
+          <div class="tile acc" id="c3d-t1-c2" style="left:448px; top:488px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shopping-cart"/></svg></div><div class="tile acc" id="c3d-t1-c1" style="left:424px; top:464px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shopping-cart"/></svg></div><div class="tile " id="c3d-t1" style="left:400px; top:440px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shopping-cart"/></svg></div><div class="txt " id="c3d-l1" style="left:400px; top:720px; font-size:44px;">Tạo đơn</div>
+          <div class="tile acc" id="c3d-t2-c2" style="left:916px; top:488px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-banknote"/></svg></div><div class="tile acc" id="c3d-t2-c1" style="left:892px; top:464px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-banknote"/></svg></div><div class="tile " id="c3d-t2" style="left:868px; top:440px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-banknote"/></svg></div><div class="txt " id="c3d-l2" style="left:870px; top:720px; font-size:44px;">Trừ tiền</div>
+          <div class="tile acc" id="c3d-t3-c2" style="left:1384px; top:488px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div><div class="tile acc" id="c3d-t3-c1" style="left:1360px; top:464px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div><div class="tile " id="c3d-t3" style="left:1336px; top:440px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div><div class="txt " id="c3d-l3" style="left:1300px; top:720px; font-size:44px;">Cấp tài nguyên</div>
+          <div class="badge bad" id="c3d-x3" style="left:1590px; top:380px;"><span style="font:800 44px/1 var(--font);">x3</span></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c3e" data-start="@@start:c3e@@" data-duration="@@dur:c3e@@" data-track-index="1">
+        <div class="wrap" id="w-c3e">
+          <div class="chapchip" id="c3e-cc">03 Vì sao phải retry?</div>
+          <div class="tile acc" id="c3e-loop" style="left:420px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg></div>
+          <div class="txt md" id="c3e-ll" style="left:330px; top:420px;">Retry: nhiều lần</div>
+          <div class="tile ok" id="c3e-ok" style="left:1316px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="txt md" id="c3e-lr" style="left:1170px; top:420px;">Tác động: một lần</div>
+          <div class="radial" id="c3e-rays"></div>
+          <div class="txt xl acc" id="c3e-word" style="left:160px; top:560px; width:1600px; text-align:center;">Idempotency</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c4a" data-start="@@start:c4a@@" data-duration="@@dur:c4a@@" data-track-index="1">
+        <div class="wrap" id="w-c4a">
+          <div class="num" id="c4a-num" style="left:560px; top:250px;">04</div>
+          <div class="tile big" id="c4a-tile" style="left:800px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-repeat"/></svg><div class="badge ok" id="c4a-eq" style="left:220px; top:-20px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-equal"/></svg></div></div>
+          <div class="h1 chap" id="c4a-title" style="top:590px;"><span class="bot">Làm nhiều lần, kết quả như một</span></div>
+          <svg class="burst" id="c4a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c4a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c4a-chip">04 Làm nhiều lần, kết quả như một</div>
+          <div class="tile " id="c4a-a1" style="left:400px; top:240px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-pointer"/></svg></div><div class="tile " id="c4a-a2" style="left:400px; top:420px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-pointer"/></svg></div><div class="tile " id="c4a-a3" style="left:400px; top:600px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-pointer"/></svg></div>
+          <div class="link " id="c4a-l1" style="left:600px; top:328px; width:560px;"></div><div class="link " id="c4a-l2" style="left:600px; top:508px; width:560px;"></div><div class="link " id="c4a-l3" style="left:600px; top:688px; width:560px;"></div>
+          <div class="tile ok" id="c4a-res" style="left:1200px; top:400px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-circle-check"/></svg></div>
+          <div class="txt md" id="c4a-rl" style="left:1130px; top:620px;">Một kết quả</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c4b" data-start="@@start:c4b@@" data-duration="@@dur:c4b@@" data-track-index="1">
+        <div class="wrap" id="w-c4b">
+          <div class="chapchip" id="c4b-cc">04 Làm nhiều lần, kết quả như một</div>
+          <div class="code" id="c4b-code" style="left:200px; top:240px; width:720px;"><span class="dim">// mỗi lần chạy</span><br>SET balance = 100</div>
+          <div class="card2" id="c4b-card" style="left:1060px; top:200px; width:640px; height:440px; border:6px solid var(--term-text);"><div class="ph">Số dư</div></div>
+          <div class="bigval" id="c4b-bal" style="left:1160px; top:330px;">100</div>
+          <div class="num" id="c4b-n-0" style="left:260px; top:520px;">x1</div><div class="num" id="c4b-n-1" style="left:260px; top:520px;">x2</div><div class="num" id="c4b-n-2" style="left:260px; top:520px;">x3</div><div class="num" id="c4b-n-3" style="left:260px; top:520px;">x4</div><div class="num" id="c4b-n-4" style="left:260px; top:520px;">x5</div><div class="num" id="c4b-n-5" style="left:260px; top:520px;">x6</div><div class="num" id="c4b-n-6" style="left:260px; top:520px;">x7</div><div class="num" id="c4b-n-7" style="left:260px; top:520px;">x8</div><div class="num" id="c4b-n-8" style="left:260px; top:520px;">x9</div><div class="num" id="c4b-n-9" style="left:260px; top:520px;">x10</div>
+          <div class="chip2 acc" id="c4b-tag" style="left:1160px; top:700px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg>idempotent</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c4c" data-start="@@start:c4c@@" data-duration="@@dur:c4c@@" data-track-index="1">
+        <div class="wrap" id="w-c4c">
+          <div class="chapchip" id="c4c-cc">04 Làm nhiều lần, kết quả như một</div>
+          <div class="card2" id="c4c-l" style="left:180px; top:180px; width:720px; height:620px;"><div class="ph">SET balance = 100</div></div>
+          <div class="bigval" id="c4c-lv" style="left:330px; top:360px;">100</div>
+          <div class="badge ok" id="c4c-lok" style="left:760px; top:200px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="card2" id="c4c-r" style="left:1020px; top:180px; width:720px; height:620px; border:6px solid var(--accent);"><div class="ph">ADD +100</div></div>
+          <div class="txt md" id="c4c-inc" style="left:1060px; top:300px;">Tăng thêm</div>
+          <div class="bigval" id="c4c-v-0" style="left:1100px; top:380px;">+100</div><div class="bigval" id="c4c-v-1" style="left:1100px; top:380px;">+200</div><div class="bigval" id="c4c-v-2" style="left:1100px; top:380px;">+300</div><div class="bigval" id="c4c-v-3" style="left:1100px; top:380px;">+400</div><div class="bigval" id="c4c-v-4" style="left:1100px; top:380px;">+500</div><div class="bigval" id="c4c-v-5" style="left:1100px; top:380px;">+600</div><div class="bigval" id="c4c-v-6" style="left:1100px; top:380px;">+700</div><div class="bigval" id="c4c-v-7" style="left:1100px; top:380px;">+800</div><div class="bigval" id="c4c-v-8" style="left:1100px; top:380px;">+900</div><div class="bigval" id="c4c-v-9" style="left:1100px; top:380px;">+1.000</div>
+          <div class="num" id="c4c-n-0" style="left:1100px; top:620px;">x1</div><div class="num" id="c4c-n-1" style="left:1100px; top:620px;">x2</div><div class="num" id="c4c-n-2" style="left:1100px; top:620px;">x3</div><div class="num" id="c4c-n-3" style="left:1100px; top:620px;">x4</div><div class="num" id="c4c-n-4" style="left:1100px; top:620px;">x5</div><div class="num" id="c4c-n-5" style="left:1100px; top:620px;">x6</div><div class="num" id="c4c-n-6" style="left:1100px; top:620px;">x7</div><div class="num" id="c4c-n-7" style="left:1100px; top:620px;">x8</div><div class="num" id="c4c-n-8" style="left:1100px; top:620px;">x9</div><div class="num" id="c4c-n-9" style="left:1100px; top:620px;">x10</div>
+          <div class="badge bad" id="c4c-rx" style="left:1600px; top:200px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div>
+          <div class="chip2 ink" id="c4c-tag" style="left:1060px; top:830px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg>không idempotent</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c4d" data-start="@@start:c4d@@" data-duration="@@dur:c4d@@" data-track-index="1">
+        <div class="wrap" id="w-c4d">
+          <div class="chapchip" id="c4d-cc">04 Làm nhiều lần, kết quả như một</div>
+          <div class="pkt " id="c4d-pk" style="left:300px; top:446px;"></div>
+          <div class="link " id="c4d-l0" style="left:340px; top:470px; width:460px;"></div>
+          <div class="link" id="c4d-up" style="left:800px; top:470px; width:520px; transform-origin:0% 50%; rotate:-24deg;"></div>
+          <div class="link" id="c4d-dn" style="left:800px; top:470px; width:520px; transform-origin:0% 50%; rotate:24deg;"></div>
+          <div class="chip2 " id="c4d-new" style="left:1320px; top:200px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-plus"/></svg>Mới</div>
+          <div class="chip2 " id="c4d-rt" style="left:1320px; top:690px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg>Thử lại</div>
+          <div class="tile " id="c4d-sys" style="left:720px; top:400px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="badge " id="c4d-q" style="left:860px; top:360px;"><span style="font:800 44px/1 var(--font);">?</span></div>
+          <div class="pkt " id="c4d-p1" style="left:420px; top:300px;"></div><div class="pkt " id="c4d-p2" style="left:420px; top:600px;"></div>
+          <div class="chip2 acc" id="c4d-key" style="left:640px; top:740px; font-size:62px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>Idempotency Key</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c5a" data-start="@@start:c5a@@" data-duration="@@dur:c5a@@" data-track-index="1">
+        <div class="wrap" id="w-c5a">
+          <div class="num" id="c5a-num" style="left:560px; top:250px;">05</div>
+          <div class="tile big" id="c5a-tile" style="left:800px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg><span class="tag" style="position:absolute; left:150px; top:250px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>key</span></div>
+          <div class="h1 chap" id="c5a-title" style="top:590px;"><span class="bot">Idempotency Key</span></div>
+          <svg class="burst" id="c5a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c5a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c5a-chip">05 Idempotency Key</div>
+          <div class="win" id="c5a-win" style="left:260px; top:200px; width:900px; height:560px;"><div class="bar"></div>
+          <div class="tile " id="c5a-cart" style="left:60px; top:100px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shopping-cart"/></svg></div>
+          <i class="sk" style="position:absolute; left:280px; top:130px; width:520px;"></i>
+          <span class="btn" id="c5a-btn" style="position:absolute; left:560px; top:380px;">Pay Now</span>
+          </div>
+          <div class="pkt " id="c5a-pk" style="left:1220px; top:420px;"></div>
+          <div id="c5a-uuid" style="position:absolute; left:1190px; top:540px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5b" data-start="@@start:c5b@@" data-duration="@@dur:c5b@@" data-track-index="1">
+        <div class="wrap" id="w-c5b">
+          <div class="chapchip" id="c5b-cc">05 Idempotency Key</div>
+          <div class="code" id="c5b-code" style="left:200px; top:200px; width:1240px;">POST /payments<br><span class="dim">Content-Type: application/json</span><br>Idempotency-Key: checkout-7f9a-2026</div>
+          <div class="pkt " id="c5b-r1" style="left:260px; top:640px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a</span></div>
+          <div class="toast bad" id="c5b-to" style="left:300px; top:760px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-wifi-off"/></svg>Timeout</div>
+          <div class="pkt " id="c5b-r2" style="left:260px; top:640px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a</span></div>
+          <div class="chip2 acc" id="c5b-rt" style="left:300px; top:520px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg>Retry</div>
+          <div class="srv " id="c5b-be" style="left:1420px; top:560px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="txt " id="c5b-ben" style="left:1418px; top:830px; font-size:44px;">Backend</div>
+          <div class="badge ok" id="c5b-ok" style="left:1600px; top:520px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5c" data-start="@@start:c5c@@" data-duration="@@dur:c5c@@" data-track-index="1">
+        <div class="wrap" id="w-c5c">
+          <div class="chapchip" id="c5c-cc">05 Idempotency Key</div>
+          <div class="card2" id="c5c-l" style="left:180px; top:170px; width:740px; height:680px;"><div class="ph">Đúng</div></div>
+          <div class="txt " id="c5c-lt" style="left:220px; top:260px; font-size:44px;">Một checkout intent = một key</div>
+          <div class="tile " id="c5c-lp1" style="left:240px; top:380px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-pointer"/></svg></div><div class="tile " id="c5c-lp2" style="left:240px; top:540px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-pointer"/></svg></div><div class="tile " id="c5c-lp3" style="left:240px; top:700px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-pointer"/></svg></div>
+          <div id="c5c-lk" style="position:absolute; left:470px; top:560px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>7f9a</span></div>
+          <div class="badge ok" id="c5c-lok" style="left:800px; top:200px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="card2" id="c5c-r" style="left:1000px; top:170px; width:740px; height:680px;"><div class="ph">Sai</div></div>
+          <div id="c5c-rk1" style="position:absolute; left:1060px; top:300px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>7f9a</span></div>
+          <div id="c5c-rk2" style="position:absolute; left:1060px; top:400px;"><span class="tag alt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>b21c</span></div>
+          <div class="ledger" id="c5c-led" style="left:1060px; top:520px;"><div class="lt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg>Backend</div><div class="ln " id="c5c-d1"><span>Giao dịch 1</span><span>-20.000.000 đ</span></div><div class="ln dup" id="c5c-d2"><span>Giao dịch 2</span><span>-20.000.000 đ</span></div></div>
+          <div class="badge bad" id="c5c-rx" style="left:1620px; top:200px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5d" data-start="@@start:c5d@@" data-duration="@@dur:c5d@@" data-track-index="1">
+        <div class="wrap" id="w-c5d">
+          <div class="chapchip" id="c5d-cc">05 Idempotency Key</div>
+          <div id="c5d-all" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="tile " id="c5d-cart" style="left:220px; top:220px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shopping-cart"/></svg></div>
+          <div class="tile acc" id="c5d-bag" style="left:220px; top:560px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shopping-bag"/></svg></div>
+          <div class="link " id="c5d-la" style="left:420px; top:308px; width:900px;"></div><div class="link acc" id="c5d-lb" style="left:420px; top:648px; width:900px;"></div>
+          <div id="c5d-ka" style="position:absolute; left:520px; top:200px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>7f9a</span></div>
+          <div id="c5d-kb" style="position:absolute; left:520px; top:540px;"><span class="tag alt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>c4e8</span></div>
+          <div class="chip2 ink" id="c5d-sa" style="left:1360px; top:280px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg>Retry</div>
+          <div class="chip2 acc" id="c5d-sb" style="left:1360px; top:620px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-plus"/></svg>Giao dịch mới</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5e" data-start="@@start:c5e@@" data-duration="@@dur:c5e@@" data-track-index="1">
+        <div class="wrap" id="w-c5e">
+          <div class="chapchip" id="c5e-cc">05 Idempotency Key</div>
+          <div class="srv " id="c5e-be" style="left:820px; top:170px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="tile acc" id="c5e-mag" style="left:1050px; top:170px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg></div>
+          <div class="card2" id="c5e-a" style="left:200px; top:440px; width:680px; height:340px;"><div class="ph">Request 1</div><div class="tile " id="c5e-ai" style="left:0px; top:110px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-smartphone"/></svg></div><div class="txt md" id="c5e-at" style="left:200px; top:140px;">Điện thoại</div></div>
+          <div class="card2" id="c5e-b" style="left:1040px; top:440px; width:680px; height:340px;"><div class="ph">Request 2</div><div class="tile " id="c5e-bi" style="left:0px; top:110px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-laptop"/></svg></div><div class="txt md acc" id="c5e-bt" style="left:200px; top:140px;">Laptop</div></div>
+          <div id="c5e-ka" style="position:absolute; left:240px; top:800px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+          <div id="c5e-kb" style="position:absolute; left:1080px; top:800px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+          <div class="badge bad" id="c5e-x" style="left:1660px; top:410px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div>
+          <div class="toast bad" id="c5e-err" style="left:1300px; top:240px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-ban"/></svg>Validation error</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5f" data-start="@@start:c5f@@" data-duration="@@dur:c5f@@" data-track-index="1">
+        <div class="wrap" id="w-c5f">
+          <div class="chapchip" id="c5f-cc">05 Idempotency Key</div>
+          <div class="doc" id="c5f-doc" style="left:360px; top:250px;"><div class="db">aws.amazon.com/builders-library</div><div class="dbody"><div class="src">Amazon Builders' Library</div><div class="ttl">Making retries safe with idempotent APIs</div><i class="sk" style="width:90%;"></i><i class="sk" style="width:70%;"></i><div class="hlrow"><i class="hl" id="c5f-doc-hl"></i><span>unique client request identifier</span></div></div></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c6a" data-start="@@start:c6a@@" data-duration="@@dur:c6a@@" data-track-index="1">
+        <div class="wrap" id="w-c6a">
+          <div class="num" id="c6a-num" style="left:560px; top:250px;">06</div>
+          <div class="tile big" id="c6a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/aws-cloud.svg" alt="" style="width:62%; height:62%; object-fit:contain;"></div>
+          <div class="h1 chap" id="c6a-title" style="top:590px;"><span class="bot">Dựng trên AWS</span></div>
+          <svg class="burst" id="c6a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c6a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c6a-chip">06 Dựng trên AWS</div>
+          <div class="ltile big" id="c6a-gw" style="left:300px; top:320px;"><img src="assets/logos/aws/api-gateway.svg" alt=""><span class="name">Amazon API Gateway</span></div>
+          <div class="ltile big" id="c6a-lam" style="left:840px; top:320px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">AWS Lambda</span></div>
+          <div class="ltile big" id="c6a-ddb" style="left:1380px; top:320px;"><img src="assets/logos/aws/dynamodb.svg" alt=""><span class="name">Amazon DynamoDB</span></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6b" data-start="@@start:c6b@@" data-duration="@@dur:c6b@@" data-track-index="1">
+        <div class="wrap" id="w-c6b">
+          <div class="chapchip" id="c6b-cc">06 Dựng trên AWS</div>
+          <div id="c6b-cv" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="ltile md" id="c6b-cli" style="left:260px; top:300px;"><img src="assets/logos/aws/client.svg" alt=""><span class="name">Client</span></div>
+          <div class="link " id="c6b-l1" style="left:460px; top:388px; width:360px;"></div>
+          <div class="ltile md" id="c6b-gw" style="left:820px; top:300px;"><img src="assets/logos/aws/api-gateway.svg" alt=""><span class="name">API Gateway</span></div>
+          <div class="link " id="c6b-l2" style="left:1020px; top:388px; width:360px;"></div>
+          <div class="ltile md" id="c6b-lam" style="left:1380px; top:300px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="pkt " id="c6b-pk" style="left:470px; top:330px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6c" data-start="@@start:c6c@@" data-duration="@@dur:c6c@@" data-track-index="1">
+        <div class="wrap" id="w-c6c">
+          <div class="chapchip" id="c6c-cc">06 Dựng trên AWS</div>
+          <div id="c6c-cv" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="ltile md" id="c6c-cli" style="left:160px; top:300px;"><img src="assets/logos/aws/client.svg" alt=""><span class="name">Client</span></div>
+          <div class="link " id="c6c-l1" style="left:360px; top:388px; width:200px;"></div>
+          <div class="ltile md" id="c6c-gw" style="left:560px; top:300px;"><img src="assets/logos/aws/api-gateway.svg" alt=""><span class="name">API Gateway</span></div>
+          <div class="link " id="c6c-l2" style="left:760px; top:388px; width:200px;"></div>
+          <div class="ltile md" id="c6c-lam" style="left:960px; top:300px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="pkt " id="c6c-pk" style="left:1110px; top:240px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a</span></div>
+          <div class="tile " id="c6c-biz" style="left:1440px; top:300px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div>
+          <div class="txt " id="c6c-bizn" style="left:1400px; top:520px; font-size:44px;">Thanh toán</div>
+          <div class="link v " id="c6c-probe" style="left:1058px; top:500px; height:200px;"></div>
+          <div class="zone" id="c6c-slot" style="left:820px; top:700px; width:480px; height:160px;"></div>
+          <div class="ltile sm" id="c6c-ddb" style="left:890px; top:720px;"><img src="assets/logos/aws/dynamodb.svg" alt=""></div>
+          <div class="txt md" id="c6c-ddbn" style="left:1040px; top:750px;">DynamoDB</div>
+          </div>
+          <div class="ddb" id="c6c-tbl" style="left:360px; top:170px;"><div class="hd"><img src="assets/logos/aws/dynamodb-table.svg" alt="">Idempotency table</div><div class="cols"><span>id</span><span>status</span><span>response</span></div></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6d" data-start="@@start:c6d@@" data-duration="@@dur:c6d@@" data-track-index="1">
+        <div class="wrap" id="w-c6d">
+          <div class="chapchip" id="c6d-cc">06 Dựng trên AWS</div>
+          <div class="ltile md" id="c6d-lam" style="left:200px; top:200px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="tile " id="c6d-gw" style="left:200px; top:560px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div>
+          <div class="txt " id="c6d-gwn" style="left:150px; top:770px; font-size:44px;">Cổng thanh toán</div>
+          <div class="ddb" id="c6d-tbl" style="left:620px; top:220px;"><div class="hd"><img src="assets/logos/aws/dynamodb-table.svg" alt="">Idempotency table</div><div class="cols"><span>id</span><span>status</span><span>response</span></div><div class="row" id="c6d-row"><span>checkout-7f9a-2026</span><span class="sc"><span class="st inprog" id="c6d-row-ip">INPROGRESS</span><span class="st done" id="c6d-row-ok">COMPLETED</span></span><span><span class="rcpt" id="c6d-row-rs">200 OK</span></span></div></div>
+          <div class="spin" id="c6d-sp" style="left:1210px; top:470px; width:60px; height:60px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-loader"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6e" data-start="@@start:c6e@@" data-duration="@@dur:c6e@@" data-track-index="1">
+        <div class="wrap" id="w-c6e">
+          <div class="chapchip" id="c6e-cc">06 Dựng trên AWS</div>
+          <div class="ltile md" id="c6e-cli" style="left:200px; top:560px;"><img src="assets/logos/aws/client.svg" alt=""><span class="name">Client</span></div>
+          <div class="ltile md" id="c6e-lam" style="left:200px; top:200px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="pkt " id="c6e-pk" style="left:230px; top:470px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a</span></div>
+          <div class="ddb" id="c6e-tbl" style="left:620px; top:170px;"><div class="hd"><img src="assets/logos/aws/dynamodb-table.svg" alt="">Idempotency table</div><div class="cols"><span>id</span><span>status</span><span>response</span></div><div class="row" id="c6e-row"><span>checkout-7f9a-2026</span><span class="sc"><span class="st done" id="c6e-row-ok">COMPLETED</span></span><span><span class="rcpt" id="c6e-row-rs">200 OK</span></span></div></div>
+          <div class="link " id="c6e-lg" style="left:1100px; top:700px; width:420px;"></div>
+          <div class="tile " id="c6e-gw" style="left:1540px; top:612px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div>
+          <div class="badge bad" id="c6e-ban" style="left:1280px; top:650px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-ban"/></svg></div>
+          <div id="c6e-rc" style="position:absolute; left:1340px; top:480px;"><span class="rcpt">200 OK</span></div>
+          <div class="badge ok" id="c6e-rck" style="left:1520px; top:450px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="chip2 acc" id="c6e-lbl" style="left:500px; top:780px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-file-check"/></svg>Response đã lưu</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6f" data-start="@@start:c6f@@" data-duration="@@dur:c6f@@" data-track-index="1">
+        <div class="wrap" id="w-c6f">
+          <div class="chapchip" id="c6f-cc">06 Dựng trên AWS</div>
+          <div id="c6f-lamw" style="position:absolute; left:700px; top:200px; width:520px; height:520px; border-radius:60px; border:8px dashed var(--accent);"></div>
+          <div class="ltile big" id="c6f-lam" style="left:830px; top:330px;"><img src="assets/logos/aws/lambda.svg" alt=""></div>
+          <div class="tile acc" id="c6f-pkg" style="left:1130px; top:160px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-package"/></svg></div>
+          <div class="txt md" id="c6f-pt" style="left:160px; top:760px; width:1600px; text-align:center;">Powertools for AWS Lambda</div>
+          <div class="chip2 ink" id="c6f-lib" style="left:300px; top:320px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-package"/></svg>Thư viện</div>
+          <div class="txt " id="c6f-in" style="left:230px; top:420px; font-size:44px;">chạy bên trong function</div>
+          <div class="chip2 acc" id="c6f-iu" style="left:1280px; top:520px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>Idempotency Utility</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c6g" data-start="@@start:c6g@@" data-duration="@@dur:c6g@@" data-track-index="1">
+        <div class="wrap" id="w-c6g">
+          <div class="chapchip" id="c6g-cc">06 Dựng trên AWS</div>
+          <div id="c6g-orb" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="chip2 ink" id="c6g-k" style="left:860px; top:140px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>key</div>
+          <div id="c6g-ip" style="position:absolute; left:1220px; top:300px;"><span class="st inprog big">INPROGRESS</span></div>
+          <div id="c6g-ok" style="position:absolute; left:1220px; top:620px;"><span class="st done big">COMPLETED</span></div>
+          <div class="chip2 ink" id="c6g-ex" style="left:360px; top:620px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-timer"/></svg>Hết hạn</div>
+          <div class="chip2 ink" id="c6g-rs" style="left:360px; top:300px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-file-check"/></svg>Response</div>
+          </div>
+          <svg class="ico" id="c6g-sh" viewBox="0 0 24 24" aria-hidden="true" style="position:absolute; left:760px; top:240px; width:400px; height:400px; stroke:var(--term-text); stroke-width:1.2;"><use href="#i-shield-check"/></svg>
+          <div class="ltile md" id="c6g-lam" style="left:870px; top:350px;"><img src="assets/logos/aws/lambda.svg" alt=""></div>
+          <div class="pkt " id="c6g-d1" style="left:300px; top:440px;"></div><div class="pkt " id="c6g-d2" style="left:1560px; top:440px;"></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c7a" data-start="@@start:c7a@@" data-duration="@@dur:c7a@@" data-track-index="1">
+        <div class="wrap" id="w-c7a">
+          <div class="num" id="c7a-num" style="left:560px; top:250px;">07</div>
+          <div class="tile big" id="c7a-tile" style="left:800px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-hourglass"/></svg><div class="badge ok" id="c7a-ck" style="left:220px; top:-20px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div></div>
+          <div class="h1 chap" id="c7a-title" style="top:590px;"><span class="bot">INPROGRESS và COMPLETED</span></div>
+          <svg class="burst" id="c7a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c7a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c7a-chip">07 INPROGRESS và COMPLETED</div>
+          <div class="ddb" id="c7a-tbl" style="left:460px; top:180px;"><div class="hd"><img src="assets/logos/aws/dynamodb-table.svg" alt="">Idempotency table</div><div class="cols"><span>id</span><span>status</span><span>response</span></div><div class="row" id="c7a-row"><span>checkout-7f9a-2026</span><span class="sc"><span class="st inprog" id="c7a-row-ip">INPROGRESS</span></span><span></span></div></div>
+          <div id="c7a-big" style="position:absolute; left:700px; top:680px;"><span class="st inprog big">INPROGRESS</span></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c7b" data-start="@@start:c7b@@" data-duration="@@dur:c7b@@" data-track-index="1">
+        <div class="wrap" id="w-c7b">
+          <div class="chapchip" id="c7b-cc">07 INPROGRESS và COMPLETED</div>
+          <div class="pkt " id="c7b-p1" style="left:200px; top:300px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a</span></div>
+          <div class="ltile md" id="c7b-lam" style="left:1000px; top:240px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="ddb" id="c7b-tbl" style="left:620px; top:540px;"><div class="hd"><img src="assets/logos/aws/dynamodb-table.svg" alt="">Idempotency table</div><div class="cols"><span>id</span><span>status</span><span>response</span></div><div class="row" id="c7b-row"><span>checkout-7f9a-2026</span><span class="sc"><span class="st inprog" id="c7b-row-ip">INPROGRESS</span></span><span></span></div></div>
+          <div class="gate" id="c7b-gate" style="left:820px; top:200px; height:300px;"></div>
+          <div class="badge bad" id="c7b-lock" style="left:770px; top:170px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-lock"/></svg></div>
+          <div class="pkt " id="c7b-p2" style="left:200px; top:180px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a</span></div><div class="pkt " id="c7b-p3" style="left:200px; top:420px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a</span></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c7c" data-start="@@start:c7c@@" data-duration="@@dur:c7c@@" data-track-index="1">
+        <div class="wrap" id="w-c7c">
+          <div class="chapchip" id="c7c-cc">07 INPROGRESS và COMPLETED</div>
+          <div class="ltile md" id="c7c-lam" style="left:200px; top:330px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="ddb" id="c7c-tbl" style="left:560px; top:240px;"><div class="hd"><img src="assets/logos/aws/dynamodb-table.svg" alt="">Idempotency table</div><div class="cols"><span>id</span><span>status</span><span>response</span></div><div class="row" id="c7c-row"><span>checkout-7f9a-2026</span><span class="sc"><span class="st inprog" id="c7c-row-ip">INPROGRESS</span><span class="st done" id="c7c-row-ok">COMPLETED</span></span><span><span class="rcpt" id="c7c-row-rs">200 OK</span></span></div></div>
+          <div class="badge ok" id="c7c-big" style="left:1560px; top:170px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c7d" data-start="@@start:c7d@@" data-duration="@@dur:c7d@@" data-track-index="1">
+        <div class="wrap" id="w-c7d">
+          <div class="chapchip" id="c7d-cc">07 INPROGRESS và COMPLETED</div>
+          <div id="c7d-all" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="ltile md" id="c7d-lam" style="left:200px; top:200px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="pkt " id="c7d-pk" style="left:440px; top:520px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a</span></div>
+          <div class="ddb" id="c7d-tbl" style="left:560px; top:230px;"><div class="hd"><img src="assets/logos/aws/dynamodb-table.svg" alt="">Idempotency table</div><div class="cols"><span>id</span><span>status</span><span>response</span></div><div class="row" id="c7d-row"><span>checkout-7f9a-2026</span><span class="sc"><span class="st done" id="c7d-row-ok">COMPLETED</span></span><span><span class="rcpt" id="c7d-row-rs">200 OK</span></span></div></div>
+          <div class="tile " id="c7d-gw" style="left:200px; top:560px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div>
+          <div class="badge bad" id="c7d-ban" style="left:330px; top:530px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-ban"/></svg></div>
+          <div id="c7d-rc" style="position:absolute; left:1300px; top:480px;"><span class="rcpt">200 OK</span></div>
+          <div class="num" id="c7d-n-0" style="left:620px; top:620px;">x1</div><div class="num" id="c7d-n-1" style="left:620px; top:620px;">x2</div><div class="num" id="c7d-n-2" style="left:620px; top:620px;">x3</div><div class="num" id="c7d-n-3" style="left:620px; top:620px;">x4</div><div class="num" id="c7d-n-4" style="left:620px; top:620px;">x5</div>
+          <div class="txt " id="c7d-nl" style="left:620px; top:780px; font-size:44px;">Request</div>
+          <div class="ledger" id="c7d-led" style="left:1100px; top:620px;"><div class="lt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg>Sổ giao dịch</div><div class="ln " id="c7d-l1"><span>1 giao dịch</span><span>-20.000.000 đ</span></div></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c7e" data-start="@@start:c7e@@" data-duration="@@dur:c7e@@" data-track-index="1">
+        <div class="wrap" id="w-c7e">
+          <div class="chapchip" id="c7e-cc">07 INPROGRESS và COMPLETED</div>
+          <div class="pkt " id="c7e-r1" style="left:300px; top:260px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>Request 1</span></div>
+          <div id="c7e-ip" style="position:absolute; left:700px; top:240px;"><span class="st inprog big">INPROGRESS</span></div>
+          <div class="pkt " id="c7e-r2" style="left:300px; top:480px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>Request 2</span></div>
+          <div class="toast " id="c7e-t1" style="left:760px; top:450px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-hourglass"/></svg>Đang xử lý</div>
+          <div class="toast " id="c7e-t2" style="left:760px; top:560px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-rotate-ccw"/></svg>Retry sau</div>
+          <div class="tile " id="c7e-gw" style="left:1500px; top:400px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div>
+          <div class="link acc" id="c7e-a1" style="left:600px; top:760px; width:880px;"></div>
+          <div class="link acc" id="c7e-a2" style="left:600px; top:840px; width:620px;"></div>
+          <div class="badge bad" id="c7e-x" style="left:1240px; top:800px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c8a" data-start="@@start:c8a@@" data-duration="@@dur:c8a@@" data-track-index="1">
+        <div class="wrap" id="w-c8a">
+          <div class="num" id="c8a-num" style="left:560px; top:250px;">08</div>
+          <div class="tile big" id="c8a-tile" style="left:800px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-swords"/></svg></div>
+          <div class="h1 chap" id="c8a-title" style="top:590px;"><span class="bot">Hai request cùng lúc</span></div>
+          <svg class="burst" id="c8a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c8a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c8a-chip">08 Hai request cùng lúc</div>
+          <div class="chip2 acc" id="c8a-btn" style="left:260px; top:440px;">Pay Now</div>
+          <svg class="cursor" id="c8a-cur" viewBox="0 0 24 24" aria-hidden="true" style="left:380px; top:460px;"><use href="#cursor"/></svg>
+          <div class="pkt " id="c8a-p1" style="left:560px; top:420px;"></div><div class="pkt " id="c8a-p2" style="left:560px; top:500px;"></div>
+          <div class="srv " id="c8a-srv" style="left:1420px; top:330px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="chip2 ink" id="c8a-same" style="left:760px; top:640px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-clock"/></svg>Cùng thời điểm</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c8b" data-start="@@start:c8b@@" data-duration="@@dur:c8b@@" data-track-index="1">
+        <div class="wrap" id="w-c8b">
+          <div class="chapchip" id="c8b-cc">08 Hai request cùng lúc</div>
+          <div class="txt " id="c8b-a-n" style="left:160px; top:270px; font-size:44px;">Request A</div>
+          <div class="chip2 " id="c8b-a-c1" style="left:480px; top:240px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg>Kiểm tra key</div><div class="chip2 " id="c8b-a-c2" style="left:900px; top:240px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-database"/></svg>Ghi</div><div class="chip2 " id="c8b-a-c3" style="left:1180px; top:240px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-banknote"/></svg>Trừ tiền</div>
+          <div class="badge " id="c8b-a-no" style="left:760px; top:190px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-circle-help"/></svg></div><div class="badge ok" id="c8b-a-one" style="left:300px; top:200px;"><span style="font:800 44px/1 var(--font);">1</span></div>
+          <div class="txt " id="c8b-b-n" style="left:160px; top:550px; font-size:44px;">Request B</div>
+          <div class="chip2 " id="c8b-b-c1" style="left:480px; top:520px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg>Kiểm tra key</div><div class="chip2 " id="c8b-b-c2" style="left:900px; top:520px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-database"/></svg>Ghi</div><div class="chip2 " id="c8b-b-c3" style="left:1180px; top:520px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-banknote"/></svg>Trừ tiền</div>
+          <div class="badge " id="c8b-b-no" style="left:760px; top:470px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-circle-help"/></svg></div><div class="badge ok" id="c8b-b-one" style="left:300px; top:480px;"><span style="font:800 44px/1 var(--font);">1</span></div>
+          <div class="txt md acc" id="c8b-nk" style="left:600px; top:380px;">chưa có</div>
+          <div class="ledger" id="c8b-led" style="left:560px; top:700px;"><div class="lt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg>Sổ giao dịch</div><div class="ln " id="c8b-d1"><span>Giao dịch A</span><span>-20.000.000 đ</span></div><div class="ln dup" id="c8b-d2"><span>Giao dịch B</span><span>-20.000.000 đ</span></div></div>
+          <div class="callx" id="c8b-x2" style="left:1360px; top:640px;"><svg viewBox="0 0 200 200" aria-hidden="true"><use href="#art-burst"/></svg><b>x2</b></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c8c" data-start="@@start:c8c@@" data-duration="@@dur:c8c@@" data-track-index="1">
+        <div class="wrap" id="w-c8c">
+          <div class="chapchip" id="c8c-cc">08 Hai request cùng lúc</div>
+          <div class="pkt " id="c8c-a" style="left:200px; top:300px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>A</span></div><div class="pkt " id="c8c-b" style="left:200px; top:470px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>B</span></div>
+          <div class="gate" id="c8c-gate" style="left:760px; top:220px; height:380px;"></div>
+          <div class="ltile md" id="c8c-ddb" style="left:880px; top:330px;"><img src="assets/logos/aws/dynamodb.svg" alt=""><span class="name">DynamoDB</span></div>
+          <div class="code" id="c8c-code" style="left:200px; top:640px; width:1200px;"><span class="dim">// Conditional Write</span><br>ConditionExpression: attribute_not_exists(id)</div>
+          <div class="chip2 acc" id="c8c-cw" style="left:1280px; top:200px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-lock"/></svg>Conditional Write</div>
+          <div class="badge bad" id="c8c-bx" style="left:520px; top:430px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div>
+          
+          <div id="c8c-tbl" style="display:flex; align-items:center; position:absolute; left:1160px; top:430px;"><span class="tag" style="position:relative; left:0px; top:0px; margin-right:20px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>A</span><span class="st inprog">INPROGRESS</span></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c8d" data-start="@@start:c8d@@" data-duration="@@dur:c8d@@" data-track-index="1">
+        <div class="wrap" id="w-c8d">
+          <div class="chapchip" id="c8d-cc">08 Hai request cùng lúc</div>
+          <div id="c8d-all" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="ltile md" id="c8d-lam" style="left:260px; top:280px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="chip2 ink" id="c8d-pt" style="left:220px; top:520px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-package"/></svg>Powertools</div>
+          <div id="c8d-ip" style="position:absolute; left:600px; top:330px;"><span class="st inprog big">INPROGRESS</span></div>
+          <div class="pkt " id="c8d-p1" style="left:1160px; top:280px;"></div><div class="pkt " id="c8d-p2" style="left:1160px; top:400px;"></div>
+          <div class="chip2 " id="c8d-simple" style="left:800px; top:600px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg>ID có chưa?</div>
+          <div class="link acc" id="c8d-strike" style="left:790px; top:636px; width:360px;"></div>
+          <div class="chip2 acc" id="c8d-c1" style="left:220px; top:780px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shuffle"/></svg>Race condition</div>
+          <div class="chip2 acc" id="c8d-c2" style="left:820px; top:780px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-hourglass"/></svg>Timeout</div>
+          <div class="chip2 acc" id="c8d-c3" style="left:1260px; top:780px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-loader"/></svg>Chưa hoàn tất</div>
+          </div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c9a" data-start="@@start:c9a@@" data-duration="@@dur:c9a@@" data-track-index="1">
+        <div class="wrap" id="w-c9a">
+          <div class="num" id="c9a-num" style="left:560px; top:250px;">09</div>
+          <div class="tile big" id="c9a-tile" style="left:800px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg><div class="badge " id="c9a-ext" style="left:220px; top:-20px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-external-link"/></svg></div></div>
+          <div class="h1 chap" id="c9a-title" style="top:590px;"><span class="bot">Cổng thanh toán bên ngoài</span></div>
+          <svg class="burst" id="c9a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c9a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c9a-chip">09 Cổng thanh toán bên ngoài</div>
+          <div id="c9a-all" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="zone" id="c9a-cloud" style="left:180px; top:250px; width:1080px; height:520px;"></div>
+          <div class="ltile sm" id="c9a-aws" style="left:200px; top:270px;"><img src="assets/logos/aws/aws-cloud.svg" alt=""></div>
+          <div class="ltile md" id="c9a-gw" style="left:300px; top:420px;"><img src="assets/logos/aws/api-gateway.svg" alt=""><span class="name">API Gateway</span></div>
+          <div class="ltile md" id="c9a-lam" style="left:620px; top:420px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="ltile md" id="c9a-ddb" style="left:940px; top:420px;"><img src="assets/logos/aws/dynamodb.svg" alt=""><span class="name">DynamoDB</span></div>
+          <div class="badge ok" id="c9a-sh" style="left:1180px; top:230px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shield-check"/></svg></div>
+          <div class="tile acc" id="c9a-pp" style="left:1440px; top:420px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div>
+          <div class="txt " id="c9a-ppn" style="left:1330px; top:640px; font-size:44px;">Payment Provider</div>
+          <div class="badge " id="c9a-q" style="left:1600px; top:380px;"><span style="font:800 44px/1 var(--font);">?</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c9b" data-start="@@start:c9b@@" data-duration="@@dur:c9b@@" data-track-index="1">
+        <div class="wrap" id="w-c9b">
+          <div class="chapchip" id="c9b-cc">09 Cổng thanh toán bên ngoài</div>
+          <div class="ltile md" id="c9b-lam" style="left:240px; top:330px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="link " id="c9b-l" style="left:440px; top:418px; width:960px;"></div>
+          <div class="link cut" id="c9b-lc" style="left:440px; top:418px; width:960px;"></div>
+          <div class="pkt " id="c9b-pk" style="left:460px; top:386px;"></div>
+          <div class="tile " id="c9b-pp" style="left:1420px; top:330px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div>
+          <div class="txt " id="c9b-ppn" style="left:1310px; top:550px; font-size:44px;">Payment Provider</div>
+          <div class="badge ok" id="c9b-ok" style="left:1580px; top:300px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="ledger" id="c9b-led" style="left:1180px; top:650px;"><div class="lt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-credit-card"/></svg>Provider</div><div class="ln " id="c9b-r1"><span>Giao dịch</span><span>-20.000.000 đ</span></div></div>
+          <div class="toast bad" id="c9b-to" style="left:700px; top:520px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-wifi-off"/></svg>Timeout</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c9c" data-start="@@start:c9c@@" data-duration="@@dur:c9c@@" data-track-index="1">
+        <div class="wrap" id="w-c9c">
+          <div class="chapchip" id="c9c-cc">09 Cổng thanh toán bên ngoài</div>
+          <div class="ltile md" id="c9c-lam" style="left:240px; top:240px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div id="c9c-ip" style="position:absolute; left:220px; top:520px;"><span class="st inprog big">INPROGRESS</span></div>
+          <div class="txt xl acc" id="c9c-q" style="left:700px; top:300px;">?</div>
+          <div class="pkt " id="c9c-pk" style="left:520px; top:280px;"></div>
+          <div class="ledger" id="c9c-led" style="left:900px; top:300px;"><div class="lt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-credit-card"/></svg>Provider</div><div class="ln " id="c9c-r1"><span>Giao dịch 1</span><span>-20.000.000 đ</span></div><div class="ln dup" id="c9c-r2"><span>Giao dịch 2</span><span>-20.000.000 đ</span></div></div>
+          <div class="callx" id="c9c-x2" style="left:1480px; top:540px;"><svg viewBox="0 0 200 200" aria-hidden="true"><use href="#art-burst"/></svg><b>x2</b></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c9d" data-start="@@start:c9d@@" data-duration="@@dur:c9d@@" data-track-index="1">
+        <div class="wrap" id="w-c9d">
+          <div class="chapchip" id="c9d-cc">09 Cổng thanh toán bên ngoài</div>
+          <div class="ltile md" id="c9d-lam" style="left:220px; top:300px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="link " id="c9d-l" style="left:420px; top:388px; width:980px;"></div>
+          <div class="tile " id="c9d-pp" style="left:1420px; top:300px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div>
+          <div class="txt " id="c9d-ppn" style="left:1310px; top:520px; font-size:44px;">Payment Provider</div>
+          <div id="c9d-k1" style="position:absolute; left:220px; top:200px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+          <div class="pkt " id="c9d-pk" style="left:440px; top:356px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+          <div id="c9d-k2" style="position:absolute; left:1180px; top:200px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+          <div class="badge ok" id="c9d-eq" style="left:1000px; top:190px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-equal"/></svg></div>
+          <div id="c9d-rc" style="position:absolute; left:1440px; top:620px;"><span class="rcpt">200 OK</span></div>
+          <div class="chip2 acc" id="c9d-prev" style="left:600px; top:660px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-file-check"/></svg>Kết quả trước đó</div>
+          <div class="ledger" id="c9d-led" style="left:1180px; top:760px;"><div class="lt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-credit-card"/></svg>Provider</div><div class="ln " id="c9d-r1"><span>1 giao dịch</span><span>-20.000.000 đ</span></div></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c9e" data-start="@@start:c9e@@" data-duration="@@dur:c9e@@" data-track-index="1">
+        <div class="wrap" id="w-c9e">
+          <div class="chapchip" id="c9e-cc">09 Cổng thanh toán bên ngoài</div>
+          <div id="c9e-all" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="tile " id="c9e-s1" style="left:300px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg></div><div class="txt " id="c9e-l1" style="left:300px; top:420px; font-size:44px;">Kiểm tra</div>
+          <div class="tile " id="c9e-s2" style="left:860px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-scale"/></svg></div><div class="txt " id="c9e-l2" style="left:860px; top:420px; font-size:44px;">Đối soát</div>
+          <div class="tile " id="c9e-s3" style="left:1420px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-git-compare"/></svg></div><div class="txt " id="c9e-l3" style="left:1340px; top:420px; font-size:44px;">Reconciliation</div>
+          <div class="chip2 ink" id="c9e-rt" style="left:820px; top:540px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-lock"/></svg>Retry</div>
+          <div class="ltile sm" id="c9e-c0" style="left:200px; top:640px;"><img src="assets/logos/aws/client.svg" alt=""></div><div class="ltile sm" id="c9e-c1" style="left:500px; top:640px;"><img src="assets/logos/aws/api-gateway.svg" alt=""></div><div class="ltile sm" id="c9e-c2" style="left:800px; top:640px;"><img src="assets/logos/aws/lambda.svg" alt=""></div><div class="ltile sm" id="c9e-c3" style="left:1100px; top:640px;"><img src="assets/logos/aws/dynamodb.svg" alt=""></div>
+          <div class="tile " id="c9e-c4" style="left:1400px; top:640px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div>
+          <div class="badge ok" id="c9e-b0" style="left:280px; top:610px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shield-check"/></svg></div><div class="badge ok" id="c9e-b1" style="left:580px; top:610px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shield-check"/></svg></div><div class="badge ok" id="c9e-b2" style="left:880px; top:610px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shield-check"/></svg></div><div class="badge ok" id="c9e-b3" style="left:1180px; top:610px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shield-check"/></svg></div><div class="badge ok" id="c9e-b4" style="left:1560px; top:610px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shield-check"/></svg></div>
+          </div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c10a" data-start="@@start:c10a@@" data-duration="@@dur:c10a@@" data-track-index="1">
+        <div class="wrap" id="w-c10a">
+          <div class="num" id="c10a-num" style="left:560px; top:250px;">10</div>
+          <div class="tile big" id="c10a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/sqs.svg" alt="" style="width:62%; height:62%; object-fit:contain;"></div>
+          <div class="h1 chap" id="c10a-title" style="top:590px;"><span class="bot">SQS và Transactional Outbox</span></div>
+          <svg class="burst" id="c10a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c10a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c10a-chip">10 SQS và Transactional Outbox</div>
+          <div class="chip2 ink" id="c10a-ord" style="left:760px; top:200px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-circle-check"/></svg>Order Confirmed</div>
+          <div class="tile " id="c10a-j1" style="left:360px; top:380px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-mail"/></svg></div><div class="txt " id="c10a-n1" style="left:380px; top:600px; font-size:44px;">Email</div>
+          <div class="tile " id="c10a-j2" style="left:860px; top:380px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-receipt"/></svg></div><div class="txt " id="c10a-n2" style="left:860px; top:600px; font-size:44px;">Hóa đơn</div>
+          <div class="tile " id="c10a-j3" style="left:1360px; top:380px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-truck"/></svg></div><div class="txt " id="c10a-n3" style="left:1330px; top:600px; font-size:44px;">Vận chuyển</div>
+          <div class="zone" id="c10a-lane" style="left:300px; top:700px; width:1320px; height:180px;"></div>
+          <div class="ltile sm" id="c10a-sqs" style="left:330px; top:720px;"><img src="assets/logos/aws/sqs-queue.svg" alt=""></div>
+          <div class="txt md" id="c10a-sqn" style="left:470px; top:760px;">Amazon SQS</div>
+          <img id="c10a-m0" src="assets/logos/aws/sqs-message.svg" alt="" style="position:absolute; left:900px; top:730px; width:120px; height:120px;"><img id="c10a-m1" src="assets/logos/aws/sqs-message.svg" alt="" style="position:absolute; left:1080px; top:730px; width:120px; height:120px;"><img id="c10a-m2" src="assets/logos/aws/sqs-message.svg" alt="" style="position:absolute; left:1260px; top:730px; width:120px; height:120px;">
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c10b" data-start="@@start:c10b@@" data-duration="@@dur:c10b@@" data-track-index="1">
+        <div class="wrap" id="w-c10b">
+          <div class="chapchip" id="c10b-cc">10 SQS và Transactional Outbox</div>
+          <div class="zone" id="c10b-lane" style="left:200px; top:300px; width:1000px; height:200px;"></div>
+          <div class="chip2 ink" id="c10b-std" style="left:220px; top:220px;">Standard Queue</div>
+          <div class="ltile sm" id="c10b-sqs" style="left:230px; top:340px;"><img src="assets/logos/aws/sqs-queue.svg" alt=""></div>
+          <img id="c10b-m1" src="assets/logos/aws/sqs-message.svg" alt="" style="position:absolute; left:400px; top:340px; width:120px; height:120px;">
+          <img id="c10b-m2" src="assets/logos/aws/sqs-message.svg" alt="" style="position:absolute; left:400px; top:340px; width:120px; height:120px;">
+          <div class="srv " id="c10b-wk" style="left:1380px; top:280px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="txt " id="c10b-wkn" style="left:1400px; top:550px; font-size:44px;">Worker</div>
+          <div class="chip2 acc" id="c10b-alo" style="left:500px; top:600px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-repeat"/></svg>at-least-once</div>
+          <div class="badge bad" id="c10b-x2" style="left:1160px; top:240px;"><span style="font:800 44px/1 var(--font);">x2</span></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c10c" data-start="@@start:c10c@@" data-duration="@@dur:c10c@@" data-track-index="1">
+        <div class="wrap" id="w-c10c">
+          <div class="chapchip" id="c10c-cc">10 SQS và Transactional Outbox</div>
+          <div class="srv " id="c10c-wk" style="left:260px; top:280px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="txt " id="c10c-wkn" style="left:280px; top:550px; font-size:44px;">Worker</div>
+          <div class="ledger" id="c10c-tbl" style="left:700px; top:200px;"><div class="lt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-list-checks"/></svg>Processed event IDs</div><div class="ln" id="c10c-r1"><span>evt-1042</span><span><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></span></div></div>
+          <div id="c10c-m1" style="position:absolute; left:260px; top:640px;"><span class="tag">evt-1042</span></div>
+          <div id="c10c-m2" style="position:absolute; left:260px; top:760px;"><span class="tag">evt-1042</span></div>
+          <div class="tile " id="c10c-mail" style="left:1460px; top:560px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-mail"/></svg></div>
+          <div class="badge ok" id="c10c-ok" style="left:1620px; top:530px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="badge " id="c10c-dup" style="left:700px; top:740px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-ban"/></svg></div>
+          <div class="toast " id="c10c-skip" style="left:880px; top:760px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-ban"/></svg>Không gửi lần 2</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c10d" data-start="@@start:c10d@@" data-duration="@@dur:c10d@@" data-track-index="1">
+        <div class="wrap" id="w-c10d">
+          <div class="chapchip" id="c10d-cc">10 SQS và Transactional Outbox</div>
+          <div class="tile " id="c10d-app" style="left:220px; top:330px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div><div class="txt " id="c10d-appn" style="left:210px; top:550px; font-size:44px;">Ứng dụng</div>
+          <div class="ltile md" id="c10d-db" style="left:700px; top:200px;"><img src="assets/logos/aws/rds.svg" alt=""></div>
+          <div class="badge ok" id="c10d-dbok" style="left:840px; top:170px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="link " id="c10d-l" style="left:420px; top:418px; width:560px;"></div>
+          <div class="link cut" id="c10d-lq" style="left:420px; top:560px; width:560px;"></div>
+          <div class="ltile md" id="c10d-sqs" style="left:1020px; top:480px;"><img src="assets/logos/aws/sqs.svg" alt=""></div>
+          <div class="badge bad" id="c10d-x" style="left:880px; top:520px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div>
+          <div class="srv " id="c10d-w1" style="left:1400px; top:200px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div><div class="srv " id="c10d-w2" style="left:1400px; top:560px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="badge " id="c10d-q1" style="left:1590px; top:170px;"><span style="font:800 44px/1 var(--font);">?</span></div><div class="badge " id="c10d-q2" style="left:1590px; top:530px;"><span style="font:800 44px/1 var(--font);">?</span></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c10e" data-start="@@start:c10e@@" data-duration="@@dur:c10e@@" data-track-index="1">
+        <div class="wrap" id="w-c10e">
+          <div class="chapchip" id="c10e-cc">10 SQS và Transactional Outbox</div>
+          <div class="chip2 acc" id="c10e-pat" style="left:500px; top:180px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-layers"/></svg>Transactional Outbox Pattern</div>
+          <div class="ltile md" id="c10e-db" style="left:200px; top:330px;"><img src="assets/logos/aws/rds.svg" alt=""></div>
+          <div class="zone" id="c10e-tx" style="left:460px; top:300px; width:1260px; height:420px;"></div>
+          <div class="ledger" id="c10e-o" style="left:520px; top:360px;"><div class="lt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-database"/></svg>orders</div><div class="ln" id="c10e-o-r"><span>#1042 · CONFIRMED</span><span></span></div></div>
+          <div class="ledger" id="c10e-x" style="left:1140px; top:360px;"><div class="lt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-database"/></svg>outbox</div><div class="ln" id="c10e-x-r"><span>OrderConfirmed</span><span></span></div></div>
+          <div class="chip2 ink" id="c10e-one" style="left:900px; top:760px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg>1 transaction</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c10f" data-start="@@start:c10f@@" data-duration="@@dur:c10f@@" data-track-index="1">
+        <div class="wrap" id="w-c10f">
+          <div class="chapchip" id="c10f-cc">10 SQS và Transactional Outbox</div>
+          <div id="c10f-all" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="ledger" id="c10f-ob" style="left:200px; top:240px;"><div class="lt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-database"/></svg>outbox</div><div class="ln" id="c10f-ob-r"><span>OrderConfirmed</span><span></span></div></div>
+          <div class="ltile md" id="c10f-lam" style="left:820px; top:250px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Relay</span></div>
+          <div class="link " id="c10f-l1" style="left:700px; top:338px; width:120px;"></div><div class="link " id="c10f-l2" style="left:1010px; top:338px; width:300px;"></div>
+          <div class="ltile md" id="c10f-sqs" style="left:1320px; top:250px;"><img src="assets/logos/aws/sqs.svg" alt=""><span class="name">SQS</span></div>
+          <img id="c10f-ev" src="assets/logos/aws/sqs-message.svg" alt="" style="position:absolute; left:1040px; top:280px; width:110px; height:110px;">
+          <div class="chip2 " id="c10f-s1" style="left:700px; top:560px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-database"/></svg>DB</div><div class="chip2 " id="c10f-s2" style="left:940px; top:560px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-send"/></svg>Message</div>
+          </div>
+          <div style="position:absolute; left:200px; top:200px; transform:scale(0.72); transform-origin:0% 0%;"><div class="doc" id="c10f-doc" style="left:0px; top:0px;"><div class="db">aws.amazon.com/prescriptive-guidance</div><div class="dbody"><div class="src">AWS Prescriptive Guidance</div><div class="ttl">Transactional outbox pattern</div><i class="sk" style="width:90%;"></i><i class="sk" style="width:70%;"></i><div class="hlrow"><i class="hl" id="c10f-doc-hl"></i><span>RDS · Lambda · SQS</span></div></div></div></div>
+          <div class="ltile sm" id="c10f-g1" style="left:1240px; top:330px;"><img src="assets/logos/aws/rds.svg" alt=""><span class="name">RDS</span></div><div class="ltile sm" id="c10f-g2" style="left:1420px; top:330px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div><div class="ltile sm" id="c10f-g3" style="left:1600px; top:330px;"><img src="assets/logos/aws/sqs.svg" alt=""><span class="name">SQS</span></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c11a" data-start="@@start:c11a@@" data-duration="@@dur:c11a@@" data-track-index="1">
+        <div class="wrap" id="w-c11a">
+          <div class="num" id="c11a-num" style="left:560px; top:250px;">11</div>
+          <div class="tile big" id="c11a-tile" style="left:800px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-triangle-alert"/></svg><div class="badge " id="c11a-k" style="left:220px; top:-20px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg></div></div>
+          <div class="h1 chap" id="c11a-title" style="top:590px;"><span class="bot">Giới hạn và trường hợp biên</span></div>
+          <svg class="burst" id="c11a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c11a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c11a-chip">11 Giới hạn và trường hợp biên</div>
+          <svg class="ico" id="c11a-sh" viewBox="0 0 24 24" aria-hidden="true" style="position:absolute; left:760px; top:200px; width:400px; height:400px; stroke:var(--ink); stroke-width:1.4;"><use href="#i-shield"/></svg>
+          <div class="chip2 ink" id="c11a-lbl" style="left:720px; top:640px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>Idempotency Key</div>
+          <svg id="c11a-crack" viewBox="0 0 400 400" style="position:absolute; left:760px; top:200px; width:400px; height:400px; overflow:visible;"><path id="c11a-cp" pathLength="1" d="M200 60 L180 140 L222 190 L188 260 L214 330" fill="none" stroke="var(--accent)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 1.2" stroke-dashoffset="1.1"/></svg>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c11b" data-start="@@start:c11b@@" data-duration="@@dur:c11b@@" data-track-index="1">
+        <div class="wrap" id="w-c11b">
+          <div class="chapchip" id="c11b-cc">11 Giới hạn và trường hợp biên</div>
+          <div class="tile " id="c11b-tm" style="left:200px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-timer"/></svg></div>
+          <div class="txt lg" id="c11b-ttl" style="left:420px; top:250px;">TTL</div>
+          <div class="bar2" id="c11b-bar" style="left:200px; top:460px; width:1500px;"><i class="fill" id="c11b-fill"></i></div>
+          <div class="knob" id="c11b-knob" style="position:absolute; left:930px; top:440px; width:64px; height:64px; border-radius:32px; background:var(--accent);"></div>
+          <div class="txt md" id="c11b-short" style="left:200px; top:540px;">Quá ngắn</div>
+          <div class="txt md" id="c11b-long" style="left:1460px; top:540px;">Mãi mãi</div>
+          <div class="pkt " id="c11b-old" style="left:200px; top:700px;"><span class="tag alt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>cũ</span></div>
+          <div class="chip2 acc" id="c11b-new" style="left:480px; top:690px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-plus"/></svg>Xử lý như request mới</div>
+          <div class="ddb" id="c11b-tbl" style="left:600px; top:640px;"><div class="hd"><img src="assets/logos/aws/dynamodb-table.svg" alt="">Idempotency table</div><div class="cols"><span>id</span><span>status</span><span>response</span></div><div class="row" id="c11b-r1"><span>checkout-7f9a-2026</span><span class="sc"><span class="st done" id="c11b-r1-ok">COMPLETED</span></span><span></span></div></div>
+          <div id="c11b-pile" style="position:absolute; left:1300px; top:640px; width:420px; height:240px;"><i class="sk" style="position:absolute; left:0px; top:0px; width:420px;"></i><i class="sk" style="position:absolute; left:0px; top:28px; width:420px;"></i><i class="sk" style="position:absolute; left:0px; top:56px; width:420px;"></i><i class="sk" style="position:absolute; left:0px; top:84px; width:420px;"></i><i class="sk" style="position:absolute; left:0px; top:112px; width:420px;"></i><i class="sk" style="position:absolute; left:0px; top:140px; width:420px;"></i><i class="sk" style="position:absolute; left:0px; top:168px; width:420px;"></i><i class="sk" style="position:absolute; left:0px; top:196px; width:420px;"></i></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c11c" data-start="@@start:c11c@@" data-duration="@@dur:c11c@@" data-track-index="1">
+        <div class="wrap" id="w-c11c">
+          <div class="chapchip" id="c11c-cc">11 Giới hạn và trường hợp biên</div>
+          <div id="c11c-all" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="ltile md" id="c11c-lam" style="left:220px; top:220px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="badge bad" id="c11c-ca" style="left:360px; top:190px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-clock-alert"/></svg></div>
+          <div id="c11c-ip" style="position:absolute; left:560px; top:250px;"><span class="st inprog big">INPROGRESS</span></div>
+          <div class="tile acc" id="c11c-root" style="left:860px; top:460px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-circle-help"/></svg></div>
+          <div class="link" id="c11c-b1" style="left:960px; top:660px; width:460px; transform-origin:0% 50%; rotate:150deg;"></div>
+          <div class="link v" id="c11c-b2" style="left:958px; top:660px; height:120px;"></div>
+          <div class="link" id="c11c-b3" style="left:960px; top:660px; width:460px; transform-origin:0% 50%; rotate:30deg;"></div>
+          <div class="chip2 " id="c11c-o1" style="left:220px; top:820px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg>Thất bại thật?</div>
+          <div class="chip2 " id="c11c-o2" style="left:830px; top:790px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg>Retry?</div>
+          <div class="chip2 " id="c11c-o3" style="left:1220px; top:820px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-external-link"/></svg>Hỏi hệ thống ngoài?</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c11d" data-start="@@start:c11d@@" data-duration="@@dur:c11d@@" data-track-index="1">
+        <div class="wrap" id="w-c11d">
+          <div class="chapchip" id="c11d-cc">11 Giới hạn và trường hợp biên</div>
+          <div class="card2" id="c11d-a" style="left:180px; top:200px; width:740px; height:460px;"><div class="ph">Request 1</div><div class="tile " id="c11d-ai" style="left:0px; top:110px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-smartphone"/></svg></div><div class="txt md" id="c11d-at" style="left:200px; top:120px;">Điện thoại</div><div class="txt md" id="c11d-ap" style="left:200px; top:220px;">20.000.000 đ</div></div>
+          <div class="card2" id="c11d-b" style="left:1000px; top:200px; width:740px; height:460px;"><div class="ph">Request 2</div><div class="tile " id="c11d-bi" style="left:0px; top:110px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-laptop"/></svg></div><div class="txt md acc" id="c11d-bt" style="left:200px; top:120px;">Laptop</div><div class="txt md acc" id="c11d-bp" style="left:200px; top:220px;">30.000.000 đ</div></div>
+          <div id="c11d-ka" style="position:absolute; left:220px; top:700px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+          <div id="c11d-kb" style="position:absolute; left:1040px; top:700px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+          <div class="badge ok" id="c11d-eq" style="left:890px; top:690px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-equal"/></svg></div>
+          <div class="badge bad" id="c11d-x" style="left:1680px; top:170px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div>
+          <div class="toast bad" id="c11d-rej" style="left:1240px; top:800px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-ban"/></svg>Từ chối</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c11e" data-start="@@start:c11e@@" data-duration="@@dur:c11e@@" data-track-index="1">
+        <div class="wrap" id="w-c11e">
+          <div class="chapchip" id="c11e-cc">11 Giới hạn và trường hợp biên</div>
+          <svg class="ico" id="c11e-sh" viewBox="0 0 24 24" aria-hidden="true" style="position:absolute; left:710px; top:180px; width:500px; height:500px; stroke:var(--term-text); stroke-width:1.2;"><use href="#i-shield-check"/></svg>
+          <div class="tile acc" id="c11e-key" style="left:860px; top:330px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg></div>
+          <div class="chip2 ink" id="c11e-c1" style="left:300px; top:240px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-file-search"/></svg>Payload</div>
+          <div class="chip2 ink" id="c11e-c2" style="left:1300px; top:240px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-loader"/></svg>Trạng thái</div>
+          <div class="chip2 ink" id="c11e-c3" style="left:300px; top:600px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-timer"/></svg>Hết hạn</div>
+          <div class="chip2 ink" id="c11e-c4" style="left:1300px; top:600px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-git-compare"/></svg>Reconciliation</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c12a" data-start="@@start:c12a@@" data-duration="@@dur:c12a@@" data-track-index="1">
+        <div class="wrap" id="w-c12a">
+          <div class="num" id="c12a-num" style="left:560px; top:250px;">12</div>
+          <div class="tile big" id="c12a-tile" style="left:800px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-pointer"/></svg><div class="badge ok" id="c12a-k" style="left:220px; top:-20px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-circle-check"/></svg></div></div>
+          <div class="h1 chap" id="c12a-title" style="top:590px;"><span class="bot">Lời giải thật sự</span></div>
+          <svg class="burst" id="c12a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c12a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c12a-chip">12 Lời giải thật sự</div>
+          <div id="c12a-dots" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;"><i class="rdot" id="c12a-d0" style="left:260px; top:300px;"></i><i class="rdot" id="c12a-d1" style="left:410px; top:440px;"></i><i class="rdot" id="c12a-d2" style="left:560px; top:580px;"></i><i class="rdot" id="c12a-d3" style="left:710px; top:370px;"></i><i class="rdot" id="c12a-d4" style="left:860px; top:510px;"></i><i class="rdot" id="c12a-d5" style="left:1010px; top:300px;"></i><i class="rdot" id="c12a-d6" style="left:1160px; top:440px;"></i><i class="rdot" id="c12a-d7" style="left:1310px; top:580px;"></i><i class="rdot" id="c12a-d8" style="left:1460px; top:370px;"></i><i class="rdot" id="c12a-d9" style="left:1610px; top:510px;"></i></div>
+          <div class="pkt " id="c12a-tag" style="left:640px; top:760px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c12b" data-start="@@start:c12b@@" data-duration="@@dur:c12b@@" data-track-index="1">
+        <div class="wrap" id="w-c12b">
+          <div class="chapchip" id="c12b-cc">12 Lời giải thật sự</div>
+          <div class="ltile md" id="c12b-gw" style="left:200px; top:300px;"><img src="assets/logos/aws/api-gateway.svg" alt=""><span class="name">API Gateway</span></div>
+          <div class="link " id="c12b-l1" style="left:400px; top:388px; width:320px;"></div>
+          <div class="ltile md" id="c12b-lam" style="left:720px; top:300px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="link " id="c12b-l2" style="left:920px; top:388px; width:320px;"></div>
+          <div class="ltile md" id="c12b-ddb" style="left:1240px; top:300px;"><img src="assets/logos/aws/dynamodb.svg" alt=""><span class="name">DynamoDB</span></div>
+          <div class="chip2 acc" id="c12b-pt" style="left:660px; top:600px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shield-check"/></svg>Powertools</div>
+          <i class="rdot" id="c12b-dot" style="left:100px; top:368px;"></i>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c12c" data-start="@@start:c12c@@" data-duration="@@dur:c12c@@" data-track-index="1">
+        <div class="wrap" id="w-c12c">
+          <div class="chapchip" id="c12c-cc">12 Lời giải thật sự</div>
+          <div id="c12c-all" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="ltile md" id="c12c-gw" style="left:200px; top:300px;"><img src="assets/logos/aws/api-gateway.svg" alt=""><span class="name">API Gateway</span></div>
+          <div class="link " id="c12c-l1" style="left:400px; top:388px; width:320px;"></div>
+          <div class="ltile md" id="c12c-lam" style="left:720px; top:300px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="link " id="c12c-l2" style="left:920px; top:388px; width:320px;"></div>
+          <div class="ltile md" id="c12c-ddb" style="left:1240px; top:300px;"><img src="assets/logos/aws/dynamodb.svg" alt=""><span class="name">DynamoDB</span></div>
+          <div class="chip2 acc" id="c12c-pt" style="left:660px; top:600px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shield-check"/></svg>Powertools</div>
+          <div class="tile " id="c12c-pay" style="left:1600px; top:300px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-landmark"/></svg></div><div class="txt " id="c12c-ppn" style="left:1500px; top:520px; font-size:44px;">Payment Provider</div>
+          <div class="link " id="c12c-l4" style="left:1440px; top:388px; width:160px;"></div>
+          <div class="badge ok" id="c12c-sh" style="left:1740px; top:270px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shield-check"/></svg></div>
+          <div class="chip2 " id="c12c-rec" style="left:1440px; top:600px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-git-compare"/></svg>Reconciliation</div>
+          <div class="ltile md" id="c12c-sqs" style="left:720px; top:700px;"><img src="assets/logos/aws/sqs.svg" alt=""><span class="name">Amazon SQS</span></div>
+          <div class="link " id="c12c-l5" style="left:920px; top:788px; width:320px;"></div>
+          <div class="srv " id="c12c-wk" style="left:1240px; top:720px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-cpu"/></svg></div>
+          <div class="chip2 ink" id="c12c-eid" style="left:1480px; top:750px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-list-checks"/></svg>event ID</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c12d" data-start="@@start:c12d@@" data-duration="@@dur:c12d@@" data-track-index="1">
+        <div class="wrap" id="w-c12d">
+          <div class="chapchip" id="c12d-cc">12 Lời giải thật sự</div>
+          <div id="c12d-bg" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px; opacity:0.22;"><div class="ltile md" id="c12d-gw" style="left:200px; top:300px;"><img src="assets/logos/aws/api-gateway.svg" alt=""><span class="name">API Gateway</span></div>
+          <div class="link " id="c12d-l1" style="left:400px; top:388px; width:320px;"></div>
+          <div class="ltile md" id="c12d-lam" style="left:720px; top:300px;"><img src="assets/logos/aws/lambda.svg" alt=""><span class="name">Lambda</span></div>
+          <div class="link " id="c12d-l2" style="left:920px; top:388px; width:320px;"></div>
+          <div class="ltile md" id="c12d-ddb" style="left:1240px; top:300px;"><img src="assets/logos/aws/dynamodb.svg" alt=""><span class="name">DynamoDB</span></div>
+          <div class="chip2 acc" id="c12d-pt" style="left:660px; top:600px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shield-check"/></svg>Powertools</div></div>
+          <div class="badge ok" id="c12d-ok" style="left:900px; top:200px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shield-check"/></svg></div>
+          <div id="c12d-rain" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;"><i class="rdot" id="c12d-d0" style="left:160px; top:420px;"></i><i class="rdot" id="c12d-d1" style="left:257px; top:870px;"></i><i class="rdot" id="c12d-d2" style="left:354px; top:780px;"></i><i class="rdot" id="c12d-d3" style="left:451px; top:690px;"></i><i class="rdot" id="c12d-d4" style="left:548px; top:600px;"></i><i class="rdot" id="c12d-d5" style="left:645px; top:510px;"></i><i class="rdot" id="c12d-d6" style="left:742px; top:420px;"></i><i class="rdot" id="c12d-d7" style="left:839px; top:870px;"></i><i class="rdot" id="c12d-d8" style="left:936px; top:780px;"></i><i class="rdot" id="c12d-d9" style="left:1033px; top:690px;"></i><i class="rdot" id="c12d-d10" style="left:1130px; top:600px;"></i><i class="rdot" id="c12d-d11" style="left:1227px; top:510px;"></i><i class="rdot" id="c12d-d12" style="left:1324px; top:420px;"></i><i class="rdot" id="c12d-d13" style="left:1421px; top:870px;"></i><i class="rdot" id="c12d-d14" style="left:1518px; top:780px;"></i><i class="rdot" id="c12d-d15" style="left:1615px; top:690px;"></i><i class="rdot" id="c12d-d16" style="left:1712px; top:600px;"></i><i class="rdot" id="c12d-d17" style="left:209px; top:510px;"></i></div>
+          <div class="pkt " id="c12d-t1" style="left:260px; top:860px;"><span class="tag alt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div><div class="pkt " id="c12d-t2" style="left:1040px; top:860px;"><span class="tag alt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c12e" data-start="@@start:c12e@@" data-duration="@@dur:c12e@@" data-track-index="1">
+        <div class="wrap" id="w-c12e">
+          <div class="tile acc" id="c12e-new" style="left:380px; top:220px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shopping-bag"/></svg></div>
+          <div class="door" id="c12e-nl" style="left:180px; top:450px;">Giao dịch mới</div>
+          <div class="tile " id="c12e-rt" style="left:1260px; top:220px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-rotate-ccw"/></svg></div>
+          <div class="door" id="c12e-rl" style="left:1110px; top:450px;">Lần thử lại</div>
+          <div id="c12e-rays" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;"><i class="ray" id="c12e-r0" style="left:1360px; top:715px; width:180px; rotate:0deg;"></i><i class="ray" id="c12e-r1" style="left:1360px; top:715px; width:180px; rotate:30deg;"></i><i class="ray" id="c12e-r2" style="left:1360px; top:715px; width:180px; rotate:60deg;"></i><i class="ray" id="c12e-r3" style="left:1360px; top:715px; width:180px; rotate:90deg;"></i><i class="ray" id="c12e-r4" style="left:1360px; top:715px; width:180px; rotate:120deg;"></i><i class="ray" id="c12e-r5" style="left:1360px; top:715px; width:180px; rotate:150deg;"></i><i class="ray" id="c12e-r6" style="left:1360px; top:715px; width:180px; rotate:180deg;"></i><i class="ray" id="c12e-r7" style="left:1360px; top:715px; width:180px; rotate:210deg;"></i><i class="ray" id="c12e-r8" style="left:1360px; top:715px; width:180px; rotate:240deg;"></i><i class="ray" id="c12e-r9" style="left:1360px; top:715px; width:180px; rotate:270deg;"></i><i class="ray" id="c12e-r10" style="left:1360px; top:715px; width:180px; rotate:300deg;"></i><i class="ray" id="c12e-r11" style="left:1360px; top:715px; width:180px; rotate:330deg;"></i></div>
+          <div class="tile acc" id="c12e-ok" style="left:1260px; top:620px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-circle-check"/></svg></div>
+          <div id="c12e-dots" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;"><i class="rdot" id="c12e-d0" style="left:300px; top:640px;"></i><i class="rdot" id="c12e-d1" style="left:430px; top:640px;"></i><i class="rdot" id="c12e-d2" style="left:560px; top:640px;"></i><i class="rdot" id="c12e-d3" style="left:690px; top:640px;"></i><i class="rdot" id="c12e-d4" style="left:820px; top:640px;"></i><i class="rdot" id="c12e-d5" style="left:950px; top:640px;"></i><i class="rdot" id="c12e-d6" style="left:1080px; top:640px;"></i><i class="rdot" id="c12e-d7" style="left:1210px; top:640px;"></i><i class="rdot" id="c12e-d8" style="left:1340px; top:640px;"></i><i class="rdot" id="c12e-d9" style="left:1470px; top:640px;"></i></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c12f" data-start="@@start:c12f@@" data-duration="@@dur:c12f@@" data-track-index="1">
+        <div class="wrap" id="w-c12f">
+          <img id="c12f-logo" src="assets/logos/goc-nhin-dev-logo.png" alt="Góc nhìn DEV" style="position:absolute; left:760px; top:160px; width:400px; height:400px; object-fit:contain;">
+          <div class="chip2 ink" id="c12f-pill" style="left:620px; top:640px;"><img src="assets/logos/aws/aws-cloud.svg" alt="" style="width:56px; height:56px; object-fit:contain;">AWS: Behind the Cloud</div>
+          <div class="badge ok" id="c12f-ok" style="left:1150px; top:160px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-circle-check"/></svg></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-ec" data-start="@@start:ec@@" data-duration="@@dur:ec@@" data-track-index="1">
+        <div class="wrap" id="w-ec">
+          <img id="ec-logo" src="@@logo@@" alt="">
+          <div id="ec-brand">@@brand@@ - AWS: Behind the Cloud.</div>
+          <div id="ec-slogan">@@slogan@@</div>
+        </div>
+      </div>
+
+      <div id="kara" data-layout-allow-overlap="true"></div>
+      <audio id="vo" class="clip" data-start="0" data-duration="@@vo@@" data-track-index="8" src="assets/audio/voiceover.mp3" data-volume="1" data-audio-group="voiceover"></audio>
+      <!-- sfx cues are written by scripts/add-sfx.py -->

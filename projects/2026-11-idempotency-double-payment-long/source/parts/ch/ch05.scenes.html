@@ -1,0 +1,83 @@
+      <div class="scene clip" id="sc-c5a" data-start="@@start:c5a@@" data-duration="@@dur:c5a@@" data-track-index="1">
+        <div class="wrap" id="w-c5a">
+          <div class="num" id="c5a-num" style="left:560px; top:250px;">05</div>
+          <div class="tile big" id="c5a-tile" style="left:800px; top:200px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg><span class="tag" style="position:absolute; left:150px; top:250px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>key</span></div>
+          <div class="h1 chap" id="c5a-title" style="top:590px;"><span class="bot">Idempotency Key</span></div>
+          <svg class="burst" id="c5a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c5a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:240px; top:220px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c5a-chip">05 Idempotency Key</div>
+          <div class="win" id="c5a-win" style="left:260px; top:200px; width:900px; height:560px;"><div class="bar"></div>
+          <div class="tile " id="c5a-cart" style="left:60px; top:100px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shopping-cart"/></svg></div>
+          <i class="sk" style="position:absolute; left:280px; top:130px; width:520px;"></i>
+          <span class="btn" id="c5a-btn" style="position:absolute; left:560px; top:380px;">Pay Now</span>
+          </div>
+          <div class="pkt " id="c5a-pk" style="left:1220px; top:420px;"></div>
+          <div id="c5a-uuid" style="position:absolute; left:1190px; top:540px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5b" data-start="@@start:c5b@@" data-duration="@@dur:c5b@@" data-track-index="1">
+        <div class="wrap" id="w-c5b">
+          <div class="chapchip" id="c5b-cc">05 Idempotency Key</div>
+          <div class="code" id="c5b-code" style="left:200px; top:200px; width:1240px;">POST /payments<br><span class="dim">Content-Type: application/json</span><br>Idempotency-Key: checkout-7f9a-2026</div>
+          <div class="pkt " id="c5b-r1" style="left:260px; top:640px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a</span></div>
+          <div class="toast bad" id="c5b-to" style="left:300px; top:760px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-wifi-off"/></svg>Timeout</div>
+          <div class="pkt " id="c5b-r2" style="left:260px; top:640px;"><span class="tag "><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a</span></div>
+          <div class="chip2 acc" id="c5b-rt" style="left:300px; top:520px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg>Retry</div>
+          <div class="srv " id="c5b-be" style="left:1420px; top:560px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="txt " id="c5b-ben" style="left:1418px; top:830px; font-size:44px;">Backend</div>
+          <div class="badge ok" id="c5b-ok" style="left:1600px; top:520px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5c" data-start="@@start:c5c@@" data-duration="@@dur:c5c@@" data-track-index="1">
+        <div class="wrap" id="w-c5c">
+          <div class="chapchip" id="c5c-cc">05 Idempotency Key</div>
+          <div class="card2" id="c5c-l" style="left:180px; top:170px; width:740px; height:680px;"><div class="ph">Đúng</div></div>
+          <div class="txt " id="c5c-lt" style="left:220px; top:260px; font-size:44px;">Một checkout intent = một key</div>
+          <div class="tile " id="c5c-lp1" style="left:240px; top:380px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-pointer"/></svg></div><div class="tile " id="c5c-lp2" style="left:240px; top:540px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-pointer"/></svg></div><div class="tile " id="c5c-lp3" style="left:240px; top:700px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-pointer"/></svg></div>
+          <div id="c5c-lk" style="position:absolute; left:470px; top:560px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>7f9a</span></div>
+          <div class="badge ok" id="c5c-lok" style="left:800px; top:200px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="card2" id="c5c-r" style="left:1000px; top:170px; width:740px; height:680px;"><div class="ph">Sai</div></div>
+          <div id="c5c-rk1" style="position:absolute; left:1060px; top:300px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>7f9a</span></div>
+          <div id="c5c-rk2" style="position:absolute; left:1060px; top:400px;"><span class="tag alt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>b21c</span></div>
+          <div class="ledger" id="c5c-led" style="left:1060px; top:520px;"><div class="lt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg>Backend</div><div class="ln " id="c5c-d1"><span>Giao dịch 1</span><span>-20.000.000 đ</span></div><div class="ln dup" id="c5c-d2"><span>Giao dịch 2</span><span>-20.000.000 đ</span></div></div>
+          <div class="badge bad" id="c5c-rx" style="left:1620px; top:200px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5d" data-start="@@start:c5d@@" data-duration="@@dur:c5d@@" data-track-index="1">
+        <div class="wrap" id="w-c5d">
+          <div class="chapchip" id="c5d-cc">05 Idempotency Key</div>
+          <div id="c5d-all" style="position:absolute; left:0px; top:0px; width:1920px; height:1080px;">
+          <div class="tile " id="c5d-cart" style="left:220px; top:220px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shopping-cart"/></svg></div>
+          <div class="tile acc" id="c5d-bag" style="left:220px; top:560px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shopping-bag"/></svg></div>
+          <div class="link " id="c5d-la" style="left:420px; top:308px; width:900px;"></div><div class="link acc" id="c5d-lb" style="left:420px; top:648px; width:900px;"></div>
+          <div id="c5d-ka" style="position:absolute; left:520px; top:200px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>7f9a</span></div>
+          <div id="c5d-kb" style="position:absolute; left:520px; top:540px;"><span class="tag alt"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>c4e8</span></div>
+          <div class="chip2 ink" id="c5d-sa" style="left:1360px; top:280px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg>Retry</div>
+          <div class="chip2 acc" id="c5d-sb" style="left:1360px; top:620px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-plus"/></svg>Giao dịch mới</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5e" data-start="@@start:c5e@@" data-duration="@@dur:c5e@@" data-track-index="1">
+        <div class="wrap" id="w-c5e">
+          <div class="chapchip" id="c5e-cc">05 Idempotency Key</div>
+          <div class="srv " id="c5e-be" style="left:820px; top:170px;"><i class="slot"></i><i class="slot"></i><b class="led"></b><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="tile acc" id="c5e-mag" style="left:1050px; top:170px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-search"/></svg></div>
+          <div class="card2" id="c5e-a" style="left:200px; top:440px; width:680px; height:340px;"><div class="ph">Request 1</div><div class="tile " id="c5e-ai" style="left:0px; top:110px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-smartphone"/></svg></div><div class="txt md" id="c5e-at" style="left:200px; top:140px;">Điện thoại</div></div>
+          <div class="card2" id="c5e-b" style="left:1040px; top:440px; width:680px; height:340px;"><div class="ph">Request 2</div><div class="tile " id="c5e-bi" style="left:0px; top:110px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-laptop"/></svg></div><div class="txt md acc" id="c5e-bt" style="left:200px; top:140px;">Laptop</div></div>
+          <div id="c5e-ka" style="position:absolute; left:240px; top:800px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+          <div id="c5e-kb" style="position:absolute; left:1080px; top:800px;"><span class="tag"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg>checkout-7f9a-2026</span></div>
+          <div class="badge bad" id="c5e-x" style="left:1660px; top:410px;"><svg viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div>
+          <div class="toast bad" id="c5e-err" style="left:1300px; top:240px;"><svg class="" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-ban"/></svg>Validation error</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-c5f" data-start="@@start:c5f@@" data-duration="@@dur:c5f@@" data-track-index="1">
+        <div class="wrap" id="w-c5f">
+          <div class="chapchip" id="c5f-cc">05 Idempotency Key</div>
+          <div class="doc" id="c5f-doc" style="left:360px; top:250px;"><div class="db">aws.amazon.com/builders-library</div><div class="dbody"><div class="src">Amazon Builders' Library</div><div class="ttl">Making retries safe with idempotent APIs</div><i class="sk" style="width:90%;"></i><i class="sk" style="width:70%;"></i><div class="hlrow"><i class="hl" id="c5f-doc-hl"></i><span>unique client request identifier</span></div></div></div>
+        </div>
+      </div>

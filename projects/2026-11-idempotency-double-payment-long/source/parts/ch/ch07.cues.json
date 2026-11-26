@@ -1,0 +1,188 @@
+{
+  "scenes": [
+    {
+      "id": "c7a",
+      "in": "cut",
+      "at": {
+        "sentence": 84,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c7b",
+      "in": "slide",
+      "at": {
+        "sentence": 86,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c7c",
+      "in": "slide",
+      "at": {
+        "sentence": 88,
+        "word": "Sau"
+      }
+    },
+    {
+      "id": "c7d",
+      "in": "slide",
+      "at": {
+        "sentence": 89,
+        "word": "Bây"
+      }
+    },
+    {
+      "id": "c7e",
+      "in": "fade",
+      "at": {
+        "sentence": 92,
+        "word": "Nếu"
+      }
+    }
+  ],
+  "beats": {
+    "c7a-pop": {
+      "sentence": 84,
+      "word": "hai trạng thái"
+    },
+    "c7a-chip": {
+      "sentence": 85,
+      "word": "Đầu tiên"
+    },
+    "c7a-ip": {
+      "sentence": 85,
+      "word": "In Progress"
+    },
+    "c7b-first": {
+      "sentence": 86,
+      "word": "lần đầu"
+    },
+    "c7b-rec": {
+      "sentence": 86,
+      "word": "bản ghi"
+    },
+    "c7b-proc": {
+      "sentence": 86,
+      "word": "đang được xử lý"
+    },
+    "c7b-stop": {
+      "sentence": 87,
+      "word": "ngăn"
+    },
+    "c7b-sim": {
+      "sentence": 87,
+      "word": "đồng thời"
+    },
+    "c7c-done": {
+      "sentence": 88,
+      "word": "xong"
+    },
+    "c7c-save": {
+      "sentence": 88,
+      "word": "lưu"
+    },
+    "c7c-ok": {
+      "sentence": 88,
+      "word": "Complete"
+    },
+    "c7d-resend": {
+      "sentence": 89,
+      "word": "gửi lại"
+    },
+    "c7d-find": {
+      "sentence": 89,
+      "word": "tìm thấy"
+    },
+    "c7d-ok": {
+      "sentence": 89,
+      "word": "Complete"
+    },
+    "c7d-again": {
+      "sentence": 90,
+      "word": "lần nữa"
+    },
+    "c7d-saved": {
+      "sentence": 90,
+      "word": "đã được lưu"
+    },
+    "c7d-many": {
+      "sentence": 91,
+      "word": "nhiều lần"
+    },
+    "c7d-cons": {
+      "sentence": 91,
+      "word": "nhất quán"
+    },
+    "c7e-r2": {
+      "sentence": 92,
+      "word": "thứ hai"
+    },
+    "c7e-ip": {
+      "sentence": 92,
+      "word": "In Progress"
+    },
+    "c7e-mech": {
+      "sentence": 92,
+      "word": "đồng thời"
+    },
+    "c7e-t1": {
+      "sentence": 93,
+      "word": "đang xử lý"
+    },
+    "c7e-t2": {
+      "sentence": 93,
+      "word": "retry sau"
+    },
+    "c7e-no": {
+      "sentence": 94,
+      "word": "không được phép"
+    },
+    "c7e-se": {
+      "sentence": 94,
+      "word": "side effect"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c7a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7a-ip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7b-rec",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7b-stop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7c-ok",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7d-ok",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7d-saved",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7d-many",
+      "sound": "click"
+    },
+    {
+      "beat": "c7e-t1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7e-no",
+      "sound": "pop"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "scenes": [
+    {
+      "id": "c2a",
+      "in": "cut",
+      "at": {
+        "sentence": 20,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c2b",
+      "in": "slide",
+      "at": {
+        "sentence": 22,
+        "word": "Backend"
+      }
+    },
+    {
+      "id": "c2c",
+      "in": "slide",
+      "at": {
+        "sentence": 25,
+        "word": "Response"
+      }
+    },
+    {
+      "id": "c2d",
+      "in": "fade",
+      "at": {
+        "sentence": 28,
+        "word": "Đây"
+      }
+    },
+    {
+      "id": "c2e",
+      "in": "slide",
+      "at": {
+        "sentence": 32,
+        "word": "Vì"
+      }
+    }
+  ],
+  "beats": {
+    "c2a-pop": {
+      "sentence": 20,
+      "word": "hiểu"
+    },
+    "c2a-chip": {
+      "sentence": 21,
+      "word": "Khi"
+    },
+    "c2a-send": {
+      "sentence": 21,
+      "word": "gửi"
+    },
+    "c2b-check": {
+      "sentence": 22,
+      "word": "kiểm tra"
+    },
+    "c2b-fwd": {
+      "sentence": 22,
+      "word": "gửi"
+    },
+    "c2b-ok": {
+      "sentence": 23,
+      "word": "thành công"
+    },
+    "c2b-stop": {
+      "sentence": 24,
+      "word": "Nhưng"
+    },
+    "c2b-q": {
+      "sentence": 24,
+      "word": "xảy ra"
+    },
+    "c2c-lost": {
+      "sentence": 25,
+      "word": "bị mất"
+    },
+    "c2c-to": {
+      "sentence": 25,
+      "word": "timeout"
+    },
+    "c2c-split": {
+      "sentence": 26,
+      "word": "Ở"
+    },
+    "c2c-done": {
+      "sentence": 26,
+      "word": "hoàn thành"
+    },
+    "c2c-cli": {
+      "sentence": 27,
+      "word": "loading"
+    },
+    "c2d-net": {
+      "sentence": 28,
+      "word": "phân tán"
+    },
+    "c2d-send": {
+      "sentence": 29,
+      "word": "giao tiếp"
+    },
+    "c2d-fog": {
+      "sentence": 29,
+      "word": "giả định"
+    },
+    "c2d-warn": {
+      "sentence": 30,
+      "word": "nguy hiểm"
+    },
+    "c2d-cards": {
+      "sentence": 31,
+      "word": "Client"
+    },
+    "c2d-q": {
+      "sentence": 31,
+      "word": "không biết"
+    },
+    "c2e-resend": {
+      "sentence": 32,
+      "word": "gửi lại"
+    },
+    "c2e-run": {
+      "sentence": 32,
+      "word": "thực hiện"
+    },
+    "c2e-second": {
+      "sentence": 32,
+      "word": "lần thứ hai"
+    },
+    "c2e-grave": {
+      "sentence": 33,
+      "word": "nghiêm trọng"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c2a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2a-send",
+      "sound": "laser"
+    },
+    {
+      "beat": "c2b-ok",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2c-lost",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2c-done",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2d-warn",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2d-q",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2e-resend",
+      "sound": "laser"
+    },
+    {
+      "beat": "c2e-second",
+      "sound": "click"
+    }
+  ]
+}

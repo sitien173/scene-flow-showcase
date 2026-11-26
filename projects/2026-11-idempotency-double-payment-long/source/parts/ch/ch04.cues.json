@@ -1,0 +1,136 @@
+{
+  "scenes": [
+    {
+      "id": "c4a",
+      "in": "cut",
+      "at": {
+        "sentence": 48,
+        "word": "Idempotency"
+      }
+    },
+    {
+      "id": "c4b",
+      "in": "slide",
+      "at": {
+        "sentence": 50,
+        "word": "Nếu"
+      }
+    },
+    {
+      "id": "c4c",
+      "in": "slide",
+      "at": {
+        "sentence": 52,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c4d",
+      "in": "fade",
+      "at": {
+        "sentence": 54,
+        "word": "Đối"
+      }
+    }
+  ],
+  "beats": {
+    "c4a-pop": {
+      "sentence": 48,
+      "word": "tính chất"
+    },
+    "c4a-many": {
+      "sentence": 48,
+      "word": "nhiều lần"
+    },
+    "c4a-same": {
+      "sentence": 48,
+      "word": "cùng một kết quả"
+    },
+    "c4a-chip": {
+      "sentence": 49,
+      "word": "Hãy"
+    },
+    "c4b-set": {
+      "sentence": 50,
+      "word": "một trăm"
+    },
+    "c4b-ten": {
+      "sentence": 50,
+      "word": "mười lần"
+    },
+    "c4b-same": {
+      "sentence": 50,
+      "word": "vẫn là"
+    },
+    "c4b-idem": {
+      "sentence": 51,
+      "word": "idempotent"
+    },
+    "c4c-add": {
+      "sentence": 52,
+      "word": "cộng thêm"
+    },
+    "c4c-one": {
+      "sentence": 52,
+      "word": "tăng thêm"
+    },
+    "c4c-k": {
+      "sentence": 52,
+      "word": "một nghìn"
+    },
+    "c4c-not": {
+      "sentence": 53,
+      "word": "không phải"
+    },
+    "c4d-pay": {
+      "sentence": 54,
+      "word": "thanh toán"
+    },
+    "c4d-many": {
+      "sentence": 54,
+      "word": "nhiều giao dịch"
+    },
+    "c4d-know": {
+      "sentence": 55,
+      "word": "cần biết"
+    },
+    "c4d-new": {
+      "sentence": 55,
+      "word": "hoàn toàn mới"
+    },
+    "c4d-rt": {
+      "sentence": 55,
+      "word": "thử lại"
+    },
+    "c4d-key": {
+      "sentence": 56,
+      "word": "Idempotency Key"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c4a-pop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4b-ten",
+      "sound": "click"
+    },
+    {
+      "beat": "c4b-idem",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4c-k",
+      "sound": "click"
+    },
+    {
+      "beat": "c4c-not",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4d-key",
+      "sound": "pop"
+    }
+  ]
+}
