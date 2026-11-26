@@ -1,0 +1,3 @@
+- Outro dùng tên kênh "Góc nhìn DEV", không dùng "AWS: Behind the Cloud". Lý do: tác giả quyết định ngày 2026-11-26.
+- Voice: Vibi. Lý do: tác giả quyết định ngày 2026-11-26.
+- Hashtag: #aws #cloudcomputing #systemdesign #hoccongnghe #cloudfront #cdn. Lý do: bộ cố định của kênh cộng hai tag của chủ đề.

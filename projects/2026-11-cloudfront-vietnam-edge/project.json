@@ -1,0 +1,16 @@
+{
+  "title": "Tại sao website ở Mỹ vẫn tải nhanh tại Việt Nam?",
+  "author": {
+    "name": "Góc nhìn DEV"
+  },
+  "theme": "cleanui",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 102.7,
+  "publishedAt": "2026-11-26",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-cloudfront-vietnam-edge-fa47fe13/2026-11-cloudfront-vietnam-edge.mp4",
+    "sha256": "fa47fe133f7726b4cb93a6bb969bdd114a9b7402e25945569d750e6fdb0c40fb",
+    "bytes": 3485550
+  }
+}

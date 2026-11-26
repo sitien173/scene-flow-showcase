@@ -1,0 +1,129 @@
+      <div class="scene clip" id="sc-h1" data-start="@@start:h1@@" data-duration="@@dur:h1@@" data-track-index="1">
+        <div class="wrap" id="w-h1">
+<div class="pillx" id="h1-series" style="left:72px; top:80px; display:flex; align-items:center; gap:12px;"><img src="assets/logos/goc-nhin-dev-logo.png" alt="" style="width:40px;height:40px;object-fit:contain;"><img src="assets/logos/aws/cloudfront.svg" alt="" style="width:40px;height:40px;"><span>EP02</span></div>
+<div class="laptop" id="h1-laptop" style="left:110px; top:640px;"><div class="lscreen"><div class="lpage"><div class="lbar"></div><div class="lgrid"><i></i><i></i><i></i></div></div></div><div class="lbase"></div></div>
+<div class="reqchip" id="h1-req" style="left:512px; top:440px;"><svg class="ico" viewBox="0 0 24 24"><use href="#i-image"/></svg></div>
+<div class="cam" id="cam-h1"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><svg class="mapov" viewBox="0 0 1080 1920" aria-hidden="true"><path id="h1-arc" d="M315.8 587.0 Q 593 140 871.0 441.3" style="fill:none; stroke:var(--accent)" stroke-width="7" stroke-linecap="butt" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/><circle id="h1-hcm" cx="315.8" cy="587.0" r="16" style="fill:var(--accent)"/></svg><img class="srv" src="assets/logos/aws/server.svg" alt="" style="left:827.0px; top:397.3px;"></div>
+<div class="pillx" id="h1-km" style="left:383px; top:300px;">&gt; 10.000 km</div>
+<div class="qmark" id="h1-q" style="left:790px; top:1140px;">?</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-p1" data-start="@@start:p1@@" data-duration="@@dur:p1@@" data-track-index="1">
+        <div class="wrap" id="w-p1">
+<div class="tile big" id="p1-tile" style="left:380px; top:420px;"><svg class="ico" viewBox="0 0 24 24" style="width:170px;height:170px"><use href="#i-cable"/></svg></div>
+<div class="cam" id="cam-p1"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><svg class="mapov" viewBox="0 0 1080 1920" aria-hidden="true"><path id="p1-route" d="M315.8 587.0 L304.0 626.7 L347.6 538.9 L454.7 482.8 L871.0 441.3" style="fill:none; stroke:var(--ink)" stroke-width="5" stroke-linecap="butt" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/><g id="p1-hops"><circle cx="304.0" cy="626.7" r="12" style="fill:var(--accent)"/><circle cx="347.6" cy="538.9" r="12" style="fill:var(--accent)"/><circle cx="454.7" cy="482.8" r="12" style="fill:var(--accent)"/></g></svg><img class="srv" src="assets/logos/aws/server.svg" alt="" style="left:827.0px; top:397.3px;"></div>
+<div class="tile" id="p1-gauge" style="left:720px; top:330px;"><svg class="ico" viewBox="0 0 24 24" style="width:96px;height:96px"><use href="#i-gauge"/></svg></div>
+<div class="needle" id="p1-needle" style="left:808px; top:336px;"></div>
+<div class="cnode" id="p1-n-user" style="left:144px;"><svg class="ico" viewBox="0 0 24 24" style="width:70px;height:70px"><use href="#i-user"/></svg></div><div class="clabel" id="p1-l-user" style="left:100px;">Người dùng</div>
+<div class="cnode" id="p1-n-origin" style="left:804px;"><img src="assets/logos/aws/server.svg" alt="" style="width:84px;height:84px"></div><div class="clabel" id="p1-l-origin" style="left:760px;">Origin · Mỹ</div>
+<div class="cline" id="p1-line" style="left:180px; top:1186px; width:660px;"></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-s1" data-start="@@start:s1@@" data-duration="@@dur:s1@@" data-track-index="1">
+        <div class="wrap" id="w-s1">
+<div class="tile big" id="s1-globe" style="left:380px; top:420px;"><svg class="ico" viewBox="0 0 24 24" style="width:170px;height:170px"><use href="#i-globe"/></svg></div>
+<div class="cam" id="cam-s1"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><svg class="mapov" viewBox="0 0 1080 1920" aria-hidden="true"><g id="s1-edges"><circle cx="174.2" cy="552.3" r="7" style="fill:var(--accent)"/><circle cx="304.0" cy="626.7" r="7" style="fill:var(--accent)"/><circle cx="347.6" cy="538.9" r="7" style="fill:var(--accent)"/><circle cx="454.7" cy="482.8" r="7" style="fill:var(--accent)"/><circle cx="376.2" cy="571.2" r="7" style="fill:var(--accent)"/><circle cx="290.1" cy="574.8" r="7" style="fill:var(--accent)"/><circle cx="401.4" cy="475.2" r="7" style="fill:var(--accent)"/><circle cx="316.6" cy="658.4" r="7" style="fill:var(--accent)"/><circle cx="503.0" cy="774.4" r="7" style="fill:var(--accent)"/><circle cx="378.3" cy="527.6" r="7" style="fill:var(--accent)"/><circle cx="866.3" cy="432.9" r="7" style="fill:var(--accent)"/><circle cx="883.6" cy="489.7" r="7" style="fill:var(--accent)"/></g><circle id="s1-han" cx="312.6" cy="544.3" r="14" style="fill:var(--accent)"/><circle id="s1-hcm" cx="315.8" cy="587.0" r="14" style="fill:var(--accent)"/></svg></div>
+<div class="cbox" id="s1-logo" style="left:420px; top:1170px; width:240px; height:240px; border-radius:56px;"><img src="assets/logos/aws/cloudfront.svg" alt="" style="width:170px;height:170px"></div>
+<div class="cbox" id="s1-edgebox" style="left:700px; top:1200px; width:150px; height:150px; border-radius:40px;"><img src="assets/logos/aws/edge-location.svg" alt="" style="width:100px;height:100px"></div>
+<div class="hlab" id="s1-lab-han" style="left:336.6px; top:518.3px;">Hà Nội</div>
+<div class="hlab" id="s1-lab-hcm" style="left:341.8px; top:563.0px;">TP.HCM</div>
+<div class="tag" style="left:96px; top:340px;">Minh họa</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-s2" data-start="@@start:s2@@" data-duration="@@dur:s2@@" data-track-index="1">
+        <div class="wrap" id="w-s2">
+<div class="cam" id="cam-s2" style="transform-origin:315.8px 587.0px;"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><svg class="mapov" viewBox="0 0 1080 1920" aria-hidden="true"><g id="s2-lines"><path id="s2-rt-edge" d="M315.8 587.0 L341.8 569.0" style="fill:none; stroke:var(--accent)" stroke-width="8" stroke-linecap="butt" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/><path id="s2-rt-han" d="M315.8 587.0 L312.6 544.3" style="fill:none; stroke:var(--ink)" stroke-width="4" stroke-linecap="butt" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/><path id="s2-rt-sgp" d="M315.8 587.0 L304.0 626.7" style="fill:none; stroke:var(--ink)" stroke-width="4" stroke-linecap="butt" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/></g><g id="s2-hoangsa"><circle cx="336" cy="561" r="4" style="fill:var(--ink)"/><circle cx="340.5" cy="561.5" r="4" style="fill:var(--ink)"/><circle cx="338.4" cy="563.2" r="4" style="fill:var(--ink)"/><circle cx="337" cy="565.8" r="4" style="fill:var(--ink)"/><circle cx="340.8" cy="565.4" r="4" style="fill:var(--ink)"/></g><g id="s2-truongsa"><circle cx="344.6" cy="590.2" r="4" style="fill:var(--ink)"/><circle cx="348.8" cy="590.6" r="4" style="fill:var(--ink)"/><circle cx="346.8" cy="592.6" r="4" style="fill:var(--ink)"/><circle cx="345.6" cy="595.4" r="4" style="fill:var(--ink)"/><circle cx="348.6" cy="595.8" r="4" style="fill:var(--ink)"/></g><circle id="s2-user" cx="315.8" cy="587.0" r="14" style="fill:var(--ink); stroke:var(--surface); stroke-width:3"/><circle id="s2-ehcm" cx="341.8" cy="569.0" r="16" style="fill:var(--accent); stroke:var(--surface); stroke-width:3"/><circle id="s2-ehan" cx="312.6" cy="544.3" r="16" style="fill:var(--accent); stroke:var(--surface); stroke-width:3"/><circle id="s2-esgp" cx="304.0" cy="626.7" r="16" style="fill:var(--accent); stroke:var(--surface); stroke-width:3"/></svg></div>
+<div class="reqchip" id="s2-chip" style="left:295px; top:660px; transform:scale(0.8);"><svg class="ico" viewBox="0 0 24 24"><use href="#i-image"/></svg></div>
+<div class="hlab" id="s2-lab-han" style="left:110px; top:410px;">Hà Nội</div>
+<div class="hlab" id="s2-lab-hcm" style="left:60px; top:570px;">TP.HCM</div>
+<div class="hlab" id="s2-lab-hsa" style="left:450px; top:470px;">Hoàng Sa</div>
+<div class="hlab" id="s2-lab-tsa" style="left:470px; top:610px;">Trường Sa</div>
+<div class="cnode" id="s2-n-user" style="left:144px;"><svg class="ico" viewBox="0 0 24 24" style="width:70px;height:70px"><use href="#i-user"/></svg></div><div class="clabel" id="s2-l-user" style="left:100px;">Người dùng</div>
+<div class="cnode" id="s2-n-edge" style="left:474px;"><img src="assets/logos/aws/edge-location.svg" alt="" style="width:84px;height:84px"></div><div class="clabel" id="s2-l-edge" style="left:430px;">Edge Location</div>
+<div class="cnode" id="s2-n-origin" style="left:804px;"><img src="assets/logos/aws/server.svg" alt="" style="width:84px;height:84px"></div><div class="clabel" id="s2-l-origin" style="left:760px;">Origin · Mỹ</div>
+<div class="tag" style="left:96px; top:340px;">Minh họa</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-h2" data-start="@@start:h2@@" data-duration="@@dur:h2@@" data-track-index="1">
+        <div class="wrap" id="w-h2">
+<div class="shelf" id="h2-shelf"><div class="slot" id="h2-shelf-s0" style="left:120px;"><svg class="ico" viewBox="0 0 24 24"><use href="#i-image"/></svg></div><div class="slot" id="h2-shelf-s1" style="left:420px;"><svg class="ico" viewBox="0 0 24 24"><use href="#i-film"/></svg></div><div class="slot" id="h2-shelf-s2" style="left:720px;"><svg class="ico" viewBox="0 0 24 24"><use href="#i-file-code"/></svg></div></div>
+<div class="reqchip" id="h2-chip" style="left:480px; top:720px;"><svg class="ico" viewBox="0 0 24 24"><use href="#i-image"/></svg></div>
+<div class="pillx center hit" id="h2-hit" style="top:640px;">CACHE HIT</div>
+<div class="cam" id="cam-h2"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><svg class="mapov" viewBox="0 0 1080 1920" aria-hidden="true"><path id="h2-loop" d="M315.8 587.0 Q 355.8 517.0 341.8 569.0" style="fill:none; stroke:var(--term-text)" stroke-width="8" stroke-linecap="butt" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/><path d="M855.0 425.3 L887.0 457.3 M887.0 425.3 L855.0 457.3" id="h2-cross" style="stroke:var(--unread)" stroke-width="7" stroke-linecap="round"/><circle id="h2-user" cx="315.8" cy="587.0" r="12" style="fill:var(--ink)"/><circle id="h2-ehcm" cx="341.8" cy="569.0" r="14" style="fill:var(--accent)"/></svg><img class="srv" src="assets/logos/aws/server.svg" alt="" style="left:827.0px; top:397.3px;"></div>
+<div class="tick" id="h2-tick" style="left:220px; top:610px;"><svg class="ico" viewBox="0 0 24 24"><use href="#i-check"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-m1" data-start="@@start:m1@@" data-duration="@@dur:m1@@" data-track-index="1">
+        <div class="wrap" id="w-m1">
+<div class="shelf" id="m1-shelf"><div class="slot" id="m1-shelf-s0" style="left:120px;"></div><div class="slot" id="m1-shelf-s1" style="left:420px;"></div><div class="slot" id="m1-shelf-s2" style="left:720px;"></div></div>
+<div class="reqchip miss" id="m1-chip" style="left:480px; top:720px;"><svg class="ico" viewBox="0 0 24 24"><use href="#i-image"/></svg></div>
+<div class="pillx center miss" id="m1-pill" style="top:640px;">CACHE MISS</div>
+<div class="cnode" id="m1-n-user" style="left:114px;"><svg class="ico" viewBox="0 0 24 24" style="width:70px;height:70px"><use href="#i-user"/></svg></div><div class="clabel" id="m1-l-user" style="left:70px;">Người dùng</div>
+<div class="cnode" id="m1-n-edge" style="left:334px;"><img src="assets/logos/aws/edge-location.svg" alt="" style="width:84px;height:84px"></div><div class="clabel" id="m1-l-edge" style="left:290px;">Edge Location</div>
+<div class="cnode" id="m1-n-reg" style="left:554px;"><svg viewBox="0 0 84 84" width="84" height="84"><rect x="6" y="8" width="72" height="68" rx="10" style="fill:var(--surface); stroke:var(--ink)" stroke-width="5"/><path d="M6 42 H78" style="stroke:var(--ink)" stroke-width="5"/></svg></div><div class="clabel" id="m1-l-reg" style="left:510px;">Regional Edge Cache</div>
+<div class="cnode" id="m1-n-origin" style="left:774px;"><img src="assets/logos/aws/server.svg" alt="" style="width:84px;height:84px"></div><div class="clabel" id="m1-l-origin" style="left:730px;">Origin · Mỹ</div>
+<div class="bypass" id="m1-bypass" style="top:880px;">Một số request đi thẳng</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-m2" data-start="@@start:m2@@" data-duration="@@dur:m2@@" data-track-index="1">
+        <div class="wrap" id="w-m2">
+<div class="cam" id="cam-m2"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><svg class="mapov" viewBox="0 0 1080 1920" aria-hidden="true"><path id="m2-route" d="M315.8 587.0 Q 593 140 871.0 441.3" style="fill:none; stroke:var(--mascot)" stroke-width="8" stroke-linecap="butt" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/><g id="m2-next"><circle cx="290.1" cy="574.8" r="9" style="fill:var(--accent)"/><circle cx="376.2" cy="571.2" r="9" style="fill:var(--accent)"/><circle cx="304.0" cy="626.7" r="9" style="fill:var(--accent)"/></g><g id="m2-next-lines"><path id="m2-nl0" d="M290.1 574.8 L315.8 587.0" style="fill:none; stroke:var(--term-text)" stroke-width="6" stroke-linecap="butt" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/><path id="m2-nl1" d="M376.2 571.2 L315.8 587.0" style="fill:none; stroke:var(--term-text)" stroke-width="6" stroke-linecap="butt" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/><path id="m2-nl2" d="M304.0 626.7 L315.8 587.0" style="fill:none; stroke:var(--term-text)" stroke-width="6" stroke-linecap="butt" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/></g><circle id="m2-hcm" cx="315.8" cy="587.0" r="14" style="fill:var(--accent)"/></svg><img class="srv" src="assets/logos/aws/server.svg" alt="" style="left:827.0px; top:397.3px;"></div>
+<div class="cnode" id="m2-n-user" style="left:114px;"><svg class="ico" viewBox="0 0 24 24" style="width:70px;height:70px"><use href="#i-user"/></svg></div><div class="clabel" id="m2-l-user" style="left:70px;">Người dùng</div>
+<div class="cnode" id="m2-n-edge" style="left:334px;"><img src="assets/logos/aws/edge-location.svg" alt="" style="width:84px;height:84px"></div><div class="clabel" id="m2-l-edge" style="left:290px;">Edge Location</div>
+<div class="cnode" id="m2-n-reg" style="left:554px;"><svg viewBox="0 0 84 84" width="84" height="84"><rect x="6" y="8" width="72" height="68" rx="10" style="fill:var(--surface); stroke:var(--ink)" stroke-width="5"/><path d="M6 42 H78" style="stroke:var(--ink)" stroke-width="5"/></svg></div><div class="clabel" id="m2-l-reg" style="left:510px;">Regional Edge Cache</div>
+<div class="cnode" id="m2-n-origin" style="left:774px;"><img src="assets/logos/aws/server.svg" alt="" style="width:84px;height:84px"></div><div class="clabel" id="m2-l-origin" style="left:730px;">Origin · Mỹ</div>
+<div class="badge" id="m2-fe" style="left:414px; top:1094px;"><svg class="ico" viewBox="0 0 24 24"><use href="#i-image"/></svg></div>
+<div class="badge" id="m2-fr" style="left:634px; top:1094px;"><svg class="ico" viewBox="0 0 24 24"><use href="#i-image"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-l1" data-start="@@start:l1@@" data-duration="@@dur:l1@@" data-track-index="1">
+        <div class="wrap" id="w-l1">
+<div class="tile big" id="l1-split" style="left:380px; top:300px;"><svg class="ico" viewBox="0 0 24 24" style="width:170px;height:170px"><use href="#i-split"/></svg></div>
+<div class="pillx" id="l1-lc" style="left:96px; top:680px;">Cache được</div>
+<div class="pillx" id="l1-lb" style="left:600px; top:680px;">Đi đến backend</div>
+<div class="cbox" id="l1-c0" style="left:96px; top:780px; width:120px; height:120px; border-radius:32px;"><svg class="ico" viewBox="0 0 24 24" style="width:64px;height:64px"><use href="#i-image"/></svg></div>
+<div class="cbox" id="l1-c1" style="left:236px; top:780px; width:120px; height:120px; border-radius:32px;"><svg class="ico" viewBox="0 0 24 24" style="width:64px;height:64px"><use href="#i-sparkles"/></svg></div>
+<div class="cbox" id="l1-c2" style="left:376px; top:780px; width:120px; height:120px; border-radius:32px;"><svg class="ico" viewBox="0 0 24 24" style="width:64px;height:64px"><use href="#i-file-code"/></svg></div>
+<div class="cbox" id="l1-r0" style="left:600px; top:780px; width:120px; height:120px; border-radius:32px;"><svg class="ico" viewBox="0 0 24 24" style="width:64px;height:64px"><use href="#i-user"/></svg></div>
+<div class="cbox" id="l1-r1" style="left:740px; top:780px; width:120px; height:120px; border-radius:32px;"><svg class="ico" viewBox="0 0 24 24" style="width:64px;height:64px"><use href="#i-shopping-cart"/></svg></div>
+<div class="cbox" id="l1-r2" style="left:880px; top:780px; width:120px; height:120px; border-radius:32px;"><svg class="ico" viewBox="0 0 24 24" style="width:64px;height:64px"><use href="#i-credit-card"/></svg></div>
+<svg class="mapov" viewBox="0 0 1080 1920" aria-hidden="true"><path id="l1-back-path" d="M 940 920 Q 1000 1030 840 1120" style="fill:none; stroke:var(--mascot)" stroke-width="8" stroke-linecap="butt" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"/></svg>
+<div class="cnode" id="l1-n-origin" style="left:774px;"><img src="assets/logos/aws/server.svg" alt="" style="width:84px;height:84px"></div><div class="clabel" id="l1-l-origin" style="left:730px;">Origin · Mỹ</div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-r1" data-start="@@start:r1@@" data-duration="@@dur:r1@@" data-track-index="1">
+        <div class="wrap" id="w-r1">
+<div class="cam" id="cam-r1"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><svg class="mapov" viewBox="0 0 1080 1920" aria-hidden="true"><path id="r1-arc" d="M315.8 587.0 Q 593 140 871.0 441.3" style="fill:none; stroke:var(--mascot)" stroke-width="6" stroke-linecap="round"/><g id="r1-edges"><circle cx="174.2" cy="552.3" r="7" style="fill:var(--term-text)"/><circle cx="304.0" cy="626.7" r="7" style="fill:var(--term-text)"/><circle cx="347.6" cy="538.9" r="7" style="fill:var(--term-text)"/><circle cx="454.7" cy="482.8" r="7" style="fill:var(--term-text)"/><circle cx="376.2" cy="571.2" r="7" style="fill:var(--term-text)"/><circle cx="290.1" cy="574.8" r="7" style="fill:var(--term-text)"/><circle cx="401.4" cy="475.2" r="7" style="fill:var(--term-text)"/><circle cx="316.6" cy="658.4" r="7" style="fill:var(--term-text)"/><circle cx="503.0" cy="774.4" r="7" style="fill:var(--term-text)"/><circle cx="378.3" cy="527.6" r="7" style="fill:var(--term-text)"/><circle cx="866.3" cy="432.9" r="7" style="fill:var(--term-text)"/><circle cx="883.6" cy="489.7" r="7" style="fill:var(--term-text)"/></g><circle id="r1-hcm" cx="315.8" cy="587.0" r="14" style="fill:var(--accent)"/><circle id="r1-han" cx="312.6" cy="544.3" r="14" style="fill:var(--accent)"/><circle id="r1-ring1" cx="315.8" cy="587.0" r="14" style="fill:none; stroke:var(--accent)" stroke-width="5"/><circle id="r1-ring2" cx="312.6" cy="544.3" r="14" style="fill:none; stroke:var(--accent)" stroke-width="5"/></svg><img class="srv" src="assets/logos/aws/server.svg" alt="" style="left:827.0px; top:397.3px;"></div>
+<div class="cbox" id="r1-logo" style="left:390px; top:340px; width:300px; height:300px; border-radius:72px;"><img src="assets/logos/aws/cloudfront.svg" alt="" style="width:210px;height:210px"></div>
+<div class="pillx center" id="r1-lbl" style="top:680px;">Amazon CloudFront</div>
+<div class="thesis" id="r1-thesis">Đưa dữ liệu đến gần người dùng</div>
+<div class="tick" id="r1-tick" style="left:700px; top:300px;"><svg class="ico" viewBox="0 0 24 24"><use href="#i-check"/></svg></div>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-e1" data-start="@@start:e1@@" data-duration="@@dur:e1@@" data-track-index="1">
+        <div class="wrap" id="w-e1">
+<div class="cam" id="cam-e1" style="opacity:0.3;"><img class="mapimg" src="assets/map/world-dots.svg" alt=""><svg class="mapov" viewBox="0 0 1080 1920" aria-hidden="true"><g id="e1-edges"><circle cx="174.2" cy="552.3" r="7" style="fill:var(--term-text)"/><circle cx="304.0" cy="626.7" r="7" style="fill:var(--term-text)"/><circle cx="347.6" cy="538.9" r="7" style="fill:var(--term-text)"/><circle cx="454.7" cy="482.8" r="7" style="fill:var(--term-text)"/><circle cx="376.2" cy="571.2" r="7" style="fill:var(--term-text)"/><circle cx="290.1" cy="574.8" r="7" style="fill:var(--term-text)"/><circle cx="401.4" cy="475.2" r="7" style="fill:var(--term-text)"/><circle cx="316.6" cy="658.4" r="7" style="fill:var(--term-text)"/><circle cx="503.0" cy="774.4" r="7" style="fill:var(--term-text)"/><circle cx="378.3" cy="527.6" r="7" style="fill:var(--term-text)"/><circle cx="866.3" cy="432.9" r="7" style="fill:var(--term-text)"/><circle cx="883.6" cy="489.7" r="7" style="fill:var(--term-text)"/></g></svg></div>
+<img id="e1-logo" src="assets/logos/goc-nhin-dev-logo.png" alt="" style="position:absolute; left:420px; top:560px; width:240px; height:240px; object-fit:contain;">
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-ec" data-start="@@start:ec@@" data-duration="@@dur:ec@@" data-track-index="1">
+        <div class="wrap" id="w-ec">
+          <img id="ec-logo" src="@@logo@@" alt="">
+          <div id="ec-brand">@@brand@@</div>
+          <div id="ec-slogan">@@slogan@@</div>
+        </div>
+      </div>
+
+      <div id="kara" data-layout-allow-overlap="true"></div>
+      <audio id="vo" class="clip" data-start="0" data-duration="@@vo@@" data-track-index="8" src="assets/audio/voiceover.mp3" data-volume="1" data-audio-group="voiceover"></audio>
+      <!-- sfx cues are written by scripts/add-sfx.py -->
