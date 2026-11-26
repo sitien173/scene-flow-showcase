@@ -1,0 +1,122 @@
+      /* the look colours (paper, ink, accent, ...) are written by build.py from look.json. --claude is Claude's
+         brand colour: a fixed brand mark, not a look token. */
+      :root {
+        --claude:#D97757;
+        --font:"Be Vietnam Pro","Segoe UI",sans-serif;
+      }
+      html, body { width:1920px; height:1080px; margin:0; padding:0; overflow:hidden; background:var(--paper); }
+      body { color:var(--ink); font-family:var(--font); -webkit-font-smoothing:antialiased; }
+      #root { position:relative; width:1920px; height:1080px; overflow:hidden; background:var(--paper); }
+
+      /* the page pattern (dots, grid, gradient or plain) is written by build.py from look.json "background" */
+      #bg { position:absolute; inset:0; }
+
+      .scene { position:absolute; inset:0; z-index:1; }
+      .wrap { position:absolute; inset:0; will-change:transform, opacity; }
+
+      /* icons: Lucide symbols from the page sprite; stroke comes from the outer svg */
+      .ico { fill:none; stroke:var(--ink); stroke-width:2.2; stroke-linecap:round; stroke-linejoin:round; }
+
+      /* white icon tile with a soft shadow (184 px, radius 40) */
+      .tile { position:absolute; width:184px; height:184px; border-radius:40px; background:var(--surface);
+              box-shadow:0 18px 40px rgba(0,0,0,0.14); display:flex; align-items:center; justify-content:center; }
+      .tile .ico { width:96px; height:96px; }
+      /* large tile for a chapter opener or a result: 320 px, glyph 170 px (style.md section 3 icon floor) */
+      .tile.big { width:320px; height:320px; border-radius:72px; }
+      .tile.big .ico { width:170px; height:170px; }
+
+      /* product marks: read from the house logo set (style.md section 6) */
+      .logo { position:absolute; width:184px; height:184px; border-radius:40px; display:flex; align-items:center;
+              justify-content:center; box-shadow:0 18px 40px rgba(0,0,0,0.14); }
+      .logo-claude { background:var(--claude); }
+      .logo-claude svg { width:100px; height:100px; fill:#FFFFFF; }
+      .logo-openai { background:var(--surface); }
+      .logo-openai svg { width:104px; height:106px; fill:var(--ink); }
+      .name { position:absolute; width:300px; text-align:center; font-size:44px; font-weight:600; line-height:1.2; color:var(--ink); }
+
+      /* two-line heading: light top line, bold second line; both centred on the 72 px margins */
+      .h1 { position:absolute; left:72px; right:72px; text-align:center; color:var(--ink); }
+      .h1 .top { display:block; font-size:72px; font-weight:500; line-height:1.15; }
+      .h1 .bot { display:block; font-size:88px; font-weight:800; line-height:1.1; }
+      .h1.chap .bot { font-size:104px; font-weight:800; line-height:1.05; }   /* chapter title floor, style.md section 3 */
+      .num { position:absolute; left:72px; font-size:104px; font-weight:800; line-height:1; color:var(--accent); }
+      /* number callout: 120 px, white on the accent starburst behind it, centred in its own box (chapter number keeps 104 px accent) */
+      .callnum { position:absolute; width:300px; text-align:center; font-size:120px; font-weight:800; line-height:1; color:var(--on-accent); }
+
+      /* chat card: a white panel with a Claude header and an accent send button */
+      .chat { position:absolute; left:72px; width:936px; height:520px; box-sizing:border-box; padding:48px;
+              border-radius:36px; background:var(--surface); box-shadow:0 18px 40px rgba(0,0,0,0.14); }
+      .chat-head { display:flex; align-items:center; gap:20px; font-size:44px; font-weight:600; color:var(--ink); }
+      .chat-mini { width:72px; height:72px; border-radius:20px; background:var(--claude); display:flex;
+                   align-items:center; justify-content:center; }
+      .chat-mini svg { width:44px; height:44px; fill:#FFFFFF; }
+      .chat-body { margin-top:40px; font-size:56px; font-weight:700; line-height:1.3; color:var(--ink); }
+      .send { position:absolute; right:48px; bottom:48px; width:88px; height:88px; border-radius:50%;
+              background:var(--accent); display:flex; align-items:center; justify-content:center; }
+      .send .ico { stroke:var(--on-accent); width:44px; height:44px; }
+      .send-big { position:absolute; width:160px; height:160px; border-radius:50%; background:var(--accent);
+                  display:flex; align-items:center; justify-content:center; box-shadow:0 18px 40px rgba(0,0,0,0.14); }
+      .send-big .ico { stroke:var(--on-accent); width:72px; height:72px; }
+
+      /* screenshot slot: an empty styled frame where the author places a screenshot. It holds no image and no text. */
+      .shot { position:absolute; left:72px; width:936px; height:420px; box-sizing:border-box; border-radius:28px;
+              background:var(--surface); border:2px solid var(--line); box-shadow:0 18px 40px rgba(0,0,0,0.10); }
+
+      /* media card: the author's clip or image, 16:9 at 936 x 527, above the mid caption band. Cover-fit, so other
+         aspects are cropped to the centre. */
+      .media { position:absolute; left:72px; top:400px; width:936px; height:527px; border-radius:28px; object-fit:cover;
+               background:var(--surface); box-shadow:0 18px 40px rgba(0,0,0,0.14); }
+
+      /* checklist chip: white pill, square tick box, 44 px/600 */
+      .chip { position:absolute; width:300px; height:68px; box-sizing:border-box; border-radius:34px; background:var(--surface);
+              box-shadow:0 10px 24px rgba(0,0,0,0.10); display:flex; align-items:center; gap:14px; padding:0 22px;
+              font-size:44px; font-weight:600; color:var(--ink); white-space:nowrap; }
+      .chip .box { width:30px; height:30px; flex:none; border-radius:8px; border:3px solid var(--ink); }
+
+      /* terminal panel: near-black, rounded 28 px, green text */
+      .term { position:absolute; left:72px; width:936px; height:340px; box-sizing:border-box; padding:44px;
+              border-radius:28px; background:var(--term); color:var(--term-text); font-size:44px; font-weight:600; line-height:1.5;
+              box-shadow:0 18px 40px rgba(0,0,0,0.20); }
+      .term .dim { color:var(--term-dim); }
+
+      /* black label pill: 78 px high, 62 px/800 white text (style.md section 3 label size) */
+      .label { position:absolute; height:78px; box-sizing:border-box; padding:0 30px; border-radius:39px; background:var(--ink);
+               color:var(--on-ink); font-size:62px; font-weight:800; line-height:78px; white-space:nowrap; min-width:max-content; }
+
+      /* chrome sphere: a CSS radial gradient with a soft drop shadow (no image) */
+      .sphere { position:absolute; width:200px; height:200px; border-radius:50%;
+                background:radial-gradient(circle at 34% 28%, #FFFFFF 0%, #E6EAF0 14%, #A9B2BF 38%, #5B6472 66%, #2A2F38 88%, #14171C 100%);
+                box-shadow:0 30px 50px rgba(0,0,0,0.22); }
+
+      /* download glyph: a dashed ring with the Lucide download icon at its centre */
+      .glyph { position:absolute; width:150px; height:150px; }
+      .glyph svg.ring { position:absolute; left:0; top:0; width:150px; height:150px; overflow:visible; }
+      .glyph .ico { position:absolute; left:40px; top:40px; width:70px; height:70px; }
+
+      /* radial overlay: rays from the centre, fading out at the rim, drawn above the page and under the marks */
+      .radial { position:absolute; left:40px; top:300px; width:1000px; height:1000px; border-radius:50%;
+                background:repeating-conic-gradient(from 0deg, color-mix(in srgb, var(--accent) 22%, transparent) 0deg 6deg, transparent 6deg 18deg);
+                -webkit-mask-image:radial-gradient(circle, #000 30%, transparent 70%);
+                        mask-image:radial-gradient(circle, #000 30%, transparent 70%); }
+
+      /* leader line: a dashed path with round ends, drawn through a mask that the timeline animates */
+      .leader { position:absolute; left:0; top:0; width:1080px; height:1920px; overflow:visible; pointer-events:none; }
+
+      /* teal mascot and accent starburst: inline symbols in stage.part, coloured by look.json (mascot, face, accent) */
+      .mascot { position:absolute; width:240px; height:240px; }
+      .burst { position:absolute; width:180px; height:180px; }
+
+      /* captions: top band, y 170 to 330, just under the platform top bar; unread grey, read ink, no halo.
+         A scene may move the band to y 980 (cues.json "band": "mid"); timeline.js sets it per scene. */
+      #kara { position:absolute; z-index:21; inset:0; pointer-events:none; }
+      .kc { position:absolute; left:72px; right:72px; top:170px; height:160px; line-height:1.25; text-align:center; }
+      .kin { display:block; color:var(--ink); font-size:54px; font-weight:700; line-height:1.25; white-space:nowrap; opacity:0; }
+      .kw { position:relative; display:inline-block; padding:0 6px; margin:0; }
+      .kb { position:relative; color:var(--caption-unlit); }
+
+      /* end card: the house mark, brand and slogan */
+      #ec-logo { position:absolute; top:548px; left:420px; display:block; width:240px; height:240px; object-fit:contain; }
+      #ec-brand { position:absolute; top:850px; left:72px; width:936px; color:var(--ink); font-size:72px; font-weight:800; line-height:1.15; text-align:center; }
+      #ec-slogan { position:absolute; top:960px; left:84px; width:912px; color:var(--ink); font-size:44px; font-weight:600; line-height:1.4; text-align:center; }
+/* full-frame screenshot: the caption sits on a frosted pill over the content */
+.capbg { position:absolute; left:21px; top:150px; width:1038px; height:110px; border-radius:55px; background:rgba(255,255,255,0.82); backdrop-filter:blur(14px); box-shadow:0 10px 30px rgba(0,0,0,0.12); }
