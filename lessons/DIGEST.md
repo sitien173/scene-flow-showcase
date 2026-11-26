@@ -18,7 +18,7 @@
 
 ## Nên tránh
 
-- Tạo giọng dài trong một lần chạy trên Colab. Lý do: Colab ngắt sau khoảng 10 phút, gặp lỗi IncompleteRead. [2026-11-cloudfront-vietnam-edge, 2026-11-cloudfront-vietnam-edge-long, 2026-11-flash-sale-100k-users-long, 2026-11-idempotency-double-payment, 2026-11-idempotency-double-payment-long, 2026-11-waf-bot-protection, 2026-11-waf-bot-protection-long]
+- Tạo giọng dài trong một lần chạy trên Colab. Lý do: Colab có thể ngắt giữa chừng; một dự án gặp lỗi IncompleteRead và bị ngắt sau khoảng 10 phút. [2026-11-cloudfront-vietnam-edge, 2026-11-cloudfront-vietnam-edge-long, 2026-11-flash-sale-100k-users-long, 2026-11-idempotency-double-payment, 2026-11-idempotency-double-payment-long, 2026-11-waf-bot-protection, 2026-11-waf-bot-protection-long]
 - Tự vẽ hoặc mô phỏng logo AWS. Chỉ dùng logo chính thức. [2026-11-cloudfront-vietnam-edge, 2026-11-cloudfront-vietnam-edge-long, 2026-11-flash-sale-100k-users, 2026-11-flash-sale-100k-users-long, 2026-11-idempotency-double-payment, 2026-11-idempotency-double-payment-long, 2026-11-waf-bot-protection, 2026-11-waf-bot-protection-long]
 - Đặt bản đồ đè lên phụ đề. [2026-11-cloudfront-vietnam-edge]
 - Để nhãn chồng nhau hoặc để logo, chữ bị che. [2026-11-cloudfront-vietnam-edge, 2026-11-flash-sale-100k-users]
@@ -54,7 +54,6 @@
 ## Mâu thuẫn cần người xem lại
 
 - Chưa thống nhất engine TTS cho bản 9:16: một dự án dùng Vibi TTS, một dự án khác dùng VieNeu-TTS. Cần chốt engine theo khung hình. [2026-11-cloudfront-vietnam-edge, 2026-11-gta6-cong-nghe]
-- Có dự án yêu cầu giữ câu kêu gọi follow ở cuối bị coi là lỗi do quy tắc không CTA của kênh, nhưng vẫn cần outro có tên kênh. Cần chốt outro được phép chứa gì. [2026-11-gta6-cong-nghe, 2026-11-cloudfront-vietnam-edge]
 
 ## Đề xuất cải thiện cho agent và skill scene-flow
 
