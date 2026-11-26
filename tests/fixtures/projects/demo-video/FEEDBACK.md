@@ -1,0 +1,1 @@
+- Chữ tiêu đề to hơn. Lý do: khó đọc trên điện thoại.

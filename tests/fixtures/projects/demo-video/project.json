@@ -1,0 +1,17 @@
+{
+  "title": "Video mẫu cho kiểm thử",
+  "author": {
+    "name": "scene-flow",
+    "url": "https://github.com/example"
+  },
+  "theme": "cleanui",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 42.5,
+  "publishedAt": "2026-11-26",
+  "video": {
+    "url": "https://github.com/example/scene-flow-showcase/releases/download/video-demo-video-00000000/demo-video.mp4",
+    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+    "bytes": 1000
+  }
+}

@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #0b0d12;
+  --color-surface: #141821;
+  --color-line: #262c3a;
+  --color-ink: #e8ebf2;
+  --color-dim: #9aa3b5;
+  --color-accent: #8aa4ff;
+  --font-sans:
+    ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-bg font-sans text-ink antialiased;
+}
+
+:focus-visible {
+  @apply outline-2 outline-offset-2 outline-accent;
+}
+
+.md {
+  @apply space-y-4 leading-relaxed;
+}
+.md h1 {
+  @apply text-xl font-semibold;
+}
+.md h2 {
+  @apply pt-2 text-lg font-semibold;
+}
+.md h3 {
+  @apply font-semibold;
+}
+.md ul {
+  @apply list-disc space-y-1 pl-5;
+}
+.md ol {
+  @apply list-decimal space-y-1 pl-5;
+}
+.md a {
+  @apply text-accent underline underline-offset-2;
+}
+.md blockquote {
+  @apply border-l-2 border-accent pl-4 text-dim;
+}
+.md code {
+  @apply rounded bg-surface px-1 py-0.5 text-[0.9em];
+}
+.md pre {
+  @apply overflow-x-auto rounded-lg bg-surface p-4 text-sm;
+}
+.md pre code {
+  @apply bg-transparent p-0;
+}
+.md table {
+  @apply block overflow-x-auto text-sm;
+}
+.md th,
+.md td {
+  @apply border border-line px-3 py-2 text-left align-top;
+}

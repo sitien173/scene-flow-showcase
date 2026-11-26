@@ -1,0 +1,80 @@
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  media:
+    # Copies each new video from the contributor's release to R2. Skipped while MEDIA_HOST is unset;
+    # the site then plays the videos from the release URLs.
+    if: vars.MEDIA_HOST != ''
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - name: Copy new videos to R2
+        env:
+          MEDIA_HOST: ${{ vars.MEDIA_HOST }}
+          R2_BUCKET: ${{ vars.R2_BUCKET }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          for dir in projects/*/; do
+            dir="${dir%/}"
+            [[ -f "$dir/project.json" ]] || continue
+            sha="$(jq -r .video.sha256 "$dir/project.json")"
+            key="${dir#projects/}/${sha:0:16}.mp4" # same key as videoSrc() in lib/projects.ts
+            curl -fsI "https://$MEDIA_HOST/$key" >/dev/null && continue
+            scripts/check-video.sh "$dir" "$RUNNER_TEMP/video.mp4"
+            npx --yes wrangler@4.168.0 r2 object put "$R2_BUCKET/$key" --file "$RUNNER_TEMP/video.mp4" \
+              --content-type video/mp4 --cache-control "public, max-age=31536000, immutable" --remote
+          done
+
+  build:
+    needs: media
+    if: ${{ !cancelled() && needs.media.result != 'failure' }}
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: pnpm/action-setup@v6
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: pnpm
+      - id: pages
+        uses: actions/configure-pages@v6
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm build
+        env:
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          MEDIA_HOST: ${{ vars.MEDIA_HOST }}
+          REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
