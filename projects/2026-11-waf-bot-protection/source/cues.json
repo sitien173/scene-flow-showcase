@@ -1,0 +1,219 @@
+{
+  "scenes": [
+    {
+      "id": "h1"
+    },
+    {
+      "id": "a1",
+      "in": "slide",
+      "at": {
+        "sentence": 4,
+        "word": "Chúng"
+      }
+    },
+    {
+      "id": "s1",
+      "in": "cut",
+      "at": {
+        "sentence": 6,
+        "word": "Đầu"
+      }
+    },
+    {
+      "id": "w1",
+      "in": "slide",
+      "at": {
+        "sentence": 8,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "r1",
+      "in": "cut",
+      "at": {
+        "sentence": 11,
+        "word": "Ví"
+      }
+    },
+    {
+      "id": "b1",
+      "in": "slide",
+      "at": {
+        "sentence": 13,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "d1",
+      "in": "cut",
+      "at": {
+        "sentence": 17,
+        "word": "Với"
+      }
+    },
+    {
+      "id": "e1",
+      "in": "slide",
+      "at": {
+        "sentence": 20,
+        "word": "Cuối"
+      }
+    }
+  ],
+  "beats": {
+    "h1-site": {
+      "sentence": 1,
+      "word": "website"
+    },
+    "h1-bots": {
+      "sentence": 2,
+      "word": "bot"
+    },
+    "a1-login": {
+      "sentence": 4,
+      "word": "thử"
+    },
+    "a1-scrape": {
+      "sentence": 4,
+      "word": "thu"
+    },
+    "a1-hold": {
+      "sentence": 4,
+      "word": "tự"
+    },
+    "a1-flood": {
+      "sentence": 4,
+      "word": "triệu"
+    },
+    "a1-deny": {
+      "sentence": 5,
+      "word": "tấn"
+    },
+    "s1-aws": {
+      "sentence": 6,
+      "word": "AWS"
+    },
+    "s1-std": {
+      "sentence": 7,
+      "word": "Shield"
+    },
+    "w1-req": {
+      "sentence": 8,
+      "word": "request"
+    },
+    "w1-waf": {
+      "sentence": 9,
+      "word": "WAF"
+    },
+    "w1-rule": {
+      "sentence": 10,
+      "word": "chặn"
+    },
+    "r1-count": {
+      "sentence": 11,
+      "word": "đếm"
+    },
+    "r1-limit": {
+      "sentence": 11,
+      "word": "giới"
+    },
+    "r1-gate": {
+      "sentence": 12,
+      "word": "cửa"
+    },
+    "b1-search": {
+      "sentence": 14,
+      "word": "Search"
+    },
+    "b1-control": {
+      "sentence": 15,
+      "word": "Control"
+    },
+    "b1-limit": {
+      "sentence": 16,
+      "word": "giới"
+    },
+    "b1-captcha": {
+      "sentence": 16,
+      "word": "CAPTCHA"
+    },
+    "d1-flood": {
+      "sentence": 17,
+      "word": "Flood"
+    },
+    "d1-analyze": {
+      "sentence": 18,
+      "word": "phân"
+    },
+    "d1-adv": {
+      "sentence": 19,
+      "word": "Advanced"
+    },
+    "e1-real": {
+      "sentence": 20,
+      "word": "khách"
+    },
+    "e1-block": {
+      "sentence": 20,
+      "word": "độc"
+    },
+    "e1-layers": {
+      "sentence": 21,
+      "word": "lớp"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "h1-bots",
+      "sound": "pop"
+    },
+    {
+      "beat": "a1-flood",
+      "sound": "click"
+    },
+    {
+      "beat": "a1-deny",
+      "sound": "laser"
+    },
+    {
+      "beat": "s1-std",
+      "sound": "pop"
+    },
+    {
+      "beat": "w1-waf",
+      "sound": "pop"
+    },
+    {
+      "beat": "w1-rule",
+      "sound": "click"
+    },
+    {
+      "beat": "r1-limit",
+      "sound": "laser"
+    },
+    {
+      "beat": "b1-search",
+      "sound": "pop"
+    },
+    {
+      "beat": "b1-limit",
+      "sound": "click"
+    },
+    {
+      "beat": "d1-analyze",
+      "sound": "pop"
+    },
+    {
+      "beat": "d1-adv",
+      "sound": "laser"
+    },
+    {
+      "beat": "e1-real",
+      "sound": "click"
+    },
+    {
+      "beat": "e1-layers",
+      "sound": "pop"
+    }
+  ]
+}

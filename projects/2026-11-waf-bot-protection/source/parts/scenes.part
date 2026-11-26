@@ -1,0 +1,93 @@
+
+      <div class="scene clip" id="sc-h1" data-start="@@start:h1@@" data-duration="@@dur:h1@@" data-track-index="1">
+        <div class="wrap" id="w-h1">
+          <div class="browser" id="h1-shop" style="top:520px; height:680px;"><div class="bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="url">banve.example</span></div></div>
+          <div id="h1-title" style="position:absolute; left:150px; top:600px; width:600px; font-size:56px; font-weight:800; line-height:1.15; color:var(--ink);">Mở bán vé concert</div>
+          <div class="buybtn" id="h1-btn" style="left:150px; top:780px;">Mua vé</div>
+          <div class="sticker-tilt" style="left:480px; top:900px;"><div class="sticker" id="h1-bot">BOT</div></div>
+<div class="rq bad" id="h1-c0" style="left:150px; top:1000px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="h1-c1" style="left:260px; top:1000px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="h1-c2" style="left:370px; top:1000px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="h1-c3" style="left:480px; top:1000px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="h1-c4" style="left:590px; top:1000px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="h1-c5" style="left:700px; top:1000px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="h1-c6" style="left:150px; top:1120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="h1-c7" style="left:260px; top:1120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="h1-c8" style="left:370px; top:1120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="h1-c9" style="left:480px; top:1120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="h1-c10" style="left:590px; top:1120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="h1-c11" style="left:700px; top:1120px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+
+        </div>
+      </div>
+      <div class="scene clip" id="sc-a1" data-start="@@start:a1@@" data-duration="@@dur:a1@@" data-track-index="1">
+        <div class="wrap" id="w-a1">
+<div class="lane" id="a1-l0" style="top:470px;"><div class="tile" style="left:0px; top:0px; width:140px; height:140px; border-radius:32px;"><svg class="ico bad" viewBox="0 0 24 24" aria-hidden="true" style="width:72px; height:72px;"><use href="#i-lock"/></svg></div><div class="aname" style="left:170px; top:16px; width:490px;">Thử mật khẩu liên tục</div></div>
+<div class="lane" id="a1-l1" style="top:610px;"><div class="tile" style="left:0px; top:0px; width:140px; height:140px; border-radius:32px;"><svg class="ico bad" viewBox="0 0 24 24" aria-hidden="true" style="width:72px; height:72px;"><use href="#i-search"/></svg></div><div class="aname" style="left:170px; top:16px; width:490px;">Thu thập dữ liệu</div></div>
+<div class="lane" id="a1-l2" style="top:750px;"><div class="tile" style="left:0px; top:0px; width:140px; height:140px; border-radius:32px;"><svg class="ico bad" viewBox="0 0 24 24" aria-hidden="true" style="width:72px; height:72px;"><use href="#i-cart"/></svg></div><div class="aname" style="left:170px; top:16px; width:490px;">Tự động giữ vé</div></div>
+<div class="lane" id="a1-l3" style="top:890px;"><div class="tile" style="left:0px; top:0px; width:140px; height:140px; border-radius:32px;"><svg class="ico bad" viewBox="0 0 24 24" aria-hidden="true" style="width:72px; height:72px;"><use href="#i-zap"/></svg></div><div class="aname" style="left:170px; top:16px; width:490px;">Gửi hàng triệu request</div></div>
+          <div class="e503" id="a1-503" style="position:absolute; left:120px; width:768px; top:1040px; font-size:110px; text-align:center;">503</div>
+          <div class="pill acc sm" id="a1-deny" style="left:120px; top:1168px;">Từ chối dịch vụ</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-s1" data-start="@@start:s1@@" data-duration="@@dur:s1@@" data-track-index="1">
+        <div class="wrap" id="w-s1">
+          <div class="bp" id="s1-frame" style="left:300px; top:520px; width:480px; height:420px; border-radius:60px;"></div>
+          <div class="aws" id="s1-aws" style="left:390px; top:580px;"><img src="assets/logos/aws/shield.svg" alt="AWS Shield"></div>
+          <div class="aname" id="s1-name" style="left:120px; top:1000px; width:660px; text-align:center;">AWS Shield</div>
+          <div class="pill acc sm svc" id="s1-std" style="left:120px; top:1110px;"><span class="svc-ico" role="img" aria-label="AWS service icon" style="background-image:url(assets/logos/aws/shield.svg)"></span>AWS Shield Standard</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-w1" data-start="@@start:w1@@" data-duration="@@dur:w1@@" data-track-index="1">
+        <div class="wrap" id="w-w1">
+          <div class="pill acc svc" id="w1-waf" style="top:490px;"><span class="svc-ico" role="img" aria-label="AWS service icon" style="background-image:url(assets/logos/aws/waf.svg)"></span>AWS WAF</div>
+          <div class="bp" id="w1-gate" style="left:300px; top:590px; width:480px; height:320px; border-radius:60px;"></div>
+<div id="w1-allow" style="position:absolute; left:120px; top:960px; width:660px; height:60px;"><div class="rq ok" style="left:0px; top:2px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-user"/></svg></div><div class="aname" style="left:80px; top:8px; width:580px; font-size:44px;">Người dùng thật: ALLOW</div></div>
+<div id="w1-chal" style="position:absolute; left:120px; top:1060px; width:660px; height:60px;"><div class="rq " style="left:0px; top:2px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-eye"/></svg></div><div class="aname" style="left:80px; top:8px; width:580px; font-size:44px;">Request đáng ngờ: CHALLENGE</div></div>
+<div id="w1-block" style="position:absolute; left:120px; top:1160px; width:660px; height:60px;"><div class="rq bad" style="left:0px; top:2px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div><div class="aname" style="left:80px; top:8px; width:580px; font-size:44px;">Request độc hại: BLOCK</div></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-r1" data-start="@@start:r1@@" data-duration="@@dur:r1@@" data-track-index="1">
+        <div class="wrap" id="w-r1">
+          <div class="pill acc" id="r1-name" style="top:520px;">Rate-based Rules</div>
+          <div class="chartcard" id="r1-chart" style="left:120px; top:600px; width:660px; height:400px;"><svg viewBox="0 0 846 400" aria-hidden="true"><path class="thr" d="M24 120 H822"/><path class="cl" id="r1-cl" pathLength="1" d="M24 360 C200 350 340 320 470 270 S700 130 822 60"/></svg><div class="hitdot" id="r1-hit" style="left:490px; top:128px;"></div></div>
+          <div class="pill sm" id="r1-lim" style="left:120px; top:1040px;">Vượt ngưỡng: giới hạn</div>
+<div id="r1-ip" style="position:absolute; left:120px; top:1160px; width:660px; height:60px;"><div class="rq bad" style="left:0px; top:2px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div><div class="aname" style="left:80px; top:8px; width:580px; font-size:44px;">Một IP gửi quá nhiều request</div></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-b1" data-start="@@start:b1@@" data-duration="@@dur:b1@@" data-track-index="1">
+        <div class="wrap" id="w-b1">
+          <div class="pill acc svc" id="b1-title" style="top:520px;"><span class="svc-ico" role="img" aria-label="AWS service icon" style="background-image:url(assets/logos/aws/waf-bot-control.svg)"></span>AWS WAF Bot Control</div>
+<div id="b1-r0" style="position:absolute; left:120px; top:680px; width:660px; height:60px;"><div class="rq ok" style="left:0px; top:2px;"><img src="assets/logos/google-g.png" alt="Google" style="width:36px; height:36px; object-fit:contain;"></div><div class="aname" style="left:80px; top:8px; width:580px; font-size:44px;">Googlebot: ALLOW</div></div>
+<div id="b1-r1" style="position:absolute; left:120px; top:860px; width:660px; height:60px;"><div class="rq bad" style="left:0px; top:2px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-x"/></svg></div><div class="aname" style="left:80px; top:8px; width:580px; font-size:44px;">Bot độc hại: BLOCK</div></div>
+<div id="b1-r2" style="position:absolute; left:120px; top:1040px; width:660px; height:60px;"><div class="rq " style="left:0px; top:2px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-eye"/></svg></div><div class="aname" style="left:80px; top:8px; width:580px; font-size:44px;">Bot đáng ngờ: CAPTCHA</div></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-d1" data-start="@@start:d1@@" data-duration="@@dur:d1@@" data-track-index="1">
+        <div class="wrap" id="w-d1">
+          <div class="chartcard" id="d1-chart" style="left:120px; top:560px; width:660px; height:340px;"><svg viewBox="0 0 846 400" aria-hidden="true"><path class="thr" d="M24 150 H822"/><path class="cl bad" id="d1-cl" pathLength="1" d="M24 320 H300 L360 60 L420 340 H822"/></svg></div>
+          <div class="pill acc sm svc" id="d1-waf" style="left:120px; top:920px;"><span class="svc-ico" role="img" aria-label="AWS service icon" style="background-image:url(assets/logos/aws/waf.svg)"></span>AWS WAF</div>
+          <div class="aname" id="d1-name" style="left:120px; top:1020px; width:660px; text-align:center;">Anti-DDoS Managed Rule Group</div>
+          <div class="pill sm svc" id="d1-adv" style="left:120px; top:1150px;"><span class="svc-ico tint" role="img" aria-label="AWS service icon" style="background-image:url(assets/logos/aws/shield-advanced.svg)"></span>AWS Shield Advanced</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-e1" data-start="@@start:e1@@" data-duration="@@dur:e1@@" data-track-index="1">
+        <div class="wrap" id="w-e1">
+          <div class="phone" id="e1-phone" style="left:330px; top:490px;"><div class="scr"><div class="ph-head"><svg class="ico acc" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-cart"/></svg><span>Bán vé</span></div><div class="ph-prod"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-card"/></svg></div><div class="ph-buy" id="e1-buy">Mua vé</div><div class="ph-buy okb" id="e1-ok" style="visibility:hidden;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true" style="width:76px; height:76px;"><use href="#i-check"/></svg></div></div></div>
+<div class="rq bad" id="e1-b0" style="left:120px; top:600px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="e1-b1" style="left:120px; top:730px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="e1-b2" style="left:120px; top:860px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+<div class="rq bad" id="e1-b3" style="left:120px; top:990px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-bot"/></svg></div>
+          <div class="pill acc sm" id="e1-layers" style="left:120px; top:1164px;">Nhiều lớp bảo vệ</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-ec" data-start="@@start:ec@@" data-duration="@@dur:ec@@" data-track-index="1">
+        <div class="wrap" id="w-ec">
+          <img id="ec-logo" src="@@logo@@" alt="">
+          <div id="ec-brand">@@brand@@</div>
+          <div id="ec-slogan">@@slogan@@</div>
+        </div>
+      </div>
+      <div id="kara" data-layout-allow-overlap="true"></div>
+      <audio id="vo" class="clip" data-start="0" data-duration="@@vo@@" data-track-index="8" src="assets/audio/voiceover.mp3" data-volume="1" data-audio-group="voiceover"></audio>
+      <!-- sfx cues are written by scripts/add-sfx.py -->
