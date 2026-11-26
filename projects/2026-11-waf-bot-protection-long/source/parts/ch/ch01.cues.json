@@ -1,0 +1,115 @@
+{
+  "scenes": [
+    {
+      "id": "c1a"
+    },
+    {
+      "id": "c1b",
+      "in": "cut",
+      "at": {
+        "sentence": 5,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c1c",
+      "in": "slide",
+      "at": {
+        "sentence": 9,
+        "word": "Traffic"
+      }
+    },
+    {
+      "id": "c1d",
+      "in": "cut",
+      "at": {
+        "sentence": 13,
+        "word": "Đây"
+      }
+    }
+  ],
+  "beats": {
+    "c1a-num": {
+      "sentence": 1,
+      "word": "Hãy"
+    },
+    "c1a-chip": {
+      "sentence": 2,
+      "word": "Bạn"
+    },
+    "c1a-crowd": {
+      "sentence": 3,
+      "word": "Hàng chục nghìn"
+    },
+    "c1a-surge": {
+      "sentence": 4,
+      "word": "tăng vọt"
+    },
+    "c1b-pill": {
+      "sentence": 6,
+      "word": "Không phải"
+    },
+    "c1b-login": {
+      "sentence": 8,
+      "word": "đăng nhập"
+    },
+    "c1b-scrape": {
+      "sentence": 8,
+      "word": "thu thập"
+    },
+    "c1b-api": {
+      "sentence": 8,
+      "word": "API"
+    },
+    "c1c-lat": {
+      "sentence": 9,
+      "word": "phản hồi chậm"
+    },
+    "c1c-db": {
+      "sentence": 10,
+      "word": "database"
+    },
+    "c1c-timeout": {
+      "sentence": 11,
+      "word": "timeout"
+    },
+    "c1c-503": {
+      "sentence": 12,
+      "word": "website"
+    },
+    "c1d-q": {
+      "sentence": 13,
+      "word": "vấn đề bảo mật"
+    },
+    "c1d-aws": {
+      "sentence": 14,
+      "word": "AWS"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c1a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1b-pill",
+      "sound": "click"
+    },
+    {
+      "beat": "c1b-api",
+      "sound": "laser"
+    },
+    {
+      "beat": "c1c-lat",
+      "sound": "laser"
+    },
+    {
+      "beat": "c1c-503",
+      "sound": "click"
+    },
+    {
+      "beat": "c1d-aws",
+      "sound": "pop"
+    }
+  ]
+}

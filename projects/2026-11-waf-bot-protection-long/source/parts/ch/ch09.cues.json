@@ -1,0 +1,92 @@
+{
+  "scenes": [
+    {
+      "id": "c9a",
+      "in": "fade",
+      "at": {
+        "sentence": 108,
+        "word": "Đến"
+      }
+    },
+    {
+      "id": "c9b",
+      "in": "cut",
+      "at": {
+        "sentence": 111,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c9c",
+      "in": "slide",
+      "at": {
+        "sentence": 114,
+        "word": "Ví"
+      }
+    }
+  ],
+  "beats": {
+    "c9a-num": {
+      "sentence": 108,
+      "word": "Đến đây"
+    },
+    "c9a-chip": {
+      "sentence": 109,
+      "word": "sai lầm rất nguy hiểm"
+    },
+    "c9a-chain": {
+      "sentence": 108,
+      "word": "CloudFront"
+    },
+    "c9a-bypass": {
+      "sentence": 110,
+      "word": "origin server"
+    },
+    "c9b-atk": {
+      "sentence": 111,
+      "word": "CloudFront và WAF"
+    },
+    "c9b-path": {
+      "sentence": 111,
+      "word": "CloudFront và WAF"
+    },
+    "c9b-direct": {
+      "sentence": 112,
+      "word": "gửi request trực tiếp"
+    },
+    "c9b-gate": {
+      "sentence": 113,
+      "word": "chỉ chấp nhận traffic"
+    },
+    "c9c-sg": {
+      "sentence": 114,
+      "word": "Security Group"
+    },
+    "c9c-hdr": {
+      "sentence": 115,
+      "word": "secret header"
+    },
+    "c9c-rej": {
+      "sentence": 116,
+      "word": "bị từ chối"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c9a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9a-bypass",
+      "sound": "laser"
+    },
+    {
+      "beat": "c9b-direct",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9c-rej",
+      "sound": "click"
+    }
+  ]
+}

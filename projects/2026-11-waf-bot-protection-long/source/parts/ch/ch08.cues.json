@@ -1,0 +1,120 @@
+{
+  "scenes": [
+    {
+      "id": "c8a",
+      "in": "fade",
+      "at": {
+        "sentence": 93,
+        "word": "Bây"
+      }
+    },
+    {
+      "id": "c8b",
+      "in": "cut",
+      "at": {
+        "sentence": 97,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c8c",
+      "in": "slide",
+      "at": {
+        "sentence": 100,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c8d",
+      "in": "cut",
+      "at": {
+        "sentence": 103,
+        "word": "Đây"
+      }
+    }
+  ],
+  "beats": {
+    "c8a-num": {
+      "sentence": 93,
+      "word": "Bây giờ"
+    },
+    "c8a-chip": {
+      "sentence": 94,
+      "word": "Một lượng lớn"
+    },
+    "c8a-src": {
+      "sentence": 94,
+      "word": "request HTTP"
+    },
+    "c8a-gauge": {
+      "sentence": 95,
+      "word": "tăng bất thường"
+    },
+    "c8a-flood": {
+      "sentence": 96,
+      "word": "HTTP Request Flood"
+    },
+    "c8b-card": {
+      "sentence": 97,
+      "word": "Anti-DDoS Managed Rule Group"
+    },
+    "c8b-tag": {
+      "sentence": 99,
+      "word": "gắn nhãn"
+    },
+    "c8c-base": {
+      "sentence": 100,
+      "word": "baseline"
+    },
+    "c8c-soft": {
+      "sentence": 101,
+      "word": "browser challenge"
+    },
+    "c8c-hard": {
+      "sentence": 102,
+      "word": "chặn request"
+    },
+    "c8d-surge": {
+      "sentence": 104,
+      "word": "Flash Sale"
+    },
+    "c8d-block": {
+      "sentence": 105,
+      "word": "chặn toàn bộ"
+    },
+    "c8d-date": {
+      "sentence": 106,
+      "word": "từ ngày hai mươi sáu tháng ba"
+    },
+    "c8d-cfg": {
+      "sentence": 107,
+      "word": "cấu hình phù hợp"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c8a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8a-gauge",
+      "sound": "laser"
+    },
+    {
+      "beat": "c8b-card",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8c-soft",
+      "sound": "click"
+    },
+    {
+      "beat": "c8c-hard",
+      "sound": "click"
+    },
+    {
+      "beat": "c8d-date",
+      "sound": "pop"
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+      <div class="scene clip" id="sc-c1a" data-start="@@start:c1a@@" data-duration="@@dur:c1a@@" data-track-index="1">
+        <div class="wrap" id="w-c1a">
+          <div class="num" id="c1a-num" style="left:560px; top:250px;">01</div>
+          <div class="tile big" id="c1a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/users.svg" alt="" style="width:170px; height:170px;"></div>
+          <div class="h1 chap" id="c1a-title" style="top:590px;"><span class="bot">THE ATTACK BEGINS</span></div>
+          <svg class="burst" id="c1a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c1a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1480px; top:330px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c1a-chip">01</div>
+          <svg class="stream" id="c1a-stream" viewBox="0 0 1920 1080"><circle class="dot" cx="380" cy="380" r="9"/><circle class="dot" cx="380" cy="440" r="9"/><circle class="dot" cx="380" cy="500" r="9"/><circle class="dot" cx="380" cy="560" r="9"/><circle class="dot" cx="380" cy="620" r="9"/><circle class="dot" cx="380" cy="680" r="9"/></svg>
+          <div class="win" id="c1a-win" style="left:420px; top:300px; width:1080px; height:480px;"><div class="bar"></div><div class="body"><i class="sk"></i><i class="sk short"></i><i class="sk"></i><span class="btn">Mua vé</span></div></div>
+          <div class="label" id="c1a-count" style="left:1560px; top:340px;">12:00</div>
+          <div id="c1a-users"><img class="cu" src="assets/logos/aws/users.svg" alt="" style="left:420px; top:820px; width:64px; height:64px;"><img class="cu" src="assets/logos/aws/users.svg" alt="" style="left:510px; top:820px; width:64px; height:64px;"><img class="cu" src="assets/logos/aws/users.svg" alt="" style="left:600px; top:820px; width:64px; height:64px;"><img class="cu" src="assets/logos/aws/users.svg" alt="" style="left:690px; top:820px; width:64px; height:64px;"><img class="cu" src="assets/logos/aws/users.svg" alt="" style="left:780px; top:820px; width:64px; height:64px;"><img class="cu" src="assets/logos/aws/users.svg" alt="" style="left:870px; top:820px; width:64px; height:64px;"><img class="cu" src="assets/logos/aws/users.svg" alt="" style="left:960px; top:820px; width:64px; height:64px;"><img class="cu" src="assets/logos/aws/users.svg" alt="" style="left:1050px; top:820px; width:64px; height:64px;"><img class="cu" src="assets/logos/aws/users.svg" alt="" style="left:1140px; top:820px; width:64px; height:64px;"><img class="cu" src="assets/logos/aws/users.svg" alt="" style="left:1230px; top:820px; width:64px; height:64px;"><img class="cu" src="assets/logos/aws/users.svg" alt="" style="left:1320px; top:820px; width:64px; height:64px;"><img class="cu" src="assets/logos/aws/users.svg" alt="" style="left:1410px; top:820px; width:64px; height:64px;"></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c1b" data-start="@@start:c1b@@" data-duration="@@dur:c1b@@" data-track-index="1">
+        <div class="wrap" id="w-c1b">
+          <div class="label" id="c1b-pill" style="left:160px; top:300px;">Không phải tất cả request</div>
+          <div class="win" id="c1b-win" style="left:620px; top:300px; width:1020px; height:480px;"><div class="bar"></div><div class="body"><i class="sk"></i><i class="sk short"></i><span class="btn">Mua vé</span></div></div>
+          <div class="chip" id="c1b-bot1" style="left:160px; top:420px;">Đăng nhập</div>
+          <div class="chip" id="c1b-bot2" style="left:160px; top:540px;">Thu thập giá</div>
+          <div class="chip" id="c1b-bot3" style="left:160px; top:660px;">Gọi API</div>
+          <svg class="stream" id="c1b-stream" viewBox="0 0 1920 1080"><circle class="dot" cx="470" cy="460" r="9"/><circle class="dot" cx="470" cy="500" r="9"/><circle class="dot" cx="470" cy="540" r="9"/><circle class="dot" cx="470" cy="580" r="9"/><circle class="dot" cx="470" cy="620" r="9"/><circle class="dot" cx="470" cy="660" r="9"/></svg>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c1c" data-start="@@start:c1c@@" data-duration="@@dur:c1c@@" data-track-index="1">
+        <div class="wrap" id="w-c1c">
+          <div class="meter" id="c1c-m-lat" style="left:260px; top:320px; width:840px;"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"></svg><span class="lbl">Độ trễ (ms)</span><div class="bar"><i class="fill"></i><i class="cap" style="left:80%"></i></div></div>
+          <div class="meter" id="c1c-m-db" style="left:260px; top:460px; width:840px;"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"></svg><span class="lbl">DB connections</span><div class="bar"><i class="fill"></i><i class="cap" style="left:80%"></i></div></div>
+          <div class="meter over" id="c1c-m-to" style="left:260px; top:600px; width:840px;"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"></svg><span class="lbl">Timeouts</span><div class="bar"><i class="fill"></i><i class="cap" style="left:80%"></i></div></div>
+          <div class="win" id="c1c-503" style="left:1200px; top:340px; width:500px; height:380px;"><div class="bar"></div><div class="body"><div class="code">503</div><i class="sk short"></i></div></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c1d" data-start="@@start:c1d@@" data-duration="@@dur:c1d@@" data-track-index="1">
+        <div class="wrap" id="w-c1d">
+          <div class="ltile big" id="c1d-aws" style="left:800px; top:300px;"><img src="assets/logos/aws/aws-cloud.svg" alt=""></div>
+          <div class="label" id="c1d-q" style="left:560px; top:680px;">Request độc hại?</div>
+          <svg class="stream" id="c1d-stream" viewBox="0 0 1920 1080"><circle class="dot" cx="200" cy="480" r="9"/><circle class="dot" cx="200" cy="520" r="9"/><circle class="dot" cx="200" cy="560" r="9"/><circle class="dot" cx="200" cy="600" r="9"/><circle class="dot" cx="200" cy="640" r="9"/></svg>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c2a" data-start="@@start:c2a@@" data-duration="@@dur:c2a@@" data-track-index="1">
+        <div class="wrap" id="w-c2a">
+          <div class="num" id="c2a-num" style="left:560px; top:250px;">02</div>
+          <div class="tile big" id="c2a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/waf-bot.svg" alt="" style="width:170px; height:170px;"></div>
+          <div class="h1 chap" id="c2a-title" style="top:590px;"><span class="bot">UNDERSTANDING BOTS AND DDOS</span></div>
+          <svg class="burst" id="c2a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c2a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1480px; top:330px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c2a-chip">02</div>
+          <div class="zone" id="c2a-good" style="left:180px; top:300px; width:760px; height:520px;"></div>
+          <div class="zone" id="c2a-bad" style="left:980px; top:300px; width:760px; height:520px;"></div>
+          <div class="chip" id="c2a-scraper" style="left:1060px; top:380px;">Scraper</div>
+          <div class="chip" id="c2a-stuff" style="left:1060px; top:500px;">Stuffing</div>
+          <div class="chip" id="c2a-hoard" style="left:1060px; top:620px;">Hoarding</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c2b" data-start="@@start:c2b@@" data-duration="@@dur:c2b@@" data-track-index="1">
+        <div class="wrap" id="w-c2b">
+          <div class="chip" id="c2b-googlebot" style="left:260px; top:360px;">Googlebot</div>
+          <div class="label" id="c2b-allow" style="left:260px; top:460px;">ALLOW</div>
+          <div class="ltile sm" id="c2b-mon" style="left:300px; top:560px;"><img src="assets/logos/aws/cloudwatch.svg" alt=""></div>
+          <div class="win" id="c2b-site" style="left:700px; top:420px; width:500px; height:300px;"><div class="bar"></div><div class="body"><i class="sk"></i><i class="sk short"></i></div></div>
+          <div class="chip bad" id="c2b-bad" style="left:1060px; top:500px;">Bad bot</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c2c" data-start="@@start:c2c@@" data-duration="@@dur:c2c@@" data-track-index="1">
+        <div class="wrap" id="w-c2c">
+          <div class="chip" id="c2c-r1" style="left:260px; top:320px; width:1400px;">Scraper: sao chép giá từ website đối thủ</div>
+          <div class="chip" id="c2c-r2" style="left:260px; top:480px; width:1400px;">Credential stuffing: thử username và password</div>
+          <div class="label" id="c2c-cs" style="left:260px; top:660px;">Credential Stuffing</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c2d" data-start="@@start:c2d@@" data-duration="@@dur:c2d@@" data-track-index="1">
+        <div class="wrap" id="w-c2d">
+          <div id="c2d-seats"><div class="ltile sm" style="left:260px; top:380px;"></div><div class="ltile sm" style="left:370px; top:380px;"></div><div class="ltile sm" style="left:480px; top:380px;"></div><div class="ltile sm" style="left:590px; top:380px;"></div><div class="ltile sm" style="left:700px; top:380px;"></div><div class="ltile sm" style="left:810px; top:380px;"></div><div class="ltile sm" style="left:920px; top:380px;"></div><div class="ltile sm" style="left:1030px; top:380px;"></div></div>
+          <div class="srv lg" id="c2d-srv" style="left:1300px; top:380px;"><i class="slot"></i><i class="slot"></i><i class="slot"></i><b class="led"></b></div>
+          <svg class="stream" id="c2d-stream" viewBox="0 0 1920 1080"><circle class="dot" cx="260" cy="560" r="9"/><circle class="dot" cx="260" cy="590" r="9"/><circle class="dot" cx="260" cy="620" r="9"/><circle class="dot" cx="260" cy="650" r="9"/><circle class="dot" cx="260" cy="680" r="9"/><circle class="dot" cx="260" cy="710" r="9"/><circle class="dot" cx="260" cy="740" r="9"/><circle class="dot" cx="260" cy="770" r="9"/><circle class="dot" cx="260" cy="800" r="9"/></svg>
+          <div class="label" id="c2d-acr" style="left:200px; top:700px;">DDoS = Distributed Denial of Service</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c2e" data-start="@@start:c2e@@" data-duration="@@dur:c2e@@" data-track-index="1">
+        <div class="wrap" id="w-c2e">
+          <div class="zone" id="c2e-bot" style="left:560px; top:300px; width:480px; height:480px; border-radius:50%;"></div>
+          <div class="zone" id="c2e-ddos" style="left:880px; top:300px; width:480px; height:480px; border-radius:50%;"></div>
+          <div class="label" id="c2e-l1" style="left:560px; top:820px;">Bot traffic</div>
+          <div class="label" id="c2e-l2" style="left:1040px; top:820px;">DDoS</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c3a" data-start="@@start:c3a@@" data-duration="@@dur:c3a@@" data-track-index="1">
+        <div class="wrap" id="w-c3a">
+          <div class="num" id="c3a-num" style="left:560px; top:250px;">03</div>
+          <div class="tile big" id="c3a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/waf.svg" alt="" style="width:170px; height:170px;"></div>
+          <div class="h1 chap" id="c3a-title" style="top:590px;"><span class="bot">UNDERSTANDING ATTACK LAYERS</span></div>
+          <svg class="burst" id="c3a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c3a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1480px; top:330px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c3a-chip">03</div>
+          <div class="chip" id="c3a-l0" style="left:560px; top:260px; width:800px;">7 Application</div>
+          <div class="chip" id="c3a-l1" style="left:560px; top:350px; width:800px;">6 Presentation</div>
+          <div class="chip" id="c3a-l2" style="left:560px; top:440px; width:800px;">5 Session</div>
+          <div class="chip" id="c3a-l3" style="left:560px; top:530px; width:800px;">4 Transport</div>
+          <div class="chip" id="c3a-l4" style="left:560px; top:620px; width:800px;">3 Network</div>
+          <div class="chip" id="c3a-l5" style="left:560px; top:710px; width:800px;">2 Data link</div>
+          <div class="chip" id="c3a-l6" style="left:560px; top:800px; width:800px;">1 Physical</div>
+          <div class="zone" id="c3a-net" style="left:540px; top:520px; width:840px; height:190px;"></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c3b" data-start="@@start:c3b@@" data-duration="@@dur:c3b@@" data-track-index="1">
+        <div class="wrap" id="w-c3b">
+          <div class="label" id="c3b-udp" style="left:260px; top:320px;">UDP flood</div>
+          <div class="label" id="c3b-syn" style="left:260px; top:460px;">TCP SYN</div>
+          <div class="zone" id="c3b-edge" style="left:1000px; top:300px; width:40px; height:520px;"></div>
+          <div class="meter" id="c3b-bw" style="left:1100px; top:400px; width:520px;"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"></svg><span class="lbl">Băng thông</span><div class="bar"><i class="fill"></i></div></div>
+          <div class="meter" id="c3b-conn" style="left:1100px; top:580px; width:520px;"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"></svg><span class="lbl">Kết nối</span><div class="bar"><i class="fill"></i></div></div>
+          <svg class="stream" id="c3b-stream" viewBox="0 0 1920 1080"><circle class="dot" cx="320" cy="380" r="9"/><circle class="dot" cx="320" cy="460" r="9"/><circle class="dot" cx="320" cy="540" r="9"/><circle class="dot" cx="320" cy="620" r="9"/><circle class="dot" cx="320" cy="700" r="9"/><circle class="dot" cx="320" cy="780" r="9"/></svg>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c3c" data-start="@@start:c3c@@" data-duration="@@dur:c3c@@" data-track-index="1">
+        <div class="wrap" id="w-c3c">
+          <div class="chip" id="c3c-r1" style="left:260px; top:320px; width:1400px;">GET /search · 200 OK</div>
+          <div class="chip" id="c3c-r2" style="left:260px; top:430px; width:1400px;">POST /login · 200 OK</div>
+          <div class="chip" id="c3c-r3" style="left:260px; top:540px; width:1400px;">GET /expensive · 200 OK</div>
+          <div class="label" id="c3c-l7" style="left:260px; top:660px;">Layer bảy</div>
+          <div class="srv" id="c3c-srv" style="left:1300px; top:640px;"><i class="slot"></i><i class="slot"></i><i class="slot"></i><b class="led"></b></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c3d" data-start="@@start:c3d@@" data-duration="@@dur:c3d@@" data-track-index="1">
+        <div class="wrap" id="w-c3d">
+          <div class="ltile big" id="c3d-shield" style="left:420px; top:360px;"><img src="assets/logos/aws/shield.svg" alt=""></div>
+          <div class="ltile big" id="c3d-waf" style="left:1180px; top:360px;"><img src="assets/logos/aws/waf.svg" alt=""></div>
+          <div class="label" id="c3d-l1" style="left:420px; top:740px;">Shield</div>
+          <div class="label" id="c3d-l2" style="left:1180px; top:740px;">WAF</div>
+          <div id="c3d-gap" style="position:absolute; left:760px; top:520px; width:400px; border-top:4px dashed var(--ink);"></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c4a" data-start="@@start:c4a@@" data-duration="@@dur:c4a@@" data-track-index="1">
+        <div class="wrap" id="w-c4a">
+          <div class="num" id="c4a-num" style="left:560px; top:250px;">04</div>
+          <div class="tile big" id="c4a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/shield.svg" alt="" style="width:170px; height:170px;"></div>
+          <div class="h1 chap" id="c4a-title" style="top:590px;"><span class="bot">AWS SHIELD: PROTECT THE INFRASTRUCTURE</span></div>
+          <svg class="burst" id="c4a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c4a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1480px; top:330px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c4a-chip">04</div>
+          <div class="ltile big" id="c4a-tile" style="left:800px; top:300px;"><img src="assets/logos/aws/shield.svg" alt=""></div>
+          <div class="chip" id="c4a-std" style="left:260px; top:520px; width:500px;">Standard</div>
+          <div class="chip" id="c4a-adv" style="left:1160px; top:520px; width:500px;">Advanced</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c4b" data-start="@@start:c4b@@" data-duration="@@dur:c4b@@" data-track-index="1">
+        <div class="wrap" id="w-c4b">
+          <div class="zone" id="c4b-arc" style="left:520px; top:220px; width:880px; height:300px; border-radius:440px 440px 0 0;"></div>
+          <div class="ltile md" id="c4b-cf" style="left:520px; top:420px;"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+          <div class="ltile md" id="c4b-r53" style="left:1200px; top:420px;"><img src="assets/logos/aws/route53.svg" alt=""></div>
+          <div class="label" id="c4b-layers" style="left:760px; top:600px;">Layer 3-4</div>
+          <div class="label" id="c4b-fee" style="left:1480px; top:300px;">Không phí riêng</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c4c" data-start="@@start:c4c@@" data-duration="@@dur:c4c@@" data-track-index="1">
+        <div class="wrap" id="w-c4c">
+          <div class="label" id="c4c-paid" style="left:260px; top:240px;">Có tính phí</div>
+          <div class="win" id="c4c-card" style="left:260px; top:300px; width:1400px; height:560px;"><div class="bar"></div><div class="body"></div></div>
+          <div class="ltile sm" id="c4c-icon" style="left:1500px; top:340px;"><img src="assets/logos/aws/shield-advanced.svg" alt=""></div>
+          <div class="chip" id="c4c-r1" style="left:300px; top:430px; width:1200px;">Phát hiện nâng cao</div>
+          <div class="chip" id="c4c-r2" style="left:300px; top:550px; width:1200px;">Tự động giảm thiểu DDoS ở Layer bảy</div>
+          <div class="chip" id="c4c-r3" style="left:300px; top:670px; width:1200px;">Shield Response Team 24/7</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c4d" data-start="@@start:c4d@@" data-duration="@@dur:c4d@@" data-track-index="1">
+        <div class="wrap" id="w-c4d">
+          <div class="ltile md" id="c4d-shield" style="left:560px; top:420px;"><img src="assets/logos/aws/shield.svg" alt=""></div>
+          <div class="ltile md" id="c4d-waf" style="left:1160px; top:420px;"><img src="assets/logos/aws/waf.svg" alt=""></div>
+          <div id="c4d-gap" style="position:absolute; left:760px; top:510px; width:380px; border-top:4px dashed var(--ink);"></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c5a" data-start="@@start:c5a@@" data-duration="@@dur:c5a@@" data-track-index="1">
+        <div class="wrap" id="w-c5a">
+          <div class="num" id="c5a-num" style="left:560px; top:250px;">05</div>
+          <div class="tile big" id="c5a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/waf.svg" alt="" style="width:170px; height:170px;"></div>
+          <div class="h1 chap" id="c5a-title" style="top:590px;"><span class="bot">AWS WAF: INSPECT EVERY REQUEST</span></div>
+          <svg class="burst" id="c5a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c5a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1480px; top:330px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c5a-chip">05</div>
+          <div class="ltile big" id="c5a-waf" style="left:800px; top:300px;"><img src="assets/logos/aws/waf.svg" alt=""></div>
+          <div class="zone" id="c5a-gate" style="left:700px; top:520px; width:520px; height:360px;"></div>
+          <img class="cu" id="c5a-v0" src="assets/logos/aws/users.svg" alt="" style="left:260px; top:600px; width:90px; height:90px;">
+          <img class="cu" id="c5a-v1" src="assets/logos/aws/users.svg" alt="" style="left:380px; top:600px; width:90px; height:90px;">
+          <img class="cu" id="c5a-v2" src="assets/logos/aws/users.svg" alt="" style="left:500px; top:600px; width:90px; height:90px;">
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c5b" data-start="@@start:c5b@@" data-duration="@@dur:c5b@@" data-track-index="1">
+        <div class="wrap" id="w-c5b">
+          <div class="win" id="c5b-acl" style="left:560px; top:300px; width:800px; height:560px;"><div class="bar"></div><div class="body"></div></div>
+          <div class="label" id="c5b-lbl" style="left:560px; top:220px;">Web ACL</div>
+          <div id="c5b-chips"><div class="chip" id="c5b-c0" style="left:600px; top:380px; width:720px;">IP</div><div class="chip" id="c5b-c1" style="left:600px; top:480px; width:720px;">Đường dẫn</div><div class="chip" id="c5b-c2" style="left:600px; top:580px; width:720px;">Query string</div><div class="chip" id="c5b-c3" style="left:600px; top:680px; width:720px;">Header</div><div class="chip" id="c5b-c4" style="left:600px; top:780px; width:720px;">Nội dung</div></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c5c" data-start="@@start:c5c@@" data-duration="@@dur:c5c@@" data-track-index="1">
+        <div class="wrap" id="w-c5c">
+          <div class="chip" id="c5c-r0" style="left:380px; top:340px; width:1000px;">1. IP block</div>
+          <div class="chip" id="c5c-r1" style="left:380px; top:480px; width:1000px;">2. Managed rule</div>
+          <div class="chip" id="c5c-r2" style="left:380px; top:620px; width:1000px;">3. Rate rule</div>
+          <div class="ltile sm" id="c5c-i0" style="left:1420px; top:330px;"><img src="assets/logos/aws/waf-rule.svg" alt=""></div>
+          <div class="ltile sm" id="c5c-i1" style="left:1420px; top:470px;"><img src="assets/logos/aws/waf-managed-rule.svg" alt=""></div>
+          <div class="ltile sm" id="c5c-i2" style="left:1420px; top:610px;"><img src="assets/logos/aws/waf-rule.svg" alt=""></div>
+          <div class="label" id="c5c-card" style="left:380px; top:240px;">Web ACL</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c5d" data-start="@@start:c5d@@" data-duration="@@dur:c5d@@" data-track-index="1">
+        <div class="wrap" id="w-c5d">
+          <div class="chip" id="c5d-allow" style="left:300px; top:520px; width:300px;">ALLOW</div>
+          <div class="chip" id="c5d-block" style="left:800px; top:520px; width:300px;">BLOCK</div>
+          <div class="chip" id="c5d-chal" style="left:1300px; top:520px; width:300px;">CHALLENGE</div>
+          <div class="ltile md" id="c5d-edge" style="left:800px; top:300px;"><img src="assets/logos/aws/edge-location.svg" alt=""></div>
+          <div class="ltile md" id="c5d-origin" style="left:800px; top:700px;"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c6a" data-start="@@start:c6a@@" data-duration="@@dur:c6a@@" data-track-index="1">
+        <div class="wrap" id="w-c6a">
+          <div class="num" id="c6a-num" style="left:560px; top:250px;">06</div>
+          <div class="tile big" id="c6a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/waf-rule.svg" alt="" style="width:170px; height:170px;"></div>
+          <div class="h1 chap" id="c6a-title" style="top:590px;"><span class="bot">RATE-BASED RULES</span></div>
+          <svg class="burst" id="c6a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c6a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1480px; top:330px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c6a-chip">06</div>
+          <svg class="chart" id="c6a-chart" viewBox="0 0 1200 500" style="left:360px; top:300px; width:1200px; height:500px;"><polyline points="0,400 300,390 600,410 800,300 900,60 1200,40" fill="none" stroke="var(--accent)" stroke-width="10"/></svg>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c6b" data-start="@@start:c6b@@" data-duration="@@dur:c6b@@" data-track-index="1">
+        <div class="wrap" id="w-c6b">
+          <div class="win" id="c6b-counter" style="left:560px; top:300px; width:800px; height:420px;"><div class="bar"></div><div class="body"><div class="code" id="c6b-num">1 204</div></div></div>
+          <div class="label" id="c6b-ep" style="left:560px; top:240px;">/login</div>
+          <div id="c6b-thr" style="position:absolute; left:560px; top:520px; width:800px; border-top:4px dashed var(--ink);"></div>
+          <div class="label" id="c6b-act" style="left:560px; top:780px;">CHALLENGE</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c6c" data-start="@@start:c6c@@" data-duration="@@dur:c6c@@" data-track-index="1">
+        <div class="wrap" id="w-c6c">
+          <div class="label" id="c6c-no" style="left:260px; top:240px;">Nhiều IP, mỗi IP ít request</div>
+          <svg class="stream" id="c6c-dots" viewBox="0 0 1920 1080"><circle cx="300" cy="320" r="10" style="fill:var(--ink)"/><circle cx="373" cy="457" r="10" style="fill:var(--ink)"/><circle cx="446" cy="594" r="10" style="fill:var(--ink)"/><circle cx="519" cy="731" r="10" style="fill:var(--ink)"/><circle cx="592" cy="408" r="10" style="fill:var(--ink)"/><circle cx="665" cy="545" r="10" style="fill:var(--ink)"/><circle cx="738" cy="682" r="10" style="fill:var(--ink)"/><circle cx="811" cy="359" r="10" style="fill:var(--ink)"/><circle cx="884" cy="496" r="10" style="fill:var(--ink)"/><circle cx="957" cy="633" r="10" style="fill:var(--ink)"/><circle cx="1030" cy="770" r="10" style="fill:var(--ink)"/><circle cx="1103" cy="447" r="10" style="fill:var(--ink)"/><circle cx="1176" cy="584" r="10" style="fill:var(--ink)"/><circle cx="1249" cy="721" r="10" style="fill:var(--ink)"/><circle cx="1322" cy="398" r="10" style="fill:var(--ink)"/><circle cx="1395" cy="535" r="10" style="fill:var(--ink)"/><circle cx="368" cy="672" r="10" style="fill:var(--ink)"/><circle cx="441" cy="349" r="10" style="fill:var(--ink)"/><circle cx="514" cy="486" r="10" style="fill:var(--ink)"/><circle cx="587" cy="623" r="10" style="fill:var(--ink)"/><circle cx="660" cy="760" r="10" style="fill:var(--ink)"/><circle cx="733" cy="437" r="10" style="fill:var(--ink)"/><circle cx="806" cy="574" r="10" style="fill:var(--ink)"/><circle cx="879" cy="711" r="10" style="fill:var(--ink)"/><circle cx="952" cy="388" r="10" style="fill:var(--ink)"/><circle cx="1025" cy="525" r="10" style="fill:var(--ink)"/><circle cx="1098" cy="662" r="10" style="fill:var(--ink)"/><circle cx="1171" cy="339" r="10" style="fill:var(--ink)"/><circle cx="1244" cy="476" r="10" style="fill:var(--ink)"/><circle cx="1317" cy="613" r="10" style="fill:var(--ink)"/></svg>
+          <div id="c6c-track" style="position:absolute; left:1600px; top:300px; width:100px; height:520px; border-radius:50px; border:4px solid var(--ink);"></div>
+          <div id="c6c-fill" style="position:absolute; left:1600px; top:300px; width:100px; height:520px; border-radius:50px; background:var(--accent);"></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c6d" data-start="@@start:c6d@@" data-duration="@@dur:c6d@@" data-track-index="1">
+        <div class="wrap" id="w-c6d">
+          <div class="zone" id="c6d-office" style="left:300px; top:340px; width:600px; height:460px;"></div>
+          <img class="cu" id="c6d-o0" src="assets/logos/aws/users.svg" alt="" style="left:340px; top:480px; width:90px; height:90px;">
+          <img class="cu" id="c6d-o1" src="assets/logos/aws/users.svg" alt="" style="left:470px; top:480px; width:90px; height:90px;">
+          <img class="cu" id="c6d-o2" src="assets/logos/aws/users.svg" alt="" style="left:600px; top:480px; width:90px; height:90px;">
+          <img class="cu" id="c6d-o3" src="assets/logos/aws/users.svg" alt="" style="left:730px; top:480px; width:90px; height:90px;">
+          <div class="zone" id="c6d-mobile" style="left:1040px; top:340px; width:600px; height:460px;"></div>
+          <img class="cu" id="c6d-m0" src="assets/logos/aws/users.svg" alt="" style="left:1080px; top:480px; width:90px; height:90px;">
+          <img class="cu" id="c6d-m1" src="assets/logos/aws/users.svg" alt="" style="left:1250px; top:480px; width:90px; height:90px;">
+          <img class="cu" id="c6d-m2" src="assets/logos/aws/users.svg" alt="" style="left:1420px; top:480px; width:90px; height:90px;">
+          <div class="label" id="c6d-tag" style="left:300px; top:280px;">Một IP công cộng</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c7a" data-start="@@start:c7a@@" data-duration="@@dur:c7a@@" data-track-index="1">
+        <div class="wrap" id="w-c7a">
+          <div class="num" id="c7a-num" style="left:560px; top:250px;">07</div>
+          <div class="tile big" id="c7a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/waf-bot-control.svg" alt="" style="width:170px; height:170px;"></div>
+          <div class="h1 chap" id="c7a-title" style="top:590px;"><span class="bot">AWS WAF BOT CONTROL</span></div>
+          <svg class="burst" id="c7a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c7a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1480px; top:330px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c7a-chip">07</div>
+          <div class="chip" id="c7a-q" style="left:560px; top:340px; width:520px;">Bot này là ai?</div>
+          <div class="ltile big" id="c7a-ltile" style="left:1120px; top:220px;"><img src="assets/logos/aws/waf-bot-control.svg" alt=""></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c7b" data-start="@@start:c7b@@" data-duration="@@dur:c7b@@" data-track-index="1">
+        <div class="wrap" id="w-c7b">
+          <div class="label" id="c7b-hdr" style="left:360px; top:240px;">AWS WAF Bot Control</div>
+          <div class="win" id="c7b-card" style="left:360px; top:300px; width:1200px; height:560px;"><div class="bar"></div><div class="body"></div></div>
+          <div class="ltile sm" id="c7b-icon" style="left:1420px; top:340px;"><img src="assets/logos/aws/waf-bot-control.svg" alt=""></div>
+          <div class="chip" id="c7b-common" style="left:420px; top:440px; width:1080px;">Common Protection</div>
+          <div class="chip" id="c7b-targ" style="left:420px; top:600px; width:1080px;">Targeted Protection</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c7c" data-start="@@start:c7c@@" data-duration="@@dur:c7c@@" data-track-index="1">
+        <div class="wrap" id="w-c7c">
+          <div class="cell" id="c7c-k0" style="left:460px; top:320px; width:480px; height:200px;"><img class="ic" src="assets/logos/aws/waf-bot.svg" alt=""><span class="lbl">Search Engine</span></div>
+          <div class="cell" id="c7c-k1" style="left:1000px; top:320px; width:480px; height:200px;"><img class="ic" src="assets/logos/aws/waf-bot.svg" alt=""><span class="lbl">Monitoring</span></div>
+          <div class="cell" id="c7c-k2" style="left:460px; top:540px; width:480px; height:200px;"><img class="ic" src="assets/logos/aws/waf-bot.svg" alt=""><span class="lbl">Scraper</span></div>
+          <div class="cell" id="c7c-k3" style="left:1000px; top:540px; width:480px; height:200px;"><img class="ic" src="assets/logos/aws/waf-bot.svg" alt=""><span class="lbl">Automated Browser</span></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c7d" data-start="@@start:c7d@@" data-duration="@@dur:c7d@@" data-track-index="1">
+        <div class="wrap" id="w-c7d">
+          <div class="win" id="c7d-panel" style="left:260px; top:300px; width:1400px; height:520px;"><div class="bar"></div><div class="body"></div></div>
+          <div class="chip" id="c7d-s1" style="left:300px; top:380px; width:440px;">Kiểm tra trình duyệt</div>
+          <div class="chip" id="c7d-s2" style="left:300px; top:500px; width:440px;">TLS fingerprint</div>
+          <div class="chip" id="c7d-s3" style="left:300px; top:620px; width:440px;">Phân tích hành vi</div>
+          <div class="meter" id="c7d-meter" style="left:820px; top:460px; width:520px;"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"></svg><span class="lbl">Điểm nghi ngờ</span><div class="bar"><i class="fill"></i></div></div>
+          <div class="chip" id="c7d-captcha" style="left:820px; top:640px; width:300px;">CAPTCHA</div>
+          <div class="chip" id="c7d-chall" style="left:1140px; top:640px; width:460px;">Browser challenge</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c7e" data-start="@@start:c7e@@" data-duration="@@dur:c7e@@" data-track-index="1">
+        <div class="wrap" id="w-c7e">
+          <div class="chip" id="c7e-google" style="left:260px; top:360px; width:600px;">Googlebot (đã xác minh)</div>
+          <div class="label" id="c7e-allow" style="left:260px; top:480px;">ALLOW</div>
+          <div class="chip bad" id="c7e-scr" style="left:1060px; top:360px; width:600px;">Scraper không đáng tin cậy</div>
+          <div class="label" id="c7e-limit" style="left:1060px; top:480px;">LIMIT</div>
+          <div class="label" id="c7e-block" style="left:1300px; top:480px;">BLOCK</div>
+          <div class="zone" id="c7e-q" style="left:360px; top:680px; width:1200px; height:140px;"></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c8a" data-start="@@start:c8a@@" data-duration="@@dur:c8a@@" data-track-index="1">
+        <div class="wrap" id="w-c8a">
+          <div class="num" id="c8a-num" style="left:560px; top:250px;">08</div>
+          <div class="tile big" id="c8a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/waf.svg" alt="" style="width:170px; height:170px;"></div>
+          <div class="h1 chap" id="c8a-title" style="top:590px;"><span class="bot">ANTI-DDOS MANAGED RULE GROUP</span></div>
+          <svg class="burst" id="c8a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c8a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1560px; top:330px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c8a-chip">08</div>
+          <svg class="stream" id="c8a-stream" viewBox="0 0 1920 1080"><circle class="dot" cx="300" cy="320" r="9"/><circle class="dot" cx="300" cy="348" r="9"/><circle class="dot" cx="300" cy="376" r="9"/><circle class="dot" cx="300" cy="404" r="9"/><circle class="dot" cx="300" cy="432" r="9"/><circle class="dot" cx="300" cy="460" r="9"/><circle class="dot" cx="300" cy="488" r="9"/><circle class="dot" cx="300" cy="516" r="9"/><circle class="dot" cx="300" cy="544" r="9"/><circle class="dot" cx="300" cy="572" r="9"/><circle class="dot" cx="300" cy="600" r="9"/><circle class="dot" cx="300" cy="628" r="9"/><circle class="dot" cx="300" cy="656" r="9"/><circle class="dot" cx="300" cy="684" r="9"/><circle class="dot" cx="300" cy="712" r="9"/><circle class="dot" cx="300" cy="740" r="9"/><circle class="dot" cx="300" cy="768" r="9"/><circle class="dot" cx="300" cy="796" r="9"/><circle class="dot" cx="300" cy="824" r="9"/><circle class="dot" cx="300" cy="852" r="9"/></svg>
+          <div class="win" id="c8a-end" style="left:1200px; top:250px; width:480px; height:300px;"><div class="bar"></div><div class="body"><div class="code" style="font-size:120px;">HTTP</div></div></div>
+          <div class="meter" id="c8a-gauge" style="left:1200px; top:130px; width:520px;"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"></svg><span class="lbl">Lưu lượng</span><div class="bar"><i class="fill"></i></div></div>
+          <div class="label" id="c8a-flood" style="left:1200px; top:720px;">HTTP Request Flood</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c8b" data-start="@@start:c8b@@" data-duration="@@dur:c8b@@" data-track-index="1">
+        <div class="wrap" id="w-c8b">
+          <div class="label" id="c8b-hdr" style="left:460px; top:240px;">Anti-DDoS Managed Rule Group</div>
+          <div class="win" id="c8b-card" style="left:460px; top:300px; width:1000px; height:520px;"><div class="bar"></div><div class="body"></div></div>
+          <div class="ltile sm" id="c8b-icon" style="left:1380px; top:340px;"><img src="assets/logos/aws/waf.svg" alt=""></div>
+          <div class="chip" id="c8b-t1" style="left:620px; top:440px; width:620px;">Nghi ngờ: nhãn 1</div>
+          <div class="chip" id="c8b-t2" style="left:620px; top:580px; width:620px;">Nghi ngờ: nhãn 2</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c8c" data-start="@@start:c8c@@" data-duration="@@dur:c8c@@" data-track-index="1">
+        <div class="wrap" id="w-c8c">
+          <svg class="chart" id="c8c-chart" viewBox="0 0 1400 500" style="left:260px; top:300px; width:1400px; height:500px;"><line x1="0" y1="300" x2="1400" y2="300" style="stroke:var(--ink); stroke-width:4; stroke-dasharray:12 12;"/><polyline points="0,320 200,300 400,330 600,120 800,260 1000,100 1200,300 1400,310" style="fill:none; stroke:var(--accent); stroke-width:8;"/></svg>
+          <div class="chip" id="c8c-soft" style="left:300px; top:760px; width:560px;">Browser challenge</div>
+          <div class="chip bad" id="c8c-hard" style="left:1100px; top:760px; width:520px;">BLOCK</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c8d" data-start="@@start:c8d@@" data-duration="@@dur:c8d@@" data-track-index="1">
+        <div class="wrap" id="w-c8d">
+          <svg class="chart" viewBox="0 0 640 440" style="left:260px; top:320px; width:640px; height:440px;"><polyline points="0,380 120,360 240,370 360,120 480,200 640,80" style="fill:none; stroke:var(--accent); stroke-width:8;"/></svg>
+          <div class="label" id="c8d-surge" style="left:260px; top:260px;">Flash Sale</div>
+          <div class="label" id="c8d-blk" style="left:1000px; top:320px;">Không chặn toàn bộ</div>
+          <img class="cu" id="c8d-u0" src="assets/logos/aws/users.svg" alt="" style="left:1000px; top:420px; width:90px; height:90px;">
+          <img class="cu" id="c8d-u1" src="assets/logos/aws/users.svg" alt="" style="left:1130px; top:420px; width:90px; height:90px;">
+          <img class="cu" id="c8d-u2" src="assets/logos/aws/users.svg" alt="" style="left:1260px; top:420px; width:90px; height:90px;">
+          <img class="cu" id="c8d-u3" src="assets/logos/aws/users.svg" alt="" style="left:1390px; top:420px; width:90px; height:90px;">
+          <div class="label" id="c8d-date" style="left:1000px; top:580px;">Từ 26 tháng 3, 2026</div>
+          <div class="chip" id="c8d-cfg" style="left:1000px; top:700px; width:520px;">Cấu hình rule phù hợp</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c9a" data-start="@@start:c9a@@" data-duration="@@dur:c9a@@" data-track-index="1">
+        <div class="wrap" id="w-c9a">
+          <div class="num" id="c9a-num" style="left:560px; top:250px;">09</div>
+          <div class="tile big" id="c9a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/alb.svg" alt="" style="width:170px; height:170px;"></div>
+          <div class="h1 chap" id="c9a-title" style="top:590px;"><span class="bot">PROTECTING THE ORIGIN</span></div>
+          <svg class="burst" id="c9a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c9a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1480px; top:330px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c9a-chip">09</div>
+          <div class="ltile md" id="c9a-cf" style="left:200px; top:420px;"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+          <div class="ltile md" id="c9a-waf" style="left:560px; top:420px;"><img src="assets/logos/aws/waf.svg" alt=""></div>
+          <div class="ltile md" id="c9a-alb" style="left:920px; top:420px;"><img src="assets/logos/aws/alb.svg" alt=""></div>
+          <div class="srv" id="c9a-srv1" style="left:1300px; top:400px;"><i class="slot"></i><i class="slot"></i><b class="led"></b></div>
+          <div class="srv sm" id="c9a-srv2" style="left:1560px; top:430px;"><i class="slot"></i><b class="led"></b></div>
+          <div id="c9a-bypass" style="position:absolute; left:260px; top:700px; width:1080px; border-top:6px dashed var(--accent);"></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c9b" data-start="@@start:c9b@@" data-duration="@@dur:c9b@@" data-track-index="1">
+        <div class="wrap" id="w-c9b">
+          <div class="chip" id="c9b-atk" style="left:200px; top:380px; width:400px;">Kẻ tấn công</div>
+          <div class="ltile md" id="c9b-alb" style="left:1000px; top:340px;"><img src="assets/logos/aws/alb.svg" alt=""></div>
+          <div id="c9b-red" style="position:absolute; left:600px; top:460px; width:400px; border-top:6px dashed var(--accent);"></div>
+          <div class="ltile sm" id="c9b-cf" style="left:500px; top:720px;"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+          <div class="ltile sm" id="c9b-waf" style="left:700px; top:720px;"><img src="assets/logos/aws/waf.svg" alt=""></div>
+          <div class="label" id="c9b-gate" style="left:1000px; top:600px;">Chỉ nguồn được phép</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c9c" data-start="@@start:c9c@@" data-duration="@@dur:c9c@@" data-track-index="1">
+        <div class="wrap" id="w-c9c">
+          <div class="label" id="c9c-sg" style="left:360px; top:240px;">Security Group</div>
+          <div class="win" id="c9c-card" style="left:360px; top:300px; width:640px; height:520px;"><div class="bar"></div><div class="body"></div></div>
+          <div class="chip" id="c9c-rule" style="left:400px; top:420px; width:560px;">CloudFront origin-facing prefix list</div>
+          <div class="chip" id="c9c-hdr" style="left:1100px; top:420px; width:500px;">custom secret header</div>
+          <div class="ltile md" id="c9c-alb" style="left:1200px; top:640px;"><img src="assets/logos/aws/alb.svg" alt=""></div>
+          <div class="badge bad" id="c9c-rej" style="left:1400px; top:560px;">X</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c10a" data-start="@@start:c10a@@" data-duration="@@dur:c10a@@" data-track-index="1">
+        <div class="wrap" id="w-c10a">
+          <div class="num" id="c10a-num" style="left:560px; top:250px;">10</div>
+          <div class="tile big" id="c10a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/cloudwatch.svg" alt="" style="width:170px; height:170px;"></div>
+          <div class="h1 chap" id="c10a-title" style="top:590px;"><span class="bot">MONITORING AND VISIBILITY</span></div>
+          <svg class="burst" id="c10a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c10a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1480px; top:330px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c10a-chip">10</div>
+          <div class="win" id="c10a-dash" style="left:360px; top:300px; width:1200px; height:560px;"><div class="bar"></div><div class="body"></div></div>
+          <div class="label" id="c10a-lbl" style="left:360px; top:240px;">AWS WAF dashboard</div>
+          <div class="cell" id="c10a-k0" style="left:400px; top:360px; width:500px; height:200px;"><span class="lbl">Allowed</span><span class="val">9 120</span></div>
+          <div class="cell" id="c10a-k1" style="left:960px; top:360px; width:500px; height:200px;"><span class="lbl">Blocked</span><span class="val">412</span></div>
+          <div class="cell" id="c10a-k2" style="left:400px; top:600px; width:500px; height:200px;"><span class="lbl">CAPTCHA</span><span class="val">86</span></div>
+          <div class="cell" id="c10a-k3" style="left:960px; top:600px; width:500px; height:200px;"><span class="lbl">Challenge</span><span class="val">154</span></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c10b" data-start="@@start:c10b@@" data-duration="@@dur:c10b@@" data-track-index="1">
+        <div class="wrap" id="w-c10b">
+          <div class="win" id="c10b-bot" style="left:200px; top:300px; width:700px; height:520px;"><div class="bar"></div><div class="body"></div></div>
+          <div class="win" id="c10b-cw" style="left:1000px; top:300px; width:720px; height:520px;"><div class="bar"></div><div class="body"></div></div>
+          <div class="meter" id="c10b-m0" style="left:240px; top:380px; width:620px;"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"></svg><span class="lbl">Search</span><div class="bar"><i class="fill"></i></div></div>
+          <div class="meter" id="c10b-m1" style="left:240px; top:500px; width:620px;"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"></svg><span class="lbl">Monitoring</span><div class="bar"><i class="fill"></i></div></div>
+          <div class="meter" id="c10b-m2" style="left:240px; top:620px; width:620px;"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"></svg><span class="lbl">Scraper</span><div class="bar"><i class="fill"></i></div></div>
+          <div class="ltile sm" id="c10b-cwi" style="left:1040px; top:330px;"><img src="assets/logos/aws/cloudwatch.svg" alt=""></div>
+          <svg class="chart" id="c10b-ch1" viewBox="0 0 600 260" style="left:1040px; top:460px; width:600px; height:260px;"><polyline points="0,220 100,180 200,200 300,120 400,160 500,80 600,100" style="fill:none; stroke:var(--accent); stroke-width:8;"/></svg>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c10c" data-start="@@start:c10c@@" data-duration="@@dur:c10c@@" data-track-index="1">
+        <div class="wrap" id="w-c10c">
+          <div class="win" id="c10c-card" style="left:560px; top:320px; width:800px; height:400px;"><div class="bar"></div><div class="body"></div></div>
+          <div class="chip" id="c10c-u1" style="left:600px; top:420px; width:340px;">Người dùng thật</div>
+          <div class="chip" id="c10c-u2" style="left:1000px; top:420px; width:340px;">Người dùng thật</div>
+          <div class="chip bad" id="c10c-u3" style="left:600px; top:560px; width:340px;">Bị chặn nhầm</div>
+          <div class="label" id="c10c-sig" style="left:560px; top:240px;">Điều này</div>
+          <div class="label" id="c10c-cnt" style="left:1000px; top:600px;">Count</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c10d" data-start="@@start:c10d@@" data-duration="@@dur:c10d@@" data-track-index="1">
+        <div class="wrap" id="w-c10d">
+          <div class="chip" id="c10d-m0" style="left:520px; top:420px; width:260px;">COUNT</div>
+          <div class="chip" id="c10d-m1" style="left:800px; top:420px; width:260px;">BLOCK</div>
+          <div class="chip" id="c10d-m2" style="left:1080px; top:420px; width:260px;">CAPTCHA</div>
+          <div class="chip" id="c10d-m3" style="left:1360px; top:420px; width:260px;">CHALLENGE</div>
+          <div class="label" id="c10d-lbl" style="left:520px; top:340px;">Chế độ</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c11a" data-start="@@start:c11a@@" data-duration="@@dur:c11a@@" data-track-index="1">
+        <div class="wrap" id="w-c11a">
+          <div class="num" id="c11a-num" style="left:560px; top:250px;">11</div>
+          <div class="tile big" id="c11a-tile" style="left:800px; top:200px;"><img src="assets/logos/aws/route53.svg" alt="" style="width:170px; height:170px;"></div>
+          <div class="h1 chap" id="c11a-title" style="top:590px;"><span class="bot">THE COMPLETE ARCHITECTURE</span></div>
+          <svg class="burst" id="c11a-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:1180px; top:170px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c11a-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:1480px; top:330px;"><use href="#art-mascot"/></svg>
+          <div class="chapchip" id="c11a-chip">11</div>
+          <div class="ltile md" id="c11a-users" style="left:260px; top:420px;"><img src="assets/logos/aws/users.svg" alt=""></div>
+          <div class="ltile md" id="c11a-r53" style="left:760px; top:420px;"><img src="assets/logos/aws/route53.svg" alt=""></div>
+          <div class="ltile md" id="c11a-cf" style="left:1260px; top:420px;"><img src="assets/logos/aws/cloudfront.svg" alt=""></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c11b" data-start="@@start:c11b@@" data-duration="@@dur:c11b@@" data-track-index="1">
+        <div class="wrap" id="w-c11b">
+          <div class="ltile md" id="c11b-shield" style="left:560px; top:420px;"><img src="assets/logos/aws/shield.svg" alt=""></div>
+          <div class="ltile md" id="c11b-waf" style="left:960px; top:420px;"><img src="assets/logos/aws/waf.svg" alt=""></div>
+          <div class="label" id="c11b-acl" style="left:960px; top:330px;">Web ACL</div>
+          <div class="ltile md" id="c11b-rate" style="left:1360px; top:420px;"><img src="assets/logos/aws/waf-rule.svg" alt=""></div>
+          <div class="label" id="c11b-rl" style="left:1340px; top:330px;">Rate-based Rules</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c11c" data-start="@@start:c11c@@" data-duration="@@dur:c11c@@" data-track-index="1">
+        <div class="wrap" id="w-c11c">
+          <div class="zone" id="c11c-adv" style="left:1100px; top:360px; width:400px; height:300px;"></div>
+          <div class="ltile md" id="c11c-bot" style="left:360px; top:520px;"><img src="assets/logos/aws/waf-bot-control.svg" alt=""></div>
+          <div class="ltile md" id="c11c-ddos" style="left:760px; top:520px;"><img src="assets/logos/aws/waf.svg" alt=""></div>
+          <div class="label" id="c11c-dl" style="left:700px; top:420px;">Anti-DDoS Managed Rule Group</div>
+          <div class="ltile sm" id="c11c-sh" style="left:1260px; top:400px;"><img src="assets/logos/aws/shield-advanced.svg" alt=""></div>
+          <div class="label" id="c11c-opt" style="left:1140px; top:580px;">Tùy chọn</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c11d" data-start="@@start:c11d@@" data-duration="@@dur:c11d@@" data-track-index="1">
+        <div class="wrap" id="w-c11d">
+          <div class="ltile md" id="c11d-alb" style="left:560px; top:420px;"><img src="assets/logos/aws/alb.svg" alt=""></div>
+          <div class="srv sm" id="c11d-s1" style="left:1000px; top:380px;"><i class="slot"></i><b class="led"></b></div>
+          <div class="srv sm" id="c11d-s2" style="left:1160px; top:380px;"><i class="slot"></i><b class="led"></b></div>
+          <div class="srv sm" id="c11d-s3" style="left:1000px; top:560px;"><i class="slot"></i><b class="led"></b></div>
+          <div class="srv sm" id="c11d-s4" style="left:1160px; top:560px;"><i class="slot"></i><b class="led"></b></div>
+          <svg class="stream" id="c11d-stream" viewBox="0 0 1920 1080"><circle class="dot" cx="200" cy="420" r="9"/><circle class="dot" cx="200" cy="460" r="9"/><circle class="dot" cx="200" cy="500" r="9"/><circle class="dot" cx="200" cy="540" r="9"/><circle class="dot" cx="200" cy="580" r="9"/></svg>
+          <div class="ltile md" id="c11d-cw" style="left:1560px; top:700px;"><img src="assets/logos/aws/cloudwatch.svg" alt=""></div>
+          <div class="label" id="c11d-dash" style="left:200px; top:760px;">dashboard · metrics · logs</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c11e" data-start="@@start:c11e@@" data-duration="@@dur:c11e@@" data-track-index="1">
+        <div class="wrap" id="w-c11e">
+          <div class="chip" id="c11e-1" style="left:560px; top:320px; width:800px;">Nhiều lớp phòng vệ</div>
+          <div class="chip" id="c11e-2" style="left:560px; top:450px; width:800px;">Quy tắc được kiểm thử</div>
+          <div class="chip" id="c11e-3" style="left:560px; top:580px; width:800px;">Phát hiện sớm</div>
+          <div class="chip" id="c11e-4" style="left:560px; top:710px; width:800px;">Kế hoạch ứng phó</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c11f" data-start="@@start:c11f@@" data-duration="@@dur:c11f@@" data-track-index="1">
+        <div class="wrap" id="w-c11f">
+          <div class="ltile big" id="c11f-aws" style="left:800px; top:260px;"><img src="assets/logos/aws/aws-cloud.svg" alt=""></div>
+          <div class="ltile sm" id="c11f-logo" style="left:160px; top:100px;"><img src="assets/logos/goc-nhin-dev-logo.png" alt=""></div>
+          <div class="label" id="c11f-brand" style="left:460px; top:620px;">Góc nhìn DEV - AWS: Behind the Cloud.</div>
+          <div class="label" id="c11f-bye" style="left:460px; top:620px;">Hẹn gặp bạn ở tập tiếp theo!</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-ec" data-start="@@start:ec@@" data-duration="@@dur:ec@@" data-track-index="1">
+        <div class="wrap" id="w-ec">
+          <img id="ec-logo" src="@@logo@@" alt="">
+          <div id="ec-brand">@@brand@@</div>
+          <div id="ec-slogan">@@slogan@@</div>
+        </div>
+      </div>
+
+      <div id="kara" data-layout-allow-overlap="true"></div>
+      <audio id="vo" class="clip" data-start="0" data-duration="@@vo@@" data-track-index="8" src="assets/audio/voiceover.mp3" data-volume="1" data-audio-group="voiceover"></audio>
+      <!-- sfx cues are written by scripts/add-sfx.py -->

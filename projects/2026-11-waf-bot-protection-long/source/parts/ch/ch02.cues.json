@@ -1,0 +1,128 @@
+{
+  "scenes": [
+    {
+      "id": "c2a",
+      "in": "fade",
+      "at": {
+        "sentence": 15,
+        "word": "Trước"
+      }
+    },
+    {
+      "id": "c2b",
+      "in": "cut",
+      "at": {
+        "sentence": 18,
+        "word": "Ví"
+      }
+    },
+    {
+      "id": "c2c",
+      "in": "slide",
+      "at": {
+        "sentence": 21,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c2d",
+      "in": "cut",
+      "at": {
+        "sentence": 25,
+        "word": "Thứ"
+      }
+    },
+    {
+      "id": "c2e",
+      "in": "slide",
+      "at": {
+        "sentence": 28,
+        "word": "Một"
+      }
+    }
+  ],
+  "beats": {
+    "c2a-num": {
+      "sentence": 15,
+      "word": "Trước tiên"
+    },
+    "c2a-chip": {
+      "sentence": 16,
+      "word": "Bot"
+    },
+    "c2a-split": {
+      "sentence": 17,
+      "word": "không phải bot nào"
+    },
+    "c2b-allow": {
+      "sentence": 18,
+      "word": "Google"
+    },
+    "c2b-mon": {
+      "sentence": 19,
+      "word": "monitoring"
+    },
+    "c2b-bad": {
+      "sentence": 20,
+      "word": "Vấn đề"
+    },
+    "c2c-r1": {
+      "sentence": 22,
+      "word": "Đầu tiên"
+    },
+    "c2c-r2": {
+      "sentence": 23,
+      "word": "Thứ hai"
+    },
+    "c2c-cs": {
+      "sentence": 24,
+      "word": "Credential Stuffing"
+    },
+    "c2d-seats": {
+      "sentence": 25,
+      "word": "giữ vé"
+    },
+    "c2d-flood": {
+      "sentence": 26,
+      "word": "phối hợp"
+    },
+    "c2d-acr": {
+      "sentence": 27,
+      "word": "DDoS"
+    },
+    "c2e-circ": {
+      "sentence": 28,
+      "word": "bot traffic"
+    },
+    "c2e-shrink": {
+      "sentence": 30,
+      "word": "DDoS"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c2a-split",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2b-allow",
+      "sound": "click"
+    },
+    {
+      "beat": "c2b-bad",
+      "sound": "click"
+    },
+    {
+      "beat": "c2c-cs",
+      "sound": "click"
+    },
+    {
+      "beat": "c2d-flood",
+      "sound": "laser"
+    },
+    {
+      "beat": "c2d-acr",
+      "sound": "pop"
+    }
+  ]
+}

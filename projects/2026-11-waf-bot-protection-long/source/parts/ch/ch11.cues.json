@@ -1,0 +1,140 @@
+{
+  "scenes": [
+    {
+      "id": "c11a",
+      "in": "fade",
+      "at": {
+        "sentence": 129,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c11b",
+      "in": "cut",
+      "at": {
+        "sentence": 132,
+        "word": "AWS"
+      }
+    },
+    {
+      "id": "c11c",
+      "in": "slide",
+      "at": {
+        "sentence": 135,
+        "word": "Những"
+      }
+    },
+    {
+      "id": "c11d",
+      "in": "cut",
+      "at": {
+        "sentence": 138,
+        "word": "Cuối"
+      }
+    },
+    {
+      "id": "c11e",
+      "in": "slide",
+      "at": {
+        "sentence": 142,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c11f",
+      "in": "slide",
+      "at": {
+        "sentence": 145,
+        "word": "Góc"
+      }
+    }
+  ],
+  "beats": {
+    "c11a-num": {
+      "sentence": 129,
+      "word": "Hãy cùng"
+    },
+    "c11a-chip": {
+      "sentence": 130,
+      "word": "Route 53"
+    },
+    "c11a-r53": {
+      "sentence": 130,
+      "word": "Route 53"
+    },
+    "c11a-cf": {
+      "sentence": 131,
+      "word": "CloudFront"
+    },
+    "c11b-shield": {
+      "sentence": 132,
+      "word": "AWS Shield"
+    },
+    "c11b-waf": {
+      "sentence": 133,
+      "word": "AWS WAF"
+    },
+    "c11b-rate": {
+      "sentence": 134,
+      "word": "Rate-based Rules"
+    },
+    "c11c-bot": {
+      "sentence": 135,
+      "word": "Bot Control"
+    },
+    "c11c-ddos": {
+      "sentence": 136,
+      "word": "Anti-DDoS Managed Rule Group"
+    },
+    "c11c-adv": {
+      "sentence": 137,
+      "word": "AWS Shield Advanced"
+    },
+    "c11d-alb": {
+      "sentence": 138,
+      "word": "Application Load Balancer"
+    },
+    "c11d-stream": {
+      "sentence": 138,
+      "word": "chỉ những request được phép"
+    },
+    "c11d-dash": {
+      "sentence": 139,
+      "word": "dashboard"
+    },
+    "c11e-l1": {
+      "sentence": 142,
+      "word": "nhiều lớp phòng vệ"
+    },
+    "c11f-brand": {
+      "sentence": 145,
+      "word": "Góc nhìn DEV"
+    },
+    "c11f-bye": {
+      "sentence": 146,
+      "word": "Hẹn gặp bạn"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c11a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-waf",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11c-ddos",
+      "sound": "click"
+    },
+    {
+      "beat": "c11d-alb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11f-brand",
+      "sound": "pop"
+    }
+  ]
+}

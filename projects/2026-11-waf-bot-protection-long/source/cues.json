@@ -1,0 +1,1183 @@
+{
+  "scenes": [
+    {
+      "id": "c1a"
+    },
+    {
+      "id": "c1b",
+      "in": "cut",
+      "at": {
+        "sentence": 5,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c1c",
+      "in": "slide",
+      "at": {
+        "sentence": 9,
+        "word": "Traffic"
+      }
+    },
+    {
+      "id": "c1d",
+      "in": "cut",
+      "at": {
+        "sentence": 13,
+        "word": "Đây"
+      }
+    },
+    {
+      "id": "c2a",
+      "in": "fade",
+      "at": {
+        "sentence": 15,
+        "word": "Trước"
+      }
+    },
+    {
+      "id": "c2b",
+      "in": "cut",
+      "at": {
+        "sentence": 18,
+        "word": "Ví"
+      }
+    },
+    {
+      "id": "c2c",
+      "in": "slide",
+      "at": {
+        "sentence": 21,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c2d",
+      "in": "cut",
+      "at": {
+        "sentence": 25,
+        "word": "Thứ"
+      }
+    },
+    {
+      "id": "c2e",
+      "in": "slide",
+      "at": {
+        "sentence": 28,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c3a",
+      "in": "fade",
+      "at": {
+        "sentence": 31,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c3b",
+      "in": "cut",
+      "at": {
+        "sentence": 33,
+        "word": "Đây"
+      }
+    },
+    {
+      "id": "c3c",
+      "in": "slide",
+      "at": {
+        "sentence": 35,
+        "word": "Nhóm"
+      }
+    },
+    {
+      "id": "c3d",
+      "in": "cut",
+      "at": {
+        "sentence": 38,
+        "word": "Đây"
+      }
+    },
+    {
+      "id": "c4a",
+      "in": "fade",
+      "at": {
+        "sentence": 42,
+        "word": "Đầu"
+      }
+    },
+    {
+      "id": "c4b",
+      "in": "cut",
+      "at": {
+        "sentence": 45,
+        "word": "AWS"
+      }
+    },
+    {
+      "id": "c4c",
+      "in": "slide",
+      "at": {
+        "sentence": 48,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c4d",
+      "in": "cut",
+      "at": {
+        "sentence": 51,
+        "word": "Và"
+      }
+    },
+    {
+      "id": "c5a",
+      "in": "fade",
+      "at": {
+        "sentence": 54,
+        "word": "Đó"
+      }
+    },
+    {
+      "id": "c5b",
+      "in": "cut",
+      "at": {
+        "sentence": 56,
+        "word": "Thay"
+      }
+    },
+    {
+      "id": "c5c",
+      "in": "slide",
+      "at": {
+        "sentence": 59,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c5d",
+      "in": "cut",
+      "at": {
+        "sentence": 62,
+        "word": "Tùy"
+      }
+    },
+    {
+      "id": "c6a",
+      "in": "fade",
+      "at": {
+        "sentence": 65,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c6b",
+      "in": "cut",
+      "at": {
+        "sentence": 68,
+        "word": "Chúng"
+      }
+    },
+    {
+      "id": "c6c",
+      "in": "slide",
+      "at": {
+        "sentence": 72,
+        "word": "Tuy"
+      }
+    },
+    {
+      "id": "c6d",
+      "in": "cut",
+      "at": {
+        "sentence": 75,
+        "word": "Ngược"
+      }
+    },
+    {
+      "id": "c7a",
+      "in": "fade",
+      "at": {
+        "sentence": 78,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c7b",
+      "in": "cut",
+      "at": {
+        "sentence": 80,
+        "word": "Bot"
+      }
+    },
+    {
+      "id": "c7c",
+      "in": "slide",
+      "at": {
+        "sentence": 83,
+        "word": "Cấp"
+      }
+    },
+    {
+      "id": "c7d",
+      "in": "cut",
+      "at": {
+        "sentence": 85,
+        "word": "Cấp"
+      }
+    },
+    {
+      "id": "c7e",
+      "in": "slide",
+      "at": {
+        "sentence": 89,
+        "word": "Ví"
+      }
+    },
+    {
+      "id": "c8a",
+      "in": "fade",
+      "at": {
+        "sentence": 93,
+        "word": "Bây"
+      }
+    },
+    {
+      "id": "c8b",
+      "in": "cut",
+      "at": {
+        "sentence": 97,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c8c",
+      "in": "slide",
+      "at": {
+        "sentence": 100,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c8d",
+      "in": "cut",
+      "at": {
+        "sentence": 103,
+        "word": "Đây"
+      }
+    },
+    {
+      "id": "c9a",
+      "in": "fade",
+      "at": {
+        "sentence": 108,
+        "word": "Đến"
+      }
+    },
+    {
+      "id": "c9b",
+      "in": "cut",
+      "at": {
+        "sentence": 111,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c9c",
+      "in": "slide",
+      "at": {
+        "sentence": 114,
+        "word": "Ví"
+      }
+    },
+    {
+      "id": "c10a",
+      "in": "fade",
+      "at": {
+        "sentence": 118,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c10b",
+      "in": "cut",
+      "at": {
+        "sentence": 121,
+        "word": "Bot"
+      }
+    },
+    {
+      "id": "c10c",
+      "in": "slide",
+      "at": {
+        "sentence": 123,
+        "word": "Điều"
+      }
+    },
+    {
+      "id": "c10d",
+      "in": "cut",
+      "at": {
+        "sentence": 126,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c11a",
+      "in": "fade",
+      "at": {
+        "sentence": 129,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c11b",
+      "in": "cut",
+      "at": {
+        "sentence": 132,
+        "word": "AWS"
+      }
+    },
+    {
+      "id": "c11c",
+      "in": "slide",
+      "at": {
+        "sentence": 135,
+        "word": "Những"
+      }
+    },
+    {
+      "id": "c11d",
+      "in": "cut",
+      "at": {
+        "sentence": 138,
+        "word": "Cuối"
+      }
+    },
+    {
+      "id": "c11e",
+      "in": "slide",
+      "at": {
+        "sentence": 142,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c11f",
+      "in": "slide",
+      "at": {
+        "sentence": 145,
+        "word": "Góc"
+      }
+    }
+  ],
+  "beats": {
+    "c1a-num": {
+      "sentence": 1,
+      "word": "Hãy"
+    },
+    "c1a-chip": {
+      "sentence": 2,
+      "word": "Bạn"
+    },
+    "c1a-crowd": {
+      "sentence": 3,
+      "word": "Hàng chục nghìn"
+    },
+    "c1a-surge": {
+      "sentence": 4,
+      "word": "tăng vọt"
+    },
+    "c1b-pill": {
+      "sentence": 6,
+      "word": "Không phải"
+    },
+    "c1b-login": {
+      "sentence": 8,
+      "word": "đăng nhập"
+    },
+    "c1b-scrape": {
+      "sentence": 8,
+      "word": "thu thập"
+    },
+    "c1b-api": {
+      "sentence": 8,
+      "word": "API"
+    },
+    "c1c-lat": {
+      "sentence": 9,
+      "word": "phản hồi chậm"
+    },
+    "c1c-db": {
+      "sentence": 10,
+      "word": "database"
+    },
+    "c1c-timeout": {
+      "sentence": 11,
+      "word": "timeout"
+    },
+    "c1c-503": {
+      "sentence": 12,
+      "word": "website"
+    },
+    "c1d-q": {
+      "sentence": 13,
+      "word": "vấn đề bảo mật"
+    },
+    "c1d-aws": {
+      "sentence": 14,
+      "word": "AWS"
+    },
+    "c2a-num": {
+      "sentence": 15,
+      "word": "Trước tiên"
+    },
+    "c2a-chip": {
+      "sentence": 16,
+      "word": "Bot"
+    },
+    "c2a-split": {
+      "sentence": 17,
+      "word": "không phải bot nào"
+    },
+    "c2b-allow": {
+      "sentence": 18,
+      "word": "Google"
+    },
+    "c2b-mon": {
+      "sentence": 19,
+      "word": "monitoring"
+    },
+    "c2b-bad": {
+      "sentence": 20,
+      "word": "Vấn đề"
+    },
+    "c2c-r1": {
+      "sentence": 22,
+      "word": "Đầu tiên"
+    },
+    "c2c-r2": {
+      "sentence": 23,
+      "word": "Thứ hai"
+    },
+    "c2c-cs": {
+      "sentence": 24,
+      "word": "Credential Stuffing"
+    },
+    "c2d-seats": {
+      "sentence": 25,
+      "word": "giữ vé"
+    },
+    "c2d-flood": {
+      "sentence": 26,
+      "word": "phối hợp"
+    },
+    "c2d-acr": {
+      "sentence": 27,
+      "word": "DDoS"
+    },
+    "c2e-circ": {
+      "sentence": 28,
+      "word": "bot traffic"
+    },
+    "c2e-shrink": {
+      "sentence": 30,
+      "word": "DDoS"
+    },
+    "c3a-num": {
+      "sentence": 31,
+      "word": "Để hiểu"
+    },
+    "c3a-chip": {
+      "sentence": 32,
+      "word": "Nhóm thứ nhất"
+    },
+    "c3a-net": {
+      "sentence": 32,
+      "word": "Network-layer"
+    },
+    "c3b-udp": {
+      "sentence": 33,
+      "word": "UDP flood"
+    },
+    "c3b-drain": {
+      "sentence": 34,
+      "word": "làm cạn kiệt"
+    },
+    "c3c-l7": {
+      "sentence": 35,
+      "word": "Layer bảy"
+    },
+    "c3c-req": {
+      "sentence": 36,
+      "word": "request HTTP"
+    },
+    "c3c-end": {
+      "sentence": 37,
+      "word": "endpoint"
+    },
+    "c3d-hard": {
+      "sentence": 38,
+      "word": "khó phát hiện"
+    },
+    "c3d-tiles": {
+      "sentence": 41,
+      "word": "AWS Shield"
+    },
+    "c4a-num": {
+      "sentence": 42,
+      "word": "Đầu tiên"
+    },
+    "c4a-chip": {
+      "sentence": 43,
+      "word": "dịch vụ bảo vệ"
+    },
+    "c4a-tile": {
+      "sentence": 43,
+      "word": "DDoS"
+    },
+    "c4a-tiers": {
+      "sentence": 44,
+      "word": "Standard"
+    },
+    "c4b-auto": {
+      "sentence": 45,
+      "word": "tự động"
+    },
+    "c4b-fee": {
+      "sentence": 45,
+      "word": "phí riêng"
+    },
+    "c4b-cf": {
+      "sentence": 46,
+      "word": "Amazon CloudFront"
+    },
+    "c4b-layers": {
+      "sentence": 46,
+      "word": "Layer ba"
+    },
+    "c4c-head": {
+      "sentence": 48,
+      "word": "Shield Advanced"
+    },
+    "c4c-row1": {
+      "sentence": 49,
+      "word": "phát hiện"
+    },
+    "c4c-row2": {
+      "sentence": 49,
+      "word": "Layer bảy"
+    },
+    "c4c-row3": {
+      "sentence": 49,
+      "word": "Shield Response Team"
+    },
+    "c4c-paid": {
+      "sentence": 50,
+      "word": "có tính phí"
+    },
+    "c4d-gap": {
+      "sentence": 52,
+      "word": "không thay thế"
+    },
+    "c4d-waf": {
+      "sentence": 53,
+      "word": "công cụ khác"
+    },
+    "c5a-num": {
+      "sentence": 54,
+      "word": "Đó chính là"
+    },
+    "c5a-chip": {
+      "sentence": 55,
+      "word": "Hãy tưởng tượng"
+    },
+    "c5a-waf": {
+      "sentence": 54,
+      "word": "AWS WAF"
+    },
+    "c5a-guard": {
+      "sentence": 55,
+      "word": "nhân viên an ninh"
+    },
+    "c5b-acl": {
+      "sentence": 56,
+      "word": "đặc điểm khác nhau"
+    },
+    "c5b-chips": {
+      "sentence": 57,
+      "word": "Ví dụ"
+    },
+    "c5b-lbl": {
+      "sentence": 58,
+      "word": "Web ACL"
+    },
+    "c5c-card": {
+      "sentence": 59,
+      "word": "Web ACL"
+    },
+    "c5c-ip": {
+      "sentence": 60,
+      "word": "chặn những địa chỉ IP"
+    },
+    "c5c-order": {
+      "sentence": 61,
+      "word": "thứ tự"
+    },
+    "c5d-pills": {
+      "sentence": 62,
+      "word": "cho phép"
+    },
+    "c5d-edge": {
+      "sentence": 63,
+      "word": "CloudFront edge"
+    },
+    "c5d-origin": {
+      "sentence": 63,
+      "word": "origin server"
+    },
+    "c6a-num": {
+      "sentence": 65,
+      "word": "Một trong"
+    },
+    "c6a-chip": {
+      "sentence": 66,
+      "word": "Giả sử"
+    },
+    "c6a-spike": {
+      "sentence": 67,
+      "word": "hàng nghìn request"
+    },
+    "c6b-count": {
+      "sentence": 68,
+      "word": "đếm số lượng request"
+    },
+    "c6b-thr": {
+      "sentence": 69,
+      "word": "ngưỡng riêng"
+    },
+    "c6b-act": {
+      "sentence": 71,
+      "word": "Khi vượt giới hạn"
+    },
+    "c6c-no": {
+      "sentence": 72,
+      "word": "không phải giải pháp hoàn hảo"
+    },
+    "c6c-total": {
+      "sentence": 74,
+      "word": "tổng cộng"
+    },
+    "c6d-office": {
+      "sentence": 75,
+      "word": "văn phòng"
+    },
+    "c6d-cut": {
+      "sentence": 76,
+      "word": "chặn cả khách hàng hợp lệ"
+    },
+    "c7a-num": {
+      "sentence": 78,
+      "word": "Nhưng nếu"
+    },
+    "c7a-chip": {
+      "sentence": 79,
+      "word": "Đây là lúc"
+    },
+    "c7a-q": {
+      "sentence": 78,
+      "word": "nhận diện bot"
+    },
+    "c7a-tile": {
+      "sentence": 79,
+      "word": "AWS WAF Bot Control"
+    },
+    "c7b-hdr": {
+      "sentence": 80,
+      "word": "managed rule group"
+    },
+    "c7b-two": {
+      "sentence": 81,
+      "word": "hai cấp độ"
+    },
+    "c7b-common": {
+      "sentence": 82,
+      "word": "Common Protection"
+    },
+    "c7c-cells": {
+      "sentence": 83,
+      "word": "bot phổ biến"
+    },
+    "c7c-search": {
+      "sentence": 84,
+      "word": "crawler"
+    },
+    "c7d-targ": {
+      "sentence": 85,
+      "word": "Targeted Protection"
+    },
+    "c7d-sig": {
+      "sentence": 87,
+      "word": "TLS fingerprinting"
+    },
+    "c7d-chal": {
+      "sentence": 88,
+      "word": "CAPTCHA"
+    },
+    "c7e-allow": {
+      "sentence": 89,
+      "word": "Googlebot"
+    },
+    "c7e-limit": {
+      "sentence": 90,
+      "word": "bị giới hạn"
+    },
+    "c7e-q": {
+      "sentence": 91,
+      "word": "Đây là bot nào"
+    },
+    "c8a-num": {
+      "sentence": 93,
+      "word": "Bây giờ"
+    },
+    "c8a-chip": {
+      "sentence": 94,
+      "word": "Một lượng lớn"
+    },
+    "c8a-src": {
+      "sentence": 94,
+      "word": "request HTTP"
+    },
+    "c8a-gauge": {
+      "sentence": 95,
+      "word": "tăng bất thường"
+    },
+    "c8a-flood": {
+      "sentence": 96,
+      "word": "HTTP Request Flood"
+    },
+    "c8b-card": {
+      "sentence": 97,
+      "word": "Anti-DDoS Managed Rule Group"
+    },
+    "c8b-tag": {
+      "sentence": 99,
+      "word": "gắn nhãn"
+    },
+    "c8c-base": {
+      "sentence": 100,
+      "word": "baseline"
+    },
+    "c8c-soft": {
+      "sentence": 101,
+      "word": "browser challenge"
+    },
+    "c8c-hard": {
+      "sentence": 102,
+      "word": "chặn request"
+    },
+    "c8d-surge": {
+      "sentence": 104,
+      "word": "Flash Sale"
+    },
+    "c8d-block": {
+      "sentence": 105,
+      "word": "chặn toàn bộ"
+    },
+    "c8d-date": {
+      "sentence": 106,
+      "word": "từ ngày hai mươi sáu tháng ba"
+    },
+    "c8d-cfg": {
+      "sentence": 107,
+      "word": "cấu hình phù hợp"
+    },
+    "c9a-num": {
+      "sentence": 108,
+      "word": "Đến đây"
+    },
+    "c9a-chip": {
+      "sentence": 109,
+      "word": "sai lầm rất nguy hiểm"
+    },
+    "c9a-chain": {
+      "sentence": 108,
+      "word": "CloudFront"
+    },
+    "c9a-bypass": {
+      "sentence": 110,
+      "word": "origin server"
+    },
+    "c9b-atk": {
+      "sentence": 111,
+      "word": "CloudFront và WAF"
+    },
+    "c9b-path": {
+      "sentence": 111,
+      "word": "CloudFront và WAF"
+    },
+    "c9b-direct": {
+      "sentence": 112,
+      "word": "gửi request trực tiếp"
+    },
+    "c9b-gate": {
+      "sentence": 113,
+      "word": "chỉ chấp nhận traffic"
+    },
+    "c9c-sg": {
+      "sentence": 114,
+      "word": "Security Group"
+    },
+    "c9c-hdr": {
+      "sentence": 115,
+      "word": "secret header"
+    },
+    "c9c-rej": {
+      "sentence": 116,
+      "word": "bị từ chối"
+    },
+    "c10a-num": {
+      "sentence": 118,
+      "word": "Một hệ thống"
+    },
+    "c10a-chip": {
+      "sentence": 119,
+      "word": "Nó còn phải"
+    },
+    "c10a-dash": {
+      "sentence": 120,
+      "word": "dashboard"
+    },
+    "c10a-cnt": {
+      "sentence": 120,
+      "word": "bị chặn"
+    },
+    "c10b-bot": {
+      "sentence": 121,
+      "word": "Bot Control"
+    },
+    "c10b-cw": {
+      "sentence": 122,
+      "word": "Amazon CloudWatch"
+    },
+    "c10c-sig": {
+      "sentence": 123,
+      "word": "Điều này"
+    },
+    "c10c-block": {
+      "sentence": 124,
+      "word": "người dùng thật"
+    },
+    "c10c-count": {
+      "sentence": 125,
+      "word": "chế độ Count"
+    },
+    "c10d-count": {
+      "sentence": 126,
+      "word": "ghi nhận"
+    },
+    "c10d-block": {
+      "sentence": 127,
+      "word": "chuyển sang Block"
+    },
+    "c11a-num": {
+      "sentence": 129,
+      "word": "Hãy cùng"
+    },
+    "c11a-chip": {
+      "sentence": 130,
+      "word": "Route 53"
+    },
+    "c11a-r53": {
+      "sentence": 130,
+      "word": "Route 53"
+    },
+    "c11a-cf": {
+      "sentence": 131,
+      "word": "CloudFront"
+    },
+    "c11b-shield": {
+      "sentence": 132,
+      "word": "AWS Shield"
+    },
+    "c11b-waf": {
+      "sentence": 133,
+      "word": "AWS WAF"
+    },
+    "c11b-rate": {
+      "sentence": 134,
+      "word": "Rate-based Rules"
+    },
+    "c11c-bot": {
+      "sentence": 135,
+      "word": "Bot Control"
+    },
+    "c11c-ddos": {
+      "sentence": 136,
+      "word": "Anti-DDoS Managed Rule Group"
+    },
+    "c11c-adv": {
+      "sentence": 137,
+      "word": "AWS Shield Advanced"
+    },
+    "c11d-alb": {
+      "sentence": 138,
+      "word": "Application Load Balancer"
+    },
+    "c11d-stream": {
+      "sentence": 138,
+      "word": "chỉ những request được phép"
+    },
+    "c11d-dash": {
+      "sentence": 139,
+      "word": "dashboard"
+    },
+    "c11e-l1": {
+      "sentence": 142,
+      "word": "nhiều lớp phòng vệ"
+    },
+    "c11f-brand": {
+      "sentence": 145,
+      "word": "Góc nhìn DEV"
+    },
+    "c11f-bye": {
+      "sentence": 146,
+      "word": "Hẹn gặp bạn"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c1a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1b-pill",
+      "sound": "click"
+    },
+    {
+      "beat": "c1b-api",
+      "sound": "laser"
+    },
+    {
+      "beat": "c1c-lat",
+      "sound": "laser"
+    },
+    {
+      "beat": "c1c-503",
+      "sound": "click"
+    },
+    {
+      "beat": "c1d-aws",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2a-split",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2b-allow",
+      "sound": "click"
+    },
+    {
+      "beat": "c2b-bad",
+      "sound": "click"
+    },
+    {
+      "beat": "c2c-cs",
+      "sound": "click"
+    },
+    {
+      "beat": "c2d-flood",
+      "sound": "laser"
+    },
+    {
+      "beat": "c2d-acr",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3a-net",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-udp",
+      "sound": "click"
+    },
+    {
+      "beat": "c3c-req",
+      "sound": "click"
+    },
+    {
+      "beat": "c3d-tiles",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4a-tile",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4b-cf",
+      "sound": "click"
+    },
+    {
+      "beat": "c4c-head",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4d-gap",
+      "sound": "laser"
+    },
+    {
+      "beat": "c4d-waf",
+      "sound": "click"
+    },
+    {
+      "beat": "c5a-waf",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5a-guard",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5b-chips",
+      "sound": "click"
+    },
+    {
+      "beat": "c5c-order",
+      "sound": "click"
+    },
+    {
+      "beat": "c5d-pills",
+      "sound": "click"
+    },
+    {
+      "beat": "c5d-edge",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-spike",
+      "sound": "laser"
+    },
+    {
+      "beat": "c6b-act",
+      "sound": "click"
+    },
+    {
+      "beat": "c6c-total",
+      "sound": "laser"
+    },
+    {
+      "beat": "c6d-cut",
+      "sound": "click"
+    },
+    {
+      "beat": "c7a-tile",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7b-two",
+      "sound": "click"
+    },
+    {
+      "beat": "c7c-cells",
+      "sound": "click"
+    },
+    {
+      "beat": "c7d-chal",
+      "sound": "click"
+    },
+    {
+      "beat": "c7e-allow",
+      "sound": "laser"
+    },
+    {
+      "beat": "c7e-q",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8a-gauge",
+      "sound": "laser"
+    },
+    {
+      "beat": "c8b-card",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8c-soft",
+      "sound": "click"
+    },
+    {
+      "beat": "c8c-hard",
+      "sound": "click"
+    },
+    {
+      "beat": "c8d-date",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9a-bypass",
+      "sound": "laser"
+    },
+    {
+      "beat": "c9b-direct",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9c-rej",
+      "sound": "click"
+    },
+    {
+      "beat": "c10a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10b-cw",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10c-block",
+      "sound": "click"
+    },
+    {
+      "beat": "c10d-block",
+      "sound": "click"
+    },
+    {
+      "beat": "c11a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-waf",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11c-ddos",
+      "sound": "click"
+    },
+    {
+      "beat": "c11d-alb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11f-brand",
+      "sound": "pop"
+    }
+  ]
+}
