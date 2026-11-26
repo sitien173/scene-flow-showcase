@@ -1,0 +1,148 @@
+      <div class="scene clip" id="sc-h1" data-start="@@start:h1@@" data-duration="@@dur:h1@@" data-track-index="1">
+        <div class="wrap" id="w-h1">
+          <div class="tile big" id="h1-phone" style="left:330px; top:640px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-phone"/></svg></div>
+          <div class="chip" id="h1-price" style="left:250px; top:1060px;">20.000.000 ₫</div>
+          <div class="chip" id="h1-btn" style="left:250px; top:1160px; background:var(--accent); color:var(--on-accent);">THANH TOÁN</div>
+          <div class="glyph" id="h1-load" style="left:650px; top:1160px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-loader"/></svg></div>
+          <div class="chip" id="h1-two" style="left:250px; top:1260px; background:var(--accent); color:var(--on-accent);">−20.000.000 ₫</div>
+          <svg class="burst" id="h1-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:700px; top:1180px;"><use href="#art-burst"/></svg>
+          <div class="callnum" id="h1-num" style="left:760px; top:1240px;">2</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-p1" data-start="@@start:p1@@" data-duration="@@dur:p1@@" data-track-index="1">
+        <div class="wrap" id="w-p1">
+          <div class="tile" id="p1-phone" style="left:360px; top:560px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-phone"/></svg></div>
+          <div class="tile" id="p1-server" style="left:360px; top:900px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="tile" id="p1-gate" style="left:360px; top:1240px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-credit-card"/></svg></div>
+          <div class="chip" id="p1-success" style="left:560px; top:1120px; background:var(--mascot); color:var(--on-accent);">SUCCESS</div>
+          <div class="chip" id="p1-timeout" style="left:560px; top:900px; background:var(--accent); color:var(--on-accent);">TIMEOUT</div>
+          <div class="chip" id="p1-unknown-chip" style="left:620px; top:780px;">?</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-r1" data-start="@@start:r1@@" data-duration="@@dur:r1@@" data-track-index="1">
+        <div class="wrap" id="w-r1">
+          <div class="tile" id="r1-gate" style="left:100px; top:700px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-credit-card"/></svg></div>
+          <div class="chip" id="r1-tag" style="left:560px; top:640px;">#2</div>
+          <div class="term" id="r1-stmt" style="left:72px; top:1000px;"><div class="dim">−20.000.000 ₫</div><div id="r1-line2" style="color:var(--accent);">−20.000.000 ₫</div></div>
+          <div class="chip" id="r1-total" style="left:100px; top:1360px; background:var(--accent); color:var(--on-accent);">−40.000.000 ₫</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-c1" data-start="@@start:c1@@" data-duration="@@dur:c1@@" data-track-index="1">
+        <div class="wrap" id="w-c1">
+          <div class="num" style="top:560px;">02</div>
+          <div class="tile big" id="c1-tile" style="left:380px; top:700px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-refresh-cw"/></svg></div>
+          <div class="h1 chap" id="c1-title" style="top:1100px;"><span class="bot">Idempotency</span></div>
+          <svg class="burst" id="c1-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:760px; top:560px;"><use href="#art-burst"/></svg>
+          <svg class="mascot" id="c1-mascot" viewBox="0 0 200 200" aria-hidden="true" style="left:90px; top:1250px;"><use href="#art-mascot"/></svg>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-d1" data-start="@@start:d1@@" data-duration="@@dur:d1@@" data-track-index="1">
+        <div class="wrap" id="w-d1">
+          <div class="tile" id="d1-r1" style="left:80px; top:620px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-send"/></svg></div>
+          <div class="tile" id="d1-r2" style="left:80px; top:840px; opacity:0.35;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-send"/></svg></div>
+          <div class="tile" id="d1-r3" style="left:80px; top:1060px; opacity:0.35;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-send"/></svg></div>
+          <div class="label" id="d1-x3" style="left:80px; top:1280px;">×3</div>
+          <div class="tile" id="d1-sys" style="left:430px; top:840px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="tile" id="d1-res" style="left:700px; top:840px; background:var(--mascot);"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="label" id="d1-x1" style="left:700px; top:1060px;">×1</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-k1" data-start="@@start:k1@@" data-duration="@@dur:k1@@" data-track-index="1">
+        <div class="wrap" id="w-k1">
+          <div class="tile big" id="k1-key" style="left:380px; top:640px; background:var(--mascot);"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-key-round"/></svg></div>
+          <div class="chip" id="k1-chip" style="left:200px; top:1060px;"><span class="mono">key 7f3a…c21e</span></div>
+          <div class="label" id="k1-label" style="left:200px; top:1180px;">Idempotency Key</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-k2" data-start="@@start:k2@@" data-duration="@@dur:k2@@" data-track-index="1">
+        <div class="wrap" id="w-k2">
+          <div class="tile" id="k2-g1" style="left:80px; top:560px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-send"/></svg></div>
+          <div class="chip" id="k2-timeout" style="left:120px; top:800px; background:var(--accent); color:var(--on-accent);">TIMEOUT</div>
+          <div class="tile" id="k2-g2" style="left:80px; top:1020px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-send"/></svg></div>
+          <div class="chip" id="k2-eq" style="left:420px; top:1020px;">=</div>
+          <div class="label" id="k2-new" style="left:620px; top:1300px;">đơn mới</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-a1" data-start="@@start:a1@@" data-duration="@@dur:a1@@" data-track-index="1">
+        <div class="wrap" id="w-a1">
+          <div class="tile" id="a1-phone" style="left:80px; top:480px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-phone"/></svg></div>
+          <div class="tile" id="a1-gw" style="left:80px; top:680px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-network"/></svg></div>
+          <div class="tile" id="a1-lambda" style="left:80px; top:880px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-cpu"/></svg></div>
+          <div class="chip" id="a1-powertools" style="left:290px; top:940px;">Powertools Idempotency</div>
+          <div class="tile" id="a1-db" style="left:80px; top:1080px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-database"/></svg></div>
+          <div class="label" id="a1-state" style="left:290px; top:1130px;">lưu trạng thái</div>
+          <div class="h1 chap" id="a1-title" style="top:1320px;"><span class="bot">Giải pháp AWS</span></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-w1" data-start="@@start:w1@@" data-duration="@@dur:w1@@" data-track-index="1">
+        <div class="wrap" id="w-w1">
+          <div class="term" id="w1-table" style="left:72px; top:540px; height:320px;"><div class="dim">key · status · response</div><div id="w1-row" style="opacity:0;">7f3a…c21e</div></div>
+          <div class="chip" id="w1-inprog" style="left:100px; top:890px;">INPROGRESS</div>
+          <div class="chip" id="w1-done" style="left:100px; top:990px; background:var(--mascot); color:var(--on-accent);">COMPLETED</div>
+          <div class="chip" id="w1-charge" style="left:100px; top:1090px; background:var(--accent); color:var(--on-accent);">−20.000.000 ₫</div>
+          <div class="chip" id="w1-resp" style="left:100px; top:1190px;">200 OK · GD #1</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-x1" data-start="@@start:x1@@" data-duration="@@dur:x1@@" data-track-index="1">
+        <div class="wrap" id="w-x1">
+          <div class="tile" id="x1-req" style="left:100px; top:600px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-send"/></svg></div>
+          <div class="chip" id="x1-tag" style="left:560px; top:600px;">#2</div>
+          <div class="chip" id="x1-key" style="left:100px; top:820px;">7f3a…c21e</div>
+          <div class="chip" id="x1-complete" style="left:100px; top:980px; background:var(--mascot); color:var(--on-accent);">COMPLETED</div>
+          <div class="chip" id="x1-resp" style="left:100px; top:1140px;">200 OK · GD #1</div>
+          <div class="label" id="x1-stop" style="left:560px; top:1280px; background:var(--accent); color:var(--on-accent);">×</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-g1" data-start="@@start:g1@@" data-duration="@@dur:g1@@" data-track-index="1">
+        <div class="wrap" id="w-g1">
+          <div class="tile" id="g1-lambda" style="left:80px; top:500px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-cpu"/></svg></div>
+          <div class="chip" id="g1-header" style="left:100px; top:700px;">Idempotency-Key: 7f3a…</div>
+          <div class="tile" id="g1-gate" style="left:440px; top:820px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-credit-card"/></svg></div>
+          <div class="label" id="g1-optional" style="left:360px; top:1020px; border-style:dashed;">nếu cổng hỗ trợ</div>
+          <div class="term" id="g1-ledger" style="left:72px; top:1140px; height:240px;"><div id="g1-debit" style="color:var(--accent);">−20.000.000 ₫</div></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-e1" data-start="@@start:e1@@" data-duration="@@dur:e1@@" data-track-index="1">
+        <div class="wrap" id="w-e1">
+          <div class="tile big" id="e1-ok" style="left:330px; top:580px; background:var(--mascot);"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="h1" id="e1-title" style="top:1020px;"><span class="bot">Thanh toán thành công</span></div>
+          <div class="term" id="e1-stmt" style="left:72px; top:1200px; height:220px;"><div>−20.000.000 ₫</div></div>
+          <svg class="burst" id="e1-burst" viewBox="0 0 200 200" aria-hidden="true" style="left:640px; top:520px; width:260px; height:260px;"><use href="#art-burst"/></svg>
+          <div class="callnum" id="e1-num" style="left:670px; top:570px; width:200px; text-align:center;">1</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-v1" data-start="@@start:v1@@" data-duration="@@dur:v1@@" data-track-index="1">
+        <div class="wrap" id="w-v1">
+          <div class="term" id="v1-no" style="left:72px; top:460px; height:260px;"><div class="dim">Không có Idempotency</div><div style="color:var(--accent);">−20.000.000 ₫ · −20.000.000 ₫</div></div>
+          <div class="label" id="v1-pill" style="left:300px; top:750px;">Idempotency</div>
+          <div class="term" id="v1-yes" style="left:72px; top:860px; height:260px;"><div class="dim">Có Idempotency</div><div style="color:var(--mascot);">−20.000.000 ₫ · khóa 7f3a…</div></div>
+          <div class="tile" id="v1-thanh" style="left:80px; top:1180px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-credit-card"/></svg></div>
+          <div class="tile" id="v1-dat" style="left:380px; top:1180px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-shopping-cart"/></svg></div>
+          <div class="tile" id="v1-phan" style="left:680px; top:1180px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-network"/></svg></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-m1" data-start="@@start:m1@@" data-duration="@@dur:m1@@" data-track-index="1">
+        <div class="wrap" id="w-m1">
+          <div class="num" id="m1-count" style="top:700px;">×1</div>
+          <div class="tile" id="m1-sys" style="left:80px; top:1000px;"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-server"/></svg></div>
+          <div class="tile big" id="m1-res" style="left:560px; top:1000px; background:var(--mascot);"><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><use href="#i-check"/></svg></div>
+          <div class="h1" id="m1-thesis" style="top:1300px;"><span class="bot">Một kết quả đúng</span></div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-o1" data-start="@@start:o1@@" data-duration="@@dur:o1@@" data-track-index="1">
+        <div class="wrap" id="w-o1">
+          <div class="tile big" id="o1-logo" style="left:330px; top:580px; background:var(--mascot);"><img src="assets/logos/goc-nhin-dev-logo.png" alt="" style="width:100%; height:100%; object-fit:contain;"/></div>
+          <div class="h1" id="o1-brand" style="top:960px;"><span class="bot">Góc nhìn DEV</span></div>
+          <div class="label" id="o1-series" style="left:200px; top:1140px;">AWS: Behind the Cloud</div>
+        </div>
+      </div>
+      <div class="scene clip" id="sc-ec" data-start="101.34" data-duration="5.5" data-track-index="1">
+        <div class="wrap" id="w-ec">
+          <img id="ec-logo" src="assets/logos/goc-nhin-dev-logo.png" alt="">
+          <div id="ec-brand">Góc nhìn DEV</div>
+          <div id="ec-slogan">AWS: Behind the Cloud. Hẹn gặp bạn ở tập tiếp theo!</div>
+        </div>
+      </div>
+      <div id="kara" data-layout-allow-overlap="true"></div>
+      <audio id="vo" class="clip" data-start="0" data-duration="@@vo@@" data-track-index="8" src="assets/audio/voiceover.mp3" data-volume="1" data-audio-group="voiceover"></audio>
+      <!-- sfx cues are written by scripts/add-sfx.py -->

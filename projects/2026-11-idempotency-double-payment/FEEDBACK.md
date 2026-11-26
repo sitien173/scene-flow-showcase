@@ -1,0 +1,2 @@
+- DynamoDB status pills show `INPROGRESS` and `COMPLETED`, never `COMPLETE`. Reason: these are the literal values in Powertools `STATUS_CONSTANTS` (datarecord.py); the voice may still say "complete".
+- asr-words.json holds 7 hand-placed words at 96.81-99.24 s for "Góc nhìn DEV - AWS: Behind the Cloud". Reason: ASR small and medium both missed this English line; times come from ffmpeg silencedetect. Rerunning asr.py drops them.
