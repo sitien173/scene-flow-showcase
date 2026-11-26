@@ -1,0 +1,17 @@
+{
+  "title": "Video ngang mẫu cho kiểm thử",
+  "author": {
+    "name": "scene-flow",
+    "url": "https://github.com/example"
+  },
+  "theme": "neon3d",
+  "format": "16x9",
+  "lang": "vi",
+  "durationSec": 95,
+  "publishedAt": "2026-11-26",
+  "video": {
+    "url": "https://github.com/example/scene-flow-showcase/releases/download/video-demo-wide-00000000/demo-wide.mp4",
+    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+    "bytes": 1000
+  }
+}

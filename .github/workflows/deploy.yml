@@ -62,6 +62,7 @@ jobs:
           BASE_PATH: ${{ steps.pages.outputs.base_path }}
           MEDIA_HOST: ${{ vars.MEDIA_HOST }}
           REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
       - uses: actions/upload-pages-artifact@v5
         with:
           path: out

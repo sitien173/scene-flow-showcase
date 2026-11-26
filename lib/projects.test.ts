@@ -27,6 +27,7 @@ describe("loadProjects", () => {
     expect(project.slug).toBe("demo-video");
     expect(project.format).toBe("9x16");
     expect(project.storyboard).toContain("Cảnh 1");
+    expect(project.lessons).toContain("## Tránh");
     expect(project.sources.map((s) => s.path)).toEqual([
       "look.json",
       "parts/timeline.js",
@@ -54,6 +55,14 @@ describe("loadProjects", () => {
     writeFileSync(join(dir, "PROMPTS.md"), "<!-- TODO: write -->\n");
     expect(() => loadProjects(root)).toThrow(
       "PROMPTS.md still has the TODO template",
+    );
+  });
+
+  it("rejects the LESSONS.md template", () => {
+    const dir = copyFixture();
+    writeFileSync(join(dir, "LESSONS.md"), "<!-- TODO: write -->\n");
+    expect(() => loadProjects(root)).toThrow(
+      "LESSONS.md still has the TODO template",
     );
   });
 

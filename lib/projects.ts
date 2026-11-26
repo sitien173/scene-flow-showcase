@@ -1,12 +1,18 @@
-import { readdirSync, readFileSync, statSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync, statSync } from "node:fs";
 import { join, relative, sep } from "node:path";
 import { z } from "zod";
 
 const SLUG = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
 // Keep in sync with SOURCE in tools/share.py.
 const ALLOWED =
-  /^(?:project\.json|SCRIPT\.md|STORYBOARD\.md|FEEDBACK\.md|PROMPTS\.md|poster\.webp|source\/(?:look|meta|cues)\.json|source\/parts\/[A-Za-z0-9_./-]+\.(?:part|js|css|txt|html|json)|source\/vignettes\/[A-Za-z0-9_./-]+\.(?:js|json))$/;
-const REQUIRED = ["project.json", "SCRIPT.md", "PROMPTS.md", "poster.webp"];
+  /^(?:project\.json|SCRIPT\.md|STORYBOARD\.md|FEEDBACK\.md|PROMPTS\.md|LESSONS\.md|poster\.webp|source\/(?:look|meta|cues)\.json|source\/parts\/[A-Za-z0-9_./-]+\.(?:part|js|css|txt|html|json)|source\/vignettes\/[A-Za-z0-9_./-]+\.(?:js|json))$/;
+const REQUIRED = [
+  "project.json",
+  "SCRIPT.md",
+  "PROMPTS.md",
+  "LESSONS.md",
+  "poster.webp",
+];
 const MAX_TEXT = 600 * 1024;
 const MAX_POSTER = 300 * 1024;
 const TODO = "<!-- TODO";
@@ -45,6 +51,7 @@ export type Project = z.infer<typeof projectSchema> & {
   slug: string;
   script: string;
   prompts: string;
+  lessons: string;
   storyboard?: string;
   feedback?: string;
   sources: SourceFile[];
@@ -86,12 +93,15 @@ function loadProject(root: string, slug: string): Project {
   if (!parsed.success) fail(`project.json\n${z.prettifyError(parsed.error)}`);
   const prompts = read("PROMPTS.md");
   if (prompts.includes(TODO)) fail("PROMPTS.md still has the TODO template");
+  const lessons = read("LESSONS.md");
+  if (lessons.includes(TODO)) fail("LESSONS.md still has the TODO template");
 
   return {
     ...(parsed.data as z.infer<typeof projectSchema>),
     slug,
     script: read("SCRIPT.md"),
     prompts,
+    lessons,
     storyboard: optional("STORYBOARD.md"),
     feedback: optional("FEEDBACK.md"),
     sources: files
@@ -126,6 +136,19 @@ export function getProjects(): Project[] {
 
 export function findProject(slug: string): Project | undefined {
   return getProjects().find((project) => project.slug === slug);
+}
+
+// The AI digest of all LESSONS.md files, written by .github/workflows/lessons.yml.
+export function getDigest(): string | undefined {
+  const path = "lessons/DIGEST.md";
+  return existsSync(path) ? readFileSync(path, "utf8") : undefined;
+}
+
+// Absolute when SITE_URL is set at build time, so agents can follow the links.
+export function siteUrl(path: string): string {
+  return process.env.SITE_URL
+    ? `${process.env.SITE_URL.replace(/\/$/, "")}${path}`
+    : asset(path);
 }
 
 // Same key as the media job in .github/workflows/deploy.yml.

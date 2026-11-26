@@ -5,7 +5,8 @@ Run it from a clone of your fork of the showcase repository:
 
   python3 tools/share.py prompts <project>      print your prompts from Claude Code transcripts
   python3 tools/share.py pack <project> --slug S --title T --author A [--author-url U]
-                         [--video F] [--poster-at 1.0] [--prompts FILE] [--lang vi] [--force]
+                         [--video F] [--poster-at 1.0] [--prompts FILE] [--lessons FILE]
+                         [--lang vi] [--force]
   python3 tools/share.py submit <slug> [--yes]  create the video release on your fork and open the PR
 
 pack writes only allowlisted text files, a poster, and project.json into projects/<slug>/, and the
@@ -54,8 +55,15 @@ PROMPTS_TEMPLATE = """<!-- TODO: replace this template with a summary of your pr
 ## Các bước chính và prompt tiêu biểu
 
 ## Những lần sửa quan trọng
+"""
+LESSONS_TEMPLATE = """<!-- TODO: replace this template with your lessons, then delete this line. -->
+# Bài học
 
-## Bài học
+## Hiệu quả
+
+## Tránh
+
+## Gợi ý cho agent lần sau
 """
 
 
@@ -200,6 +208,10 @@ def cmd_pack(a):
         shutil.copy(a.prompts, os.path.join(stage, "PROMPTS.md"))
     else:
         open(os.path.join(stage, "PROMPTS.md"), "w", encoding="utf-8").write(PROMPTS_TEMPLATE)
+    if a.lessons:
+        shutil.copy(a.lessons, os.path.join(stage, "LESSONS.md"))
+    else:
+        open(os.path.join(stage, "LESSONS.md"), "w", encoding="utf-8").write(LESSONS_TEMPLATE)
     for root, dirs, names in os.walk(src):
         dirs[:] = [d for d in dirs if not d.startswith(".") and d != "node_modules"]
         for name in names:
@@ -245,16 +257,19 @@ def cmd_pack(a):
     print("video: %s (%d bytes, not in git)" % (mp4, os.path.getsize(mp4)))
     for warning in warnings:
         print("check: " + warning)
-    if not a.prompts:
-        print("next: write projects/%s/PROMPTS.md, then run: python3 tools/share.py submit %s" % (a.slug, a.slug))
+    todo = [n for n, given in (("PROMPTS.md", a.prompts), ("LESSONS.md", a.lessons)) if not given]
+    if todo:
+        print("next: write %s in projects/%s/, then run: python3 tools/share.py submit %s"
+              % (" and ".join(todo), a.slug, a.slug))
 
 
 def cmd_submit(a):
     dest = os.path.join(REPO, "projects", a.slug)
     mp4 = os.path.join(WORK, a.slug, a.slug + ".mp4")
     project = json.load(open(os.path.join(dest, "project.json"), encoding="utf-8"))
-    if TODO in open(os.path.join(dest, "PROMPTS.md"), encoding="utf-8").read():
-        die("PROMPTS.md still has the TODO template")
+    for name in ("PROMPTS.md", "LESSONS.md"):
+        if TODO in open(os.path.join(dest, name), encoding="utf-8").read():
+            die("%s still has the TODO template" % name)
     if not os.path.isfile(mp4) or sha256(mp4) != project["video"]["sha256"]:
         die("%s is missing or differs from project.json; run pack again" % mp4)
     problems, _ = scan(dest)
@@ -302,6 +317,7 @@ def main():
     s.add_argument("--video", help="render to share; default: newest renders/*.mp4")
     s.add_argument("--poster-at", type=float, default=1.0, help="poster time in seconds")
     s.add_argument("--prompts", help="finished PROMPTS.md to include")
+    s.add_argument("--lessons", help="finished LESSONS.md to include")
     s.add_argument("--lang", default="vi")
     s.add_argument("--force", action="store_true")
     s = sub.add_parser("submit")

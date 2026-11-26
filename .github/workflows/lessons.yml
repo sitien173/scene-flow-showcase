@@ -1,0 +1,54 @@
+name: Lessons digest
+
+# Summarizes, deduplicates, and suggests improvements from every LESSONS.md with an
+# OpenAI-compatible API, then opens a pull request so a person reviews the digest.
+on:
+  push:
+    branches: [main]
+    paths: ["projects/*/LESSONS.md"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: lessons
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    # Skipped until the maintainer sets LLM_MODEL; see README.
+    if: vars.LLM_MODEL != ''
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - name: Summarize all LESSONS.md
+        env:
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: node scripts/digest-lessons.mjs
+      - name: Open a pull request with the new digest
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [[ -z "$(git status --porcelain -- lessons)" ]]; then
+            echo "digest unchanged"
+            exit 0
+          fi
+          branch=bot/lessons-digest
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B "$branch"
+          git add lessons/DIGEST.md
+          git commit -m "docs: update lessons digest"
+          git push --force origin "$branch"
+          if [[ "$(gh pr view "$branch" --json state -q .state 2>/dev/null)" != OPEN ]]; then
+            gh pr create --base main --head "$branch" \
+              --title "docs: cập nhật tổng hợp bài học" \
+              --body "Bản tổng hợp do AI viết từ mọi LESSONS.md. Đọc lại trước khi merge: kiểm tra nội dung bịa, mâu thuẫn và thông tin riêng tư."
+          fi
