@@ -1,0 +1,1895 @@
+{
+  "scenes": [
+    {
+      "id": "c1a"
+    },
+    {
+      "id": "c1b",
+      "in": "cut",
+      "at": {
+        "sentence": 5,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c1c",
+      "in": "slide",
+      "at": {
+        "sentence": 9,
+        "word": "Trong"
+      }
+    },
+    {
+      "id": "c1d",
+      "in": "fade",
+      "at": {
+        "sentence": 14,
+        "word": "Và"
+      }
+    },
+    {
+      "id": "c2a",
+      "in": "cut",
+      "at": {
+        "sentence": 16,
+        "word": "Trước"
+      }
+    },
+    {
+      "id": "c2b",
+      "in": "slide",
+      "at": {
+        "sentence": 20,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "c2c",
+      "in": "slide",
+      "at": {
+        "sentence": 24,
+        "word": "Ví"
+      }
+    },
+    {
+      "id": "c3a",
+      "in": "cut",
+      "at": {
+        "sentence": 26,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c3b",
+      "in": "slide",
+      "at": {
+        "sentence": 29,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c3c",
+      "in": "slide",
+      "at": {
+        "sentence": 33,
+        "word": "Bạn"
+      }
+    },
+    {
+      "id": "c3d",
+      "in": "fade",
+      "at": {
+        "sentence": 38,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c4a",
+      "in": "cut",
+      "at": {
+        "sentence": 41,
+        "word": "Trước"
+      }
+    },
+    {
+      "id": "c4b",
+      "in": "slide",
+      "at": {
+        "sentence": 45,
+        "word": "Đó"
+      }
+    },
+    {
+      "id": "c4c",
+      "in": "slide",
+      "at": {
+        "sentence": 49,
+        "word": "Các"
+      }
+    },
+    {
+      "id": "c5a",
+      "in": "cut",
+      "at": {
+        "sentence": 53,
+        "word": "Sau"
+      }
+    },
+    {
+      "id": "c5b",
+      "in": "slide",
+      "at": {
+        "sentence": 57,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c5c",
+      "in": "slide",
+      "at": {
+        "sentence": 60,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c5d",
+      "in": "slide",
+      "at": {
+        "sentence": 64,
+        "word": "Load"
+      }
+    },
+    {
+      "id": "c6a",
+      "in": "cut",
+      "at": {
+        "sentence": 66,
+        "word": "Đây"
+      }
+    },
+    {
+      "id": "c6b",
+      "in": "slide",
+      "at": {
+        "sentence": 70,
+        "word": "EC2"
+      }
+    },
+    {
+      "id": "c6c",
+      "in": "slide",
+      "at": {
+        "sentence": 75,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c6d",
+      "in": "slide",
+      "at": {
+        "sentence": 77,
+        "word": "Tuy"
+      }
+    },
+    {
+      "id": "c7a",
+      "in": "cut",
+      "at": {
+        "sentence": 80,
+        "word": "Đến"
+      }
+    },
+    {
+      "id": "c7b",
+      "in": "slide",
+      "at": {
+        "sentence": 84,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c7c",
+      "in": "slide",
+      "at": {
+        "sentence": 87,
+        "word": "Để"
+      }
+    },
+    {
+      "id": "c7d",
+      "in": "slide",
+      "at": {
+        "sentence": 92,
+        "word": "Tuy"
+      }
+    },
+    {
+      "id": "c8a",
+      "in": "cut",
+      "at": {
+        "sentence": 95,
+        "word": "Bây"
+      }
+    },
+    {
+      "id": "c8b",
+      "in": "slide",
+      "at": {
+        "sentence": 99,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c8c",
+      "in": "slide",
+      "at": {
+        "sentence": 104,
+        "word": "Điều"
+      }
+    },
+    {
+      "id": "c8d",
+      "in": "slide",
+      "at": {
+        "sentence": 107,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c8e",
+      "in": "slide",
+      "at": {
+        "sentence": 111,
+        "word": "Và"
+      }
+    },
+    {
+      "id": "c9a",
+      "in": "cut",
+      "at": {
+        "sentence": 113,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c9b",
+      "in": "slide",
+      "at": {
+        "sentence": 116,
+        "word": "Đầu"
+      }
+    },
+    {
+      "id": "c9c",
+      "in": "slide",
+      "at": {
+        "sentence": 122,
+        "word": "Sau"
+      }
+    },
+    {
+      "id": "c9d",
+      "in": "slide",
+      "at": {
+        "sentence": 126,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "c10a",
+      "in": "cut",
+      "at": {
+        "sentence": 128,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c10b",
+      "in": "slide",
+      "at": {
+        "sentence": 131,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c10c",
+      "in": "slide",
+      "at": {
+        "sentence": 135,
+        "word": "Sau"
+      }
+    },
+    {
+      "id": "c10d",
+      "in": "slide",
+      "at": {
+        "sentence": 137,
+        "word": "Trong"
+      }
+    },
+    {
+      "id": "c11a",
+      "in": "cut",
+      "at": {
+        "sentence": 141,
+        "word": "Vậy"
+      }
+    },
+    {
+      "id": "c11b",
+      "in": "slide",
+      "at": {
+        "sentence": 144,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c11c",
+      "in": "fade",
+      "at": {
+        "sentence": 147,
+        "word": "Lần"
+      }
+    },
+    {
+      "id": "c11d",
+      "in": "fade",
+      "at": {
+        "sentence": 149,
+        "word": "Cảm"
+      }
+    }
+  ],
+  "beats": {
+    "c1a-series": {
+      "sentence": 1,
+      "word": "Hãy"
+    },
+    "c1a-scrim": {
+      "sentence": 1,
+      "word": "website"
+    },
+    "c1a-crowd": {
+      "sentence": 2,
+      "word": "vài nghìn"
+    },
+    "c1a-server": {
+      "sentence": 3,
+      "word": "bình thường"
+    },
+    "c1a-db": {
+      "sentence": 4,
+      "word": "database"
+    },
+    "c1a-buy": {
+      "sentence": 4,
+      "word": "mua hàng"
+    },
+    "c1b-num": {
+      "sentence": 5,
+      "word": "Nhưng"
+    },
+    "c1b-chip": {
+      "sentence": 6,
+      "word": "Flash Sale"
+    },
+    "c1b-noon": {
+      "sentence": 6,
+      "word": "mười hai giờ"
+    },
+    "c1b-sale": {
+      "sentence": 6,
+      "word": "giảm giá"
+    },
+    "c1b-count": {
+      "sentence": 7,
+      "word": "Mười giây"
+    },
+    "c1b-photo": {
+      "sentence": 7,
+      "word": "hàng nghìn"
+    },
+    "c1b-zero": {
+      "sentence": 8,
+      "word": "đúng"
+    },
+    "c1b-click": {
+      "sentence": 8,
+      "word": "mười hai"
+    },
+    "c1b-grid": {
+      "sentence": 8,
+      "word": "nhấn"
+    },
+    "c1b-ripple": {
+      "sentence": 8,
+      "word": "mua hàng"
+    },
+    "c1c-req": {
+      "sentence": 9,
+      "word": "request"
+    },
+    "c1c-rise": {
+      "sentence": 9,
+      "word": "tăng vọt"
+    },
+    "c1c-cpu": {
+      "sentence": 10,
+      "word": "CPU"
+    },
+    "c1c-db": {
+      "sentence": 11,
+      "word": "Database"
+    },
+    "c1c-timeout": {
+      "sentence": 12,
+      "word": "timeout"
+    },
+    "c1c-503": {
+      "sentence": 13,
+      "word": "năm"
+    },
+    "c1d-q": {
+      "sentence": 14,
+      "word": "câu hỏi"
+    },
+    "c1d-big": {
+      "sentence": 14,
+      "word": "khổng lồ"
+    },
+    "c1d-ok": {
+      "sentence": 14,
+      "word": "không bị sập"
+    },
+    "c1d-aws": {
+      "sentence": 15,
+      "word": "AWS"
+    },
+    "c1d-logos": {
+      "sentence": 15,
+      "word": "giải quyết"
+    },
+    "c2a-num": {
+      "sentence": 16,
+      "word": "Trước tiên"
+    },
+    "c2a-chip": {
+      "sentence": 17,
+      "word": "Một trăm nghìn"
+    },
+    "c2a-neq": {
+      "sentence": 17,
+      "word": "không có nghĩa"
+    },
+    "c2a-dots": {
+      "sentence": 17,
+      "word": "cùng một giây"
+    },
+    "c2a-read": {
+      "sentence": 18,
+      "word": "đọc"
+    },
+    "c2a-search": {
+      "sentence": 19,
+      "word": "tìm kiếm"
+    },
+    "c2a-img": {
+      "sentence": 19,
+      "word": "hình ảnh"
+    },
+    "c2a-order": {
+      "sentence": 19,
+      "word": "đặt hàng"
+    },
+    "c2b-frame": {
+      "sentence": 20,
+      "word": "Vì"
+    },
+    "c2b-users": {
+      "sentence": 21,
+      "word": "Đầu tiên"
+    },
+    "c2b-rps": {
+      "sentence": 22,
+      "word": "Tiếp theo"
+    },
+    "c2b-resp": {
+      "sentence": 23,
+      "word": "Ngoài ra"
+    },
+    "c2b-err": {
+      "sentence": 23,
+      "word": "tỷ lệ"
+    },
+    "c2b-db": {
+      "sentence": 23,
+      "word": "khả năng"
+    },
+    "c2b-all": {
+      "sentence": 23,
+      "word": "Database"
+    },
+    "c2c-cache": {
+      "sentence": 24,
+      "word": "Ví dụ"
+    },
+    "c2c-right": {
+      "sentence": 24,
+      "word": "khác hoàn toàn"
+    },
+    "c2c-write": {
+      "sentence": 24,
+      "word": "ghi"
+    },
+    "c2c-both": {
+      "sentence": 25,
+      "word": "Đây chính là"
+    },
+    "c2c-same": {
+      "sentence": 25,
+      "word": "số lượng"
+    },
+    "c2c-chiu": {
+      "sentence": 25,
+      "word": "chịu tải"
+    },
+    "c3a-num": {
+      "sentence": 26,
+      "word": "Hãy"
+    },
+    "c3a-title": {
+      "sentence": 26,
+      "word": "đơn giản"
+    },
+    "c3a-chip": {
+      "sentence": 27,
+      "word": "Website"
+    },
+    "c3a-srv": {
+      "sentence": 27,
+      "word": "duy nhất"
+    },
+    "c3a-users": {
+      "sentence": 28,
+      "word": "Mọi người dùng"
+    },
+    "c3a-hit": {
+      "sentence": 28,
+      "word": "server này"
+    },
+    "c3b-traffic": {
+      "sentence": 29,
+      "word": "traffic"
+    },
+    "c3b-code": {
+      "sentence": 29,
+      "word": "chạy code"
+    },
+    "c3b-q": {
+      "sentence": 29,
+      "word": "truy vấn"
+    },
+    "c3b-read": {
+      "sentence": 29,
+      "word": "đọc dữ liệu"
+    },
+    "c3b-ret": {
+      "sentence": 29,
+      "word": "trả về"
+    },
+    "c3b-cpu": {
+      "sentence": 30,
+      "word": "CPU"
+    },
+    "c3b-ram": {
+      "sentence": 31,
+      "word": "RAM"
+    },
+    "c3b-conn": {
+      "sentence": 32,
+      "word": "kết nối"
+    },
+    "c3b-limit": {
+      "sentence": 32,
+      "word": "giới hạn"
+    },
+    "c3c-up": {
+      "sentence": 33,
+      "word": "nâng cấp"
+    },
+    "c3c-chips": {
+      "sentence": 33,
+      "word": "CPU và RAM"
+    },
+    "c3c-name": {
+      "sentence": 34,
+      "word": "Đây được gọi"
+    },
+    "c3c-ceil": {
+      "sentence": 35,
+      "word": "giới hạn"
+    },
+    "c3c-down": {
+      "sentence": 37,
+      "word": "bị lỗi"
+    },
+    "c3c-all": {
+      "sentence": 37,
+      "word": "toàn bộ website"
+    },
+    "c3d-photo": {
+      "sentence": 38,
+      "word": "Một giải pháp khác"
+    },
+    "c3d-pill": {
+      "sentence": 38,
+      "word": "Horizontal Scaling"
+    },
+    "c3d-blur": {
+      "sentence": 39,
+      "word": "Thay vì"
+    },
+    "c3d-split": {
+      "sentence": 39,
+      "word": "nhiều server"
+    },
+    "c3d-stream": {
+      "sentence": 39,
+      "word": "phân phối"
+    },
+    "c3d-aws": {
+      "sentence": 40,
+      "word": "AWS"
+    },
+    "c4a-s41": {
+      "sentence": 41,
+      "word": "Trước"
+    },
+    "c4a-title": {
+      "sentence": 41,
+      "word": "giảm đáng kể"
+    },
+    "c4a-chip": {
+      "sentence": 42,
+      "word": "ví dụ"
+    },
+    "c4a-img": {
+      "sentence": 43,
+      "word": "hình ảnh"
+    },
+    "c4a-logo": {
+      "sentence": 43,
+      "word": "logo"
+    },
+    "c4a-css": {
+      "sentence": 43,
+      "word": "CSS"
+    },
+    "c4a-js": {
+      "sentence": 43,
+      "word": "JavaScript"
+    },
+    "c4a-more": {
+      "sentence": 43,
+      "word": "các"
+    },
+    "c4a-copy": {
+      "sentence": 44,
+      "word": "tạo mới"
+    },
+    "c4a-users": {
+      "sentence": 44,
+      "word": "mỗi lần"
+    },
+    "c4b-s45": {
+      "sentence": 45,
+      "word": "Đó"
+    },
+    "c4b-cf": {
+      "sentence": 45,
+      "word": "Đó"
+    },
+    "c4b-cdn": {
+      "sentence": 46,
+      "word": "Content"
+    },
+    "c4b-copies": {
+      "sentence": 47,
+      "word": "bản sao"
+    },
+    "c4b-global": {
+      "sentence": 47,
+      "word": "toàn cầu"
+    },
+    "c4b-user": {
+      "sentence": 48,
+      "word": "người dùng"
+    },
+    "c4b-near": {
+      "sentence": 48,
+      "word": "gần họ"
+    },
+    "c4b-origin": {
+      "sentence": 48,
+      "word": "server gốc"
+    },
+    "c4c-s49": {
+      "sentence": 49,
+      "word": "Các"
+    },
+    "c4c-store": {
+      "sentence": 49,
+      "word": "lưu"
+    },
+    "c4c-s3": {
+      "sentence": 49,
+      "word": "S3"
+    },
+    "c4c-dist": {
+      "sentence": 49,
+      "word": "phân phối"
+    },
+    "c4c-lat": {
+      "sentence": 50,
+      "word": "độ trễ"
+    },
+    "c4c-backend": {
+      "sentence": 50,
+      "word": "backend"
+    },
+    "c4c-tu": {
+      "sentence": 51,
+      "word": "Tuy"
+    },
+    "c4c-personal": {
+      "sentence": 52,
+      "word": "cá nhân hóa"
+    },
+    "c4c-order": {
+      "sentence": 52,
+      "word": "đơn hàng"
+    },
+    "c4c-open": {
+      "sentence": 49,
+      "word": "Các"
+    },
+    "c5a-s53": {
+      "sentence": 53,
+      "word": "Sau"
+    },
+    "c5a-chip": {
+      "sentence": 54,
+      "word": "phân phối"
+    },
+    "c5a-srv": {
+      "sentence": 54,
+      "word": "nhiều server"
+    },
+    "c5a-elb": {
+      "sentence": 55,
+      "word": "Elastic Load Balancing"
+    },
+    "c5a-alb": {
+      "sentence": 56,
+      "word": "Application Load Balancer"
+    },
+    "c5a-pill": {
+      "sentence": 56,
+      "word": "ALB"
+    },
+    "c5b-alb": {
+      "sentence": 57,
+      "word": "Hãy"
+    },
+    "c5b-route": {
+      "sentence": 58,
+      "word": "Thay"
+    },
+    "c5b-srv": {
+      "sentence": 58,
+      "word": "máy chủ ứng dụng"
+    },
+    "c5b-ok": {
+      "sentence": 58,
+      "word": "đã đăng ký"
+    },
+    "c5b-az": {
+      "sentence": 59,
+      "word": "Availability Zones"
+    },
+    "c5b-ec2": {
+      "sentence": 59,
+      "word": "EC2 Instances"
+    },
+    "c5c-hc": {
+      "sentence": 60,
+      "word": "Health Check"
+    },
+    "c5c-users": {
+      "sentence": 61,
+      "word": "Load Balancer"
+    },
+    "c5c-check": {
+      "sentence": 61,
+      "word": "kiểm tra"
+    },
+    "c5c-down": {
+      "sentence": 62,
+      "word": "không còn khỏe mạnh"
+    },
+    "c5c-reroute": {
+      "sentence": 63,
+      "word": "Nhờ"
+    },
+    "c5d-s64": {
+      "sentence": 64,
+      "word": "Load Balancing"
+    },
+    "c5d-avail": {
+      "sentence": 64,
+      "word": "tính sẵn sàng"
+    },
+    "c5d-chart": {
+      "sentence": 65,
+      "word": "lượng truy cập"
+    },
+    "c5d-q": {
+      "sentence": 65,
+      "word": "câu hỏi"
+    },
+    "c5d-elb": {
+      "sentence": 65,
+      "word": "Nhưng"
+    },
+    "c6a-num": {
+      "sentence": 66,
+      "word": "Đây"
+    },
+    "c6a-logo": {
+      "sentence": 66,
+      "word": "Auto Scaling"
+    },
+    "c6a-chip": {
+      "sentence": 67,
+      "word": "bằng"
+    },
+    "c6a-x": {
+      "sentence": 67,
+      "word": "tay"
+    },
+    "c6a-asg": {
+      "sentence": 67,
+      "word": "Auto Scaling Group"
+    },
+    "c6a-srv": {
+      "sentence": 68,
+      "word": "ba"
+    },
+    "c6a-flash": {
+      "sentence": 69,
+      "word": "Flash Sale"
+    },
+    "c6a-vuot": {
+      "sentence": 69,
+      "word": "vượt mức"
+    },
+    "c6b-tu": {
+      "sentence": 70,
+      "word": "tự động"
+    },
+    "c6b-biet": {
+      "sentence": 71,
+      "word": "biết khi nào"
+    },
+    "c6b-metrics": {
+      "sentence": 72,
+      "word": "metrics"
+    },
+    "c6b-cw": {
+      "sentence": 72,
+      "word": "CloudWatch"
+    },
+    "c6b-cpu": {
+      "sentence": 73,
+      "word": "CPU"
+    },
+    "c6b-req": {
+      "sentence": 73,
+      "word": "mỗi target"
+    },
+    "c6b-tt": {
+      "sentence": 74,
+      "word": "Target Tracking"
+    },
+    "c6b-duytri": {
+      "sentence": 74,
+      "word": "duy trì"
+    },
+    "c6c-tang": {
+      "sentence": 75,
+      "word": "tăng"
+    },
+    "c6c-mo": {
+      "sentence": 75,
+      "word": "mở rộng"
+    },
+    "c6c-giam": {
+      "sentence": 76,
+      "word": "giảm"
+    },
+    "c6c-lang": {
+      "sentence": 76,
+      "word": "lãng phí"
+    },
+    "c6d-ngay": {
+      "sentence": 77,
+      "word": "ngay lập tức"
+    },
+    "c6d-khoichay": {
+      "sentence": 78,
+      "word": "khởi chạy"
+    },
+    "c6d-khoidong": {
+      "sentence": 78,
+      "word": "khởi động ứng dụng"
+    },
+    "c6d-san": {
+      "sentence": 78,
+      "word": "sẵn sàng"
+    },
+    "c6d-biet": {
+      "sentence": 79,
+      "word": "biết trước"
+    },
+    "c6d-sched": {
+      "sentence": 79,
+      "word": "Scheduled Scaling"
+    },
+    "c6d-test": {
+      "sentence": 79,
+      "word": "kiểm thử tải"
+    },
+    "c6d-chinh": {
+      "sentence": 79,
+      "word": "chính sách"
+    },
+    "c6c-open": {
+      "sentence": 75,
+      "word": "Khi"
+    },
+    "c6d-open": {
+      "sentence": 77,
+      "word": "Tuy"
+    },
+    "c7a-num": {
+      "sentence": 80,
+      "word": "Đến"
+    },
+    "c7a-title": {
+      "sentence": 80,
+      "word": "giải quyết"
+    },
+    "c7a-chip": {
+      "sentence": 81,
+      "word": "nhiều server"
+    },
+    "c7a-alb": {
+      "sentence": 81,
+      "word": "Load Balancer"
+    },
+    "c7a-asg": {
+      "sentence": 81,
+      "word": "tự động"
+    },
+    "c7a-slow": {
+      "sentence": 82,
+      "word": "chậm lại"
+    },
+    "c7a-db": {
+      "sentence": 83,
+      "word": "database"
+    },
+    "c7b-muoi": {
+      "sentence": 84,
+      "word": "mười server"
+    },
+    "c7b-truy": {
+      "sentence": 84,
+      "word": "truy vấn"
+    },
+    "c7b-tang": {
+      "sentence": 85,
+      "word": "tăng theo"
+    },
+    "c7b-nut": {
+      "sentence": 86,
+      "word": "nút thắt"
+    },
+    "c7c-cache": {
+      "sentence": 87,
+      "word": "caching"
+    },
+    "c7c-amazon": {
+      "sentence": 88,
+      "word": "Amazon"
+    },
+    "c7c-sanpham": {
+      "sentence": 88,
+      "word": "sản phẩm"
+    },
+    "c7c-danhmuc": {
+      "sentence": 88,
+      "word": "danh mục"
+    },
+    "c7c-kiemtra": {
+      "sentence": 89,
+      "word": "kiểm tra cache"
+    },
+    "c7c-hop": {
+      "sentence": 90,
+      "word": "hợp lệ"
+    },
+    "c7c-giam": {
+      "sentence": 91,
+      "word": "giảm"
+    },
+    "c7c-tocdo": {
+      "sentence": 91,
+      "word": "tốc độ phản hồi"
+    },
+    "c7d-khongthe": {
+      "sentence": 92,
+      "word": "không thể thay thế"
+    },
+    "c7d-thanhtoan": {
+      "sentence": 93,
+      "word": "thanh toán"
+    },
+    "c7d-tonkho": {
+      "sentence": 93,
+      "word": "tồn kho"
+    },
+    "c7d-donhang": {
+      "sentence": 93,
+      "word": "đơn hàng"
+    },
+    "c7d-dongthoi": {
+      "sentence": 93,
+      "word": "kiểm soát đồng thời"
+    },
+    "c7d-multi": {
+      "sentence": 94,
+      "word": "Multi-AZ"
+    },
+    "c7d-sansang": {
+      "sentence": 94,
+      "word": "sẵn sàng cao"
+    },
+    "c7d-ghi": {
+      "sentence": 94,
+      "word": "ghi nhanh hơn"
+    },
+    "c8a-num": {
+      "sentence": 95,
+      "word": "Bây giờ"
+    },
+    "c8a-chip": {
+      "sentence": 96,
+      "word": "thành công"
+    },
+    "c8a-email": {
+      "sentence": 97,
+      "word": "email"
+    },
+    "c8a-invoice": {
+      "sentence": 97,
+      "word": "hóa đơn"
+    },
+    "c8a-ship": {
+      "sentence": 97,
+      "word": "vận chuyển"
+    },
+    "c8a-report": {
+      "sentence": 97,
+      "word": "báo cáo"
+    },
+    "c8a-wait": {
+      "sentence": 98,
+      "word": "trước khi"
+    },
+    "c8a-slow": {
+      "sentence": 98,
+      "word": "rất chậm"
+    },
+    "c8b-async": {
+      "sentence": 99,
+      "word": "bất đồng bộ"
+    },
+    "c8b-simple": {
+      "sentence": 100,
+      "word": "Simple"
+    },
+    "c8b-queue": {
+      "sentence": 101,
+      "word": "hàng đợi"
+    },
+    "c8b-send": {
+      "sentence": 102,
+      "word": "gửi message"
+    },
+    "c8b-worker": {
+      "sentence": 103,
+      "word": "worker"
+    },
+    "c8b-each": {
+      "sentence": 103,
+      "word": "từng message"
+    },
+    "c8c-prod": {
+      "sentence": 104,
+      "word": "producer"
+    },
+    "c8c-same": {
+      "sentence": 104,
+      "word": "cùng một thời điểm"
+    },
+    "c8c-spike": {
+      "sentence": 105,
+      "word": "tăng đột biến"
+    },
+    "c8c-cap": {
+      "sentence": 105,
+      "word": "năng lực"
+    },
+    "c8c-scale": {
+      "sentence": 106,
+      "word": "mở rộng"
+    },
+    "c8c-wait": {
+      "sentence": 106,
+      "word": "đang chờ"
+    },
+    "c8d-myth": {
+      "sentence": 107,
+      "word": "phép màu"
+    },
+    "c8d-std": {
+      "sentence": 108,
+      "word": "Standard"
+    },
+    "c8d-dup": {
+      "sentence": 108,
+      "word": "nhiều lần"
+    },
+    "c8d-order": {
+      "sentence": 108,
+      "word": "thứ tự"
+    },
+    "c8d-dupr": {
+      "sentence": 109,
+      "word": "trùng lặp"
+    },
+    "c8d-fail": {
+      "sentence": 110,
+      "word": "thất bại"
+    },
+    "c8d-dlq": {
+      "sentence": 110,
+      "word": "Dead Letter Queue"
+    },
+    "c8d-invest": {
+      "sentence": 110,
+      "word": "điều tra"
+    },
+    "c8e-core": {
+      "sentence": 111,
+      "word": "giao dịch cốt lõi"
+    },
+    "c8e-consist": {
+      "sentence": 111,
+      "word": "nhất quán"
+    },
+    "c8e-drop": {
+      "sentence": 112,
+      "word": "Không nên"
+    },
+    "c8e-block": {
+      "sentence": 112,
+      "word": "giải quyết xong"
+    },
+    "c9a-num": {
+      "sentence": 113,
+      "word": "Một câu hỏi"
+    },
+    "c9a-chip": {
+      "sentence": 113,
+      "word": "quá tải"
+    },
+    "c9a-no": {
+      "sentence": 114,
+      "word": "không nên"
+    },
+    "c9a-sched": {
+      "sentence": 115,
+      "word": "lên lịch"
+    },
+    "c9a-prep": {
+      "sentence": 115,
+      "word": "chuẩn bị"
+    },
+    "c9b-load": {
+      "sentence": 116,
+      "word": "thực hiện"
+    },
+    "c9b-sim": {
+      "sentence": 117,
+      "word": "mô phỏng"
+    },
+    "c9b-req": {
+      "sentence": 117,
+      "word": "gửi request"
+    },
+    "c9b-limit": {
+      "sentence": 118,
+      "word": "giới hạn"
+    },
+    "c9b-slow": {
+      "sentence": 119,
+      "word": "chậm"
+    },
+    "c9b-jam": {
+      "sentence": 120,
+      "word": "nghẽn"
+    },
+    "c9b-err": {
+      "sentence": 121,
+      "word": "tỷ lệ lỗi"
+    },
+    "c9c-result": {
+      "sentence": 122,
+      "word": "kết quả"
+    },
+    "c9c-setup": {
+      "sentence": 123,
+      "word": "thiết lập"
+    },
+    "c9c-up": {
+      "sentence": 123,
+      "word": "tăng"
+    },
+    "c9c-quota": {
+      "sentence": 124,
+      "word": "service quotas"
+    },
+    "c9c-db": {
+      "sentence": 124,
+      "word": "kết nối database"
+    },
+    "c9c-queue": {
+      "sentence": 124,
+      "word": "queue"
+    },
+    "c9c-budget": {
+      "sentence": 124,
+      "word": "ngân sách"
+    },
+    "c9c-bot": {
+      "sentence": 125,
+      "word": "bot"
+    },
+    "c9c-waf": {
+      "sentence": 125,
+      "word": "AWS WAF"
+    },
+    "c9c-limitreq": {
+      "sentence": 125,
+      "word": "giới hạn request"
+    },
+    "c9d-react": {
+      "sentence": 126,
+      "word": "phản ứng"
+    },
+    "c9d-prep": {
+      "sentence": 127,
+      "word": "chuẩn bị"
+    },
+    "c9d-start": {
+      "sentence": 127,
+      "word": "ngay từ đầu"
+    },
+    "c9c-open": {
+      "sentence": 122,
+      "word": "Sau"
+    },
+    "c9d-open": {
+      "sentence": 126,
+      "word": "Vì"
+    },
+    "c10a-num": {
+      "sentence": 128,
+      "word": "Hãy"
+    },
+    "c10a-chip": {
+      "sentence": 128,
+      "word": "nhấn"
+    },
+    "c10a-tap": {
+      "sentence": 128,
+      "word": "nhấn"
+    },
+    "c10a-visit": {
+      "sentence": 129,
+      "word": "truy cập"
+    },
+    "c10a-cf": {
+      "sentence": 130,
+      "word": "CloudFront"
+    },
+    "c10a-js": {
+      "sentence": 130,
+      "word": "JavaScript"
+    },
+    "c10b-enter": {
+      "sentence": 131,
+      "word": "Khi"
+    },
+    "c10b-order": {
+      "sentence": 131,
+      "word": "đặt hàng"
+    },
+    "c10b-alb": {
+      "sentence": 131,
+      "word": "đi đến"
+    },
+    "c10b-live": {
+      "sentence": 132,
+      "word": "đang hoạt động"
+    },
+    "c10b-check": {
+      "sentence": 133,
+      "word": "kiểm tra"
+    },
+    "c10b-cond": {
+      "sentence": 133,
+      "word": "điều kiện"
+    },
+    "c10b-cache": {
+      "sentence": 134,
+      "word": "ElastiCache"
+    },
+    "c10b-write": {
+      "sentence": 134,
+      "word": "thao tác ghi"
+    },
+    "c10c-enter": {
+      "sentence": 135,
+      "word": "Sau"
+    },
+    "c10c-receipt": {
+      "sentence": 135,
+      "word": "tiếp nhận"
+    },
+    "c10c-logic": {
+      "sentence": 135,
+      "word": "logic nghiệp vụ"
+    },
+    "c10c-sqs": {
+      "sentence": 135,
+      "word": "Amazon SQS"
+    },
+    "c10c-workers": {
+      "sentence": 136,
+      "word": "background workers"
+    },
+    "c10c-mail": {
+      "sentence": 136,
+      "word": "email"
+    },
+    "c10c-invoice": {
+      "sentence": 136,
+      "word": "hóa đơn"
+    },
+    "c10c-sync": {
+      "sentence": 136,
+      "word": "đồng bộ"
+    },
+    "c10d-enter": {
+      "sentence": 137,
+      "word": "Trong"
+    },
+    "c10d-cw": {
+      "sentence": 137,
+      "word": "CloudWatch"
+    },
+    "c10d-watch": {
+      "sentence": 137,
+      "word": "theo dõi"
+    },
+    "c10d-asg": {
+      "sentence": 138,
+      "word": "Auto Scaling"
+    },
+    "c10d-lb": {
+      "sentence": 139,
+      "word": "Load Balancer"
+    },
+    "c10d-roles": {
+      "sentence": 140,
+      "word": "vai trò riêng"
+    },
+    "c10d-single": {
+      "sentence": 140,
+      "word": "một server duy nhất"
+    },
+    "c10c-open": {
+      "sentence": 135,
+      "word": "Sau"
+    },
+    "c11a-num": {
+      "sentence": 141,
+      "word": "Vậy"
+    },
+    "c11a-chip": {
+      "sentence": 141,
+      "word": "bị sập"
+    },
+    "c11a-clear": {
+      "sentence": 142,
+      "word": "Câu trả lời"
+    },
+    "c11a-thesis": {
+      "sentence": 142,
+      "word": "phụ thuộc"
+    },
+    "c11a-design": {
+      "sentence": 142,
+      "word": "thiết kế"
+    },
+    "c11a-prep": {
+      "sentence": 142,
+      "word": "chuẩn bị"
+    },
+    "c11a-up": {
+      "sentence": 143,
+      "word": "AWS cung cấp"
+    },
+    "c11a-alb": {
+      "sentence": 143,
+      "word": "phân phối traffic"
+    },
+    "c11a-cache": {
+      "sentence": 143,
+      "word": "cache nội dung"
+    },
+    "c11a-scale": {
+      "sentence": 143,
+      "word": "mở rộng tài nguyên"
+    },
+    "c11a-async": {
+      "sentence": 143,
+      "word": "bất đồng bộ"
+    },
+    "c11a-watch": {
+      "sentence": 143,
+      "word": "giám sát"
+    },
+    "c11b-db": {
+      "sentence": 144,
+      "word": "database"
+    },
+    "c11b-slow": {
+      "sentence": 144,
+      "word": "kém hiệu quả"
+    },
+    "c11b-boot": {
+      "sentence": 144,
+      "word": "khởi động kịp"
+    },
+    "c11b-spof": {
+      "sentence": 144,
+      "word": "một điểm lỗi"
+    },
+    "c11b-down": {
+      "sentence": 144,
+      "word": "gặp sự cố"
+    },
+    "c11b-not": {
+      "sentence": 145,
+      "word": "không chỉ là"
+    },
+    "c11b-tower": {
+      "sentence": 145,
+      "word": "nhiều dịch vụ"
+    },
+    "c11b-p1": {
+      "sentence": 146,
+      "word": "thiết kế kiến trúc"
+    },
+    "c11b-p2": {
+      "sentence": 146,
+      "word": "kiểm thử"
+    },
+    "c11b-p3": {
+      "sentence": 146,
+      "word": "tối ưu hiệu năng"
+    },
+    "c11b-p4": {
+      "sentence": 146,
+      "word": "chi phí"
+    },
+    "c11b-p5": {
+      "sentence": 146,
+      "word": "xấu nhất"
+    },
+    "c11c-browser": {
+      "sentence": 147,
+      "word": "Lần tới"
+    },
+    "c11c-crowd": {
+      "sentence": 147,
+      "word": "hàng trăm nghìn"
+    },
+    "c11c-out": {
+      "sentence": 147,
+      "word": "phía sau"
+    },
+    "c11c-distrib": {
+      "sentence": 147,
+      "word": "phân tán"
+    },
+    "c11c-aws": {
+      "sentence": 148,
+      "word": "AWS"
+    },
+    "c11c-millions": {
+      "sentence": 148,
+      "word": "hàng triệu người"
+    },
+    "c11c-use": {
+      "sentence": 148,
+      "word": "sử dụng nó"
+    },
+    "c11d-thanks": {
+      "sentence": 149,
+      "word": "Cảm ơn"
+    },
+    "c11d-aws": {
+      "sentence": 150,
+      "word": "AWS"
+    },
+    "c11d-next": {
+      "sentence": 150,
+      "word": "tập tiếp theo"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c1a-buy",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1b-num",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1b-click",
+      "sound": "click"
+    },
+    {
+      "beat": "c1b-ripple",
+      "sound": "laser"
+    },
+    {
+      "beat": "c1c-cpu",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1c-503",
+      "sound": "click"
+    },
+    {
+      "beat": "c1d-aws",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2a-chip",
+      "sound": "click"
+    },
+    {
+      "beat": "c2a-order",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2b-users",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2b-rps",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2b-all",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2c-write",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2c-same",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-limit",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3c-up",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3c-down",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3d-split",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3d-aws",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4a-img",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4a-users",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4b-cf",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4b-near",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4c-s3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c4c-order",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5a-elb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5a-alb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5b-ec2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5c-down",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5c-reroute",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5d-q",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-logo",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-srv",
+      "sound": "click"
+    },
+    {
+      "beat": "c6a-vuot",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6b-tu",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6b-cw",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6c-lang",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6d-biet",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7a-db",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7b-muoi",
+      "sound": "click"
+    },
+    {
+      "beat": "c7b-nut",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7c-amazon",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7c-hop",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7d-thanhtoan",
+      "sound": "pop"
+    },
+    {
+      "beat": "c7d-multi",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8a-slow",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8b-simple",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8b-worker",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8c-scale",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8d-dup",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8d-dlq",
+      "sound": "pop"
+    },
+    {
+      "beat": "c8e-consist",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9a-no",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9a-sched",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9b-slow",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9b-jam",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9b-err",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9c-setup",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9c-quota",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9c-waf",
+      "sound": "pop"
+    },
+    {
+      "beat": "c9d-prep",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10a-tap",
+      "sound": "laser"
+    },
+    {
+      "beat": "c10a-js",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10b-alb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10b-cache",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10c-sqs",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10c-mail",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10d-cw",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10d-roles",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11a-chip",
+      "sound": "click"
+    },
+    {
+      "beat": "c11a-design",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11a-prep",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-db",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-p1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-p2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-p3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-p4",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-p5",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11c-aws",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11d-aws",
+      "sound": "pop"
+    }
+  ]
+}

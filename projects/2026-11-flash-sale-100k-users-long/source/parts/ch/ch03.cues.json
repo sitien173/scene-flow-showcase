@@ -1,0 +1,172 @@
+{
+  "scenes": [
+    {
+      "id": "c3a",
+      "in": "cut",
+      "at": {
+        "sentence": 26,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c3b",
+      "in": "slide",
+      "at": {
+        "sentence": 29,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c3c",
+      "in": "slide",
+      "at": {
+        "sentence": 33,
+        "word": "Bạn"
+      }
+    },
+    {
+      "id": "c3d",
+      "in": "fade",
+      "at": {
+        "sentence": 38,
+        "word": "Một"
+      }
+    }
+  ],
+  "beats": {
+    "c3a-num": {
+      "sentence": 26,
+      "word": "Hãy"
+    },
+    "c3a-title": {
+      "sentence": 26,
+      "word": "đơn giản"
+    },
+    "c3a-chip": {
+      "sentence": 27,
+      "word": "Website"
+    },
+    "c3a-srv": {
+      "sentence": 27,
+      "word": "duy nhất"
+    },
+    "c3a-users": {
+      "sentence": 28,
+      "word": "Mọi người dùng"
+    },
+    "c3a-hit": {
+      "sentence": 28,
+      "word": "server này"
+    },
+    "c3b-traffic": {
+      "sentence": 29,
+      "word": "traffic"
+    },
+    "c3b-code": {
+      "sentence": 29,
+      "word": "chạy code"
+    },
+    "c3b-q": {
+      "sentence": 29,
+      "word": "truy vấn"
+    },
+    "c3b-read": {
+      "sentence": 29,
+      "word": "đọc dữ liệu"
+    },
+    "c3b-ret": {
+      "sentence": 29,
+      "word": "trả về"
+    },
+    "c3b-cpu": {
+      "sentence": 30,
+      "word": "CPU"
+    },
+    "c3b-ram": {
+      "sentence": 31,
+      "word": "RAM"
+    },
+    "c3b-conn": {
+      "sentence": 32,
+      "word": "kết nối"
+    },
+    "c3b-limit": {
+      "sentence": 32,
+      "word": "giới hạn"
+    },
+    "c3c-up": {
+      "sentence": 33,
+      "word": "nâng cấp"
+    },
+    "c3c-chips": {
+      "sentence": 33,
+      "word": "CPU và RAM"
+    },
+    "c3c-name": {
+      "sentence": 34,
+      "word": "Đây được gọi"
+    },
+    "c3c-ceil": {
+      "sentence": 35,
+      "word": "giới hạn"
+    },
+    "c3c-down": {
+      "sentence": 37,
+      "word": "bị lỗi"
+    },
+    "c3c-all": {
+      "sentence": 37,
+      "word": "toàn bộ website"
+    },
+    "c3d-photo": {
+      "sentence": 38,
+      "word": "Một giải pháp khác"
+    },
+    "c3d-pill": {
+      "sentence": 38,
+      "word": "Horizontal Scaling"
+    },
+    "c3d-blur": {
+      "sentence": 39,
+      "word": "Thay vì"
+    },
+    "c3d-split": {
+      "sentence": 39,
+      "word": "nhiều server"
+    },
+    "c3d-stream": {
+      "sentence": 39,
+      "word": "phân phối"
+    },
+    "c3d-aws": {
+      "sentence": 40,
+      "word": "AWS"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c3a-chip",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3b-limit",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3c-up",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3c-down",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3d-split",
+      "sound": "pop"
+    },
+    {
+      "beat": "c3d-aws",
+      "sound": "pop"
+    }
+  ]
+}

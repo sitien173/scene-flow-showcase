@@ -1,0 +1,188 @@
+{
+  "scenes": [
+    {
+      "id": "c6a",
+      "in": "cut",
+      "at": {
+        "sentence": 66,
+        "word": "Đây"
+      }
+    },
+    {
+      "id": "c6b",
+      "in": "slide",
+      "at": {
+        "sentence": 70,
+        "word": "EC2"
+      }
+    },
+    {
+      "id": "c6c",
+      "in": "slide",
+      "at": {
+        "sentence": 75,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c6d",
+      "in": "slide",
+      "at": {
+        "sentence": 77,
+        "word": "Tuy"
+      }
+    }
+  ],
+  "beats": {
+    "c6a-num": {
+      "sentence": 66,
+      "word": "Đây"
+    },
+    "c6a-logo": {
+      "sentence": 66,
+      "word": "Auto Scaling"
+    },
+    "c6a-chip": {
+      "sentence": 67,
+      "word": "bằng"
+    },
+    "c6a-x": {
+      "sentence": 67,
+      "word": "tay"
+    },
+    "c6a-asg": {
+      "sentence": 67,
+      "word": "Auto Scaling Group"
+    },
+    "c6a-srv": {
+      "sentence": 68,
+      "word": "ba"
+    },
+    "c6a-flash": {
+      "sentence": 69,
+      "word": "Flash Sale"
+    },
+    "c6a-vuot": {
+      "sentence": 69,
+      "word": "vượt mức"
+    },
+    "c6b-tu": {
+      "sentence": 70,
+      "word": "tự động"
+    },
+    "c6b-biet": {
+      "sentence": 71,
+      "word": "biết khi nào"
+    },
+    "c6b-metrics": {
+      "sentence": 72,
+      "word": "metrics"
+    },
+    "c6b-cw": {
+      "sentence": 72,
+      "word": "CloudWatch"
+    },
+    "c6b-cpu": {
+      "sentence": 73,
+      "word": "CPU"
+    },
+    "c6b-req": {
+      "sentence": 73,
+      "word": "mỗi target"
+    },
+    "c6b-tt": {
+      "sentence": 74,
+      "word": "Target Tracking"
+    },
+    "c6b-duytri": {
+      "sentence": 74,
+      "word": "duy trì"
+    },
+    "c6c-tang": {
+      "sentence": 75,
+      "word": "tăng"
+    },
+    "c6c-mo": {
+      "sentence": 75,
+      "word": "mở rộng"
+    },
+    "c6c-giam": {
+      "sentence": 76,
+      "word": "giảm"
+    },
+    "c6c-lang": {
+      "sentence": 76,
+      "word": "lãng phí"
+    },
+    "c6d-ngay": {
+      "sentence": 77,
+      "word": "ngay lập tức"
+    },
+    "c6d-khoichay": {
+      "sentence": 78,
+      "word": "khởi chạy"
+    },
+    "c6d-khoidong": {
+      "sentence": 78,
+      "word": "khởi động ứng dụng"
+    },
+    "c6d-san": {
+      "sentence": 78,
+      "word": "sẵn sàng"
+    },
+    "c6d-biet": {
+      "sentence": 79,
+      "word": "biết trước"
+    },
+    "c6d-sched": {
+      "sentence": 79,
+      "word": "Scheduled Scaling"
+    },
+    "c6d-test": {
+      "sentence": 79,
+      "word": "kiểm thử tải"
+    },
+    "c6d-chinh": {
+      "sentence": 79,
+      "word": "chính sách"
+    },
+    "c6c-open": {
+      "sentence": 75,
+      "word": "Khi"
+    },
+    "c6d-open": {
+      "sentence": 77,
+      "word": "Tuy"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c6a-logo",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6a-srv",
+      "sound": "click"
+    },
+    {
+      "beat": "c6a-vuot",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6b-tu",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6b-cw",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6c-lang",
+      "sound": "pop"
+    },
+    {
+      "beat": "c6d-biet",
+      "sound": "pop"
+    }
+  ]
+}

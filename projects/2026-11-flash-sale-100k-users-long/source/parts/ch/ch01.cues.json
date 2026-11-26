@@ -1,0 +1,171 @@
+{
+  "scenes": [
+    {
+      "id": "c1a"
+    },
+    {
+      "id": "c1b",
+      "in": "cut",
+      "at": {
+        "sentence": 5,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c1c",
+      "in": "slide",
+      "at": {
+        "sentence": 9,
+        "word": "Trong"
+      }
+    },
+    {
+      "id": "c1d",
+      "in": "fade",
+      "at": {
+        "sentence": 14,
+        "word": "Và"
+      }
+    }
+  ],
+  "beats": {
+    "c1a-series": {
+      "sentence": 1,
+      "word": "Hãy"
+    },
+    "c1a-scrim": {
+      "sentence": 1,
+      "word": "website"
+    },
+    "c1a-crowd": {
+      "sentence": 2,
+      "word": "vài nghìn"
+    },
+    "c1a-server": {
+      "sentence": 3,
+      "word": "bình thường"
+    },
+    "c1a-db": {
+      "sentence": 4,
+      "word": "database"
+    },
+    "c1a-buy": {
+      "sentence": 4,
+      "word": "mua hàng"
+    },
+    "c1b-num": {
+      "sentence": 5,
+      "word": "Nhưng"
+    },
+    "c1b-chip": {
+      "sentence": 6,
+      "word": "Flash Sale"
+    },
+    "c1b-noon": {
+      "sentence": 6,
+      "word": "mười hai giờ"
+    },
+    "c1b-sale": {
+      "sentence": 6,
+      "word": "giảm giá"
+    },
+    "c1b-count": {
+      "sentence": 7,
+      "word": "Mười giây"
+    },
+    "c1b-photo": {
+      "sentence": 7,
+      "word": "hàng nghìn"
+    },
+    "c1b-zero": {
+      "sentence": 8,
+      "word": "đúng"
+    },
+    "c1b-click": {
+      "sentence": 8,
+      "word": "mười hai"
+    },
+    "c1b-grid": {
+      "sentence": 8,
+      "word": "nhấn"
+    },
+    "c1b-ripple": {
+      "sentence": 8,
+      "word": "mua hàng"
+    },
+    "c1c-req": {
+      "sentence": 9,
+      "word": "request"
+    },
+    "c1c-rise": {
+      "sentence": 9,
+      "word": "tăng vọt"
+    },
+    "c1c-cpu": {
+      "sentence": 10,
+      "word": "CPU"
+    },
+    "c1c-db": {
+      "sentence": 11,
+      "word": "Database"
+    },
+    "c1c-timeout": {
+      "sentence": 12,
+      "word": "timeout"
+    },
+    "c1c-503": {
+      "sentence": 13,
+      "word": "năm"
+    },
+    "c1d-q": {
+      "sentence": 14,
+      "word": "câu hỏi"
+    },
+    "c1d-big": {
+      "sentence": 14,
+      "word": "khổng lồ"
+    },
+    "c1d-ok": {
+      "sentence": 14,
+      "word": "không bị sập"
+    },
+    "c1d-aws": {
+      "sentence": 15,
+      "word": "AWS"
+    },
+    "c1d-logos": {
+      "sentence": 15,
+      "word": "giải quyết"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c1a-buy",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1b-num",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1b-click",
+      "sound": "click"
+    },
+    {
+      "beat": "c1b-ripple",
+      "sound": "laser"
+    },
+    {
+      "beat": "c1c-cpu",
+      "sound": "pop"
+    },
+    {
+      "beat": "c1c-503",
+      "sound": "click"
+    },
+    {
+      "beat": "c1d-aws",
+      "sound": "pop"
+    }
+  ]
+}

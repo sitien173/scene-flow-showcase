@@ -1,0 +1,220 @@
+{
+  "scenes": [
+    {
+      "id": "c11a",
+      "in": "cut",
+      "at": {
+        "sentence": 141,
+        "word": "Vậy"
+      }
+    },
+    {
+      "id": "c11b",
+      "in": "slide",
+      "at": {
+        "sentence": 144,
+        "word": "Nhưng"
+      }
+    },
+    {
+      "id": "c11c",
+      "in": "fade",
+      "at": {
+        "sentence": 147,
+        "word": "Lần"
+      }
+    },
+    {
+      "id": "c11d",
+      "in": "fade",
+      "at": {
+        "sentence": 149,
+        "word": "Cảm"
+      }
+    }
+  ],
+  "beats": {
+    "c11a-num": {
+      "sentence": 141,
+      "word": "Vậy"
+    },
+    "c11a-chip": {
+      "sentence": 141,
+      "word": "bị sập"
+    },
+    "c11a-clear": {
+      "sentence": 142,
+      "word": "Câu trả lời"
+    },
+    "c11a-thesis": {
+      "sentence": 142,
+      "word": "phụ thuộc"
+    },
+    "c11a-design": {
+      "sentence": 142,
+      "word": "thiết kế"
+    },
+    "c11a-prep": {
+      "sentence": 142,
+      "word": "chuẩn bị"
+    },
+    "c11a-up": {
+      "sentence": 143,
+      "word": "AWS cung cấp"
+    },
+    "c11a-alb": {
+      "sentence": 143,
+      "word": "phân phối traffic"
+    },
+    "c11a-cache": {
+      "sentence": 143,
+      "word": "cache nội dung"
+    },
+    "c11a-scale": {
+      "sentence": 143,
+      "word": "mở rộng tài nguyên"
+    },
+    "c11a-async": {
+      "sentence": 143,
+      "word": "bất đồng bộ"
+    },
+    "c11a-watch": {
+      "sentence": 143,
+      "word": "giám sát"
+    },
+    "c11b-db": {
+      "sentence": 144,
+      "word": "database"
+    },
+    "c11b-slow": {
+      "sentence": 144,
+      "word": "kém hiệu quả"
+    },
+    "c11b-boot": {
+      "sentence": 144,
+      "word": "khởi động kịp"
+    },
+    "c11b-spof": {
+      "sentence": 144,
+      "word": "một điểm lỗi"
+    },
+    "c11b-down": {
+      "sentence": 144,
+      "word": "gặp sự cố"
+    },
+    "c11b-not": {
+      "sentence": 145,
+      "word": "không chỉ là"
+    },
+    "c11b-tower": {
+      "sentence": 145,
+      "word": "nhiều dịch vụ"
+    },
+    "c11b-p1": {
+      "sentence": 146,
+      "word": "thiết kế kiến trúc"
+    },
+    "c11b-p2": {
+      "sentence": 146,
+      "word": "kiểm thử"
+    },
+    "c11b-p3": {
+      "sentence": 146,
+      "word": "tối ưu hiệu năng"
+    },
+    "c11b-p4": {
+      "sentence": 146,
+      "word": "chi phí"
+    },
+    "c11b-p5": {
+      "sentence": 146,
+      "word": "xấu nhất"
+    },
+    "c11c-browser": {
+      "sentence": 147,
+      "word": "Lần tới"
+    },
+    "c11c-crowd": {
+      "sentence": 147,
+      "word": "hàng trăm nghìn"
+    },
+    "c11c-out": {
+      "sentence": 147,
+      "word": "phía sau"
+    },
+    "c11c-distrib": {
+      "sentence": 147,
+      "word": "phân tán"
+    },
+    "c11c-aws": {
+      "sentence": 148,
+      "word": "AWS"
+    },
+    "c11c-millions": {
+      "sentence": 148,
+      "word": "hàng triệu người"
+    },
+    "c11c-use": {
+      "sentence": 148,
+      "word": "sử dụng nó"
+    },
+    "c11d-thanks": {
+      "sentence": 149,
+      "word": "Cảm ơn"
+    },
+    "c11d-aws": {
+      "sentence": 150,
+      "word": "AWS"
+    },
+    "c11d-next": {
+      "sentence": 150,
+      "word": "tập tiếp theo"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c11a-chip",
+      "sound": "click"
+    },
+    {
+      "beat": "c11a-design",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11a-prep",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-db",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-p1",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-p2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-p3",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-p4",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11b-p5",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11c-aws",
+      "sound": "pop"
+    },
+    {
+      "beat": "c11d-aws",
+      "sound": "pop"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "scenes": [
+    {
+      "id": "c5a",
+      "in": "cut",
+      "at": {
+        "sentence": 53,
+        "word": "Sau"
+      }
+    },
+    {
+      "id": "c5b",
+      "in": "slide",
+      "at": {
+        "sentence": 57,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c5c",
+      "in": "slide",
+      "at": {
+        "sentence": 60,
+        "word": "Một"
+      }
+    },
+    {
+      "id": "c5d",
+      "in": "slide",
+      "at": {
+        "sentence": 64,
+        "word": "Load"
+      }
+    }
+  ],
+  "beats": {
+    "c5a-s53": {
+      "sentence": 53,
+      "word": "Sau"
+    },
+    "c5a-chip": {
+      "sentence": 54,
+      "word": "phân phối"
+    },
+    "c5a-srv": {
+      "sentence": 54,
+      "word": "nhiều server"
+    },
+    "c5a-elb": {
+      "sentence": 55,
+      "word": "Elastic Load Balancing"
+    },
+    "c5a-alb": {
+      "sentence": 56,
+      "word": "Application Load Balancer"
+    },
+    "c5a-pill": {
+      "sentence": 56,
+      "word": "ALB"
+    },
+    "c5b-alb": {
+      "sentence": 57,
+      "word": "Hãy"
+    },
+    "c5b-route": {
+      "sentence": 58,
+      "word": "Thay"
+    },
+    "c5b-srv": {
+      "sentence": 58,
+      "word": "máy chủ ứng dụng"
+    },
+    "c5b-ok": {
+      "sentence": 58,
+      "word": "đã đăng ký"
+    },
+    "c5b-az": {
+      "sentence": 59,
+      "word": "Availability Zones"
+    },
+    "c5b-ec2": {
+      "sentence": 59,
+      "word": "EC2 Instances"
+    },
+    "c5c-hc": {
+      "sentence": 60,
+      "word": "Health Check"
+    },
+    "c5c-users": {
+      "sentence": 61,
+      "word": "Load Balancer"
+    },
+    "c5c-check": {
+      "sentence": 61,
+      "word": "kiểm tra"
+    },
+    "c5c-down": {
+      "sentence": 62,
+      "word": "không còn khỏe mạnh"
+    },
+    "c5c-reroute": {
+      "sentence": 63,
+      "word": "Nhờ"
+    },
+    "c5d-s64": {
+      "sentence": 64,
+      "word": "Load Balancing"
+    },
+    "c5d-avail": {
+      "sentence": 64,
+      "word": "tính sẵn sàng"
+    },
+    "c5d-chart": {
+      "sentence": 65,
+      "word": "lượng truy cập"
+    },
+    "c5d-q": {
+      "sentence": 65,
+      "word": "câu hỏi"
+    },
+    "c5d-elb": {
+      "sentence": 65,
+      "word": "Nhưng"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c5a-elb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5a-alb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5b-ec2",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5c-down",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5c-reroute",
+      "sound": "pop"
+    },
+    {
+      "beat": "c5d-q",
+      "sound": "pop"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "scenes": [
+    {
+      "id": "c10a",
+      "in": "cut",
+      "at": {
+        "sentence": 128,
+        "word": "Hãy"
+      }
+    },
+    {
+      "id": "c10b",
+      "in": "slide",
+      "at": {
+        "sentence": 131,
+        "word": "Khi"
+      }
+    },
+    {
+      "id": "c10c",
+      "in": "slide",
+      "at": {
+        "sentence": 135,
+        "word": "Sau"
+      }
+    },
+    {
+      "id": "c10d",
+      "in": "slide",
+      "at": {
+        "sentence": 137,
+        "word": "Trong"
+      }
+    }
+  ],
+  "beats": {
+    "c10a-num": {
+      "sentence": 128,
+      "word": "Hãy"
+    },
+    "c10a-chip": {
+      "sentence": 128,
+      "word": "nhấn"
+    },
+    "c10a-tap": {
+      "sentence": 128,
+      "word": "nhấn"
+    },
+    "c10a-visit": {
+      "sentence": 129,
+      "word": "truy cập"
+    },
+    "c10a-cf": {
+      "sentence": 130,
+      "word": "CloudFront"
+    },
+    "c10a-js": {
+      "sentence": 130,
+      "word": "JavaScript"
+    },
+    "c10b-enter": {
+      "sentence": 131,
+      "word": "Khi"
+    },
+    "c10b-order": {
+      "sentence": 131,
+      "word": "đặt hàng"
+    },
+    "c10b-alb": {
+      "sentence": 131,
+      "word": "đi đến"
+    },
+    "c10b-live": {
+      "sentence": 132,
+      "word": "đang hoạt động"
+    },
+    "c10b-check": {
+      "sentence": 133,
+      "word": "kiểm tra"
+    },
+    "c10b-cond": {
+      "sentence": 133,
+      "word": "điều kiện"
+    },
+    "c10b-cache": {
+      "sentence": 134,
+      "word": "ElastiCache"
+    },
+    "c10b-write": {
+      "sentence": 134,
+      "word": "thao tác ghi"
+    },
+    "c10c-enter": {
+      "sentence": 135,
+      "word": "Sau"
+    },
+    "c10c-receipt": {
+      "sentence": 135,
+      "word": "tiếp nhận"
+    },
+    "c10c-logic": {
+      "sentence": 135,
+      "word": "logic nghiệp vụ"
+    },
+    "c10c-sqs": {
+      "sentence": 135,
+      "word": "Amazon SQS"
+    },
+    "c10c-workers": {
+      "sentence": 136,
+      "word": "background workers"
+    },
+    "c10c-mail": {
+      "sentence": 136,
+      "word": "email"
+    },
+    "c10c-invoice": {
+      "sentence": 136,
+      "word": "hóa đơn"
+    },
+    "c10c-sync": {
+      "sentence": 136,
+      "word": "đồng bộ"
+    },
+    "c10d-enter": {
+      "sentence": 137,
+      "word": "Trong"
+    },
+    "c10d-cw": {
+      "sentence": 137,
+      "word": "CloudWatch"
+    },
+    "c10d-watch": {
+      "sentence": 137,
+      "word": "theo dõi"
+    },
+    "c10d-asg": {
+      "sentence": 138,
+      "word": "Auto Scaling"
+    },
+    "c10d-lb": {
+      "sentence": 139,
+      "word": "Load Balancer"
+    },
+    "c10d-roles": {
+      "sentence": 140,
+      "word": "vai trò riêng"
+    },
+    "c10d-single": {
+      "sentence": 140,
+      "word": "một server duy nhất"
+    },
+    "c10c-open": {
+      "sentence": 135,
+      "word": "Sau"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c10a-tap",
+      "sound": "laser"
+    },
+    {
+      "beat": "c10a-js",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10b-alb",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10b-cache",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10c-sqs",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10c-mail",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10d-cw",
+      "sound": "pop"
+    },
+    {
+      "beat": "c10d-roles",
+      "sound": "pop"
+    }
+  ]
+}

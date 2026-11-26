@@ -1,0 +1,83 @@
+      /* c7a: chapter card on "Đến đây", six servers and the load balancer, then the group slides up and the database appears. */
+      pop("#c7a-num", @@t:c7a-num@@, 0.5);
+      pop("#c7a-burst", @@t:c7a-num@@ + 0.2, 0.6, 0.4);
+      pop("#c7a-tile", @@t:c7a-num@@, 0.6, 0.6);
+      show("#c7a-title", @@t:c7a-title@@, 0.5);
+      pop("#c7a-mascot", @@t:c7a-title@@ + 0.1, 0.6, 0.6);
+      gone("#c7a-num, #c7a-tile, #c7a-title, #c7a-burst, #c7a-mascot", @@t:c7a-chip@@, 0.35);
+      pop("#c7a-chip", @@t:c7a-chip@@ + 0.1, 0.5, 0.7);
+      pop("#c7a-s0", @@t:c7a-chip@@ + 0.00, 0.6, 0.8);
+      pop("#c7a-s1", @@t:c7a-chip@@ + 0.08, 0.6, 0.8);
+      pop("#c7a-s2", @@t:c7a-chip@@ + 0.16, 0.6, 0.8);
+      pop("#c7a-s3", @@t:c7a-chip@@ + 0.24, 0.6, 0.8);
+      pop("#c7a-s4", @@t:c7a-chip@@ + 0.32, 0.6, 0.8);
+      pop("#c7a-s5", @@t:c7a-chip@@ + 0.40, 0.6, 0.8);
+      pop("#c7a-alb", @@t:c7a-alb@@, 0.5, 0.7);
+      pop("#c7a-asglogo", @@t:c7a-asg@@, 0.5, 0.7);
+      tl.fromTo("#c7a-grp", { y: 0 }, { y: -160, duration: 0.6, ease: "power3.inOut" }, @@t:c7a-slow@@);
+      pop("#c7a-db", @@t:c7a-db@@, 0.6, 0.7);
+      draw("#c7a-lines polyline", @@t:c7a-db@@ + 0.1, 0.6, 0.05);
+
+      /* c7b: ten servers query one database, the queue grows and the database becomes the bottleneck. */
+      pop("#c7b-s0", @@t:c7b-muoi@@ + 0.00, 0.5, 0.7);
+      pop("#c7b-s1", @@t:c7b-muoi@@ + 0.06, 0.5, 0.7);
+      pop("#c7b-s2", @@t:c7b-muoi@@ + 0.12, 0.5, 0.7);
+      pop("#c7b-s3", @@t:c7b-muoi@@ + 0.18, 0.5, 0.7);
+      pop("#c7b-s4", @@t:c7b-muoi@@ + 0.24, 0.5, 0.7);
+      pop("#c7b-s5", @@t:c7b-muoi@@ + 0.30, 0.5, 0.7);
+      pop("#c7b-s6", @@t:c7b-muoi@@ + 0.36, 0.5, 0.7);
+      pop("#c7b-s7", @@t:c7b-muoi@@ + 0.42, 0.5, 0.7);
+      pop("#c7b-s8", @@t:c7b-muoi@@ + 0.48, 0.5, 0.7);
+      pop("#c7b-s9", @@t:c7b-muoi@@ + 0.54, 0.5, 0.7);
+      pop("#c7b-pill", @@t:c7b-muoi@@, 0.5, 0.8);
+      draw("#c7b-lines polyline", @@t:c7b-truy@@, 0.5, 0.04);
+      pop("#c7b-q0", @@t:c7b-tang@@ + 0.00, 0.4, 0.7);
+      pop("#c7b-q1", @@t:c7b-tang@@ + 0.10, 0.4, 0.7);
+      pop("#c7b-q2", @@t:c7b-tang@@ + 0.20, 0.4, 0.7);
+      pop("#c7b-q3", @@t:c7b-tang@@ + 0.30, 0.4, 0.7);
+      bump("#c7b-db", @@t:c7b-nut@@, 1.06);
+      pop("#c7b-warn", @@t:c7b-nut@@, 0.5, 0.7);
+      meter("c7b-lat", @@t:c7b-nut@@, 85, 0.6, 20);
+      tl.set("#c7b-lat", { className: "meter over" }, @@t:c7b-nut@@);
+
+      /* c7c: a cache sits between the servers and the database; product and category data are stored, then served. */
+      show("#c7c-slot", @@t:c7c-cache@@, 0.4, 0);
+      pop("#c7c-cache", @@t:c7c-amazon@@, 0.6, 0.7);
+      pop("#c7c-name", @@t:c7c-amazon@@ + 0.1, 0.5, 0.8);
+      pop("#c7c-p1", @@t:c7c-sanpham@@, 0.4, 0.7);
+      tl.to("#c7c-p1", { x: 440, y: 150, duration: 0.6, ease: "power2.inOut" }, @@t:c7c-amazon@@);
+      gone("#c7c-p1", @@t:c7c-amazon@@ + 0.6, 0.2);
+      pop("#c7c-p2", @@t:c7c-danhmuc@@, 0.4, 0.7);
+      tl.to("#c7c-p2", { x: 440, y: -70, duration: 0.6, ease: "power2.inOut" }, @@t:c7c-amazon@@ + 0.1);
+      gone("#c7c-p2", @@t:c7c-amazon@@ + 0.7, 0.2);
+      pop("#c7c-check", @@t:c7c-kiemtra@@, 0.4, 0.7);
+      tl.set("#c7c-check", { className: "badge ok" }, @@t:c7c-hop@@);
+      tl.to("#c7c-db", { opacity: 0.35, duration: 0.4 }, @@t:c7c-hop@@);
+      meter("c7c-q", @@t:c7c-giam@@, 40, 0.8, 90);
+      meter("c7c-r", @@t:c7c-tocdo@@, 25, 0.8, 70);
+
+      /* c7d: a cache cannot replace the database; writes go straight to it, then Multi-AZ adds a standby in a second zone. */
+      tl.to("#c7d-cache", { x: 700, duration: 0.5, ease: "power2.in" }, @@t:c7d-khongthe@@);
+      tl.to("#c7d-cache", { x: 0, duration: 0.5, ease: "back.out(2)" }, @@t:c7d-khongthe@@ + 0.6);
+      pop("#c7d-x", @@t:c7d-khongthe@@ + 0.5, 0.4, 0.6);
+      gone("#c7d-x", @@t:c7d-khongthe@@ + 1.4, 0.2);
+      pop("#c7d-cc", @@t:c7d-thanhtoan@@, 0.4, 0.7);
+      tl.to("#c7d-cc", { x: 996, y: -244, duration: 0.7, ease: "power1.in" }, @@t:c7d-thanhtoan@@ + 0.2);
+      gone("#c7d-cc", @@t:c7d-thanhtoan@@ + 0.9, 0.15);
+      pop("#c7d-pk", @@t:c7d-tonkho@@, 0.4, 0.7);
+      tl.to("#c7d-pk", { x: 996, y: -244, duration: 0.7, ease: "power1.in" }, @@t:c7d-tonkho@@ + 0.2);
+      gone("#c7d-pk", @@t:c7d-tonkho@@ + 0.9, 0.15);
+      pop("#c7d-rc", @@t:c7d-donhang@@, 0.4, 0.7);
+      tl.to("#c7d-rc", { x: 996, y: -244, duration: 0.7, ease: "power1.in" }, @@t:c7d-donhang@@ + 0.2);
+      gone("#c7d-rc", @@t:c7d-donhang@@ + 0.9, 0.15);
+      pop("#c7d-lock", @@t:c7d-dongthoi@@, 0.4, 0.7);
+      show("#c7d-az1", @@t:c7d-multi@@, 0.5, 0);
+      show("#c7d-az2", @@t:c7d-multi@@ + 0.1, 0.5, 0);
+      gone("#c7d-db", @@t:c7d-multi@@, 0.3);
+      pop("#c7d-rds", @@t:c7d-multi@@, 0.5, 0.7);
+      pop("#c7d-db1", @@t:c7d-multi@@ + 0.2, 0.5, 0.7);
+      pop("#c7d-db2", @@t:c7d-multi@@ + 0.3, 0.5, 0.7);
+      draw("#c7d-sync polyline", @@t:c7d-multi@@ + 0.5, 0.5);
+      tl.to("#c7d-db1", { opacity: 0.35, duration: 0.4 }, @@t:c7d-sansang@@);
+      pop("#c7d-gl", @@t:c7d-ghi@@, 0.4, 0.8);
+      meter("c7d-w", @@t:c7d-ghi@@, 88, 0.6, 40);

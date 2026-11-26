@@ -1,0 +1,144 @@
+{
+  "scenes": [
+    {
+      "id": "c2a",
+      "in": "cut",
+      "at": {
+        "sentence": 16,
+        "word": "Trước"
+      }
+    },
+    {
+      "id": "c2b",
+      "in": "slide",
+      "at": {
+        "sentence": 20,
+        "word": "Vì"
+      }
+    },
+    {
+      "id": "c2c",
+      "in": "slide",
+      "at": {
+        "sentence": 24,
+        "word": "Ví"
+      }
+    }
+  ],
+  "beats": {
+    "c2a-num": {
+      "sentence": 16,
+      "word": "Trước tiên"
+    },
+    "c2a-chip": {
+      "sentence": 17,
+      "word": "Một trăm nghìn"
+    },
+    "c2a-neq": {
+      "sentence": 17,
+      "word": "không có nghĩa"
+    },
+    "c2a-dots": {
+      "sentence": 17,
+      "word": "cùng một giây"
+    },
+    "c2a-read": {
+      "sentence": 18,
+      "word": "đọc"
+    },
+    "c2a-search": {
+      "sentence": 19,
+      "word": "tìm kiếm"
+    },
+    "c2a-img": {
+      "sentence": 19,
+      "word": "hình ảnh"
+    },
+    "c2a-order": {
+      "sentence": 19,
+      "word": "đặt hàng"
+    },
+    "c2b-frame": {
+      "sentence": 20,
+      "word": "Vì"
+    },
+    "c2b-users": {
+      "sentence": 21,
+      "word": "Đầu tiên"
+    },
+    "c2b-rps": {
+      "sentence": 22,
+      "word": "Tiếp theo"
+    },
+    "c2b-resp": {
+      "sentence": 23,
+      "word": "Ngoài ra"
+    },
+    "c2b-err": {
+      "sentence": 23,
+      "word": "tỷ lệ"
+    },
+    "c2b-db": {
+      "sentence": 23,
+      "word": "khả năng"
+    },
+    "c2b-all": {
+      "sentence": 23,
+      "word": "Database"
+    },
+    "c2c-cache": {
+      "sentence": 24,
+      "word": "Ví dụ"
+    },
+    "c2c-right": {
+      "sentence": 24,
+      "word": "khác hoàn toàn"
+    },
+    "c2c-write": {
+      "sentence": 24,
+      "word": "ghi"
+    },
+    "c2c-both": {
+      "sentence": 25,
+      "word": "Đây chính là"
+    },
+    "c2c-same": {
+      "sentence": 25,
+      "word": "số lượng"
+    },
+    "c2c-chiu": {
+      "sentence": 25,
+      "word": "chịu tải"
+    }
+  },
+  "sfx": [
+    {
+      "beat": "c2a-chip",
+      "sound": "click"
+    },
+    {
+      "beat": "c2a-order",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2b-users",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2b-rps",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2b-all",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2c-write",
+      "sound": "pop"
+    },
+    {
+      "beat": "c2c-same",
+      "sound": "pop"
+    }
+  ]
+}
