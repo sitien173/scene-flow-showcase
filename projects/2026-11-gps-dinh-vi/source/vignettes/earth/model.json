@@ -1,0 +1,16 @@
+{
+  "name": "earth",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "earth",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "radius": 1.6,
+    "atmosphere": 1,
+    "atmoGlow": 0.3,
+    "fix": 1,
+    "spin": 0
+  },
+  "scene_flow_version": "0.10.0"
+}

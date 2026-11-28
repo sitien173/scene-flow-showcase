@@ -1,0 +1,15 @@
+{
+  "name": "smartphone",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "smartphone",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "cutaway": 0,
+    "coilGlow": 0,
+    "cardPulse": 0,
+    "screenMode": "gps"
+  },
+  "scene_flow_version": "0.10.0"
+}
