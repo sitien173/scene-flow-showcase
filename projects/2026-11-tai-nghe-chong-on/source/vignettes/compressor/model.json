@@ -1,0 +1,15 @@
+{
+  "name": "compressor",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "compressor",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "cutaway": true,
+    "shellColor": "#3A3B4A",
+    "hotColor": "#F08A4B",
+    "rate": 1.5
+  },
+  "scene_flow_version": "0.7.8"
+}

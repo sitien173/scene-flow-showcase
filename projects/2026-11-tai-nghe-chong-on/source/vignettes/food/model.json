@@ -1,0 +1,15 @@
+{
+  "name": "food",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "food",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "kind": "apple",
+    "wisps": true,
+    "warm": 0,
+    "wispColor": "#F08A4B"
+  },
+  "scene_flow_version": "0.7.8"
+}

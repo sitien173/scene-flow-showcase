@@ -1,0 +1,12 @@
+{
+  "name": "ear-model",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "earModel",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "quietGlow": 0
+  },
+  "scene_flow_version": "0.10.0"
+}

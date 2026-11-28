@@ -1,0 +1,13 @@
+{
+  "name": "mic-module",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "micModule",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "vibrate": 0,
+    "active": 0
+  },
+  "scene_flow_version": "0.10.0"
+}

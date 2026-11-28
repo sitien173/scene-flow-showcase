@@ -1,0 +1,21 @@
+{
+  "name": "fridge",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "fridge",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "width": 1.6,
+    "height": 3.4,
+    "depth": 1.3,
+    "color": "white",
+    "liner": "#EEF3F2",
+    "handle": "stone",
+    "coldColor": "#7FC4E8",
+    "hotColor": "#F08A4B",
+    "pipe": "#5B5E70",
+    "open": 0
+  },
+  "scene_flow_version": "0.7.8"
+}
