@@ -1,0 +1,16 @@
+{
+  "title": "Khi bạn chạm điện thoại vào máy POS, chuyện gì xảy ra?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 44.6,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-thanh-toan-pos-e6cab9d9/2026-11-thanh-toan-pos.mp4",
+    "sha256": "e6cab9d9106fe3ffcf9e3cfa5918464cfde43bd368848f5d397cb7842da1a04a",
+    "bytes": 6509545
+  }
+}

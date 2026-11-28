@@ -1,0 +1,10 @@
+{
+  "name": "pos-reader",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "posReader",
+  "glb": "",
+  "clips": [],
+  "opts": { "cutaway": 0, "coilGlow": 0, "status": "idle" },
+  "scene_flow_version": "0.10.0"
+}

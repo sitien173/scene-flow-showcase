@@ -1,0 +1,10 @@
+{
+  "name": "cafe-counter",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "cafeCounter",
+  "glb": "",
+  "clips": [],
+  "opts": {},
+  "scene_flow_version": "0.10.0"
+}

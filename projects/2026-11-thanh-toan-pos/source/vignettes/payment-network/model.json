@@ -1,0 +1,10 @@
+{
+  "name": "payment-network",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "paymentNetwork",
+  "glb": "",
+  "clips": [],
+  "opts": { "scanning": 1, "verified": 1 },
+  "scene_flow_version": "0.10.0"
+}
