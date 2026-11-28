@@ -1,0 +1,16 @@
+{
+  "title": "Pin lithium-ion tạo ra điện như thế nào?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 206.1,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-pin-lithium-ion-3af90078/2026-11-pin-lithium-ion.mp4",
+    "sha256": "3af90078213dc0dbc495744cc5cd82f253dd51712f89cfb0cd6ae86b7a2bd598",
+    "bytes": 30056389
+  }
+}

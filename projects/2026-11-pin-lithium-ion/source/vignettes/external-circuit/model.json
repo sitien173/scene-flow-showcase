@@ -1,0 +1,15 @@
+{
+  "name": "external-circuit",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "externalCircuit",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "mode": "discharge",
+    "chipGlow": 0.85,
+    "loadGlow": 0.9,
+    "chargerPlug": 0
+  },
+  "scene_flow_version": "0.10.0"
+}
