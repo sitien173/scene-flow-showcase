@@ -1,0 +1,17 @@
+      <div class="scene clip" id="sc-toon" data-start="@@start:toon@@" data-duration="@@dur:toon@@" data-track-index="1">
+        <div class="wrap" id="w-toon">
+          <canvas id="toon3d-canvas" width="@@width@@" height="@@height@@" aria-hidden="true"></canvas>
+        </div>
+      </div>
+
+      <div class="scene clip" id="sc-ec" data-start="@@start:ec@@" data-duration="@@dur:ec@@" data-track-index="1">
+        <div class="wrap" id="w-ec">
+          <img id="ec-logo" src="@@logo@@" alt="">
+          <div id="ec-brand">Góc nhìn Mở</div>
+          <div id="ec-slogan">@@slogan@@</div>
+        </div>
+      </div>
+
+      <div id="kara" data-layout-allow-overlap="true"></div>
+      <audio id="vo" class="clip" data-start="0" data-duration="@@vo@@" data-track-index="8" src="assets/audio/voiceover.mp3" data-volume="1" data-audio-group="voiceover"></audio>
+      <!-- sfx cues are written by scripts/add-sfx.py -->

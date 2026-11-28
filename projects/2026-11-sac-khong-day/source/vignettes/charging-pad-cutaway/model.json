@@ -1,0 +1,17 @@
+{
+  "name": "charging-pad-cutaway",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "chargingPadCutaway",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "cutaway": 0,
+    "coilGlow": 0,
+    "txGlow": 0,
+    "led": "idle",
+    "magnetRing": 0,
+    "thickCase": 0
+  },
+  "scene_flow_version": "0.10.0"
+}

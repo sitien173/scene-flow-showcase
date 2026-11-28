@@ -1,0 +1,16 @@
+{
+  "title": "Sạc không dây truyền điện qua không khí ra sao?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 202.5,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-sac-khong-day-0f56a507/2026-11-sac-khong-day.mp4",
+    "sha256": "0f56a507cbb7a8e11148d9f09f33028345d725cbbea44e19fb4aedebd8fb06d9",
+    "bytes": 29646089
+  }
+}
