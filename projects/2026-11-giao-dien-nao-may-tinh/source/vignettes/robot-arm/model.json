@@ -1,0 +1,12 @@
+{
+  "name": "robot-arm",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "robotArm",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "mode": "idle"
+  },
+  "scene_flow_version": "0.10.0"
+}

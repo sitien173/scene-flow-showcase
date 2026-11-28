@@ -1,0 +1,12 @@
+{
+  "name": "screen-cursor",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "screenCursor",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "screenMode": "cursorGrid"
+  },
+  "scene_flow_version": "0.10.0"
+}
