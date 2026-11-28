@@ -1,0 +1,14 @@
+{
+  "name": "lcd-backlight",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "lcdBacklight",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "exploded": 0,
+    "backlight": 1,
+    "transmission": 1
+  },
+  "scene_flow_version": "0.10.0"
+}

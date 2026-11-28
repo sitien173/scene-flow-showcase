@@ -1,0 +1,16 @@
+{
+  "title": "Màn hình OLED tạo ra màu sắc như thế nào?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 214.9,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-man-hinh-oled-8e99505f/2026-11-man-hinh-oled.mp4",
+    "sha256": "8e99505f328141f1f468cbd48e051f77cc50adb3e6a213f8af76c28a8ccc682c",
+    "bytes": 12157539
+  }
+}
