@@ -1,0 +1,256 @@
+      <div id="toon3d-overlay" aria-hidden="true"></div>
+      <script type="importmap">
+        {"imports":{"three":"./assets/vendor/three/three.module.js","three/addons/":"./assets/vendor/three/addons/","toon3d/kit":"./assets/toon3d/kit/index.js"}}
+      </script>
+      <script>
+        // The project's look.json, read by the kit (assets/toon3d/kit/look.js) before the module below runs.
+        window.SF_LOOK = @@look@@;
+        window.__hf = window.__hf || {};
+        window.__hf.buildReady = window.__hf.buildReady || {};
+        let resolveToon3dReady, rejectToon3dReady;
+        window.__hf.buildReady.toon3d = new Promise((resolve, reject) => { resolveToon3dReady = resolve; rejectToon3dReady = reject; });
+      </script>
+      <script type="module">
+        import * as THREE from "three";
+        import { createKit, applyLight, timeOfDay, flight, FLIGHT_PEAK, ease, passSurface, PASS_EDGE } from "toon3d/kit";
+
+        // Resolved by build.py from vignettes.json: [{ id, t, end, in: { kind, dur, ... }, beats, light: { from, to } }], seconds.
+        const VIGNETTES = @@vignettes@@;
+        const WIDTH = @@width@@;
+        const HEIGHT = @@height@@;
+        const FILL = 1.5 / 30;      // a pass-through's near surface fills the frame for about 3 frames (measured 1-4) around mid-flight
+        const PUSH = 3;             // world units the camera dives in and backs out on a pass-through between worlds
+        const RISE = 6;             // the opening crane starts this many units above the first pose
+        const canvas = document.getElementById("toon3d-canvas");
+        const overlay = document.getElementById("toon3d-overlay");
+        document.getElementById("w-toon").append(overlay);
+        const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: false, preserveDrawingBuffer: true });
+        renderer.setPixelRatio(1);
+        renderer.setSize(WIDTH, HEIGHT, false);
+        renderer.toneMapping = THREE.NoToneMapping;
+        renderer.shadowMap.enabled = true;
+        renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+        renderer.info.autoReset = false;
+        const gl = renderer.getContext();
+        let contextLost = false;
+        canvas.addEventListener("webglcontextlost", () => { contextLost = true; });
+
+        // the near surface a pass-through sweeps across the lens (kit setting.js passSurface)
+        const pass = passSurface();
+        const slots = [];
+        let ready = false;
+        let shown = -1;
+        const pose = () => ({ position: new THREE.Vector3(), quaternion: new THREE.Quaternion(), fov: 40 });
+        const from = pose(), to = pose();
+        const forward = new THREE.Vector3();
+        const look = new THREE.Camera();
+
+        function activeIndex(time) {
+          let k = 0;
+          while (k + 1 < VIGNETTES.length && time >= VIGNETTES[k + 1].t) k++;
+          return k;
+        }
+        function capture(camera, into) {
+          camera.updateMatrixWorld();
+          into.position.copy(camera.position);
+          into.quaternion.copy(camera.quaternion);
+          into.fov = camera.fov;
+        }
+        function place(camera, a, b, x) {
+          camera.position.lerpVectors(a.position, b.position, x);
+          camera.quaternion.slerpQuaternions(a.quaternion, b.quaternion, x);
+          camera.fov = a.fov + (b.fov - a.fov) * x;
+          camera.updateProjectionMatrix();
+          camera.updateMatrixWorld();
+        }
+        function dive(camera, amount) {
+          forward.set(0, 0, -1).applyQuaternion(camera.quaternion);
+          camera.position.addScaledVector(forward, amount);
+          camera.updateMatrixWorld();
+        }
+
+        function renderAt(time) {
+          if (!ready) return;
+          time = Number.isFinite(time) ? Math.max(0, time) : 0;
+          const k = activeIndex(time);
+          const v = VIGNETTES[k];
+          const slot = slots[k];
+          const prev = k > 0 ? slots[k - 1] : null;
+          const tr = v.in;
+          const u = tr.kind === "cut" ? 1 : Math.min(1, (time - v.t) / tr.dur);
+          const moving = prev && tr.kind === "move" && u < 1;
+          const sameWorld = moving && prev.scene === slot.scene;
+          if (shown !== k) {
+            slots.forEach((s, i) => { s.layer.style.display = i === k ? "block" : "none"; });
+            shown = k;
+          }
+          // own objects show while their vignette is on screen, and the outgoing ones during a flight in one world
+          slots.forEach((s, i) => { s.kit.group.visible = i === k || (sameWorld && i === k - 1); });
+          if (slot.world && typeof slot.world.update === "function") slot.world.update(time);
+          if (moving) {
+            prev.update(v.t - VIGNETTES[k - 1].t);
+            capture(prev.camera, from);
+          }
+          slot.update(time - v.t);
+          const camera = slot.camera;
+          capture(camera, to);
+          let scene = slot.scene;
+          let view = camera;
+          let fill = null;
+          if (moving && sameWorld) {
+            // fly from the outgoing pose at the seam to the incoming camera, measured speed profile
+            place(camera, from, to, flight(u, FLIGHT_PEAK[tr.ease] || FLIGHT_PEAK.inOut));
+            if (tr.occlude && Math.abs(u - 0.5) * tr.dur < FILL * (1 + PASS_EDGE)) fill = typeof tr.occlude === "string" ? tr.occlude : slot.kit.PALETTE.wall;
+          } else if (moving) {
+            // different worlds: dive into the outgoing world, a near surface fills the frame, back out into the new one
+            if (Math.abs(u - 0.5) * tr.dur < FILL * (1 + PASS_EDGE)) fill = typeof tr.occlude === "string" ? tr.occlude : slot.kit.PALETTE.wall;
+            if (u < 0.5) {
+              scene = prev.scene;
+              view = prev.camera;
+              prev.kit.group.visible = true;
+              slot.kit.group.visible = false;
+              capture(view, from);
+              dive(view, PUSH * ease(u / 0.5, "in"));
+            } else {
+              dive(camera, PUSH * (1 - ease((u - 0.5) / 0.5, "out")));
+            }
+          } else if (k === 0 && tr.kind === "move" && tr.open && u < 1) {
+            // opening crane: from high above the first pose down onto it, speed peak at 10 %
+            forward.set(0, 0, -1).applyQuaternion(to.quaternion);
+            look.position.copy(to.position).add(new THREE.Vector3(0, RISE, RISE * 0.6));
+            look.lookAt(to.position.clone().addScaledVector(forward, 10));
+            from.position.copy(look.position);
+            from.quaternion.copy(look.quaternion);
+            from.fov = to.fov;
+            place(camera, from, to, flight(u, FLIGHT_PEAK.open));
+          }
+          // light: ramps from the previous state over the transition; a move ramps with its flight
+          const lx = tr.kind === "light" ? ease(u, "inOut") : tr.kind === "move" ? flight(u, FLIGHT_PEAK[tr.ease] || FLIGHT_PEAK.inOut) : 1;
+          const light = v.light || { from: { time: "day", dim: 1 }, to: { time: "day", dim: 1 } };
+          const state = timeOfDay(light.from.time, light.to.time, lx, { fromDim: light.from.dim, toDim: light.to.dim });
+          applyLight(scene, state);
+          renderer.info.reset();
+          renderer.setRenderTarget(null);
+          renderer.render(scene, view);
+          if (fill) {
+            // the near surface: covers the frame while |s| <= 1, its edges show for PASS_EDGE more on each side
+            pass.set((u - 0.5) * tr.dur / FILL, fill);
+            applyLight(pass.scene, state);
+            renderer.autoClear = false;
+            renderer.clearDepth();
+            renderer.render(pass.scene, pass.camera);
+            renderer.autoClear = true;
+          }
+          slot.kit.draw(time - v.t, camera);
+          if (view !== camera) {
+            view.position.copy(from.position);
+            view.quaternion.copy(from.quaternion);
+            view.updateMatrixWorld();
+          }
+          if (moving || (k === 0 && tr.open)) {
+            camera.position.copy(to.position);
+            camera.quaternion.copy(to.quaternion);
+            camera.fov = to.fov;
+            camera.updateProjectionMatrix();
+          }
+        }
+
+        async function setupToon() {
+          await document.fonts.ready;
+          await Promise.all(["600", "700", "800"].map(weight => document.fonts.load(weight + ' 40px "Be Vietnam Pro"', "Aà Ạ Đ Ư")));
+          for (const v of VIGNETTES) {
+            const layer = document.createElement("div");
+            layer.className = "tv-layer";
+            layer.dataset.vignette = v.id;
+            overlay.append(layer);
+            try {
+              const module = await import("./vignettes/" + v.id + ".js");
+              if (typeof module.build !== "function") throw new Error("vignettes/" + v.id + ".js exports no build(kit)");
+              const beats = Object.fromEntries(Object.entries(v.beats || {}).map(([name, t]) => [name, t - v.t]));
+              const kit = createKit({ id: v.id, beats, layer });
+              const built = await module.build(kit);
+              if (!built || !built.scene || !built.scene.isScene) throw new Error("build must return { scene } with a THREE.Scene");
+              if (!built.camera || !built.camera.isCamera) throw new Error("build must return { camera } with a THREE camera");
+              if (typeof built.update !== "function") throw new Error("build must return update(localTime)");
+              if (kit.group.parent !== built.scene) built.scene.add(kit.group);
+              slots.push({ ...built, kit, layer, world: kit.worldRef });
+            } catch (error) {
+              throw new Error("toon3d: vignette " + v.id + ": " + (error && error.message ? error.message : error));
+            }
+          }
+          const compiled = new Set();
+          for (const [k, slot] of slots.entries()) {
+            try {
+              slot.update(0);
+              if (!compiled.has(slot.scene)) await renderer.compileAsync(slot.scene, slot.camera);
+              compiled.add(slot.scene);
+            } catch (error) {
+              throw new Error("toon3d: vignette " + VIGNETTES[k].id + ": " + error.message);
+            }
+          }
+          await renderer.compileAsync(pass.scene, pass.camera);
+          ready = true;
+          renderAt(0);
+          const pixel = new Uint8Array(4);
+          gl.readPixels(0, 0, 1, 1, gl.RGBA, gl.UNSIGNED_BYTE, pixel);
+          if (contextLost || gl.isContextLost()) throw new Error("toon3d: WebGL context lost");
+          resolveToon3dReady();
+        }
+
+        window.addEventListener("hf-seek", event => renderAt(event.detail.time));
+        window.__toon3d = {
+          vignettes: VIGNETTES,
+          renderAt,
+          // FNV-1a over every byte of the frame, with mean and spread of the luminance.
+          pixels(time) {
+            renderAt(time);
+            const data = new Uint8Array(WIDTH * HEIGHT * 4);
+            gl.readPixels(0, 0, WIDTH, HEIGHT, gl.RGBA, gl.UNSIGNED_BYTE, data);
+            let hash = 0x811c9dc5;
+            for (let i = 0; i < data.length; i++) hash = Math.imul(hash ^ data[i], 0x01000193);
+            let sum = 0, sq = 0, n = 0;
+            for (let i = 0; i < data.length; i += 64) {
+              const y = 0.2126 * data[i] + 0.7152 * data[i + 1] + 0.0722 * data[i + 2];
+              sum += y; sq += y * y; n++;
+            }
+            const mean = sum / n;
+            return { hash: (hash >>> 0).toString(16), mean, std: Math.sqrt(Math.max(0, sq / n - mean * mean)) };
+          },
+          // Screen rectangles of the active vignette's hero and its visible overlay text.
+          heroRects(time) {
+            renderAt(time);
+            const k = activeIndex(time);
+            const slot = slots[k];
+            const rects = [];
+            for (const hero of [].concat(slot.hero || [])) {
+              hero.updateWorldMatrix(true, true);
+              const box = new THREE.Box3().setFromObject(hero);
+              if (box.isEmpty()) continue;
+              let x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity;
+              for (let c = 0; c < 8; c++) {
+                const p = new THREE.Vector3(c & 1 ? box.max.x : box.min.x, c & 2 ? box.max.y : box.min.y, c & 4 ? box.max.z : box.min.z).project(slot.camera);
+                const x = (p.x + 1) / 2 * WIDTH;
+                const y = (1 - p.y) / 2 * HEIGHT;
+                x0 = Math.min(x0, x); y0 = Math.min(y0, y); x1 = Math.max(x1, x); y1 = Math.max(y1, y);
+              }
+              rects.push({ id: VIGNETTES[k].id, kind: "hero", x: x0, y: y0, width: x1 - x0, height: y1 - y0 });
+            }
+            for (const el of slot.layer.querySelectorAll(".tv-text")) {
+              const r = el.getBoundingClientRect();
+              if (r.width > 0 && r.height > 0 && getComputedStyle(el).visibility !== "hidden") {
+                rects.push({ id: VIGNETTES[k].id, kind: "text", x: r.x, y: r.y, width: r.width, height: r.height });
+              }
+            }
+            return rects;
+          },
+          info() {
+            return { calls: renderer.info.render.calls, triangles: renderer.info.render.triangles,
+              textures: renderer.info.memory.textures, geometries: renderer.info.memory.geometries };
+          },
+        };
+        setupToon().catch(error => { console.error("toon3d: setup failed", error); rejectToon3dReady(error); });
+      </script>
+      <div class="watermark" id="watermark-bottom" aria-hidden="true">
+        <img src="@@logo@@" alt="">
+        <span>@@brand@@</span>
+      </div>

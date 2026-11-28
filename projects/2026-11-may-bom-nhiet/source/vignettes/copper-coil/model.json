@@ -1,0 +1,15 @@
+{
+  "name": "copper-coil",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "copperCoil",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "variant": "flat",
+    "mode": "idle",
+    "intensity": 0,
+    "voltage": 0
+  },
+  "scene_flow_version": "0.10.0"
+}

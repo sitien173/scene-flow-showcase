@@ -1,0 +1,16 @@
+{
+  "title": "Máy bơm nhiệt làm nóng nhà bằng cách nào?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 214.8,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-may-bom-nhiet-8faba2ec/2026-11-may-bom-nhiet.mp4",
+    "sha256": "8faba2ec7fa152bca3f8c005ef4ff326520971c524e99b8783fd989562124877",
+    "bytes": 32903459
+  }
+}

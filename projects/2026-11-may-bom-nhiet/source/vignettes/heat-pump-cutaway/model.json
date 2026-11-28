@@ -1,0 +1,14 @@
+{
+  "name": "heat-pump-cutaway",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "heatPumpCutaway",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "cutaway": 1,
+    "mode": "heating",
+    "fanSpeed": 1
+  },
+  "scene_flow_version": "0.10.0"
+}

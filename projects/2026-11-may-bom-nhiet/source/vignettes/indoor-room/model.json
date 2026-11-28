@@ -1,0 +1,15 @@
+{
+  "name": "indoor-room",
+  "theme": "toon3d",
+  "kind": "set",
+  "factory": "indoorRoom",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "cutaway": 1,
+    "wallColor": "wall",
+    "roofColor": "#C97A60",
+    "floorColor": "#E8DEC8"
+  },
+  "scene_flow_version": "0.10.0"
+}
