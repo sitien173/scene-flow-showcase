@@ -1,0 +1,13 @@
+{
+  "name": "speaker-driver",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "speakerDriver",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "oscillate": 0,
+    "emit": 0
+  },
+  "scene_flow_version": "0.10.0"
+}

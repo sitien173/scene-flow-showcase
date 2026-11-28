@@ -1,0 +1,15 @@
+{
+  "name": "wave-ribbon",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "waveRibbon",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "amp": 0.45,
+    "freq": 2.0,
+    "phase": 0,
+    "irregular": 0
+  },
+  "scene_flow_version": "0.10.0"
+}

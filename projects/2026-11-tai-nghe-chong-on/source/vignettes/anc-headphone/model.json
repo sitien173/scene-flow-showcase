@@ -1,0 +1,14 @@
+{
+  "name": "anc-headphone",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "ancHeadphone",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "explode": 0,
+    "cutaway": 0,
+    "ancOn": 0
+  },
+  "scene_flow_version": "0.10.0"
+}

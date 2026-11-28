@@ -1,0 +1,16 @@
+{
+  "title": "Tai nghe chống ồn hoạt động như thế nào?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 47.1,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-tai-nghe-chong-on-3380f75f/2026-11-tai-nghe-chong-on.mp4",
+    "sha256": "3380f75fa009c5c3420180d9d27a5ae1026a314ab3edff76a5b93cceb8a6f2af",
+    "bytes": 6644841
+  }
+}

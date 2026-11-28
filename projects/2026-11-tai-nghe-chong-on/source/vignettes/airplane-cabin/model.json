@@ -1,0 +1,13 @@
+{
+  "name": "airplane-cabin",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "airplaneCabin",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "engineSpeed": 1,
+    "hum": 1
+  },
+  "scene_flow_version": "0.10.0"
+}

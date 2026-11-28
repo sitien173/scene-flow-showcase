@@ -1,0 +1,13 @@
+{
+  "name": "anc-chip",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "ancChip",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "processing": 0,
+    "invert": 0
+  },
+  "scene_flow_version": "0.10.0"
+}
