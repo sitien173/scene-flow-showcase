@@ -1,0 +1,19 @@
+{
+  "name": "cell-cutaway",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "cellCutaway",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "ionColor": "#F2A541",
+    "energyColor": "#E4572E",
+    "openCutaway": 0.9,
+    "mode": "discharge",
+    "soc": 0.6,
+    "dendrite": 0,
+    "chemGlow": 0.45,
+    "degraded": 0
+  },
+  "scene_flow_version": "0.10.0"
+}
