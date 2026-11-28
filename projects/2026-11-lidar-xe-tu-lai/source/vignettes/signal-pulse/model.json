@@ -1,0 +1,15 @@
+{
+  "name": "signal-pulse",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "signalPulse",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "mode": "beam",
+    "length": 3.4,
+    "showTimeCode": 1,
+    "showOrbitTag": 1
+  },
+  "scene_flow_version": "0.10.0"
+}

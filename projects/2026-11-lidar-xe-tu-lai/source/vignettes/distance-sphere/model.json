@@ -1,0 +1,14 @@
+{
+  "name": "distance-sphere",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "distanceSphere",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "radius": 2.2,
+    "intersect": 0.9,
+    "points": 1
+  },
+  "scene_flow_version": "0.10.0"
+}

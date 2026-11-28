@@ -1,0 +1,13 @@
+{
+  "name": "building",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "building",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "showTree": true,
+    "showLamp": false
+  },
+  "scene_flow_version": "0.10.0"
+}

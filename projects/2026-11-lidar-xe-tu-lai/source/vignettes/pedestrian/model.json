@@ -1,0 +1,12 @@
+{
+  "name": "pedestrian",
+  "theme": "toon3d",
+  "kind": "character",
+  "factory": "pedestrian",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "walkSpeed": 1.4
+  },
+  "scene_flow_version": "0.10.0"
+}
