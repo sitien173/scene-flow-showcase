@@ -1,0 +1,14 @@
+{
+  "name": "self-driving-car",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "selfDrivingCar",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "variant": "hero",
+    "speed": 2,
+    "showCameraCone": 0.6
+  },
+  "scene_flow_version": "0.10.0"
+}

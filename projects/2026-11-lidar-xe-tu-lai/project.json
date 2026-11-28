@@ -1,0 +1,16 @@
+{
+  "title": "LiDAR giúp xe tự lái nhìn thế giới như thế nào?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 232.7,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-lidar-xe-tu-lai-ec9e6424/2026-11-lidar-xe-tu-lai.mp4",
+    "sha256": "ec9e6424d7a0f16a77a8f7caa7d5a070729a244c6428aea2f2fb9c7df08185bf",
+    "bytes": 27642760
+  }
+}

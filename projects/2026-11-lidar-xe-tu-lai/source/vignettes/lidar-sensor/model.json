@@ -1,0 +1,18 @@
+{
+  "name": "lidar-sensor",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "lidarSensor",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "cutaway": 0.85,
+    "spin": 0.5,
+    "emit": 1,
+    "receive": 1,
+    "clock": 1,
+    "beamMode": "single",
+    "beamLength": 1.2
+  },
+  "scene_flow_version": "0.10.0"
+}
