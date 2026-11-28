@@ -1,0 +1,13 @@
+{
+  "name": "light-pulse",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "lightPulse",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "count": 3,
+    "level": 1
+  },
+  "scene_flow_version": "0.10.0"
+}

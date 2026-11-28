@@ -1,0 +1,12 @@
+{
+  "name": "transceiver",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "transceiver",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "direction": "transmit"
+  },
+  "scene_flow_version": "0.10.0"
+}
