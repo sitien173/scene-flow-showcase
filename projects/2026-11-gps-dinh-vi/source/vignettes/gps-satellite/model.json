@@ -1,0 +1,15 @@
+{
+  "name": "gps-satellite",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "gpsSatellite",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "cutaway": 0.85,
+    "clockPulse": 0.8,
+    "txGlow": 0.8,
+    "wingAngle": 0.2
+  },
+  "scene_flow_version": "0.10.0"
+}

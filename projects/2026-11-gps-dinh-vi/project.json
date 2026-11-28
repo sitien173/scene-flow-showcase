@@ -1,0 +1,16 @@
+{
+  "title": "GPS biết bạn đang đứng ở đâu bằng cách nào?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 224.6,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-gps-dinh-vi-1974ec31/2026-11-gps-dinh-vi.mp4",
+    "sha256": "1974ec31f2c7a87fa5ac8d670a61a4ffb6cdd6211fb60376babf1e7c67622b36",
+    "bytes": 25000205
+  }
+}

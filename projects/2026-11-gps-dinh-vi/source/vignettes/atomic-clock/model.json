@@ -1,0 +1,14 @@
+{
+  "name": "atomic-clock",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "atomicClock",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "variant": "atomic",
+    "pulse": 0.7,
+    "bias": 0
+  },
+  "scene_flow_version": "0.10.0"
+}
