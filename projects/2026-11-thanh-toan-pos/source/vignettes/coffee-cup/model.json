@@ -1,0 +1,10 @@
+{
+  "name": "coffee-cup",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "coffeeCup",
+  "glb": "",
+  "clips": [],
+  "opts": { "steam": 1 },
+  "scene_flow_version": "0.10.0"
+}

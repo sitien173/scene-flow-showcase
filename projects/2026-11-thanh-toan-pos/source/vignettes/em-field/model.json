@@ -1,0 +1,10 @@
+{
+  "name": "em-field",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "emField",
+  "glb": "",
+  "clips": [],
+  "opts": { "intensity": 1, "radiusScale": 1 },
+  "scene_flow_version": "0.10.0"
+}
