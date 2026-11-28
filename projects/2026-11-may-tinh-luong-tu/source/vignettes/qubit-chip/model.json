@@ -1,0 +1,12 @@
+{
+  "name": "qubit-chip",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "qubitChip",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "mode": "overview"
+  },
+  "scene_flow_version": "0.10.0"
+}
