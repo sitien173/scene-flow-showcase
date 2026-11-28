@@ -1,0 +1,16 @@
+{
+  "title": "Máy tính lượng tử khác gì máy tính thông thường?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 238.2,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-may-tinh-luong-tu-a7c80e9e/2026-11-may-tinh-luong-tu.mp4",
+    "sha256": "a7c80e9e42c734283dc9919346227408e9c13dd7db7b21ef5e3cee3bc972e906",
+    "bytes": 26310813
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "memory-cell",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "memoryCell",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "substrateColor": "#444B5E",
+    "insulatorColor": "#E6E6E1",
+    "gateColor": "#565D75",
+    "mode": "trapped_charge"
+  },
+  "scene_flow_version": "0.10.0"
+}

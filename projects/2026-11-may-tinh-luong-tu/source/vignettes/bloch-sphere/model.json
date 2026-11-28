@@ -1,0 +1,13 @@
+{
+  "name": "bloch-sphere",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "blochSphere",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "radius": 0.95,
+    "mode": "superposition"
+  },
+  "scene_flow_version": "0.10.0"
+}
