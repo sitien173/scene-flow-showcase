@@ -1,0 +1,17 @@
+{
+  "name": "battery-cell",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "batteryCell",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "charge": 0.65,
+    "acIn": 1,
+    "dcOut": 1,
+    "rectGlow": 0.5,
+    "regGlow": 0.5,
+    "chargerGlow": 0.5
+  },
+  "scene_flow_version": "0.10.0"
+}
