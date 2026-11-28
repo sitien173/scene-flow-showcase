@@ -1,0 +1,14 @@
+{
+  "name": "electron-marker",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "electronMarker",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "electronColor": "#00B4D8",
+    "mode": "marker",
+    "chargePulse": 0.35
+  },
+  "scene_flow_version": "0.10.0"
+}

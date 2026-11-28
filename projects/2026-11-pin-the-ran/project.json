@@ -1,0 +1,16 @@
+{
+  "title": "Pin thể rắn có thể thay đổi xe điện như thế nào?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 219.6,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-pin-the-ran-e040619c/2026-11-pin-the-ran.mp4",
+    "sha256": "e040619c68d8c86c3b241362596cb19f72c78c84644459b0b2d4d52790cdf21a",
+    "bytes": 35448297
+  }
+}

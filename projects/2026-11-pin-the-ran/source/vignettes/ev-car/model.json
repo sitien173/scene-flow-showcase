@@ -1,0 +1,16 @@
+{
+  "name": "ev-car",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "evCar",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "energyColor": "#E4572E",
+    "electronColor": "#00B4D8",
+    "mode": "drive",
+    "batteryGlow": 0.85,
+    "bayOpen": 1.0
+  },
+  "scene_flow_version": "0.10.0"
+}
