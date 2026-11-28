@@ -1,0 +1,27 @@
+{
+  "palette": {
+    "paper": "#D8D8C8",
+    "ground": "#D6D2C7",
+    "grass": "#9BD06B",
+    "wall": "#EFC7AD",
+    "shade": "#9F88A5",
+    "ink": "#18191E",
+    "outline": "#1C1C20",
+    "accent": "#DD3428",
+    "highlight": "#FCD53E",
+    "good": "#2D884E",
+    "card": "#E6E6E1",
+    "pill": "#FAFCFB"
+  },
+  "background": {
+    "sky": "#E0E8E2",
+    "sky-dusk": "#D7C4BC",
+    "sky-night": "#33426F",
+    "window": "#FBFCB6"
+  },
+  "caption": {
+    "lit": "#18191E",
+    "unlit": "#555555",
+    "key": "#18191E"
+  }
+}

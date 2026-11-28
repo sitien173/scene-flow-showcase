@@ -1,0 +1,15 @@
+{
+  "name": "refrigerant-loop",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "refrigerantLoop",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "width": 3.2,
+    "height": 2.0,
+    "baseY": 0.45,
+    "pipeRadius": 0.065
+  },
+  "scene_flow_version": "0.10.0"
+}

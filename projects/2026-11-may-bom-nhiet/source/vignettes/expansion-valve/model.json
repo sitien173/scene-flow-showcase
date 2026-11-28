@@ -1,0 +1,14 @@
+{
+  "name": "expansion-valve",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "expansionValve",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "cutaway": 1,
+    "bodyColor": "#D98245",
+    "flangeColor": "#5B5E70"
+  },
+  "scene_flow_version": "0.10.0"
+}
