@@ -1,0 +1,16 @@
+{
+  "title": "SSD lưu trữ dữ liệu ở đâu khi không có đĩa quay?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 216.1,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-ssd-luu-tru-dd5a61ee/2026-11-ssd-luu-tru.mp4",
+    "sha256": "dd5a61ee87b101cee37ce091f91feadf17b278375c8d4fcc59e2f7f3fec83e47",
+    "bytes": 21456650
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ssd-cutaway",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "ssdCutaway",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "chassisColor": "#353846",
+    "lidColor": "#E6E6E1",
+    "pcbColor": "#295C4B",
+    "mode": "cutaway"
+  },
+  "scene_flow_version": "0.10.0"
+}
