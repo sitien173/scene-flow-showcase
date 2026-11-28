@@ -1,0 +1,14 @@
+{
+  "name": "nand-chip",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "nandChip",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "pkgColor": "#262936",
+    "dieColor": "#3C4459",
+    "mode": "page_highlight"
+  },
+  "scene_flow_version": "0.10.0"
+}

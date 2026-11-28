@@ -1,0 +1,14 @@
+{
+  "name": "controller-chip",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "controllerChip",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "pkgColor": "#262936",
+    "dieColor": "#383E52",
+    "mode": "dispatch_write"
+  },
+  "scene_flow_version": "0.10.0"
+}
