@@ -1,0 +1,10 @@
+{
+  "name": "neutron",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "neutron",
+  "glb": "",
+  "clips": [],
+  "opts": {},
+  "scene_flow_version": "0.10.0"
+}
