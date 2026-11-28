@@ -1,0 +1,10 @@
+{
+  "name": "data-packet",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "dataPacket",
+  "glb": "",
+  "clips": [],
+  "opts": { "kind": "token", "pulse": 0 },
+  "scene_flow_version": "0.10.0"
+}

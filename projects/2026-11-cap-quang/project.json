@@ -1,0 +1,16 @@
+{
+  "title": "Internet chạy qua sợi cáp quang như thế nào?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 198.8,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-cap-quang-8378c01f/2026-11-cap-quang.mp4",
+    "sha256": "8378c01fe935ef1e3126e92c906c8102f6e20540c33342d602b99773648eff4c",
+    "bytes": 10649224
+  }
+}

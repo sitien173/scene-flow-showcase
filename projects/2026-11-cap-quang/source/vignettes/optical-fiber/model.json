@@ -1,0 +1,12 @@
+{
+  "name": "optical-fiber",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "opticalFiber",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "bent": false
+  },
+  "scene_flow_version": "0.10.0"
+}
