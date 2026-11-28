@@ -1,0 +1,15 @@
+{
+  "name": "electrolyte-medium",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "electrolyteMedium",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "fill": 1,
+    "flowDir": 1,
+    "showBlock": 1,
+    "stress": 0
+  },
+  "scene_flow_version": "0.10.0"
+}

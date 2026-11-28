@@ -1,0 +1,15 @@
+{
+  "name": "charge-particle",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "chargeParticle",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "recombine": 0,
+    "photon": 0,
+    "color": "red",
+    "seatShift": 0
+  },
+  "scene_flow_version": "0.10.0"
+}
