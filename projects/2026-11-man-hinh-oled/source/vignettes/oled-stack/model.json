@@ -1,0 +1,14 @@
+{
+  "name": "oled-stack",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "oledStack",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "exploded": 0,
+    "color": "red",
+    "valve": 0.5
+  },
+  "scene_flow_version": "0.10.0"
+}
