@@ -1,0 +1,12 @@
+{
+  "name": "eeg-electrode-cap",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "eegElectrodeCap",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "mode": "sensing"
+  },
+  "scene_flow_version": "0.10.0"
+}

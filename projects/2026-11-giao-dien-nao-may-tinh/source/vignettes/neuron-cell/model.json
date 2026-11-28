@@ -1,0 +1,12 @@
+{
+  "name": "neuron-cell",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "neuronCell",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "mode": "firing"
+  },
+  "scene_flow_version": "0.10.0"
+}

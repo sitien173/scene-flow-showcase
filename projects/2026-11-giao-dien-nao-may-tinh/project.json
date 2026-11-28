@@ -1,0 +1,16 @@
+{
+  "title": "Con người có thể điều khiển máy tính bằng suy nghĩ không?",
+  "author": {
+    "name": "Góc nhìn Mở"
+  },
+  "theme": "toon3d",
+  "format": "9x16",
+  "lang": "vi",
+  "durationSec": 217.7,
+  "publishedAt": "2026-11-28",
+  "video": {
+    "url": "https://github.com/sitien173/scene-flow-showcase/releases/download/video-2026-11-giao-dien-nao-may-tinh-bdcd0bc3/2026-11-giao-dien-nao-may-tinh.mp4",
+    "sha256": "bdcd0bc3586feb6a7e94e2b4e6c1aaf308932cf8254c558d15ee0c36076699e6",
+    "bytes": 36674485
+  }
+}

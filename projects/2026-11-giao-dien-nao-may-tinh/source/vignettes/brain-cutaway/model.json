@@ -1,0 +1,13 @@
+{
+  "name": "brain-cutaway",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "brainCutaway",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "mode": "implanted",
+    "arrayCount": 1
+  },
+  "scene_flow_version": "0.10.0"
+}
