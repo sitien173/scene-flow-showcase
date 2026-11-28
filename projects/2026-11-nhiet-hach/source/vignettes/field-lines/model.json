@@ -1,0 +1,17 @@
+{
+  "name": "field-lines",
+  "theme": "toon3d",
+  "kind": "object",
+  "factory": "fieldLines",
+  "glb": "",
+  "clips": [],
+  "opts": {
+    "color": "#FCD53E",
+    "baseRadius": 0.22,
+    "intensity": 1,
+    "oscillate": true,
+    "reach": 1,
+    "spread": 1
+  },
+  "scene_flow_version": "0.10.0"
+}
